@@ -1,4 +1,11 @@
 import datetime
+import json
+import sys
+import traceback
+from pathlib import Path
+
+ROOT = Path(__file__).resolve().parent
+EVENTS_PATH = ROOT / "docs" / "events.json"
 
 CATEGORIES = {"體育", "休閒", "大型盛事"}
 
@@ -47,3 +54,42 @@ def merge(lists, today):
 
 def find_new(events, seen):
     return [e for e in events if e["id"] not in seen]
+
+
+def previous_events(source):
+    """一個來源今次 fail，用返佢上次成功嘅資料。"""
+    try:
+        data = json.loads(EVENTS_PATH.read_text(encoding="utf-8"))
+        return [e for e in data["events"] if e["source"] == source]
+    except (OSError, ValueError, KeyError):
+        return []
+
+
+def main():
+    from scrapers import FETCHERS
+    today = datetime.date.today().isoformat()
+    results, ok = [], 0
+    for name, fetch in FETCHERS:
+        try:
+            events = fetch()
+            ok += 1
+            print(f"{name}: {len(events)} events")
+        except Exception:
+            print(f"{name}: FAILED, using previous data")
+            traceback.print_exc()
+            events = previous_events(name)
+        results.append(events)
+    if ok == 0:
+        sys.exit("all fetchers failed")
+
+    events = merge(results, today)
+    EVENTS_PATH.parent.mkdir(exist_ok=True)
+    EVENTS_PATH.write_text(
+        json.dumps({"updated": today, "events": events},
+                   ensure_ascii=False, indent=1),
+        encoding="utf-8")
+    print(f"total: {len(events)} events -> {EVENTS_PATH}")
+
+
+if __name__ == "__main__":
+    main()
