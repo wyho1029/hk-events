@@ -24,3 +24,4 @@ jobs:
           git add docs/events.json state/seen.json
           git diff --cached --quiet || git commit -m "chore: update events $(date -u +%F)"
           git push
+
