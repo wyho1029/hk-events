@@ -17,11 +17,11 @@ def test_categorize():
     assert scrape.categorize("香港國際七人欖球賽", "大型盛事") == "體育"
     assert scrape.categorize("夏日手作市集", "休閒") == "休閒"
     assert scrape.categorize("古埃及文明大展", "大型盛事") == "展覽"
-    assert scrape.categorize("經典粵語片修復放映", "休閒") == "電影"
+    assert scrape.categorize("經典粵語片修復放映", "休閒") == "電影活動"
     assert scrape.categorize("中樂團週年音樂會", "休閒") == "表演藝術"
     assert scrape.categorize("國際綜藝合家歡開幕", "休閒") == "親子"
-    # 優先次序：親子電影應該歸電影（電影組排先）
-    assert scrape.categorize("親子電影放映會", "休閒") == "電影"
+    # 優先次序：親子電影應該歸電影活動（電影組排先）
+    assert scrape.categorize("親子電影放映會", "休閒") == "電影活動"
 
 
 def test_merge_keeps_image_field():
@@ -103,3 +103,18 @@ def test_discord_payload_trailer_survives_long_titles():
     assert len(desc) <= 4096
     assert "仲有" in desc
     assert desc.endswith("上網站睇晒")
+
+
+def test_merge_keeps_cinema_category():
+    e = make(id="c", title="反斗奇兵5", category="電影")
+    e["source"] = "hkmovie6"
+    out = scrape.merge([[e]], today="2026-07-14")
+    assert out[0]["category"] == "電影"
+
+
+def test_merge_cinema_title_with_keyword_not_downgraded():
+    # 戲名含「電影」二字，但係 hkmovie6 來源，唔應該變「電影活動」
+    e = make(id="c2", title="這部電影很好看", category="電影")
+    e["source"] = "hkmovie6"
+    out = scrape.merge([[e]], today="2026-07-14")
+    assert out[0]["category"] == "電影"
