@@ -1,0 +1,91 @@
+<!DOCTYPE html>
+<html lang="zh-Hant">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>香港活動一覽</title>
+<style>
+  :root { --bg:#fff; --fg:#1a1a1a; --muted:#666; --card:#f5f5f5;
+          --accent:#00795c; --chip:#e5e5e5; }
+  @media (prefers-color-scheme: dark) {
+    :root { --bg:#111; --fg:#eee; --muted:#999; --card:#1d1d1d;
+            --chip:#333; --accent:#2bbf96; }
+  }
+  * { box-sizing: border-box; }
+  body { margin:0; background:var(--bg); color:var(--fg);
+         font-family:system-ui, "Microsoft JhengHei", sans-serif; }
+  header { position:sticky; top:0; background:var(--bg); padding:12px 16px;
+           border-bottom:1px solid var(--chip); }
+  h1 { font-size:20px; margin:0 0 8px; }
+  #updated { color:var(--muted); font-size:12px; }
+  .controls { display:flex; gap:8px; flex-wrap:wrap; margin-top:8px; }
+  .controls button { border:none; background:var(--chip); color:var(--fg);
+                     padding:6px 14px; border-radius:16px; cursor:pointer; }
+  .controls button.on { background:var(--accent); color:#fff; }
+  #q { flex:1; min-width:140px; padding:6px 12px; border-radius:16px;
+       border:1px solid var(--chip); background:var(--bg); color:var(--fg); }
+  main { max-width:720px; margin:0 auto; padding:16px; }
+  .ev { background:var(--card); border-radius:10px; padding:12px 14px;
+        margin-bottom:10px; }
+  .ev a { color:var(--fg); text-decoration:none; font-weight:600; }
+  .ev a:hover { color:var(--accent); }
+  .meta { color:var(--muted); font-size:13px; margin-top:4px; }
+  .tag { display:inline-block; font-size:12px; padding:1px 8px;
+         border-radius:10px; background:var(--accent); color:#fff;
+         margin-right:6px; }
+  #empty { color:var(--muted); text-align:center; padding:40px 0; }
+</style>
+</head>
+<body>
+<header>
+  <h1>香港活動一覽 <span id="updated"></span></h1>
+  <div class="controls" id="cats">
+    <button data-c="" class="on">全部</button>
+    <button data-c="體育">體育</button>
+    <button data-c="休閒">休閒</button>
+    <button data-c="大型盛事">大型盛事</button>
+    <input id="q" type="search" placeholder="搜尋活動／場地…">
+  </div>
+</header>
+<main><div id="list"></div><div id="empty" hidden>冇符合嘅活動</div></main>
+<script>
+let EVENTS = [], cat = "", q = "";
+
+function fmt(e) {
+  return e.start === e.end ? e.start : e.start + " 至 " + e.end;
+}
+
+function render() {
+  const kw = q.trim().toLowerCase();
+  const hits = EVENTS.filter(e =>
+    (!cat || e.category === cat) &&
+    (!kw || (e.title + e.venue).toLowerCase().includes(kw)));
+  document.getElementById("list").innerHTML = hits.map(e => `
+    <div class="ev">
+      <a href="${e.url}" target="_blank" rel="noopener">${e.title}</a>
+      <div class="meta"><span class="tag">${e.category}</span>
+        ${fmt(e)}${e.venue ? "｜" + e.venue : ""}｜來源：${e.source}</div>
+    </div>`).join("");
+  document.getElementById("empty").hidden = hits.length > 0;
+}
+
+document.getElementById("cats").addEventListener("click", ev => {
+  if (ev.target.tagName !== "BUTTON") return;
+  document.querySelectorAll("#cats button")
+    .forEach(b => b.classList.toggle("on", b === ev.target));
+  cat = ev.target.dataset.c;
+  render();
+});
+document.getElementById("q").addEventListener("input", ev => {
+  q = ev.target.value;
+  render();
+});
+
+fetch("events.json").then(r => r.json()).then(d => {
+  EVENTS = d.events;
+  document.getElementById("updated").textContent = "（更新於 " + d.updated + "）";
+  render();
+});
+</script>
+</body>
+</html>
