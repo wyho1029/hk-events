@@ -52,6 +52,8 @@ def merge(lists, today):
                     or e["end"] < today:
                 continue
             e = dict(e, category=categorize(e["title"], e["category"]))
+            if not e["url"].startswith("http"):
+                e["url"] = "https://" + e["url"]
             out.setdefault(e["id"], e)
     return sorted(out.values(), key=lambda e: (e["start"], e["title"]))
 
@@ -65,7 +67,8 @@ def build_discord_payload(new_events):
     total = 0
     shown = 0
     for e in new_events[:20]:
-        line = (f'{e["start"]}｜[{e["title"]}]({e["url"]})'
+        title = e["title"].replace("[", "\\[").replace("]", "\\]")
+        line = (f'{e["start"]}｜[{title}]({e["url"]})'
                 f'｜{e["category"]}{"｜" + e["venue"] if e["venue"] else ""}')
         added = len(line) if not lines else len(line) + 1
         if total + added > 4000:

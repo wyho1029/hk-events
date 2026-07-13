@@ -65,13 +65,16 @@ function render() {
   const kw = q.trim().toLowerCase();
   const hits = EVENTS.filter(e =>
     (!cat || e.category === cat) &&
-    (!kw || (e.title + e.venue).toLowerCase().includes(kw)));
-  document.getElementById("list").innerHTML = hits.map(e => `
+    (!kw || (e.title + "\n" + e.venue).toLowerCase().includes(kw)));
+  document.getElementById("list").innerHTML = hits.map(e => {
+    const u = /^https?:\/\//.test(e.url) ? e.url : "#";
+    return `
     <div class="ev">
-      <a href="${esc(e.url)}" target="_blank" rel="noopener">${esc(e.title)}</a>
+      <a href="${esc(u)}" target="_blank" rel="noopener">${esc(e.title)}</a>
       <div class="meta"><span class="tag">${esc(e.category)}</span>
         ${esc(fmt(e))}${e.venue ? "｜" + esc(e.venue) : ""}｜來源：${esc(e.source)}</div>
-    </div>`).join("");
+    </div>`;
+  }).join("");
   document.getElementById("empty").hidden = hits.length > 0;
 }
 
@@ -91,7 +94,7 @@ fetch("events.json").then(r => r.json()).then(d => {
   EVENTS = d.events;
   document.getElementById("updated").textContent = "（更新於 " + d.updated + "）";
   render();
-});
+}).catch(() => { const el = document.getElementById("empty"); el.textContent = "載入活動資料失敗，請稍後重新整理"; el.hidden = false; });
 </script>
 </body>
 </html>

@@ -43,6 +43,13 @@ def test_merge_upgrades_sport_category():
     assert out[0]["category"] == "體育"
 
 
+def test_merge_normalizes_schemeless_urls():
+    e = make(id="u")
+    e["url"] = "www.example.com/x"
+    out = scrape.merge([[e]], today="2026-07-13")
+    assert out[0]["url"] == "https://www.example.com/x"
+
+
 def test_find_new():
     events = [make(id="1"), make(id="2")]
     assert [e["id"] for e in scrape.find_new(events, {"1": "2099-01-02"})] \
