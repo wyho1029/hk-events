@@ -47,3 +47,12 @@ def test_find_new():
     events = [make(id="1"), make(id="2")]
     assert [e["id"] for e in scrape.find_new(events, {"1": "2099-01-02"})] \
         == ["2"]
+
+
+def test_discord_payload_caps_at_20():
+    events = [make(id=str(i), title=f"活動{i}") for i in range(25)]
+    p = scrape.build_discord_payload(events)
+    desc = p["embeds"][0]["description"]
+    assert "25" in p["embeds"][0]["title"]
+    assert "仲有 5 個" in desc
+    assert len(desc) <= 4096

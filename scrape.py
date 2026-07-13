@@ -1,11 +1,15 @@
 import datetime
 import json
+import os
 import sys
 import traceback
 from pathlib import Path
 
+import requests
+
 ROOT = Path(__file__).resolve().parent
 EVENTS_PATH = ROOT / "docs" / "events.json"
+SEEN_PATH = ROOT / "state" / "seen.json"
 
 CATEGORIES = {"體育", "休閒", "大型盛事"}
 
@@ -56,6 +60,25 @@ def find_new(events, seen):
     return [e for e in events if e["id"] not in seen]
 
 
+def build_discord_payload(new_events):
+    lines = [f'{e["start"]}｜[{e["title"]}]({e["url"]})'
+             f'｜{e["category"]}{"｜" + e["venue"] if e["venue"] else ""}'
+             for e in new_events[:20]]
+    if len(new_events) > 20:
+        lines.append(f"……仲有 {len(new_events) - 20} 個新活動，上網站睇晒")
+    return {"embeds": [{
+        "title": f"🆕 香港新活動（{len(new_events)} 個）",
+        "description": "\n".join(lines)[:4096],
+        "color": 0x00B894,
+    }]}
+
+
+def push_discord(webhook, new_events):
+    r = requests.post(webhook, json=build_discord_payload(new_events),
+                      timeout=30)
+    r.raise_for_status()
+
+
 def previous_events(source):
     """一個來源今次 fail，用返佢上次成功嘅資料。"""
     try:
@@ -89,6 +112,28 @@ def main():
                    ensure_ascii=False, indent=1),
         encoding="utf-8")
     print(f"total: {len(events)} events -> {EVENTS_PATH}")
+
+    first_run = not SEEN_PATH.exists()
+    seen = {} if first_run \
+        else json.loads(SEEN_PATH.read_text(encoding="utf-8"))
+    new = find_new(events, seen)
+    webhook = os.environ.get("DISCORD_WEBHOOK_URL", "")
+    if new and webhook and not first_run:
+        try:
+            push_discord(webhook, new)
+            print(f"discord: pushed {len(new)} new events")
+        except Exception:
+            print("discord: push failed")
+            traceback.print_exc()
+
+    for e in events:
+        seen[e["id"]] = e["end"]
+    cutoff = (datetime.date.today()
+              - datetime.timedelta(days=30)).isoformat()
+    seen = {k: v for k, v in seen.items() if v >= cutoff}
+    SEEN_PATH.parent.mkdir(exist_ok=True)
+    SEEN_PATH.write_text(json.dumps(seen, ensure_ascii=False),
+                         encoding="utf-8")
 
 
 if __name__ == "__main__":
