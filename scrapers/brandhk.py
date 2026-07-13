@@ -11,6 +11,9 @@ DATE_RE = re.compile(r"(\d{4})年(\d{1,2})月(\d{1,2})日")
 
 def fetch():
     soup = BeautifulSoup(http_get(PAGE_URL).text, "html.parser")
+    # 活動圖片喺 event-title block 外面，用 data-title 對返標題
+    images = {img.get("data-title", "").strip(): img.get("data-img", "")
+              for img in soup.select("a.event-lazy-img[data-img]")}
     events = []
     for block in soup.select("div.event-title"):
         a = block.select_one("h2 a")
@@ -32,5 +35,6 @@ def fetch():
             "venue": m.group(1) if m else "",
             "url": a.get("href") or PAGE_URL,
             "source": SOURCE,
+            "image": images.get(title, ""),
         })
     return events

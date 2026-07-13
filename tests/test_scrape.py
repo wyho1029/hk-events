@@ -16,6 +16,37 @@ def test_is_entertainment():
 def test_categorize():
     assert scrape.categorize("香港國際七人欖球賽", "大型盛事") == "體育"
     assert scrape.categorize("夏日手作市集", "休閒") == "休閒"
+    assert scrape.categorize("古埃及文明大展", "大型盛事") == "展覽"
+    assert scrape.categorize("經典粵語片修復放映", "休閒") == "電影"
+    assert scrape.categorize("中樂團週年音樂會", "休閒") == "表演藝術"
+    assert scrape.categorize("國際綜藝合家歡開幕", "休閒") == "親子"
+    # 優先次序：親子電影應該歸電影（電影組排先）
+    assert scrape.categorize("親子電影放映會", "休閒") == "電影"
+
+
+def test_merge_keeps_image_field():
+    e = make(id="img")
+    e["image"] = "https://img.example.com/a.jpg"
+    out = scrape.merge([[e]], today="2026-07-13")
+    assert out[0]["image"] == "https://img.example.com/a.jpg"
+    out2 = scrape.merge([[make(id="noimg")]], today="2026-07-13")
+    assert out2[0]["image"] == ""
+
+
+def test_is_featured():
+    assert scrape.is_featured(make(category="大型盛事"))
+    assert scrape.is_featured(make(title="世界劍擊錦標賽2026", category="體育"))
+    assert scrape.is_featured(make(title="香港國際七人欖球賽", category="體育"))
+    assert not scrape.is_featured(make(title="跆拳道班", category="體育"))
+    assert not scrape.is_featured(make(category="休閒"))
+
+
+def test_merge_sets_featured_flag():
+    big = make(id="b", title="世界女排聯賽香港站", category="體育")
+    small = make(id="s", title="太極班", category="休閒")
+    out = {e["id"]: e for e in scrape.merge([[big, small]], today="2026-07-13")}
+    assert out["b"]["featured"] is True
+    assert out["s"]["featured"] is False
 
 
 def test_valid():

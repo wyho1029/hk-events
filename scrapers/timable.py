@@ -47,6 +47,10 @@ def fetch():
                          or s.get("address") or "")
         if not dates:
             continue
+        thumb = ev.get("thumbnail") or {}
+        sizes = thumb.get("sizes") or {}
+        image = ((sizes.get("small") or {}).get("url")
+                 or thumb.get("url") or "")
         eid = make_id(SOURCE, ev["id"])
         events[eid] = {
             "id": eid,
@@ -58,5 +62,6 @@ def fetch():
             "url": "https://timable.com/zh/event/"
                    + urllib.parse.quote(ev["permalink"]),
             "source": SOURCE,
+            "image": image,
         }
     return list(events.values())

@@ -12,8 +12,8 @@
   * { box-sizing: border-box; }
   body { margin:0; background:var(--bg); color:var(--fg);
          font-family:system-ui, "Microsoft JhengHei", sans-serif; }
-  header { position:sticky; top:0; background:var(--bg); padding:12px 16px;
-           border-bottom:1px solid var(--chip); }
+  header { position:sticky; top:0; z-index:5; background:var(--bg);
+           padding:12px 16px; border-bottom:1px solid var(--chip); }
   h1 { font-size:20px; margin:0 0 8px; padding-right:44px; }
   #theme { position:absolute; top:10px; right:16px; border:none;
            background:var(--chip); color:var(--fg); width:36px; height:36px;
@@ -21,13 +21,43 @@
   #updated { color:var(--muted); font-size:12px; }
   .controls { display:flex; gap:8px; flex-wrap:wrap; margin-top:8px; }
   .controls button { border:none; background:var(--chip); color:var(--fg);
-                     padding:6px 14px; border-radius:16px; cursor:pointer; }
+                     padding:6px 12px; border-radius:16px; cursor:pointer;
+                     font-size:13px; }
   .controls button.on { background:var(--accent); color:#fff; }
   #q { flex:1; min-width:140px; padding:6px 12px; border-radius:16px;
        border:1px solid var(--chip); background:var(--bg); color:var(--fg); }
   main { max-width:720px; margin:0 auto; padding:16px; }
+
+  /* 必睇盛事 hero rail */
+  #feat h2 { font-size:16px; margin:0 0 10px; }
+  #rail { display:flex; gap:12px; overflow-x:auto; padding-bottom:12px;
+          scroll-snap-type:x mandatory; -webkit-overflow-scrolling:touch; }
+  #rail::-webkit-scrollbar { height:6px; }
+  #rail::-webkit-scrollbar-thumb { background:var(--chip); border-radius:3px; }
+  .hc { position:relative; flex:0 0 264px; height:176px; border-radius:14px;
+        overflow:hidden; scroll-snap-align:start; color:#fff;
+        text-decoration:none; display:block; }
+  .hc img { position:absolute; inset:0; width:100%; height:100%;
+            object-fit:cover; }
+  .hemoji { position:absolute; top:12px; right:14px; font-size:46px;
+            filter:drop-shadow(0 2px 4px rgba(0,0,0,.35)); }
+  .hgrad { position:absolute; inset:0;
+           background:linear-gradient(180deg, rgba(0,0,0,.05) 35%, rgba(0,0,0,.78)); }
+  .hinfo { position:absolute; left:0; right:0; bottom:0; padding:12px 14px; }
+  .hbadge { font-size:11px; background:rgba(255,255,255,.28);
+            padding:2px 8px; border-radius:8px; }
+  .ht { font-weight:700; font-size:16px; line-height:1.35; margin-top:6px;
+        display:-webkit-box; -webkit-line-clamp:2;
+        -webkit-box-orient:vertical; overflow:hidden; }
+  .hd { font-size:12px; opacity:.85; margin-top:4px; white-space:nowrap;
+        overflow:hidden; text-overflow:ellipsis; }
+
+  /* 一般列表 */
   .ev { background:var(--card); border-radius:10px; padding:12px 14px;
-        margin-bottom:10px; }
+        margin-bottom:10px; display:flex; gap:12px; align-items:center; }
+  .ev .tx { flex:1; min-width:0; }
+  .thumb { width:60px; height:60px; border-radius:8px; object-fit:cover;
+           flex:none; }
   .ev a { color:var(--fg); text-decoration:none; font-weight:600; }
   .ev a:hover { color:var(--accent); }
   .meta { color:var(--muted); font-size:13px; margin-top:4px; }
@@ -43,15 +73,36 @@
   <h1>香港活動一覽 <span id="updated"></span></h1>
   <div class="controls" id="cats">
     <button data-c="" class="on">全部</button>
-    <button data-c="體育">體育</button>
-    <button data-c="休閒">休閒</button>
-    <button data-c="大型盛事">大型盛事</button>
+    <button data-c="大型盛事">🎪 大型盛事</button>
+    <button data-c="體育">⚽ 體育</button>
+    <button data-c="表演藝術">🎭 表演藝術</button>
+    <button data-c="展覽">🖼️ 展覽</button>
+    <button data-c="電影">🎬 電影</button>
+    <button data-c="親子">🧸 親子</button>
+    <button data-c="休閒">🌿 休閒</button>
     <input id="q" type="search" placeholder="搜尋活動／場地…">
   </div>
 </header>
-<main><div id="list"></div><div id="empty" hidden>冇符合嘅活動</div></main>
+<main>
+  <section id="feat" hidden>
+    <h2>🔥 必睇盛事</h2>
+    <div id="rail"></div>
+  </section>
+  <div id="list"></div>
+  <div id="empty" hidden>冇符合嘅活動</div>
+</main>
 <script>
 let EVENTS = [], cat = "", q = "";
+
+const META = {
+  "體育":     { e:"⚽",  g:"linear-gradient(135deg,#0b6e4f,#2bbf96)" },
+  "大型盛事": { e:"🎪",  g:"linear-gradient(135deg,#7048e8,#f783ac)" },
+  "表演藝術": { e:"🎭",  g:"linear-gradient(135deg,#a07800,#e6c229)" },
+  "展覽":     { e:"🖼️", g:"linear-gradient(135deg,#1f6feb,#6cb6ff)" },
+  "電影":     { e:"🎬",  g:"linear-gradient(135deg,#343a40,#868e96)" },
+  "親子":     { e:"🧸",  g:"linear-gradient(135deg,#e8590c,#ffa94d)" },
+  "休閒":     { e:"🌿",  g:"linear-gradient(135deg,#2f9e44,#8ce99a)" }
+};
 
 const themeBtn = document.getElementById("theme");
 function setTheme(t) {
@@ -74,20 +125,51 @@ function fmt(e) {
   return e.start === e.end ? e.start : e.start + " 至 " + e.end;
 }
 
+function safeUrl(e) {
+  return /^https?:\/\//.test(e.url) ? e.url : "#";
+}
+
+function renderHero() {
+  // 有圖嘅精選盛事排最前（最搶眼），其餘按日期序
+  const feats = EVENTS.filter(e => e.featured)
+    .sort((a, b) => (b.image ? 1 : 0) - (a.image ? 1 : 0))
+    .slice(0, 10);
+  document.getElementById("feat").hidden = feats.length === 0;
+  document.getElementById("rail").innerHTML = feats.map(e => {
+    const m = META[e.category] || META["休閒"];
+    return `
+    <a class="hc" href="${esc(safeUrl(e))}" target="_blank" rel="noopener"
+       style="background:${m.g}">
+      ${e.image ? `<img src="${esc(e.image)}" alt="" loading="lazy"
+                        onerror="this.remove()">`
+                : `<span class="hemoji">${m.e}</span>`}
+      <div class="hgrad"></div>
+      <div class="hinfo">
+        <span class="hbadge">${m.e} ${esc(e.category)}</span>
+        <div class="ht">${esc(e.title)}</div>
+        <div class="hd">${esc(fmt(e))}${e.venue ? "｜" + esc(e.venue) : ""}</div>
+      </div>
+    </a>`;
+  }).join("");
+}
+
 function render() {
   const kw = q.trim().toLowerCase();
+  const filtering = !!(cat || kw);
+  document.getElementById("feat").style.display = filtering ? "none" : "";
   const hits = EVENTS.filter(e =>
     (!cat || e.category === cat) &&
     (!kw || (e.title + "\n" + e.venue).toLowerCase().includes(kw)));
-  document.getElementById("list").innerHTML = hits.map(e => {
-    const u = /^https?:\/\//.test(e.url) ? e.url : "#";
-    return `
+  document.getElementById("list").innerHTML = hits.map(e => `
     <div class="ev">
-      <a href="${esc(u)}" target="_blank" rel="noopener">${esc(e.title)}</a>
-      <div class="meta"><span class="tag">${esc(e.category)}</span>
-        ${esc(fmt(e))}${e.venue ? "｜" + esc(e.venue) : ""}｜來源：${esc(e.source)}</div>
-    </div>`;
-  }).join("");
+      <div class="tx">
+        <a href="${esc(safeUrl(e))}" target="_blank" rel="noopener">${esc(e.title)}</a>
+        <div class="meta"><span class="tag">${(META[e.category] || META["休閒"]).e} ${esc(e.category)}</span>
+          ${esc(fmt(e))}${e.venue ? "｜" + esc(e.venue) : ""}｜來源：${esc(e.source)}</div>
+      </div>
+      ${e.image ? `<img class="thumb" src="${esc(e.image)}" alt=""
+                        loading="lazy" onerror="this.remove()">` : ""}
+    </div>`).join("");
   document.getElementById("empty").hidden = hits.length > 0;
 }
 
@@ -106,6 +188,7 @@ document.getElementById("q").addEventListener("input", ev => {
 fetch("events.json").then(r => r.json()).then(d => {
   EVENTS = d.events;
   document.getElementById("updated").textContent = "（更新於 " + d.updated + "）";
+  renderHero();
   render();
 }).catch(() => { const el = document.getElementById("empty"); el.textContent = "載入活動資料失敗，請稍後重新整理"; el.hidden = false; });
 </script>
