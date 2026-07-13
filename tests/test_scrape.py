@@ -56,3 +56,12 @@ def test_discord_payload_caps_at_20():
     assert "25" in p["embeds"][0]["title"]
     assert "仲有 5 個" in desc
     assert len(desc) <= 4096
+
+
+def test_discord_payload_trailer_survives_long_titles():
+    events = [make(id=str(i), title="長" * 300) for i in range(25)]
+    p = scrape.build_discord_payload(events)
+    desc = p["embeds"][0]["description"]
+    assert len(desc) <= 4096
+    assert "仲有" in desc
+    assert desc.endswith("上網站睇晒")

@@ -61,14 +61,24 @@ def find_new(events, seen):
 
 
 def build_discord_payload(new_events):
-    lines = [f'{e["start"]}｜[{e["title"]}]({e["url"]})'
-             f'｜{e["category"]}{"｜" + e["venue"] if e["venue"] else ""}'
-             for e in new_events[:20]]
-    if len(new_events) > 20:
-        lines.append(f"……仲有 {len(new_events) - 20} 個新活動，上網站睇晒")
+    lines = []
+    total = 0
+    shown = 0
+    for e in new_events[:20]:
+        line = (f'{e["start"]}｜[{e["title"]}]({e["url"]})'
+                f'｜{e["category"]}{"｜" + e["venue"] if e["venue"] else ""}')
+        added = len(line) if not lines else len(line) + 1
+        if total + added > 4000:
+            break
+        lines.append(line)
+        total += added
+        shown += 1
+    remaining = len(new_events) - shown
+    if remaining > 0:
+        lines.append(f"……仲有 {remaining} 個新活動，上網站睇晒")
     return {"embeds": [{
         "title": f"🆕 香港新活動（{len(new_events)} 個）",
-        "description": "\n".join(lines)[:4096],
+        "description": "\n".join(lines),
         "color": 0x00B894,
     }]}
 
@@ -118,16 +128,19 @@ def main():
         else json.loads(SEEN_PATH.read_text(encoding="utf-8"))
     new = find_new(events, seen)
     webhook = os.environ.get("DISCORD_WEBHOOK_URL", "")
+    retry_ids = set()
     if new and webhook and not first_run:
         try:
             push_discord(webhook, new)
             print(f"discord: pushed {len(new)} new events")
         except Exception:
-            print("discord: push failed")
+            retry_ids = {e["id"] for e in new}
+            print("discord: push failed, will retry next run")
             traceback.print_exc()
 
     for e in events:
-        seen[e["id"]] = e["end"]
+        if e["id"] not in retry_ids:
+            seen[e["id"]] = e["end"]
     cutoff = (datetime.date.today()
               - datetime.timedelta(days=30)).isoformat()
     seen = {k: v for k, v in seen.items() if v >= cutoff}
