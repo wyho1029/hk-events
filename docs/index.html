@@ -51,6 +51,12 @@
 <script>
 let EVENTS = [], cat = "", q = "";
 
+function esc(s) {
+  return String(s).replace(/[&<>"']/g, c => ({
+    "&":"&amp;","<":"&lt;",">":"&gt;",'"':"&quot;","'":"&#39;"
+  }[c]));
+}
+
 function fmt(e) {
   return e.start === e.end ? e.start : e.start + " 至 " + e.end;
 }
@@ -62,9 +68,9 @@ function render() {
     (!kw || (e.title + e.venue).toLowerCase().includes(kw)));
   document.getElementById("list").innerHTML = hits.map(e => `
     <div class="ev">
-      <a href="${e.url}" target="_blank" rel="noopener">${e.title}</a>
-      <div class="meta"><span class="tag">${e.category}</span>
-        ${fmt(e)}${e.venue ? "｜" + e.venue : ""}｜來源：${e.source}</div>
+      <a href="${esc(e.url)}" target="_blank" rel="noopener">${esc(e.title)}</a>
+      <div class="meta"><span class="tag">${esc(e.category)}</span>
+        ${esc(fmt(e))}${e.venue ? "｜" + esc(e.venue) : ""}｜來源：${esc(e.source)}</div>
     </div>`).join("");
   document.getElementById("empty").hidden = hits.length > 0;
 }
