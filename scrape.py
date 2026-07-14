@@ -64,7 +64,8 @@ def merge(lists, today):
             if not valid(e) or is_entertainment(e["title"]) \
                     or e["end"] < today:
                 continue
-            cat = e["category"] if e.get("source") == "hkmovie6" \
+            # 院線電影（爬蟲已標 category=電影）保留原分類，唔行 categorize
+            cat = e["category"] if e["category"] == "電影" \
                 else categorize(e["title"], e["category"])
             e = dict(e, title=" ".join(e["title"].split()),
                      category=cat,
@@ -73,7 +74,31 @@ def merge(lists, today):
                 e["url"] = "https://" + e["url"]
             e["featured"] = is_featured(e)
             out.setdefault(e["id"], e)
-    return sorted(out.values(), key=lambda e: (e["start"], e["title"]))
+    merged = dedupe_cinema(list(out.values()))
+    return sorted(merged, key=lambda e: (e["start"], e["title"]))
+
+
+def _norm_title(title):
+    return "".join(title.split()).lower()
+
+
+def dedupe_cinema(events):
+    """院線電影（category=電影）跨來源同名去重，hkmovie6 優先。"""
+    out = []
+    seen = {}  # 正規化標題 -> out 入面嗰個 event
+    for e in events:
+        if e["category"] != "電影":
+            out.append(e)
+            continue
+        key = _norm_title(e["title"])
+        cur = seen.get(key)
+        if cur is None:
+            seen[key] = e
+            out.append(e)
+        elif e["source"] == "hkmovie6" and cur["source"] != "hkmovie6":
+            out[out.index(cur)] = e
+            seen[key] = e
+    return out
 
 
 # 世界級／大型體育賽事嘅字眼，用嚟將體育盛事升做「精選」
