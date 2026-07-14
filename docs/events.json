@@ -28,7 +28,7 @@
   {
    "id": "8064257d2f3f",
    "title": "「九龍城寨光影之旅」電影場景展",
-   "category": "電影",
+   "category": "電影活動",
    "start": "2025-05-24",
    "end": "2028-05-24",
    "venue": "",
@@ -208,7 +208,7 @@
   {
    "id": "95aec92205a3",
    "title": "香港流行文化節2026：幸會25歲──香港電影資料館珍藏展 （香港電影資料館二十五周年誌慶節目）",
-   "category": "電影",
+   "category": "電影活動",
    "start": "2026-06-03",
    "end": "2027-03-29",
    "venue": "香港文化博物館 (專題展覽館一及二)",
@@ -292,7 +292,7 @@
   {
    "id": "0d129dd41a7a",
    "title": "2026-27年度「十八有藝──東區社區演藝計劃」《鼓滿樂東區2.0》鼓藝培訓計劃──鼓樂遊蹤攝影展",
-   "category": "電影",
+   "category": "電影活動",
    "start": "2026-06-30",
    "end": "2026-09-13",
    "venue": "東區區內場地",
@@ -436,7 +436,7 @@
   {
    "id": "18824a0ff371",
    "title": "天文電影",
-   "category": "電影",
+   "category": "電影活動",
    "start": "2026-07-05",
    "end": "2026-08-02",
    "venue": "香港太空館",
@@ -448,7 +448,7 @@
   {
    "id": "cf4fa172a0fe",
    "title": "天文電影",
-   "category": "電影",
+   "category": "電影活動",
    "start": "2026-07-05",
    "end": "2026-09-06",
    "venue": "香港太空館",
@@ -662,6 +662,78 @@
    "featured": false
   },
   {
+   "id": "00a27d87e999",
+   "title": "UFO離奇命案",
+   "category": "電影",
+   "start": "2026-07-14",
+   "end": "2026-08-13",
+   "venue": "",
+   "url": "https://hkmovie6.com/movie/a4a90c42-5984-41d0-8d6d-acbba2d56867/UFO%E9%9B%A2%E5%A5%87%E5%91%BD%E6%A1%88",
+   "source": "hkmovie6",
+   "image": "https://storage.movie6.com/image-transform/f=auto,q=75,w=500/https://storage.movie6.com/movie/4a495_UFOUM_27x38posternewdate_1782279304.jpg",
+   "featured": false
+  },
+  {
+   "id": "0976e46740cd",
+   "title": "一個部門的誕生",
+   "category": "電影",
+   "start": "2026-07-14",
+   "end": "2026-08-13",
+   "venue": "",
+   "url": "https://hkmovie6.com/movie/905b9485-150a-4630-8226-1fdc4ebf80e4/%E4%B8%80%E5%80%8B%E9%83%A8%E9%96%80%E7%9A%84%E8%AA%95%E7%94%9F",
+   "source": "hkmovie6",
+   "image": "https://storage.movie6.com/image-transform/f=auto,q=75,w=500/https://storage.movie6.com/movie/5e3b8________________6_18______1778751717.jpg",
+   "featured": false
+  },
+  {
+   "id": "7393bfa377e8",
+   "title": "反斗奇兵5",
+   "category": "電影",
+   "start": "2026-07-14",
+   "end": "2026-08-13",
+   "venue": "",
+   "url": "https://hkmovie6.com/movie/08e04995-4cfd-4dfd-aff2-56f95c589829/%E5%8F%8D%E6%96%97%E5%A5%87%E5%85%B55",
+   "source": "hkmovie6",
+   "image": "https://storage.movie6.com/image-transform/f=auto,q=75,w=500/https://storage.movie6.com/movie/37b8d_TS5_PAYOFF_POSTER_HONGKONG_1771817005.jpg",
+   "featured": false
+  },
+  {
+   "id": "5c9980d5110a",
+   "title": "名偵探柯南_高速公路的墮天使",
+   "category": "電影",
+   "start": "2026-07-14",
+   "end": "2026-08-13",
+   "venue": "",
+   "url": "https://hkmovie6.com/movie/89104a6c-4cf3-4c52-87fc-03cfd8d41037/%E5%90%8D%E5%81%B5%E6%8E%A2%E6%9F%AF%E5%8D%97_%E9%AB%98%E9%80%9F%E5%85%AC%E8%B7%AF%E7%9A%84%E5%A2%AE%E5%A4%A9%E4%BD%BF",
+   "source": "hkmovie6",
+   "image": "https://storage.movie6.com/image-transform/f=auto,q=75,w=500/https://storage.movie6.com/movie/detectiveconanfallenangelofthehighway_1781716124.jpg",
+   "featured": false
+  },
+  {
+   "id": "87297b9f3ed7",
+   "title": "奧德賽",
+   "category": "電影",
+   "start": "2026-07-14",
+   "end": "2026-08-13",
+   "venue": "",
+   "url": "https://hkmovie6.com/movie/23b91c3e-60ad-4820-9a92-be19e7cf825d/%E5%A5%A7%E5%BE%B7%E8%B3%BD",
+   "source": "hkmovie6",
+   "image": "https://storage.movie6.com/image-transform/f=auto,q=75,w=500/https://storage.movie6.com/movie/1d448_odyssey_HorsePoster_1782287496.jpg",
+   "featured": false
+  },
+  {
+   "id": "bc5c5a58f66a",
+   "title": "愛你致死不渝",
+   "category": "電影",
+   "start": "2026-07-14",
+   "end": "2026-08-13",
+   "venue": "",
+   "url": "https://hkmovie6.com/movie/714f3d87-1771-4eb4-9828-8c81d9d82f06/%E6%84%9B%E4%BD%A0%E8%87%B4%E6%AD%BB%E4%B8%8D%E6%B8%9D",
+   "source": "hkmovie6",
+   "image": "https://storage.movie6.com/image-transform/f=auto,q=75,w=500/https://storage.movie6.com/movie/29ef3_MainPoster0612_TicketingPoster_1781255389.jpg",
+   "featured": false
+  },
+  {
    "id": "1d0a2afe4c46",
    "title": "書畫物「乳」—師生作品聯展",
    "category": "休閒",
@@ -683,6 +755,78 @@
    "url": "https://www.lcsd.gov.hk/clpss/tc/search/culture/DetailForm.do?id=183337",
    "source": "康文署",
    "image": "",
+   "featured": false
+  },
+  {
+   "id": "9d4113055979",
+   "title": "給阿嬤的情書",
+   "category": "電影",
+   "start": "2026-07-14",
+   "end": "2026-08-13",
+   "venue": "",
+   "url": "https://hkmovie6.com/movie/1e07a017-6825-46f5-aabb-fa5d56394f15/%E7%B5%A6%E9%98%BF%E5%AC%A4%E7%9A%84%E6%83%85%E6%9B%B8",
+   "source": "hkmovie6",
+   "image": "https://storage.movie6.com/image-transform/f=auto,q=75,w=500/https://storage.movie6.com/movie/42ad5_DearYou_V5_1781494913.jpg",
+   "featured": false
+  },
+  {
+   "id": "f3c8c8ab5a09",
+   "title": "蜘蛛俠：英雄重生",
+   "category": "電影",
+   "start": "2026-07-14",
+   "end": "2026-08-13",
+   "venue": "",
+   "url": "https://hkmovie6.com/movie/e2b733be-e643-4b49-95ac-6e844d7310c0/%E8%9C%98%E8%9B%9B%E4%BF%A0%EF%BC%9A%E8%8B%B1%E9%9B%84%E9%87%8D%E7%94%9F",
+   "source": "hkmovie6",
+   "image": "https://storage.movie6.com/image-transform/f=auto,q=75,w=500/https://storage.movie6.com/movie/35d77_SMBND_HKG_1ST_4SHT_2026_1783664942.jpg",
+   "featured": false
+  },
+  {
+   "id": "51d4343586a1",
+   "title": "迪士尼真人版《魔海奇緣》",
+   "category": "電影",
+   "start": "2026-07-14",
+   "end": "2026-08-13",
+   "venue": "",
+   "url": "https://hkmovie6.com/movie/c455a6f2-dc89-4c8c-8286-a8e56b081da4/%E8%BF%AA%E5%A3%AB%E5%B0%BC%E7%9C%9F%E4%BA%BA%E7%89%88%E3%80%8A%E9%AD%94%E6%B5%B7%E5%A5%87%E7%B7%A3%E3%80%8B",
+   "source": "hkmovie6",
+   "image": "https://storage.movie6.com/image-transform/f=auto,q=75,w=500/https://storage.movie6.com/movie/500b0_Moana_HKPoster_FINAL_1781236343.jpg",
+   "featured": false
+  },
+  {
+   "id": "1a2c2753883b",
+   "title": "迷你兵團與大怪獸",
+   "category": "電影",
+   "start": "2026-07-14",
+   "end": "2026-08-13",
+   "venue": "",
+   "url": "https://hkmovie6.com/movie/632c71d0-e143-4a62-88f8-554b33a44b78/%E8%BF%B7%E4%BD%A0%E5%85%B5%E5%9C%98%E8%88%87%E5%A4%A7%E6%80%AA%E7%8D%B8",
+   "source": "hkmovie6",
+   "image": "https://storage.movie6.com/image-transform/f=auto,q=75,w=500/https://storage.movie6.com/movie/3551e_mm3_MontagePoster_1782288706.jpg",
+   "featured": false
+  },
+  {
+   "id": "8f495f098150",
+   "title": "電影多啦A夢：新・大雄之海底鬼岩城",
+   "category": "電影",
+   "start": "2026-07-14",
+   "end": "2026-08-13",
+   "venue": "",
+   "url": "https://hkmovie6.com/movie/64989472-b01b-4707-9107-f90756acce8f/%E9%9B%BB%E5%BD%B1%E5%A4%9A%E5%95%A6A%E5%A4%A2%EF%BC%9A%E6%96%B0%E3%83%BB%E5%A4%A7%E9%9B%84%E4%B9%8B%E6%B5%B7%E5%BA%95%E9%AC%BC%E5%B2%A9%E5%9F%8E",
+   "source": "hkmovie6",
+   "image": "https://storage.movie6.com/image-transform/f=auto,q=75,w=500/https://storage.movie6.com/movie/54999_Doraemon2026_LaunchPoster_1779857243.jpg",
+   "featured": false
+  },
+  {
+   "id": "294deaf31714",
+   "title": "鬼玩人：煉獄",
+   "category": "電影",
+   "start": "2026-07-14",
+   "end": "2026-08-13",
+   "venue": "",
+   "url": "https://hkmovie6.com/movie/7937803a-8ffd-4746-a431-b98c3d51b08d/%E9%AC%BC%E7%8E%A9%E4%BA%BA%EF%BC%9A%E7%85%89%E7%8D%84",
+   "source": "hkmovie6",
+   "image": "https://storage.movie6.com/image-transform/f=auto,q=75,w=500/https://storage.movie6.com/movie/493b1_EvilDeadBurn_OfficialPoster_1780991193.jpg",
    "featured": false
   },
   {
@@ -842,16 +986,16 @@
    "featured": false
   },
   {
-   "id": "00d6bcf9a7fb",
-   "title": "香港跳繩邀請錦標賽2026",
-   "category": "體育",
-   "start": "2026-07-15",
+   "id": "2e986e233947",
+   "title": "\"aespa WEEK - MAKE IT LEMONADE\" 快閃店 @THE WAI 圍方",
+   "category": "休閒",
+   "start": "2026-07-16",
    "end": "2026-07-19",
-   "venue": "伊利沙伯體育館",
-   "url": "https://timable.com/zh/event/%E9%A6%99%E6%B8%AF%E8%B7%B3%E7%B9%A9%E9%82%80%E8%AB%8B%E9%8C%A6%E6%A8%99%E8%B3%BD2026",
+   "venue": "THE WAI 圍方 L2 中庭",
+   "url": "https://timable.com/zh/event/-aespaWEEK-MAKEITLEMONADE-%E5%BF%AB%E9%96%83%E5%BA%97-THEWAI%E5%9C%8D%E6%96%B9",
    "source": "Timable",
-   "image": "https://static.timable.com/image_297a5c7d-71b9-4c8c-a8b5-3735306a0c52-480x480.webp",
-   "featured": true
+   "image": "https://static.timable.com/image_3786be62-cf6a-45ad-9b6f-9b4dc398b76b-480x600.webp",
+   "featured": false
   },
   {
    "id": "6579ab46952a",
@@ -866,15 +1010,15 @@
    "featured": false
   },
   {
-   "id": "e687010f131c",
-   "title": "「多識萬物: 中國古代博物學與香港自然探索」展覽",
+   "id": "47fc289f1c0c",
+   "title": "匡智會「靜謐陶語」展覽",
    "category": "展覽",
    "start": "2026-07-16",
-   "end": "2027-01-10",
-   "venue": "托勒密博物館",
-   "url": "https://timable.com/zh/event/%E5%A4%9A%E8%AD%98%E8%90%AC%E7%89%A9-%E4%B8%AD%E5%9C%8B%E5%8F%A4%E4%BB%A3%E5%8D%9A%E7%89%A9%E5%AD%B8%E8%88%87%E9%A6%99%E6%B8%AF%E8%87%AA%E7%84%B6%E6%8E%A2%E7%B4%A2-%E5%B1%95%E8%A6%BD",
+   "end": "2026-07-21",
+   "venue": "藝穗會 陳麗玲畫廊",
+   "url": "https://timable.com/zh/event/%E5%8C%A1%E6%99%BA%E6%9C%83-%E9%9D%9C%E8%AC%90%E9%99%B6%E8%AA%9E-%E5%B1%95%E8%A6%BD",
    "source": "Timable",
-   "image": "https://static.timable.com/image_9f5fe9cb-578f-4db0-b42f-3b49b154e045-480x600.webp",
+   "image": "https://static.timable.com/image_d4ff628f-8a3e-4788-bf34-2653afa79ace-480x128.webp",
    "featured": false
   },
   {
@@ -962,18 +1106,6 @@
    "featured": false
   },
   {
-   "id": "6f2434b2a069",
-   "title": "Woodstock & Friends 盛夏運動會＠The ONE",
-   "category": "體育",
-   "start": "2026-07-17",
-   "end": "2026-08-31",
-   "venue": "The ONE UG2中庭",
-   "url": "https://timable.com/zh/event/Woodstock-Friends%E7%9B%9B%E5%A4%8F%E9%81%8B%E5%8B%95%E6%9C%83-TheONE",
-   "source": "Timable",
-   "image": "https://static.timable.com/image_139c6272-74b8-4271-b8e7-97d63a1f2e96-480x270.webp",
-   "featured": false
-  },
-  {
    "id": "dad7eb4c119b",
    "title": "《梁祝》粵劇折子戲",
    "category": "表演藝術",
@@ -995,6 +1127,18 @@
    "url": "https://timable.com/zh/event/JOGUMANmeetsD-PARK-%E5%A4%8F-%E5%B3%B6%E5%B6%BC%E6%99%82%E5%85%89-%E6%B4%BB%E5%8B%95",
    "source": "Timable",
    "image": "https://static.timable.com/image_cdbdcc58-8f92-40fc-a5cd-7093ad119751-480x480.webp",
+   "featured": false
+  },
+  {
+   "id": "94224000b0fb",
+   "title": "「共振 RESONANT REFRACTIONS 」香港都會大學創意藝術畢業展 2026",
+   "category": "休閒",
+   "start": "2026-07-17",
+   "end": "2026-07-26",
+   "venue": "香港都會大學 賽馬會校園",
+   "url": "https://timable.com/zh/event/%E5%85%B1%E6%8C%AF-%E9%A6%99%E6%B8%AF%E9%83%BD%E6%9C%83%E5%A4%A7%E5%AD%B8%E5%89%B5%E6%84%8F%E8%97%9D%E8%A1%93%E7%95%A2%E6%A5%AD%E5%B1%952026",
+   "source": "Timable",
+   "image": "https://static.timable.com/image_c7d53885-e868-491c-9fd0-d95c29dc1e95-480x211.webp",
    "featured": false
   },
   {
@@ -1216,7 +1360,7 @@
   {
    "id": "1e87b6fe57cf",
    "title": "夏日親子電影節 2026",
-   "category": "電影",
+   "category": "電影活動",
    "start": "2026-07-18",
    "end": "2026-07-18",
    "venue": "香港電影資料館 (電影院)",
@@ -1228,7 +1372,7 @@
   {
    "id": "6e288b01c389",
    "title": "夏日親子電影節 2026",
-   "category": "電影",
+   "category": "電影活動",
    "start": "2026-07-18",
    "end": "2026-07-18",
    "venue": "香港科學館 (演講廳)",
@@ -1240,7 +1384,7 @@
   {
    "id": "7f4aec93ea2b",
    "title": "夏日親子電影節 2026：《化石獵人的少年時代》",
-   "category": "電影",
+   "category": "電影活動",
    "start": "2026-07-18",
    "end": "2026-07-18",
    "venue": "香港電影資料館 (電影院)",
@@ -1252,7 +1396,7 @@
   {
    "id": "46153f0aa5a2",
    "title": "夏日親子電影節 2026：《千金貓咪落難記》",
-   "category": "電影",
+   "category": "電影活動",
    "start": "2026-07-18",
    "end": "2026-07-18",
    "venue": "香港電影資料館 (電影院)",
@@ -1264,7 +1408,7 @@
   {
    "id": "6bdd44295e4d",
    "title": "夏日親子電影節 2026：《小海蛇千里救家園》",
-   "category": "電影",
+   "category": "電影活動",
    "start": "2026-07-18",
    "end": "2026-07-18",
    "venue": "香港科學館 (演講廳)",
@@ -1276,7 +1420,7 @@
   {
    "id": "5af8d68fb777",
    "title": "夏日親子電影節 2026：《透明小子：隱身藥之謎》",
-   "category": "電影",
+   "category": "電影活動",
    "start": "2026-07-18",
    "end": "2026-07-18",
    "venue": "香港科學館 (演講廳)",
@@ -1480,7 +1624,7 @@
   {
    "id": "a5ecb75379d9",
    "title": "夏日親子電影節 2026：《肥斌告白大作戰》",
-   "category": "電影",
+   "category": "電影活動",
    "start": "2026-07-19",
    "end": "2026-07-19",
    "venue": "香港電影資料館 (電影院)",
@@ -1492,7 +1636,7 @@
   {
    "id": "8240a12c9d70",
    "title": "夏日親子電影節 2026：《超巨河馬縮水之旅》",
-   "category": "電影",
+   "category": "電影活動",
    "start": "2026-07-19",
    "end": "2026-07-19",
    "venue": "香港科學館 (演講廳)",
@@ -1504,7 +1648,7 @@
   {
    "id": "bc5fa24c5a56",
    "title": "夏日親子電影節 2026：《靈雀密語》",
-   "category": "電影",
+   "category": "電影活動",
    "start": "2026-07-19",
    "end": "2026-08-09",
    "venue": "香港電影資料館 (電影院)",
@@ -1516,7 +1660,7 @@
   {
    "id": "d59bb83d309c",
    "title": "夏日親子電影節 2026：動畫短片大派對節目 1 - 有毛有翼",
-   "category": "電影",
+   "category": "電影活動",
    "start": "2026-07-19",
    "end": "2026-08-09",
    "venue": "香港太空館 (演講廳)",
@@ -1528,7 +1672,7 @@
   {
    "id": "9f417809a968",
    "title": "夏日親子電影節 2026：動畫短片大派對節目 2 - 朋友唔易做",
-   "category": "電影",
+   "category": "電影活動",
    "start": "2026-07-19",
    "end": "2026-08-09",
    "venue": "香港太空館 (演講廳)",
@@ -1540,7 +1684,7 @@
   {
    "id": "4113ba3b111a",
    "title": "夏日親子電影節 2026：動畫短片大派對節目 3 - 創作力量同幻想",
-   "category": "電影",
+   "category": "電影活動",
    "start": "2026-07-19",
    "end": "2026-08-09",
    "venue": "香港太空館 (演講廳)",
@@ -1814,6 +1958,18 @@
    "featured": true
   },
   {
+   "id": "9c6347382770",
+   "title": "利園區 ”Ice-cream Jam“ 港式雪糕派對 @希慎廣場",
+   "category": "休閒",
+   "start": "2026-07-22",
+   "end": "2026-08-19",
+   "venue": "希慎廣場 Hysan Place 1-F 中庭",
+   "url": "https://timable.com/zh/event/%E5%88%A9%E5%9C%92%E5%8D%80-Ice-creamJam-%E6%B8%AF%E5%BC%8F%E9%9B%AA%E7%B3%95%E6%B4%BE%E5%B0%8D-%E5%B8%8C%E6%85%8E%E5%BB%A3%E5%A0%B4",
+   "source": "Timable",
+   "image": "https://static.timable.com/image_a3020ce6-27a9-4d34-8029-f4e0b04a3842-480x679.webp",
+   "featured": false
+  },
+  {
    "id": "d9b72a7b2082",
    "title": "歌劇之父 ─ 威爾第經典歌劇作品音樂會",
    "category": "表演藝術",
@@ -2008,7 +2164,7 @@
   {
    "id": "274f9896d024",
    "title": "夏日親子電影節 2026：《最後的鯨歌守護者》",
-   "category": "電影",
+   "category": "電影活動",
    "start": "2026-07-24",
    "end": "2026-07-24",
    "venue": "香港電影資料館 (電影院)",
@@ -2078,18 +2234,6 @@
    "featured": false
   },
   {
-   "id": "4851b2f60d9b",
-   "title": "「Jumptopia 極速車隊訓練基地」@奧海城",
-   "category": "休閒",
-   "start": "2026-07-25",
-   "end": "2026-09-01",
-   "venue": "奧海城2期地下主題中庭",
-   "url": "https://timable.com/zh/event/Jumptopia%E6%A5%B5%E9%80%9F%E8%BB%8A%E9%9A%8A%E8%A8%93%E7%B7%B4%E5%9F%BA%E5%9C%B0--%E5%A5%A7%E6%B5%B7%E5%9F%8E",
-   "source": "Timable",
-   "image": "https://static.timable.com/image_e355b2c3-8642-4a6f-ab5d-92f504977d10-480x339.webp",
-   "featured": false
-  },
-  {
    "id": "e819b6d86723",
    "title": "「夾縫絕響 — 香港村校校歌特色及淵源」講座",
    "category": "休閒",
@@ -2152,7 +2296,7 @@
   {
    "id": "b4041560feff",
    "title": "夏日親子電影節 2026：《透明小子：隱身藥之謎》",
-   "category": "電影",
+   "category": "電影活動",
    "start": "2026-07-25",
    "end": "2026-08-08",
    "venue": "香港電影資料館 (電影院)",
@@ -2344,7 +2488,7 @@
   {
    "id": "42d182485fc3",
    "title": "夏日親子電影節 2026：《妙筆女文豪》",
-   "category": "電影",
+   "category": "電影活動",
    "start": "2026-07-26",
    "end": "2026-07-26",
    "venue": "香港電影資料館 (電影院)",
@@ -2356,7 +2500,7 @@
   {
    "id": "565b03e45604",
    "title": "夏日親子電影節 2026：《小海蛇千里救家園》",
-   "category": "電影",
+   "category": "電影活動",
    "start": "2026-07-26",
    "end": "2026-07-26",
    "venue": "香港電影資料館 (電影院)",
@@ -2368,7 +2512,7 @@
   {
    "id": "47c9d4eb11d9",
    "title": "夏日親子電影節 2026：《貓咪雪地交友記》",
-   "category": "電影",
+   "category": "電影活動",
    "start": "2026-07-26",
    "end": "2026-08-09",
    "venue": "香港太空館 (演講廳)",
@@ -2524,7 +2668,7 @@
   {
    "id": "5b31fbabedf3",
    "title": "夏日親子電影節 2026",
-   "category": "電影",
+   "category": "電影活動",
    "start": "2026-07-28",
    "end": "2026-07-28",
    "venue": "香港太空館 (何鴻燊天象廳)",
@@ -2690,6 +2834,18 @@
    "featured": false
   },
   {
+   "id": "a4a543d50772",
+   "title": "SAN-X小海豹Mamegoma「Mamegoma 仲夏萌寶奇幻之旅」＠iSQUARE國際廣場",
+   "category": "休閒",
+   "start": "2026-07-31",
+   "end": "2026-09-13",
+   "venue": "iSQUARE國際廣場",
+   "url": "https://timable.com/zh/event/SAN-X%E5%B0%8F%E6%B5%B7%E8%B1%B9Mamegoma-Mamegoma%E4%BB%B2%E5%A4%8F%E8%90%8C%E5%AF%B6%E5%A5%87%E5%B9%BB%E4%B9%8B%E6%97%85--iSQUARE%E5%9C%8B%E9%9A%9B%E5%BB%A3%E5%A0%B4",
+   "source": "Timable",
+   "image": "https://static.timable.com/image_9c341663-8325-47d9-a386-cb8da36ff0e8-480x360.webp",
+   "featured": false
+  },
+  {
    "id": "9f7dea7bbd73",
    "title": "「忠義滿戲台」展覽",
    "category": "展覽",
@@ -2740,7 +2896,7 @@
   {
    "id": "1fd446b312a7",
    "title": "夏日親子電影節 2026：《星級汪站長2：偷天換犬》",
-   "category": "電影",
+   "category": "電影活動",
    "start": "2026-07-31",
    "end": "2026-07-31",
    "venue": "香港太空館 (演講廳)",
@@ -3052,7 +3208,7 @@
   {
    "id": "97ae885dd4f8",
    "title": "夏日親子電影節 2026：《貓咪雪地交友記》",
-   "category": "電影",
+   "category": "電影活動",
    "start": "2026-08-02",
    "end": "2026-08-02",
    "venue": "香港電影資料館 (電影院)",
@@ -3064,7 +3220,7 @@
   {
    "id": "0a38347e9fba",
    "title": "夏日親子電影節 2026：《超巨河馬縮水之旅》",
-   "category": "電影",
+   "category": "電影活動",
    "start": "2026-08-02",
    "end": "2026-08-15",
    "venue": "香港電影資料館 (電影院)",
@@ -3076,7 +3232,7 @@
   {
    "id": "4686cc5bc28d",
    "title": "天文電影",
-   "category": "電影",
+   "category": "電影活動",
    "start": "2026-08-02",
    "end": "2026-09-06",
    "venue": "香港太空館",
@@ -3496,7 +3652,7 @@
   {
    "id": "3ebe5df55ccb",
    "title": "夏日親子電影節 2026：《化石獵人的少年時代》",
-   "category": "電影",
+   "category": "電影活動",
    "start": "2026-08-07",
    "end": "2026-08-07",
    "venue": "香港太空館 (演講廳)",
@@ -4528,7 +4684,7 @@
   {
    "id": "e248fac17e80",
    "title": "夏日親子電影節 2026",
-   "category": "電影",
+   "category": "電影活動",
    "start": "2026-08-16",
    "end": "2026-08-16",
    "venue": "香港太空館 (演講廳)",
@@ -4540,7 +4696,7 @@
   {
    "id": "d52af6d6e818",
    "title": "夏日親子電影節 2026：《千金貓咪落難記》",
-   "category": "電影",
+   "category": "電影活動",
    "start": "2026-08-16",
    "end": "2026-08-16",
    "venue": "香港太空館 (演講廳)",
@@ -4552,7 +4708,7 @@
   {
    "id": "666e5f984762",
    "title": "夏日親子電影節 2026：《肥斌告白大作戰》",
-   "category": "電影",
+   "category": "電影活動",
    "start": "2026-08-16",
    "end": "2026-08-16",
    "venue": "香港太空館 (演講廳)",
@@ -5392,7 +5548,7 @@
   {
    "id": "44aca2d12416",
    "title": "香港友誼書畫會成立第十二屆書畫及攝影展覽",
-   "category": "電影",
+   "category": "電影活動",
    "start": "2026-08-28",
    "end": "2026-08-31",
    "venue": "香港大會堂 (展覽館)",

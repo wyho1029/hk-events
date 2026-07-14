@@ -120,6 +120,11 @@ def find_new(events, seen):
     return [e for e in events if e["id"] not in seen]
 
 
+def discord_events(new_events):
+    """院線電影只喺網站顯示，唔推 Discord（每日換片會洗版）。"""
+    return [e for e in new_events if e["category"] != "電影"]
+
+
 def build_discord_payload(new_events):
     lines = []
     total = 0
@@ -188,14 +193,15 @@ def main():
     seen = {} if first_run \
         else json.loads(SEEN_PATH.read_text(encoding="utf-8"))
     new = find_new(events, seen)
+    to_push = discord_events(new)
     webhook = os.environ.get("DISCORD_WEBHOOK_URL", "")
     retry_ids = set()
-    if new and webhook and not first_run:
+    if to_push and webhook and not first_run:
         try:
-            push_discord(webhook, new)
-            print(f"discord: pushed {len(new)} new events")
+            push_discord(webhook, to_push)
+            print(f"discord: pushed {len(to_push)} new events")
         except Exception:
-            retry_ids = {e["id"] for e in new}
+            retry_ids = {e["id"] for e in to_push}
             print("discord: push failed, will retry next run")
             traceback.print_exc()
 

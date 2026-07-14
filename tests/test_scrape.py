@@ -118,3 +118,10 @@ def test_merge_cinema_title_with_keyword_not_downgraded():
     e["source"] = "hkmovie6"
     out = scrape.merge([[e]], today="2026-07-14")
     assert out[0]["category"] == "電影"
+
+
+def test_cinema_excluded_from_discord_push():
+    # 院線電影唔推 Discord，其餘照推
+    new = [make(id="film", category="電影"),
+           make(id="show", category="表演藝術")]
+    assert [e["id"] for e in scrape.discord_events(new)] == ["show"]
