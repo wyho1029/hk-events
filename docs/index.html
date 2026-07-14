@@ -44,7 +44,9 @@
 
   /* 必睇盛事 hero rail */
   #rail, #filmrail { display:flex; gap:14px; overflow-x:auto; padding-bottom:10px;
-          scroll-snap-type:x mandatory; -webkit-overflow-scrolling:touch; }
+          scroll-snap-type:x proximity; -webkit-overflow-scrolling:touch;
+          cursor:grab; user-select:none; }
+  #rail.drag, #filmrail.drag { cursor:grabbing; scroll-snap-type:none; }
   #rail::-webkit-scrollbar, #filmrail::-webkit-scrollbar { height:6px; }
   #rail::-webkit-scrollbar-thumb, #filmrail::-webkit-scrollbar-thumb {
           background:var(--line); border-radius:3px; }
@@ -221,6 +223,32 @@ function render() {
     </div>`).join("");
   document.getElementById("empty").hidden = hits.length > 0;
 }
+
+// 滑鼠撳實拖拉橫向捲動（觸控保留原生捲動）
+// 用 window 層聽 move/up：拖出橫掃範圍都繼續，放手即停；
+// 唔用 setPointerCapture，否則 click 會改指向容器，撳唔到海報連結
+function dragScroll(el) {
+  let down = false, startX = 0, startScroll = 0, moved = 0;
+  el.addEventListener("dragstart", e => e.preventDefault());  // 阻原生圖片拖曳
+  el.addEventListener("pointerdown", e => {
+    if (e.pointerType !== "mouse" || e.button !== 0) return;
+    down = true; moved = 0; startX = e.clientX; startScroll = el.scrollLeft;
+    el.classList.add("drag");
+  });
+  window.addEventListener("pointermove", e => {
+    if (!down) return;
+    const dx = e.clientX - startX;
+    if (Math.abs(dx) > moved) moved = Math.abs(dx);
+    el.scrollLeft = startScroll - dx;
+  });
+  window.addEventListener("pointerup", () => {
+    if (down) { down = false; el.classList.remove("drag"); }
+  });
+  // 有拖拉（移動 > 6px）就唔好觸發卡片連結
+  el.addEventListener("click", e => { if (moved > 6) e.preventDefault(); }, true);
+}
+dragScroll(document.getElementById("rail"));
+dragScroll(document.getElementById("filmrail"));
 
 document.getElementById("cats").addEventListener("click", ev => {
   if (ev.target.tagName !== "BUTTON") return;
