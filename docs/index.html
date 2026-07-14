@@ -5,72 +5,100 @@
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <title>香港活動一覽</title>
 <style>
-  :root { --bg:#f3eee6; --fg:#1a1a1a; --muted:#666; --card:#fdfaf4;
-          --accent:#00795c; --chip:#e6ddcd; }
-  :root[data-theme="dark"] { --bg:#111; --fg:#eee; --muted:#999;
-          --card:#1d1d1d; --chip:#333; --accent:#2bbf96; }
+  :root { --bg:#f3eee6; --fg:#2a2420; --muted:#8a7d6d; --card:#fbf6ec;
+          --accent:#b0552e; --line:#ddd0bb; --chip:#eae0d0;
+          --serif:"Georgia","Times New Roman","Songti TC",
+                  "Noto Serif CJK TC","Noto Serif TC",serif; }
+  :root[data-theme="dark"] { --bg:#17140f; --fg:#ece4d6; --muted:#9c8f7d;
+          --card:#211c16; --accent:#d97a4a; --line:#3a332a; --chip:#2a241d; }
   * { box-sizing: border-box; }
   body { margin:0; background:var(--bg); color:var(--fg);
          font-family:system-ui, "Microsoft JhengHei", sans-serif; }
   header { position:sticky; top:0; z-index:5; background:var(--bg);
-           padding:12px 16px; border-bottom:1px solid var(--chip); }
-  h1 { font-size:20px; margin:0 0 8px; padding-right:44px; }
-  #theme { position:absolute; top:10px; right:16px; border:none;
-           background:var(--chip); color:var(--fg); width:36px; height:36px;
+           padding:14px 16px 12px; border-bottom:1px solid var(--line); }
+  .eyebrow { font-family:var(--serif); font-size:11px; letter-spacing:.28em;
+             text-transform:uppercase; color:var(--accent); font-style:italic;
+             margin-bottom:2px; }
+  h1 { font-family:var(--serif); font-size:29px; font-weight:600; line-height:1.1;
+       margin:0 0 8px; padding-right:44px; letter-spacing:.01em; }
+  #updated { font-family:system-ui, sans-serif; color:var(--muted);
+             font-size:12px; font-weight:400; letter-spacing:0; }
+  #theme { position:absolute; top:14px; right:16px; border:1px solid var(--line);
+           background:var(--card); color:var(--fg); width:36px; height:36px;
            border-radius:50%; cursor:pointer; font-size:16px; }
-  #updated { color:var(--muted); font-size:12px; }
-  .controls { display:flex; gap:8px; flex-wrap:wrap; margin-top:8px; }
-  .controls button { border:none; background:var(--chip); color:var(--fg);
-                     padding:6px 12px; border-radius:16px; cursor:pointer;
-                     font-size:13px; }
-  .controls button.on { background:var(--accent); color:#fff; }
-  #q { flex:1; min-width:140px; padding:6px 12px; border-radius:16px;
-       border:1px solid var(--chip); background:var(--bg); color:var(--fg); }
-  main { max-width:720px; margin:0 auto; padding:16px; }
+  .controls { display:flex; gap:8px; flex-wrap:wrap; margin-top:10px; }
+  .controls button { border:1px solid var(--line); background:var(--card);
+                     color:var(--fg); padding:6px 13px; border-radius:16px;
+                     cursor:pointer; font-size:13px; transition:.15s; }
+  .controls button:hover { border-color:var(--accent); }
+  .controls button.on { background:var(--accent); border-color:var(--accent);
+                        color:#fff; }
+  #q { flex:1; min-width:140px; padding:6px 13px; border-radius:16px;
+       border:1px solid var(--line); background:var(--card); color:var(--fg); }
+  main { max-width:720px; margin:0 auto; padding:18px 16px 40px; }
+
+  section h2 { font-family:var(--serif); font-size:19px; font-weight:600;
+               margin:0 0 12px; display:flex; align-items:center; gap:8px; }
+  section h2::after { content:""; flex:1; height:1px; background:var(--line); }
+  #feat, #films { margin-bottom:26px; }
 
   /* 必睇盛事 hero rail */
-  #feat h2 { font-size:16px; margin:0 0 10px; }
-  #rail { display:flex; gap:12px; overflow-x:auto; padding-bottom:12px;
+  #rail, #filmrail { display:flex; gap:14px; overflow-x:auto; padding-bottom:10px;
           scroll-snap-type:x mandatory; -webkit-overflow-scrolling:touch; }
-  #rail::-webkit-scrollbar { height:6px; }
-  #rail::-webkit-scrollbar-thumb { background:var(--chip); border-radius:3px; }
-  .hc { position:relative; flex:0 0 264px; height:176px; border-radius:14px;
+  #rail::-webkit-scrollbar, #filmrail::-webkit-scrollbar { height:6px; }
+  #rail::-webkit-scrollbar-thumb, #filmrail::-webkit-scrollbar-thumb {
+          background:var(--line); border-radius:3px; }
+  .hc { position:relative; flex:0 0 268px; height:178px; border-radius:12px;
         overflow:hidden; scroll-snap-align:start; color:#fff;
-        text-decoration:none; display:block; }
+        text-decoration:none; display:block; border:1px solid var(--line); }
   .hc img { position:absolute; inset:0; width:100%; height:100%;
             object-fit:cover; }
   .hemoji { position:absolute; top:12px; right:14px; font-size:46px;
             filter:drop-shadow(0 2px 4px rgba(0,0,0,.35)); }
   .hgrad { position:absolute; inset:0;
-           background:linear-gradient(180deg, rgba(0,0,0,.05) 35%, rgba(0,0,0,.78)); }
+           background:linear-gradient(180deg, rgba(20,10,0,.05) 30%, rgba(20,10,0,.82)); }
   .hinfo { position:absolute; left:0; right:0; bottom:0; padding:12px 14px; }
-  .hbadge { font-size:11px; background:rgba(255,255,255,.28);
-            padding:2px 8px; border-radius:8px; }
-  .ht { font-weight:700; font-size:16px; line-height:1.35; margin-top:6px;
-        display:-webkit-box; -webkit-line-clamp:2;
+  .hbadge { font-size:11px; background:rgba(255,255,255,.24);
+            padding:2px 9px; border-radius:8px; letter-spacing:.02em; }
+  .ht { font-family:var(--serif); font-weight:600; font-size:17px; line-height:1.3;
+        margin-top:7px; display:-webkit-box; -webkit-line-clamp:2;
         -webkit-box-orient:vertical; overflow:hidden; }
   .hd { font-size:12px; opacity:.85; margin-top:4px; white-space:nowrap;
         overflow:hidden; text-overflow:ellipsis; }
 
+  /* 戲院上映 海報橫掃 */
+  .fc { flex:0 0 128px; scroll-snap-align:start; text-decoration:none;
+        color:var(--fg); display:block; }
+  .fc .poster, .fc .ph { width:128px; height:190px; border-radius:8px;
+        object-fit:cover; display:block; border:1px solid var(--line); }
+  .fc .ph { background:linear-gradient(150deg,#b0552e,#e0a060);
+        display:flex; align-items:center; justify-content:center; font-size:40px; }
+  .fc .ft { font-family:var(--serif); font-size:13px; line-height:1.3;
+        margin-top:7px; display:-webkit-box; -webkit-line-clamp:2;
+        -webkit-box-orient:vertical; overflow:hidden; }
+
   /* 一般列表 */
   .ev { background:var(--card); border:1px solid var(--line);
-        border-radius:8px; padding:15px 16px; margin-bottom:12px;
+        border-radius:10px; padding:14px 16px; margin-bottom:12px;
         display:flex; gap:14px; align-items:center; }
   .ev .tx { flex:1; min-width:0; }
-  .thumb { width:60px; height:60px; border-radius:8px; object-fit:cover;
-           flex:none; }
-  .ev a { color:var(--fg); text-decoration:none; font-weight:600; }
+  .thumb { width:62px; height:62px; border-radius:8px; object-fit:cover;
+           flex:none; border:1px solid var(--line); }
+  .ev a { font-family:var(--serif); color:var(--fg); text-decoration:none;
+          font-weight:600; font-size:16px; line-height:1.35; }
   .ev a:hover { color:var(--accent); }
-  .meta { color:var(--muted); font-size:13px; margin-top:4px; }
-  .tag { display:inline-block; font-size:12px; padding:1px 8px;
+  .meta { color:var(--muted); font-size:13px; margin-top:5px; }
+  .tag { display:inline-block; font-size:12px; padding:1px 9px;
          border-radius:10px; background:var(--accent); color:#fff;
          margin-right:6px; }
-  #empty { color:var(--muted); text-align:center; padding:40px 0; }
+  #empty { color:var(--muted); text-align:center; padding:40px 0;
+           font-family:var(--serif); font-style:italic; }
 </style>
 </head>
 <body>
 <header>
   <button id="theme" title="切換明暗">🌙</button>
+  <div class="eyebrow">城中活動 · 精選指南</div>
   <h1>香港活動一覽 <span id="updated"></span></h1>
   <div class="controls" id="cats">
     <button data-c="" class="on">全部</button>
@@ -79,6 +107,7 @@
     <button data-c="表演藝術">🎭 表演藝術</button>
     <button data-c="展覽">🖼️ 展覽</button>
     <button data-c="電影">🎬 電影</button>
+    <button data-c="電影活動">🎞️ 電影活動</button>
     <button data-c="親子">🧸 親子</button>
     <button data-c="休閒">🌿 休閒</button>
     <input id="q" type="search" placeholder="搜尋活動／場地…">
@@ -88,6 +117,10 @@
   <section id="feat" hidden>
     <h2>🔥 必睇盛事</h2>
     <div id="rail"></div>
+  </section>
+  <section id="films" hidden>
+    <h2>🎬 戲院上映</h2>
+    <div id="filmrail"></div>
   </section>
   <div id="list"></div>
   <div id="empty" hidden>冇符合嘅活動</div>
@@ -100,7 +133,8 @@ const META = {
   "大型盛事": { e:"🎪",  g:"linear-gradient(135deg,#7048e8,#f783ac)" },
   "表演藝術": { e:"🎭",  g:"linear-gradient(135deg,#a07800,#e6c229)" },
   "展覽":     { e:"🖼️", g:"linear-gradient(135deg,#1f6feb,#6cb6ff)" },
-  "電影":     { e:"🎬",  g:"linear-gradient(135deg,#343a40,#868e96)" },
+  "電影":     { e:"🎬",  g:"linear-gradient(135deg,#b0552e,#e0a060)" },
+  "電影活動": { e:"🎞️", g:"linear-gradient(135deg,#343a40,#868e96)" },
   "親子":     { e:"🧸",  g:"linear-gradient(135deg,#e8590c,#ffa94d)" },
   "休閒":     { e:"🌿",  g:"linear-gradient(135deg,#2f9e44,#8ce99a)" }
 };
@@ -131,7 +165,6 @@ function safeUrl(e) {
 }
 
 function renderHero() {
-  // 有圖嘅精選盛事排最前（最搶眼），其餘按日期序
   const feats = EVENTS.filter(e => e.featured)
     .sort((a, b) => (b.image ? 1 : 0) - (a.image ? 1 : 0))
     .slice(0, 10);
@@ -154,13 +187,28 @@ function renderHero() {
   }).join("");
 }
 
+function renderFilms() {
+  const films = EVENTS.filter(e => e.category === "電影");
+  document.getElementById("films").hidden = films.length === 0;
+  document.getElementById("filmrail").innerHTML = films.map(e => `
+    <a class="fc" href="${esc(safeUrl(e))}" target="_blank" rel="noopener">
+      ${e.image ? `<img class="poster" src="${esc(e.image)}" alt="" loading="lazy"
+                        onerror="this.outerHTML='<div class=\\'ph\\'>🎬</div>'">`
+                : `<div class="ph">🎬</div>`}
+      <div class="ft">${esc(e.title)}</div>
+    </a>`).join("");
+}
+
 function render() {
   const kw = q.trim().toLowerCase();
   const filtering = !!(cat || kw);
   document.getElementById("feat").style.display = filtering ? "none" : "";
+  document.getElementById("films").style.display = filtering ? "none" : "";
   const hits = EVENTS.filter(e =>
     (!cat || e.category === cat) &&
-    (!kw || (e.title + "\n" + e.venue).toLowerCase().includes(kw)));
+    (!kw || (e.title + "\n" + e.venue).toLowerCase().includes(kw)) &&
+    // 不篩選時院線電影只喺海報橫掃出，唔喺主列表重複
+    (filtering || e.category !== "電影"));
   document.getElementById("list").innerHTML = hits.map(e => `
     <div class="ev">
       <div class="tx">
@@ -190,6 +238,7 @@ fetch("events.json").then(r => r.json()).then(d => {
   EVENTS = d.events;
   document.getElementById("updated").textContent = "（更新於 " + d.updated + "）";
   renderHero();
+  renderFilms();
   render();
 }).catch(() => { const el = document.getElementById("empty"); el.textContent = "載入活動資料失敗，請稍後重新整理"; el.hidden = false; });
 </script>
