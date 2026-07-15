@@ -44,14 +44,13 @@
 
   /* 必睇盛事 hero rail */
   #rail, #filmrail { display:flex; gap:14px; overflow-x:auto; padding-bottom:10px;
-          scroll-snap-type:x proximity; -webkit-overflow-scrolling:touch;
-          cursor:grab; user-select:none; }
-  #rail.drag, #filmrail.drag { cursor:grabbing; scroll-snap-type:none; }
+          -webkit-overflow-scrolling:touch; cursor:grab; user-select:none; }
+  #rail.drag, #filmrail.drag { cursor:grabbing; }
   #rail::-webkit-scrollbar, #filmrail::-webkit-scrollbar { height:6px; }
   #rail::-webkit-scrollbar-thumb, #filmrail::-webkit-scrollbar-thumb {
           background:var(--line); border-radius:3px; }
   .hc { position:relative; flex:0 0 268px; height:178px; border-radius:12px;
-        overflow:hidden; scroll-snap-align:start; color:#fff;
+        overflow:hidden; color:#fff;
         text-decoration:none; display:block; border:1px solid var(--line); }
   .hc img { position:absolute; inset:0; width:100%; height:100%;
             object-fit:cover; }
@@ -69,7 +68,7 @@
         overflow:hidden; text-overflow:ellipsis; }
 
   /* 戲院上映 海報橫掃 */
-  .fc { flex:0 0 128px; scroll-snap-align:start; text-decoration:none;
+  .fc { flex:0 0 128px; text-decoration:none;
         color:var(--fg); display:block; }
   .fc .poster, .fc .ph { width:128px; height:190px; border-radius:8px;
         object-fit:cover; display:block; border:1px solid var(--line); }
