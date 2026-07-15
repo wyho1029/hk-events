@@ -1,5 +1,5 @@
 {
- "updated": "2026-07-14",
+ "updated": "2026-07-15",
  "events": [
   {
    "id": "e13429ad674f",
@@ -638,30 +638,6 @@
    "featured": false
   },
   {
-   "id": "1f3964c220cf",
-   "title": "2026 世界合唱節—香港：星級音樂會之紐西蘭中學生合唱團 與 廣州兒童合唱團 聯合音樂會",
-   "category": "表演藝術",
-   "start": "2026-07-14",
-   "end": "2026-07-14",
-   "venue": "香港大會堂 (音樂廳)",
-   "url": "https://www.lcsd.gov.hk/tc/ticket/index.html",
-   "source": "康文署",
-   "image": "",
-   "featured": false
-  },
-  {
-   "id": "656c5b233a02",
-   "title": "2026世界合唱節 — 香港：星級音樂會之拉脫維亞 Kamēr... 青年合唱團與加拿大多倫多兒童合唱團聯合音樂會",
-   "category": "表演藝術",
-   "start": "2026-07-14",
-   "end": "2026-07-14",
-   "venue": "香港文化中心 (音樂廳)",
-   "url": "https://www.lcsd.gov.hk/tc/ticket/index.html",
-   "source": "康文署",
-   "image": "",
-   "featured": false
-  },
-  {
    "id": "00a27d87e999",
    "title": "UFO離奇命案",
    "category": "電影",
@@ -741,18 +717,6 @@
    "end": "2026-07-17",
    "venue": "香港大會堂 (展覽館)",
    "url": "https://www.lcsd.gov.hk/tc/ticket/index.html",
-   "source": "康文署",
-   "image": "",
-   "featured": false
-  },
-  {
-   "id": "fb07e372f7fe",
-   "title": "粵劇《喜得銀河抱月歸》",
-   "category": "表演藝術",
-   "start": "2026-07-14",
-   "end": "2026-07-14",
-   "venue": "高山劇場 (劇院)",
-   "url": "https://www.lcsd.gov.hk/clpss/tc/search/culture/DetailForm.do?id=183337",
    "source": "康文署",
    "image": "",
    "featured": false
@@ -2421,6 +2385,18 @@
    "end": "2026-07-25",
    "venue": "大埔文娛中心 (演藝廳)",
    "url": "https://www.instagram.com/wearecucb/",
+   "source": "康文署",
+   "image": "",
+   "featured": false
+  },
+  {
+   "id": "6849e8f82cf7",
+   "title": "2026-27年度「十八有藝—深水埗社區演藝計劃」《聲的形狀4.0》無伴奏合唱音樂企劃 — 社區共享演出暨演後分享會",
+   "category": "表演藝術",
+   "start": "2026-07-26",
+   "end": "2026-07-26",
+   "venue": "深水埗區內場地",
+   "url": "https://www.instagram.com/shape_of_harmony",
    "source": "康文署",
    "image": "",
    "featured": false
@@ -4478,6 +4454,18 @@
    "featured": false
   },
   {
+   "id": "8c6347eb6bcb",
+   "title": "潮玩小結他2026",
+   "category": "休閒",
+   "start": "2026-08-15",
+   "end": "2026-08-15",
+   "venue": "上環文娛中心 (演講廳)",
+   "url": "https://www.lcsd.gov.hk/tc/ticket/index.html",
+   "source": "康文署",
+   "image": "",
+   "featured": false
+  },
+  {
    "id": "af06f3ee7fd7",
    "title": "特備活動 : 天象廳節目《太陽系大冒險3D》映後活動：火星探索任務",
    "category": "休閒",
@@ -4509,6 +4497,18 @@
    "end": "2026-08-15",
    "venue": "葵青劇院 (演藝廳)",
    "url": "https://www.lcsd.gov.hk/clpss/tc/search/culture/DetailForm.do?id=184704",
+   "source": "康文署",
+   "image": "",
+   "featured": false
+  },
+  {
+   "id": "7cead9d5f1bf",
+   "title": "葵青劇院場地伙伴計劃：《SMILE™ 中英青少年劇團2026結業演出》",
+   "category": "休閒",
+   "start": "2026-08-15",
+   "end": "2026-08-16",
+   "venue": "葵青劇院 (黑盒劇場)",
+   "url": "https://www.art-mate.net/doc/97338",
    "source": "康文署",
    "image": "",
    "featured": false
@@ -4557,6 +4557,18 @@
    "end": "2026-08-16",
    "venue": "牛池灣文娛中心 (文娛廳)",
    "url": "https://www.instagram.com/hkjyds?igsh=MTR1M3M0anVxMWxn",
+   "source": "康文署",
+   "image": "",
+   "featured": false
+  },
+  {
+   "id": "286caa6c8d38",
+   "title": "香港芭蕾舞學會超新星大賞2026",
+   "category": "休閒",
+   "start": "2026-08-15",
+   "end": "2026-08-16",
+   "venue": "牛池灣文娛中心 (劇院)",
+   "url": "https://www.hkbgsa.org",
    "source": "康文署",
    "image": "",
    "featured": false
@@ -5630,6 +5642,18 @@
    "featured": false
   },
   {
+   "id": "d1b76cf27619",
+   "title": "四季 — 沙田合唱團音樂會2026",
+   "category": "表演藝術",
+   "start": "2026-08-29",
+   "end": "2026-08-29",
+   "venue": "沙田大會堂 (文娛廳)",
+   "url": "https://www.staa.com.hk",
+   "source": "康文署",
+   "image": "",
+   "featured": false
+  },
+  {
    "id": "23558d21dd67",
    "title": "屯門大會堂場地伙伴計劃：合家歡音樂劇《嘩，阿拉丁！》",
    "category": "表演藝術",
@@ -5733,6 +5757,18 @@
    "end": "2026-08-30",
    "venue": "香港文化中心 (大堂展覽場地)",
    "url": "https://www.lcsd.gov.hk/tc/ticket/index.html",
+   "source": "康文署",
+   "image": "",
+   "featured": false
+  },
+  {
+   "id": "b89c14806ac4",
+   "title": "小老鼠與大花貓",
+   "category": "休閒",
+   "start": "2026-08-30",
+   "end": "2026-08-30",
+   "venue": "沙田大會堂 (演奏廳)",
+   "url": "https://bearchoir.com/",
    "source": "康文署",
    "image": "",
    "featured": false
