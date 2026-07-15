@@ -8,20 +8,28 @@ def make(id="a", title="活動", category="休閒", start="2099-01-01",
 
 
 def test_is_entertainment():
-    assert scrape.is_entertainment("巨星世界巡迴演唱會 2026")
+    # 演唱會有自己嘅分類，唔再係娛樂圈過濾對象
+    assert not scrape.is_entertainment("巨星世界巡迴演唱會 2026")
     assert scrape.is_entertainment("XXX Fan Meeting in Hong Kong")
+    assert scrape.is_entertainment("巨星歌迷見面會")
     assert not scrape.is_entertainment("香港馬拉松 2027")
 
 
 def test_categorize():
     assert scrape.categorize("香港國際七人欖球賽", "大型盛事") == "體育"
-    assert scrape.categorize("夏日手作市集", "休閒") == "休閒"
+    assert scrape.categorize("夏日手作市集", "休閒") == "市集"
     assert scrape.categorize("古埃及文明大展", "大型盛事") == "展覽"
     assert scrape.categorize("經典粵語片修復放映", "休閒") == "電影活動"
     assert scrape.categorize("中樂團週年音樂會", "休閒") == "表演藝術"
     assert scrape.categorize("國際綜藝合家歡開幕", "休閒") == "親子"
     # 優先次序：親子電影應該歸電影活動（電影組排先）
     assert scrape.categorize("親子電影放映會", "休閒") == "電影活動"
+    assert scrape.categorize("夏日黃昏市集", "休閒") == "市集"
+    assert scrape.categorize("香港書展 2026", "休閒") == "展覽"
+    assert scrape.categorize("巨星世界巡迴演唱會", "休閒") == "演唱會"
+    # 粵曲演唱會係傳統曲藝，要贏「演唱會」keyword
+    assert scrape.categorize("《金曲妙韻聚友情》粵曲演唱會", "休閒") \
+        == "表演藝術"
 
 
 def test_merge_keeps_image_field():
@@ -61,7 +69,7 @@ def test_valid():
 def test_merge_dedupes_filters_and_sorts():
     a = make(id="1", start="2099-02-01", end="2099-02-01")
     dup = make(id="1", title="重複")
-    ent = make(id="2", title="巨星演唱會")
+    ent = make(id="2", title="巨星歌迷見面會")
     past = make(id="3", start="2000-01-01", end="2000-01-02")
     b = make(id="4", start="2099-01-01", end="2099-01-05")
     out = scrape.merge([[a, dup, ent], [past, b]], today="2026-07-13")
@@ -120,8 +128,9 @@ def test_merge_cinema_title_with_keyword_not_downgraded():
     assert out[0]["category"] == "電影"
 
 
-def test_cinema_excluded_from_discord_push():
-    # 院線電影唔推 Discord，其餘照推
+def test_cinema_and_concert_excluded_from_discord_push():
+    # 院線電影同演唱會唔推 Discord，其餘照推
     new = [make(id="film", category="電影"),
+           make(id="con", category="演唱會"),
            make(id="show", category="表演藝術")]
     assert [e["id"] for e in scrape.discord_events(new)] == ["show"]
