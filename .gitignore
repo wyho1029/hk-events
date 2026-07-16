@@ -2,3 +2,5 @@ __pycache__/
 .pytest_cache/
 .superpowers/
 .playwright-mcp/
+list_my_prompts.py
+我的指令清單.md
