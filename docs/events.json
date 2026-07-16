@@ -1,5 +1,5 @@
 {
- "updated": "2026-07-15",
+ "updated": "2026-07-16",
  "events": [
   {
    "id": "e13429ad674f",
@@ -84,18 +84,6 @@
    "source": "盛事之都",
    "image": "https://www.brandhk.gov.hk/images/default-source/about-brandhk/17beb7ccf-3776-45cb-9387-14a9cf359796.jpg",
    "featured": true
-  },
-  {
-   "id": "325a35f87f29",
-   "title": "MOLLY尋星之旅-重返太平山頂 @山頂",
-   "category": "休閒",
-   "start": "2026-01-18",
-   "end": "2026-07-15",
-   "venue": "凌霄閣 及 凌霄閣摩天台428",
-   "url": "https://timable.com/zh/event/MOLLY%E5%B0%8B%E6%98%9F%E4%B9%8B%E6%97%85-%E9%87%8D%E8%BF%94%E5%A4%AA%E5%B9%B3%E5%B1%B1%E9%A0%82",
-   "source": "Timable",
-   "image": "https://static.timable.com/image_893a5e20-cf39-46d1-a13c-f5131c67cb1a-456x456.webp",
-   "featured": false
   },
   {
    "id": "22cb415b7e49",
@@ -239,18 +227,6 @@
    "url": "https://timable.com/zh/event/FOREVERTOYS-%E6%B5%B7%E6%B8%AF%E5%9F%8E",
    "source": "Timable",
    "image": "https://static.timable.com/image_64fe8a9c-7cb0-49e6-8c2b-184c893b5821-480x480.webp",
-   "featured": false
-  },
-  {
-   "id": "378d9d486053",
-   "title": "2026-27年度「十八有藝──西貢社區演藝計劃」《琴聲貢聚》口琴計劃──口琴速成工作坊",
-   "category": "表演藝術",
-   "start": "2026-06-21",
-   "end": "2026-07-15",
-   "venue": "西貢區內場地",
-   "url": "https://www.facebook.com/hkharmonica",
-   "source": "康文署",
-   "image": "",
    "featured": false
   },
   {
@@ -650,42 +626,6 @@
    "featured": false
   },
   {
-   "id": "cd8761c9202f",
-   "title": "2026 世界合唱節 — 香港：閉幕決賽",
-   "category": "表演藝術",
-   "start": "2026-07-15",
-   "end": "2026-07-15",
-   "venue": "香港文化中心 (音樂廳)",
-   "url": "https://www.lcsd.gov.hk/tc/ticket/index.html",
-   "source": "康文署",
-   "image": "",
-   "featured": false
-  },
-  {
-   "id": "99535979f864",
-   "title": "2026-27年度 「十八有藝──元朗社區演藝計劃」《踏歌同行》音樂劇計劃──成人55+音樂劇工作坊 (初階)",
-   "category": "表演藝術",
-   "start": "2026-07-15",
-   "end": "2026-08-19",
-   "venue": "天耀社區中心 (禮堂)",
-   "url": "https://www.cpo.gov.hk/zh-hk/event/tc-yl-2627/",
-   "source": "康文署",
-   "image": "",
-   "featured": false
-  },
-  {
-   "id": "87fc794c1059",
-   "title": "2026-27年度 「十八有藝──元朗社區演藝計劃」《踏歌同行》音樂劇計劃──成人音樂劇工作坊 (初階)",
-   "category": "表演藝術",
-   "start": "2026-07-15",
-   "end": "2026-08-19",
-   "venue": "朗屏社區會堂",
-   "url": "https://www.cpo.gov.hk/zh-hk/event/tc-yl-2627/",
-   "source": "康文署",
-   "image": "",
-   "featured": false
-  },
-  {
    "id": "00a27d87e999",
    "title": "UFO離奇命案",
    "category": "電影",
@@ -695,18 +635,6 @@
    "url": "https://hkmovie6.com/movie/a4a90c42-5984-41d0-8d6d-acbba2d56867/UFO%E9%9B%A2%E5%A5%87%E5%91%BD%E6%A1%88",
    "source": "hkmovie6",
    "image": "https://storage.movie6.com/image-transform/f=auto,q=75,w=500/https://storage.movie6.com/movie/4a495_UFOUM_27x38posternewdate_1782279304.jpg",
-   "featured": false
-  },
-  {
-   "id": "79fe58dfe283",
-   "title": "「未完待續·不再獨自升級」",
-   "category": "休閒",
-   "start": "2026-07-15",
-   "end": "2026-07-15",
-   "venue": "大埔文娛中心 (黑盒劇場)",
-   "url": "http://www.instagram.com/signhere.tpis",
-   "source": "康文署",
-   "image": "",
    "featured": false
   },
   {
@@ -794,18 +722,6 @@
    "featured": false
   },
   {
-   "id": "76fccb5210f9",
-   "title": "名曲粵韻獻知音",
-   "category": "表演藝術",
-   "start": "2026-07-15",
-   "end": "2026-07-15",
-   "venue": "荃灣大會堂 (演奏廳)",
-   "url": "https://www.lcsd.gov.hk/tc/ticket/index.html",
-   "source": "康文署",
-   "image": "",
-   "featured": false
-  },
-  {
    "id": "7da2954a3b6b",
    "title": "嚇房",
    "category": "電影",
@@ -827,18 +743,6 @@
    "url": "https://wmoov.com/movie/details/72312",
    "source": "wmoov",
    "image": "https://wmoov.com/assets/poster/4243f0ef2811a86172b89925d47c4ae5.jpg",
-   "featured": false
-  },
-  {
-   "id": "a96217e9edc3",
-   "title": "夏之曲2026：憶",
-   "category": "休閒",
-   "start": "2026-07-15",
-   "end": "2026-07-15",
-   "venue": "屯門大會堂 (演奏廳)",
-   "url": "https://www.plkc.edu.hk/sd2026/",
-   "source": "康文署",
-   "image": "",
    "featured": false
   },
   {
@@ -974,18 +878,6 @@
    "featured": false
   },
   {
-   "id": "f3a4337cb7a1",
-   "title": "波比歌皇甜華妹",
-   "category": "休閒",
-   "start": "2026-07-15",
-   "end": "2026-07-15",
-   "venue": "上環文娛中心 (劇院)",
-   "url": "https://www.lcsd.gov.hk/tc/ticket/index.html",
-   "source": "康文署",
-   "image": "",
-   "featured": false
-  },
-  {
    "id": "8239226a033a",
    "title": "流浪犬小飯",
    "category": "電影",
@@ -1070,30 +962,6 @@
    "featured": false
   },
   {
-   "id": "b50b471d4679",
-   "title": "粵劇《狀元夜審武探花》",
-   "category": "表演藝術",
-   "start": "2026-07-15",
-   "end": "2026-07-15",
-   "venue": "高山劇場 (劇院)",
-   "url": "https://www.lcsd.gov.hk/clpss/tc/search/culture/DetailForm.do?id=183338",
-   "source": "康文署",
-   "image": "",
-   "featured": false
-  },
-  {
-   "id": "cad7e4f2fa91",
-   "title": "粵韻名曲欣賞會",
-   "category": "表演藝術",
-   "start": "2026-07-15",
-   "end": "2026-07-15",
-   "venue": "屯門大會堂 (文娛廳)",
-   "url": "https://www.lcsd.gov.hk/tc/ticket/index.html",
-   "source": "康文署",
-   "image": "",
-   "featured": false
-  },
-  {
    "id": "9d4113055979",
    "title": "給阿嬤的情書",
    "category": "電影",
@@ -1103,18 +971,6 @@
    "url": "https://hkmovie6.com/movie/1e07a017-6825-46f5-aabb-fa5d56394f15/%E7%B5%A6%E9%98%BF%E5%AC%A4%E7%9A%84%E6%83%85%E6%9B%B8",
    "source": "hkmovie6",
    "image": "https://storage.movie6.com/image-transform/f=auto,q=75,w=500/https://storage.movie6.com/movie/42ad5_DearYou_V5_1781494913.jpg",
-   "featured": false
-  },
-  {
-   "id": "9251f5b1e238",
-   "title": "華麗鳳怡匯香江",
-   "category": "休閒",
-   "start": "2026-07-15",
-   "end": "2026-07-15",
-   "venue": "葵青劇院 (演藝廳)",
-   "url": "https://www.lcsd.gov.hk/tc/ticket/index.html",
-   "source": "康文署",
-   "image": "",
    "featured": false
   },
   {
@@ -2168,7 +2024,7 @@
    "start": "2026-07-20",
    "end": "2026-07-20",
    "venue": "屯門大會堂 (文娛廳)",
-   "url": "https://www.lcsd.gov.hk/clpss/tc/search/culture/DetailForm.do?id=183453",
+   "url": "https://www.lcsd.gov.hk/tc/ticket/index.html",
    "source": "康文署",
    "image": "",
    "featured": false
@@ -3020,7 +2876,7 @@
    "start": "2026-07-26",
    "end": "2026-07-26",
    "venue": "屯門大會堂 (演奏廳)",
-   "url": "https://www.lcsd.gov.hk/clpss/tc/search/culture/DetailForm.do?id=183433",
+   "url": "https://www.lcsd.gov.hk/tc/ticket/index.html",
    "source": "康文署",
    "image": "",
    "featured": false
@@ -4790,6 +4646,18 @@
    "featured": false
   },
   {
+   "id": "ed997f6a4548",
+   "title": "嶺藝一脈 • 承古啟今",
+   "category": "休閒",
+   "start": "2026-08-12",
+   "end": "2026-08-16",
+   "venue": "香港大會堂 (展覽廳)",
+   "url": "https://www.lcsd.gov.hk/tc/ticket/index.html",
+   "source": "康文署",
+   "image": "",
+   "featured": false
+  },
+  {
    "id": "2f9695012027",
    "title": "慶祝國慶七十七週年越劇《盤夫索夫》專場（六）",
    "category": "休閒",
@@ -5954,18 +5822,6 @@
    "featured": false
   },
   {
-   "id": "6de23086b5b7",
-   "title": "代父重婚",
-   "category": "休閒",
-   "start": "2026-08-22",
-   "end": "2026-08-30",
-   "venue": "香港大會堂 (劇院)",
-   "url": "https://www.chungying.com/production-list/marry-mummy-in-daddys-shoes-20/",
-   "source": "康文署",
-   "image": "",
-   "featured": false
-  },
-  {
    "id": "10fccff54def",
    "title": "兒童粤劇展演",
    "category": "親子",
@@ -6081,6 +5937,18 @@
    "end": "2026-08-23",
    "venue": "高山劇場 (新翼演藝廳)",
    "url": "https://www.lcsd.gov.hk/clpss/tc/search/culture/DetailForm.do?id=184639",
+   "source": "康文署",
+   "image": "",
+   "featured": false
+  },
+  {
+   "id": "6de23086b5b7",
+   "title": "代父重婚",
+   "category": "休閒",
+   "start": "2026-08-23",
+   "end": "2026-08-30",
+   "venue": "香港大會堂 (劇院)",
+   "url": "https://www.chungying.com/production-list/marry-mummy-in-daddys-shoes-20/",
    "source": "康文署",
    "image": "",
    "featured": false
@@ -6573,6 +6441,18 @@
    "end": "2026-08-30",
    "venue": "屯門大會堂 (文娛廳)",
    "url": "https://www.lcsd.gov.hk/tc/ticket/index.html",
+   "source": "康文署",
+   "image": "",
+   "featured": false
+  },
+  {
+   "id": "e6253bfc2921",
+   "title": "2026梁玳琳師生音樂會",
+   "category": "表演藝術",
+   "start": "2026-08-30",
+   "end": "2026-08-30",
+   "venue": "沙田大會堂 (文娛廳)",
+   "url": "https://www.instagram.com/missleung_guzheng/",
    "source": "康文署",
    "image": "",
    "featured": false
