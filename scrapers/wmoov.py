@@ -1,4 +1,5 @@
 import datetime
+import re
 
 from bs4 import BeautifulSoup
 
@@ -41,6 +42,12 @@ def fetch():
         r = card.select_one("div.rating b")
         if r is not None:
             rating = r.get_text(strip=True)
+        # 場次數（「查看場次/購票(共283場)」）＝院線排片量，用嚟排熱門
+        shows = 0
+        opt = card.select_one("select.movie_version option")
+        m = re.search(r"共([\d,]+)場", opt.get_text() if opt else "")
+        if m:
+            shows = int(m.group(1).replace(",", ""))
         movies[mid] = {
             "id": make_id(SOURCE, mid),
             "title": title,
@@ -52,5 +59,6 @@ def fetch():
             "source": SOURCE,
             "image": image,
             "rating": rating,
+            "shows": shows,
         }
     return list(movies.values())

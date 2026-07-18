@@ -196,7 +196,9 @@ function renderHero() {
 }
 
 function renderFilms() {
-  const films = EVENTS.filter(e => e.category === "電影");
+  // 按場次數排：院線排片量最反映「近期邊齣當旺」
+  const films = EVENTS.filter(e => e.category === "電影")
+    .sort((a, b) => (b.shows || 0) - (a.shows || 0));
   document.getElementById("films").hidden = films.length === 0;
   document.getElementById("filmrail").innerHTML = films.map(e => `
     <a class="fc" href="${esc(safeUrl(e))}" target="_blank" rel="noopener">
@@ -218,12 +220,14 @@ function render() {
     (!kw || (e.title + "\n" + e.venue).toLowerCase().includes(kw)) &&
     // 不篩選時院線電影只喺海報橫掃出，唔喺主列表重複
     (filtering || e.category !== "電影"));
+  // 電影欄按場次數排熱門，其餘照日期序
+  if (cat === "電影") hits.sort((a, b) => (b.shows || 0) - (a.shows || 0));
   document.getElementById("list").innerHTML = hits.map(e => `
     <div class="ev">
       <div class="tx">
         <a href="${esc(safeUrl(e))}" target="_blank" rel="noopener">${esc(e.title)}</a>
         <div class="meta"><span class="tag">${(META[e.category] || META["休閒"]).e} ${esc(e.category)}</span>
-          ${e.rating ? "★ " + esc(e.rating) + "｜" : ""}${esc(fmt(e))}${e.venue ? "｜" + esc(e.venue) : ""}｜來源：${esc(e.source)}</div>
+          ${e.rating ? "★ " + esc(e.rating) + "｜" : ""}${e.shows ? e.shows + " 場｜" : ""}${esc(fmt(e))}${e.venue ? "｜" + esc(e.venue) : ""}｜來源：${esc(e.source)}</div>
       </div>
       ${e.image ? `<img class="thumb" src="${esc(e.image)}" alt=""
                         loading="lazy" onerror="this.remove()">` : ""}

@@ -39,7 +39,7 @@
   },
   {
    "id": "01bad659f9be",
-   "title": "「M+希克藏品: 心靈圖景」展覽",
+   "title": "「M+希克藏品: 別傳」展覽",
    "category": "展覽",
    "start": "2025-06-27",
    "end": "2027-08-01",
@@ -667,7 +667,7 @@
    "category": "表演藝術",
    "start": "2026-07-10",
    "end": "2026-08-31",
-   "venue": "朗豪坊",
+   "venue": "Langham Place",
    "url": "https://timable.com/zh/event/%E5%8A%87%E5%A0%B4%E7%89%88CHIIKAWA%E4%BA%BA%E9%AD%9A%E5%B3%B6%E7%9A%84%E7%A7%98%E5%AF%86-%E9%99%90%E5%AE%9A%E6%89%93%E5%8D%A1%E9%AB%94%E9%A9%97",
    "source": "Timable",
    "image": "https://static.timable.com/image_25b9523b-3113-4d94-b962-205b12c3cee8-480x480.webp",
@@ -907,7 +907,7 @@
    "category": "演唱會",
    "start": "2026-07-18",
    "end": "2026-07-20",
-   "venue": "香港體育館 (紅館)",
+   "venue": "Hong Kong Coliseum",
    "url": "https://timable.com/zh/event/Jason%20%E9%99%B3%E6%9F%8F%E5%AE%87%20%22Live%20in%20Frames%22%2020%E9%80%B1%E5%B9%B4%E7%B4%85%E9%A4%A8%E6%BC%94%E5%94%B1%E6%9C%83%202026",
    "source": "Timable",
    "image": "https://static.timable.com/image_71051032-670f-4c50-82a4-2341fab0a6b6-466x466.webp",
@@ -919,7 +919,7 @@
    "category": "演唱會",
    "start": "2026-07-18",
    "end": "2026-07-18",
-   "venue": "亞洲國際博覽館 ARENA",
+   "venue": "Arena, AsiaWorld Expo",
    "url": "https://timable.com/zh/event/LiSA-LiVEisSmileAlway-15--%E4%BA%9E%E6%B4%B2%E5%B7%A1%E8%BF%B4%E6%BC%94%E5%94%B1%E6%9C%832026%E9%A6%99%E6%B8%AF%E7%AB%99",
    "source": "Timable",
    "image": "https://static.timable.com/image_c40aff5e-a891-4f60-8bd9-098e7dd58b82-466x466.webp",
@@ -936,6 +936,7 @@
    "source": "wmoov",
    "image": "https://wmoov.com/assets/poster/f2349fc5f5823731b50e29172643a0c5.jpg",
    "rating": "7",
+   "shows": 72,
    "featured": false
   },
   {
@@ -973,6 +974,7 @@
    "source": "wmoov",
    "image": "https://wmoov.com/assets/poster/d9445423a7ef296a2bbc9eee55de6993.jpg",
    "rating": "7.2",
+   "shows": 45,
    "featured": false
   },
   {
@@ -1034,6 +1036,7 @@
    "source": "wmoov",
    "image": "https://wmoov.com/assets/poster/412a6d8b8f56b299f09666edee882110.jpg",
    "rating": "6.5",
+   "shows": 2,
    "featured": false
   },
   {
@@ -1047,6 +1050,7 @@
    "source": "wmoov",
    "image": "https://wmoov.com/assets/poster/be14993e561f94b0873264ee890ea7c7.jpg",
    "rating": "",
+   "shows": 4,
    "featured": false
   },
   {
@@ -1060,6 +1064,7 @@
    "source": "wmoov",
    "image": "https://wmoov.com/assets/poster/6c1066f55c1887fba73ac953b95d7966.jpg",
    "rating": "8.4",
+   "shows": 191,
    "featured": false
   },
   {
@@ -1073,6 +1078,7 @@
    "source": "wmoov",
    "image": "https://wmoov.com/assets/poster/221c818b7d6b8dd97e89305e9bc32eaf.jpg",
    "rating": "",
+   "shows": 50,
    "featured": false
   },
   {
@@ -1086,6 +1092,7 @@
    "source": "wmoov",
    "image": "https://wmoov.com/assets/poster/f9b57589e65c985991adcf9e462984ce.jpg",
    "rating": "",
+   "shows": 34,
    "featured": false
   },
   {
@@ -1099,6 +1106,7 @@
    "source": "wmoov",
    "image": "https://wmoov.com/assets/poster/4243f0ef2811a86172b89925d47c4ae5.jpg",
    "rating": "",
+   "shows": 1,
    "featured": false
   },
   {
@@ -1184,6 +1192,7 @@
    "source": "wmoov",
    "image": "https://wmoov.com/assets/poster/8ab854d7612f223a86b34782c8d15da4.jpg",
    "rating": "",
+   "shows": 2,
    "featured": false
   },
   {
@@ -1197,6 +1206,7 @@
    "source": "wmoov",
    "image": "https://wmoov.com/assets/poster/deabaea17af602310af9633d8dea4615.jpg",
    "rating": "8.9",
+   "shows": 283,
    "featured": false
   },
   {
@@ -1222,6 +1232,7 @@
    "source": "wmoov",
    "image": "https://wmoov.com/assets/poster/38c42bfa9e49de5bd4364d18b5037aa9.jpg",
    "rating": "5",
+   "shows": 1,
    "featured": false
   },
   {
@@ -1235,6 +1246,7 @@
    "source": "wmoov",
    "image": "https://wmoov.com/assets/poster/47f89d52d1f0a64bb38b6026169ae9ef.jpg",
    "rating": "7",
+   "shows": 3,
    "featured": false
   },
   {
@@ -1248,6 +1260,7 @@
    "source": "wmoov",
    "image": "https://wmoov.com/assets/poster/e30f7f1f5e2d4d3432de084cd91b123c.jpg",
    "rating": "7.1",
+   "shows": 7,
    "featured": false
   },
   {
@@ -1273,6 +1286,7 @@
    "source": "wmoov",
    "image": "https://wmoov.com/assets/poster/c8c2800cb10f354d3bc3ffab7d106e56.jpg",
    "rating": "",
+   "shows": 8,
    "featured": false
   },
   {
@@ -1286,6 +1300,7 @@
    "source": "wmoov",
    "image": "https://wmoov.com/assets/poster/fd362fb9eb62eeb5de5db7ddeef9e84b.jpg",
    "rating": "7.5",
+   "shows": 1,
    "featured": false
   },
   {
@@ -1299,6 +1314,7 @@
    "source": "wmoov",
    "image": "https://wmoov.com/assets/poster/a1420bad6a36528644efb51687b8e245.jpg",
    "rating": "",
+   "shows": 2,
    "featured": false
   },
   {
@@ -1312,6 +1328,7 @@
    "source": "wmoov",
    "image": "https://wmoov.com/assets/poster/3df1354c07181d688d325c4547da1c05.jpg",
    "rating": "8.7",
+   "shows": 43,
    "featured": false
   },
   {
@@ -1325,6 +1342,7 @@
    "source": "wmoov",
    "image": "https://wmoov.com/assets/poster/ab3faffd713951d48711f106b4c0246b.jpg",
    "rating": "",
+   "shows": 1,
    "featured": false
   },
   {
@@ -1350,6 +1368,7 @@
    "source": "wmoov",
    "image": "https://wmoov.com/assets/poster/690dabe113ee9a47c26cd022878227d3.jpg",
    "rating": "7.7",
+   "shows": 1,
    "featured": false
   },
   {
@@ -1363,6 +1382,7 @@
    "source": "wmoov",
    "image": "https://wmoov.com/assets/poster/9c5473075218385efc634fb44b595943.jpg",
    "rating": "7",
+   "shows": 5,
    "featured": false
   },
   {
@@ -1376,6 +1396,7 @@
    "source": "wmoov",
    "image": "https://wmoov.com/assets/poster/691a4a79d660350f4ffc2c7a80eef705.jpg",
    "rating": "7.8",
+   "shows": 1,
    "featured": false
   },
   {
@@ -1389,6 +1410,7 @@
    "source": "wmoov",
    "image": "https://wmoov.com/assets/poster/92f167076066e20215e8a13000a0022a.jpg",
    "rating": "8.2",
+   "shows": 22,
    "featured": false
   },
   {
@@ -1414,6 +1436,7 @@
    "source": "wmoov",
    "image": "https://wmoov.com/assets/poster/147cffb07eb4dc8e6f5be30643112cfc.jpg",
    "rating": "7.8",
+   "shows": 4,
    "featured": false
   },
   {
@@ -1427,6 +1450,7 @@
    "source": "wmoov",
    "image": "https://wmoov.com/assets/poster/c74b9532678a5fbce6d2098e32b9bcea.jpg",
    "rating": "6.3",
+   "shows": 108,
    "featured": false
   },
   {
@@ -1452,6 +1476,7 @@
    "source": "wmoov",
    "image": "https://wmoov.com/assets/poster/f308f53b1d3980ac533e5f6f6c0bfd16.jpg",
    "rating": "8.9",
+   "shows": 1,
    "featured": false
   },
   {
@@ -1465,6 +1490,7 @@
    "source": "wmoov",
    "image": "https://wmoov.com/assets/poster/1f9f45cb34cafe3c28685d26944cb3d7.jpg",
    "rating": "8.7",
+   "shows": 101,
    "featured": false
   },
   {
@@ -1478,6 +1504,7 @@
    "source": "wmoov",
    "image": "https://wmoov.com/assets/poster/4d640ebfcbd2795a49ddfd79f2ef970c.jpg",
    "rating": "9.1",
+   "shows": 5,
    "featured": false
   },
   {
@@ -1491,6 +1518,7 @@
    "source": "wmoov",
    "image": "https://wmoov.com/assets/poster/5e09002aa5f8a32b3a08f2176ed52804.jpg",
    "rating": "8",
+   "shows": 1,
    "featured": false
   },
   {
@@ -1516,6 +1544,7 @@
    "source": "wmoov",
    "image": "https://wmoov.com/assets/poster/d1dcaa0a418df045cab497cb68a9e2d7.jpg",
    "rating": "8.4",
+   "shows": 3,
    "featured": false
   },
   {
@@ -1541,6 +1570,7 @@
    "source": "wmoov",
    "image": "https://wmoov.com/assets/poster/60118b59aa714d9b4061f4b1e8c3da8f.jpg",
    "rating": "7",
+   "shows": 3,
    "featured": false
   },
   {
@@ -1554,6 +1584,7 @@
    "source": "wmoov",
    "image": "https://wmoov.com/assets/poster/02e9810378ad77d2f076239467c9d2bb.jpg",
    "rating": "8",
+   "shows": 8,
    "featured": false
   },
   {
@@ -1567,6 +1598,7 @@
    "source": "wmoov",
    "image": "https://wmoov.com/assets/poster/78ad21fb737204ebc9973f4d18fa79e2.jpg",
    "rating": "6.2",
+   "shows": 142,
    "featured": false
   },
   {
@@ -1592,6 +1624,7 @@
    "source": "wmoov",
    "image": "https://wmoov.com/assets/poster/af4c2237eb5b623a0dd25f1af1bf6fba.jpg",
    "rating": "8.2",
+   "shows": 1,
    "featured": false
   },
   {
@@ -1605,6 +1638,7 @@
    "source": "wmoov",
    "image": "https://wmoov.com/assets/poster/5cf9e11191c48adbc489d1fc9c79e548.jpg",
    "rating": "7",
+   "shows": 203,
    "featured": false
   },
   {
@@ -1630,6 +1664,7 @@
    "source": "wmoov",
    "image": "https://wmoov.com/assets/poster/e105636c48eaaaae11799c6cee1fad43.jpg",
    "rating": "8.2",
+   "shows": 34,
    "featured": false
   },
   {
@@ -4729,6 +4764,18 @@
    "featured": false
   },
   {
+   "id": "2e0978d24b43",
+   "title": "\"The Elixir of Love\" Donizetti’s Opera 2026",
+   "category": "休閒",
+   "start": "2026-08-14",
+   "end": "2026-08-15",
+   "venue": "Concert Hall, Hong Kong City Hall",
+   "url": "https://timable.com/zh/event/%E5%94%90%E5%B0%BC%E9%87%87%E8%92%82-%E6%84%9B%E6%83%85%E9%9D%88%E8%97%A5-%E6%AD%8C%E5%8A%872026",
+   "source": "Timable",
+   "image": "https://static.timable.com/image_fd4541e7-ab2d-4195-a9e7-73a93bdd0232-480x480.webp",
+   "featured": false
+  },
+  {
    "id": "cf4df494f560",
    "title": "SHINE ON！保良慈善演唱會",
    "category": "演唱會",
@@ -4786,18 +4833,6 @@
    "url": "https://operahongkong.org/zh/the-elixir-of-love-zh/",
    "source": "康文署",
    "image": "",
-   "featured": false
-  },
-  {
-   "id": "2e0978d24b43",
-   "title": "唐尼采蒂《愛情靈藥》歌劇 2026",
-   "category": "表演藝術",
-   "start": "2026-08-14",
-   "end": "2026-08-15",
-   "venue": "香港大會堂 音樂廳",
-   "url": "https://timable.com/zh/event/%E5%94%90%E5%B0%BC%E9%87%87%E8%92%82-%E6%84%9B%E6%83%85%E9%9D%88%E8%97%A5-%E6%AD%8C%E5%8A%872026",
-   "source": "Timable",
-   "image": "https://static.timable.com/image_fd4541e7-ab2d-4195-a9e7-73a93bdd0232-480x480.webp",
    "featured": false
   },
   {
@@ -6786,7 +6821,7 @@
    "category": "演唱會",
    "start": "2026-10-03",
    "end": "2026-10-03",
-   "venue": "亞洲國際博覽館 ARENA",
+   "venue": "Arena, AsiaWorld Expo",
    "url": "https://timable.com/zh/event/Vaundy-HORO-%E4%BA%9E%E6%B4%B2%E5%B7%A1%E8%BF%B4%E6%BC%94%E5%94%B1%E6%9C%832026%E9%A6%99%E6%B8%AF%E7%AB%99",
    "source": "Timable",
    "image": "https://static.timable.com/image_c34e6b42-3370-481d-be4b-be1f3d848f22-466x466.webp",
