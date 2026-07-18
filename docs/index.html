@@ -227,7 +227,7 @@ function render() {
       <div class="tx">
         <a href="${esc(safeUrl(e))}" target="_blank" rel="noopener">${esc(e.title)}</a>
         <div class="meta"><span class="tag">${(META[e.category] || META["休閒"]).e} ${esc(e.category)}</span>
-          ${e.rating ? "★ " + esc(e.rating) + "｜" : ""}${e.shows ? e.shows + " 場｜" : ""}${esc(fmt(e))}${e.venue ? "｜" + esc(e.venue) : ""}｜來源：${esc(e.source)}</div>
+          ${e.rating ? "★ " + esc(e.rating) + "｜" : ""}${e.shows ? e.shows + " 場｜" : ""}${e.category === "電影" ? "現正上映" : esc(fmt(e)) + (e.venue ? "｜" + esc(e.venue) : "")}｜來源：${esc(e.source)}</div>
       </div>
       ${e.image ? `<img class="thumb" src="${esc(e.image)}" alt=""
                         loading="lazy" onerror="this.remove()">` : ""}
