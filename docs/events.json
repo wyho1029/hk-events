@@ -1,5 +1,5 @@
 {
- "updated": "2026-07-17",
+ "updated": "2026-07-18",
  "events": [
   {
    "id": "e13429ad674f",
@@ -177,18 +177,6 @@
    "end": "2026-07-29",
    "venue": "香港太空館 (演講廳)",
    "url": "https://www.lcsd.gov.hk/CE/CulturalService/Programme/tc/music/programs_1950.html",
-   "source": "康文署",
-   "image": "",
-   "featured": false
-  },
-  {
-   "id": "12a70a699497",
-   "title": "2026-27年度「十八有藝──沙田社區演藝計劃」《身體年輪》長者舞蹈計劃──跨代工作坊",
-   "category": "表演藝術",
-   "start": "2026-05-30",
-   "end": "2026-07-17",
-   "venue": "沙田區內場地",
-   "url": "https://www.unlock.com.hk",
    "source": "康文署",
    "image": "",
    "featured": false
@@ -410,6 +398,18 @@
    "featured": false
   },
   {
+   "id": "762760484fad",
+   "title": "社交舞",
+   "category": "休閒",
+   "start": "2026-07-03",
+   "end": "2026-12-30",
+   "venue": "大埔文娛中心 (活動室(2))",
+   "url": "https://www.lcsd.gov.hk/tc/ticket/index.html",
+   "source": "康文署",
+   "image": "",
+   "featured": false
+  },
+  {
    "id": "c1a47a6ddf69",
    "title": "「游於藝乎」展覽",
    "category": "展覽",
@@ -482,7 +482,31 @@
    "featured": false
   },
   {
+   "id": "e02a695ce222",
+   "title": "推廣古箏藝術工作坊",
+   "category": "休閒",
+   "start": "2026-07-05",
+   "end": "2026-12-27",
+   "venue": "大埔文娛中心 (活動室(2))",
+   "url": "https://www.lcsd.gov.hk/tc/ticket/index.html",
+   "source": "康文署",
+   "image": "",
+   "featured": false
+  },
+  {
    "id": "ff15d553b6d6",
+   "title": "合唱、歌唱技巧班",
+   "category": "表演藝術",
+   "start": "2026-07-06",
+   "end": "2026-12-28",
+   "venue": "北區大會堂 (活動室(1))",
+   "url": "https://www.lcsd.gov.hk/tc/ticket/index.html",
+   "source": "康文署",
+   "image": "",
+   "featured": false
+  },
+  {
+   "id": "7bd823c60e7a",
    "title": "合唱、歌唱技巧班",
    "category": "表演藝術",
    "start": "2026-07-06",
@@ -524,6 +548,18 @@
    "start": "2026-07-07",
    "end": "2026-12-29",
    "venue": "北區大會堂 (活動室(2))",
+   "url": "https://www.lcsd.gov.hk/tc/ticket/index.html",
+   "source": "康文署",
+   "image": "",
+   "featured": false
+  },
+  {
+   "id": "6aae18f494e6",
+   "title": "粵曲研習班",
+   "category": "表演藝術",
+   "start": "2026-07-07",
+   "end": "2026-12-29",
+   "venue": "北區大會堂 (活動室(1))",
    "url": "https://www.lcsd.gov.hk/tc/ticket/index.html",
    "source": "康文署",
    "image": "",
@@ -668,18 +704,6 @@
    "start": "2026-07-10",
    "end": "2026-08-01",
    "venue": "香港文化中心 (大劇院)",
-   "url": "https://www.lcsd.gov.hk/tc/ticket/index.html",
-   "source": "康文署",
-   "image": "",
-   "featured": false
-  },
-  {
-   "id": "1d0a2afe4c46",
-   "title": "書畫物「乳」—師生作品聯展",
-   "category": "展覽",
-   "start": "2026-07-14",
-   "end": "2026-07-17",
-   "venue": "香港大會堂 (展覽館)",
    "url": "https://www.lcsd.gov.hk/tc/ticket/index.html",
    "source": "康文署",
    "image": "",
@@ -1166,18 +1190,6 @@
    "featured": false
   },
   {
-   "id": "b0d2e3912957",
-   "title": "特備活動 : 宇宙中的太陽系",
-   "category": "休閒",
-   "start": "2026-07-16",
-   "end": "2026-07-17",
-   "venue": "香港太空館",
-   "url": "https://hk.space.museum/tc/web/spm/activities/SpecialProgramme.html",
-   "source": "康文署",
-   "image": "",
-   "featured": false
-  },
-  {
    "id": "b43734189cc8",
    "title": "現代水墨畫展覽—吳信昌師生作品展",
    "category": "展覽",
@@ -1185,18 +1197,6 @@
    "end": "2026-07-19",
    "venue": "沙田大會堂 (展覽廳)",
    "url": "https://mos.hk/",
-   "source": "康文署",
-   "image": "",
-   "featured": false
-  },
-  {
-   "id": "6d4f89a1f817",
-   "title": "2025-26年度結業禮暨遊藝節目",
-   "category": "休閒",
-   "start": "2026-07-17",
-   "end": "2026-07-17",
-   "venue": "牛池灣文娛中心 (劇院)",
-   "url": "https://www.lcsd.gov.hk/tc/ticket/index.html",
    "source": "康文署",
    "image": "",
    "featured": false
@@ -1211,18 +1211,6 @@
    "url": "https://timable.com/zh/event/Scoop-Cone-AIRSIDE%E5%A4%8F%E6%97%A5Gelato%E7%A5%AD-AIRSIDE",
    "source": "Timable",
    "image": "https://static.timable.com/image_d758a776-31c5-4e13-a8ae-86916f537152-480x600.webp",
-   "featured": false
-  },
-  {
-   "id": "dad7eb4c119b",
-   "title": "《梁祝》粵劇折子戲",
-   "category": "表演藝術",
-   "start": "2026-07-17",
-   "end": "2026-07-17",
-   "venue": "高山劇場 (劇院)",
-   "url": "https://www.lcsd.gov.hk/tc/ticket/index.html",
-   "source": "康文署",
-   "image": "",
    "featured": false
   },
   {
@@ -1250,109 +1238,13 @@
    "featured": false
   },
   {
-   "id": "fda84427ba48",
-   "title": "友情歲月演唱會",
-   "category": "演唱會",
-   "start": "2026-07-17",
-   "end": "2026-07-17",
-   "venue": "屯門大會堂 (文娛廳)",
-   "url": "https://www.lcsd.gov.hk/tc/ticket/index.html",
-   "source": "康文署",
-   "image": "",
-   "featured": false
-  },
-  {
-   "id": "3e344dabade8",
-   "title": "名曲粵韻獻知音",
-   "category": "表演藝術",
-   "start": "2026-07-17",
-   "end": "2026-07-17",
-   "venue": "北區大會堂 (演奏廳)",
-   "url": "https://www.lcsd.gov.hk/clpss/tc/search/culture/DetailForm.do?id=183418",
-   "source": "康文署",
-   "image": "",
-   "featured": false
-  },
-  {
    "id": "fe19a6d7c291",
-   "title": "國際綜藝合家歡2026︰一桌兩椅慈善基金《小希的逍遙遊》",
+   "title": "國際綜藝合家歡2026︰《小希的逍遙遊》",
    "category": "親子",
    "start": "2026-07-17",
    "end": "2026-07-19",
    "venue": "荃灣大會堂 (文娛廳)",
    "url": "https://www.hkiac.gov.hk/2026/tc/nanyin.html",
-   "source": "康文署",
-   "image": "",
-   "featured": false
-  },
-  {
-   "id": "94d9724c6033",
-   "title": "弦穎金色幻樂音樂會",
-   "category": "表演藝術",
-   "start": "2026-07-17",
-   "end": "2026-07-17",
-   "venue": "香港大會堂 (演奏廳)",
-   "url": "https://www.lcsd.gov.hk/tc/ticket/index.html",
-   "source": "康文署",
-   "image": "",
-   "featured": false
-  },
-  {
-   "id": "b549f775b5c0",
-   "title": "文藝協會歌舞匯演",
-   "category": "表演藝術",
-   "start": "2026-07-17",
-   "end": "2026-07-17",
-   "venue": "西灣河文娛中心 (文娛廳)",
-   "url": "https://www.lcsd.gov.hk/tc/ticket/index.html",
-   "source": "康文署",
-   "image": "",
-   "featured": false
-  },
-  {
-   "id": "fa512edf2da2",
-   "title": "星聲唱聚演唱會",
-   "category": "演唱會",
-   "start": "2026-07-17",
-   "end": "2026-07-17",
-   "venue": "屯門大會堂 (文娛廳)",
-   "url": "https://www.lcsd.gov.hk/tc/ticket/index.html",
-   "source": "康文署",
-   "image": "",
-   "featured": false
-  },
-  {
-   "id": "d8f60d1081ae",
-   "title": "第四屆風雷舞蹈平台《神曲 ‧ 你》",
-   "category": "表演藝術",
-   "start": "2026-07-17",
-   "end": "2026-07-17",
-   "venue": "香港文化中心 (劇場)",
-   "url": "https://www.lcsd.gov.hk/tc/ticket/index.html",
-   "source": "康文署",
-   "image": "",
-   "featured": false
-  },
-  {
-   "id": "24e95be43d35",
-   "title": "葵青區舞蹈精英匯演2026",
-   "category": "表演藝術",
-   "start": "2026-07-17",
-   "end": "2026-07-17",
-   "venue": "葵青劇院 (演藝廳)",
-   "url": "https://www.lcsd.gov.hk/tc/ticket/index.html",
-   "source": "康文署",
-   "image": "",
-   "featured": false
-  },
-  {
-   "id": "77fe8b5fe2e5",
-   "title": "銀幕管樂 . 經典再現",
-   "category": "表演藝術",
-   "start": "2026-07-17",
-   "end": "2026-07-17",
-   "venue": "牛池灣文娛中心 (劇院)",
-   "url": "https://www.lcsd.gov.hk/tc/ticket/index.html",
    "source": "康文署",
    "image": "",
    "featured": false
@@ -1413,6 +1305,18 @@
    "end": "2026-07-18",
    "venue": "觀塘區內場地",
    "url": "https://www.cpo.gov.hk/zh-hk/event/tc-kt-2627/",
+   "source": "康文署",
+   "image": "",
+   "featured": false
+  },
+  {
+   "id": "e1a1f797c934",
+   "title": "2026社區文化大使: 香港夏威夷小結他總會「Ukulele共融樂章」社區巡演「Ukulele共融音樂會」",
+   "category": "表演藝術",
+   "start": "2026-07-18",
+   "end": "2026-07-18",
+   "venue": "觀塘區內場地",
+   "url": "https://www.facebook.com/profile.php?id=61579457733803",
    "source": "康文署",
    "image": "",
    "featured": false
@@ -1725,6 +1629,30 @@
    "end": "2026-07-19",
    "venue": "離島區內場地",
    "url": "https://www.cpo.gov.hk/zh-hk/event/tc-is-2627/",
+   "source": "康文署",
+   "image": "",
+   "featured": false
+  },
+  {
+   "id": "8a224e0354d8",
+   "title": "2026社區文化大使: 東方琴韻藝術團「聽見非遺」中國音樂示範及講座：彈撥二重奏",
+   "category": "表演藝術",
+   "start": "2026-07-19",
+   "end": "2026-07-19",
+   "venue": "油尖旺區內場地",
+   "url": "https://www.facebook.com/RhythmicEast/",
+   "source": "康文署",
+   "image": "",
+   "featured": false
+  },
+  {
+   "id": "dc952f7af3e0",
+   "title": "2026社區文化大使: 竹韻小集「非遺好聲音」親子粵樂劇場︰當帝女花遇上黃飛鴻",
+   "category": "表演藝術",
+   "start": "2026-07-19",
+   "end": "2026-07-19",
+   "venue": "觀塘區內場地",
+   "url": "https://www.facebook.com/hkwindpipe/",
    "source": "康文署",
    "image": "",
    "featured": false
@@ -2559,8 +2487,8 @@
   },
   {
    "id": "dd622b628a1f",
-   "title": "國際綜藝合家歡2026︰葉氏兒童合唱團《愛麗絲夢遊仙境—鏡中奇遇再敍新篇》",
-   "category": "表演藝術",
+   "title": "國際綜藝合家歡2026︰《愛麗絲夢遊仙境—鏡中奇遇再敍新篇》",
+   "category": "親子",
    "start": "2026-07-25",
    "end": "2026-07-26",
    "venue": "沙田大會堂 (演奏廳)",
@@ -3219,8 +3147,8 @@
   },
   {
    "id": "b71661045248",
-   "title": "國際綜藝合家歡2026︰音樂夢劇場《仰望翱翔時》",
-   "category": "表演藝術",
+   "title": "國際綜藝合家歡2026︰《仰望翱翔時》",
+   "category": "親子",
    "start": "2026-07-31",
    "end": "2026-08-02",
    "venue": "葵青劇院 (演藝廳)",
@@ -3554,18 +3482,6 @@
    "featured": false
   },
   {
-   "id": "8c7f8d900946",
-   "title": "「漢字的奧秘」展覽",
-   "category": "展覽",
-   "start": "2026-08-02",
-   "end": "2026-08-02",
-   "venue": "上環文娛中心 (展覽廳)",
-   "url": "https://www.lcsd.gov.hk/tc/ticket/index.html",
-   "source": "康文署",
-   "image": "",
-   "featured": false
-  },
-  {
    "id": "1a0229951e1e",
    "title": "名劇戲曲知音共賞",
    "category": "表演藝術",
@@ -3812,7 +3728,7 @@
    "start": "2026-08-03",
    "end": "2026-08-03",
    "venue": "上環文娛中心 (演講廳)",
-   "url": "https://www.lcsd.gov.hk/clpss/tc/search/culture/DetailForm.do?id=184540",
+   "url": "https://www.lcsd.gov.hk/tc/ticket/index.html",
    "source": "康文署",
    "image": "",
    "featured": false
@@ -3884,7 +3800,7 @@
    "start": "2026-08-04",
    "end": "2026-08-04",
    "venue": "上環文娛中心 (演講廳)",
-   "url": "https://www.lcsd.gov.hk/clpss/tc/search/culture/DetailForm.do?id=184541",
+   "url": "https://www.lcsd.gov.hk/tc/ticket/index.html",
    "source": "康文署",
    "image": "",
    "featured": false
@@ -4676,7 +4592,7 @@
    "start": "2026-08-12",
    "end": "2026-08-12",
    "venue": "上環文娛中心 (劇院)",
-   "url": "https://www.lcsd.gov.hk/clpss/tc/search/culture/DetailForm.do?id=184536",
+   "url": "https://www.lcsd.gov.hk/tc/ticket/index.html",
    "source": "康文署",
    "image": "",
    "featured": false
@@ -5492,6 +5408,18 @@
    "start": "2026-08-18",
    "end": "2026-08-18",
    "venue": "高山劇場 (新翼演藝廳)",
+   "url": "https://www.lcsd.gov.hk/tc/ticket/index.html",
+   "source": "康文署",
+   "image": "",
+   "featured": false
+  },
+  {
+   "id": "12c53f55bb5c",
+   "title": "俠風弦起 — 李軍新二胡唱奏音樂會第七季",
+   "category": "表演藝術",
+   "start": "2026-08-18",
+   "end": "2026-08-18",
+   "venue": "上環文娛中心 (劇院)",
    "url": "https://www.lcsd.gov.hk/tc/ticket/index.html",
    "source": "康文署",
    "image": "",
@@ -6986,18 +6914,6 @@
    "featured": false
   },
   {
-   "id": "762760484fad",
-   "title": "社交舞",
-   "category": "休閒",
-   "start": "2026-12-18",
-   "end": "2026-12-30",
-   "venue": "大埔文娛中心 (活動室(2))",
-   "url": "https://www.lcsd.gov.hk/tc/ticket/index.html",
-   "source": "康文署",
-   "image": "",
-   "featured": false
-  },
-  {
    "id": "34414e21e883",
    "title": "2026-27年度「十八有藝──觀塘社區演藝計劃」《兒童及青少年粵劇培訓》── 兒童及青少年粵劇排演班",
    "category": "表演藝術",
@@ -7022,30 +6938,6 @@
    "featured": false
   },
   {
-   "id": "e02a695ce222",
-   "title": "推廣古箏藝術工作坊",
-   "category": "休閒",
-   "start": "2026-12-27",
-   "end": "2026-12-27",
-   "venue": "大埔文娛中心 (活動室(2))",
-   "url": "https://www.lcsd.gov.hk/tc/ticket/index.html",
-   "source": "康文署",
-   "image": "",
-   "featured": false
-  },
-  {
-   "id": "7bd823c60e7a",
-   "title": "合唱、歌唱技巧班",
-   "category": "表演藝術",
-   "start": "2026-12-28",
-   "end": "2026-12-28",
-   "venue": "北區大會堂 (活動室(1))",
-   "url": "https://www.lcsd.gov.hk/tc/ticket/index.html",
-   "source": "康文署",
-   "image": "",
-   "featured": false
-  },
-  {
    "id": "4e299772fffb",
    "title": "社交舞",
    "category": "休閒",
@@ -7064,18 +6956,6 @@
    "start": "2026-12-29",
    "end": "2026-12-30",
    "venue": "北區大會堂 (活動室(2))",
-   "url": "https://www.lcsd.gov.hk/tc/ticket/index.html",
-   "source": "康文署",
-   "image": "",
-   "featured": false
-  },
-  {
-   "id": "6aae18f494e6",
-   "title": "粵曲研習班",
-   "category": "表演藝術",
-   "start": "2026-12-29",
-   "end": "2026-12-29",
-   "venue": "北區大會堂 (活動室(1))",
    "url": "https://www.lcsd.gov.hk/tc/ticket/index.html",
    "source": "康文署",
    "image": "",
