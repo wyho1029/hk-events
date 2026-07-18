@@ -69,7 +69,10 @@
 
   /* 戲院上映 海報橫掃 */
   .fc { flex:0 0 128px; text-decoration:none;
-        color:var(--fg); display:block; }
+        color:var(--fg); display:block; position:relative; }
+  .fc .frate { position:absolute; top:6px; left:6px; font-size:12px;
+        font-weight:600; color:#ffd166; background:rgba(20,10,0,.72);
+        padding:2px 7px; border-radius:8px; }
   .fc .poster, .fc .ph { width:128px; height:190px; border-radius:8px;
         object-fit:cover; display:block; border:1px solid var(--line); }
   .fc .ph { background:linear-gradient(150deg,#b0552e,#e0a060);
@@ -200,6 +203,7 @@ function renderFilms() {
       ${e.image ? `<img class="poster" src="${esc(e.image)}" alt="" loading="lazy"
                         onerror="this.outerHTML='<div class=\\'ph\\'>🎬</div>'">`
                 : `<div class="ph">🎬</div>`}
+      ${e.rating ? `<span class="frate">★ ${esc(e.rating)}</span>` : ""}
       <div class="ft">${esc(e.title)}</div>
     </a>`).join("");
 }
@@ -219,7 +223,7 @@ function render() {
       <div class="tx">
         <a href="${esc(safeUrl(e))}" target="_blank" rel="noopener">${esc(e.title)}</a>
         <div class="meta"><span class="tag">${(META[e.category] || META["休閒"]).e} ${esc(e.category)}</span>
-          ${esc(fmt(e))}${e.venue ? "｜" + esc(e.venue) : ""}｜來源：${esc(e.source)}</div>
+          ${e.rating ? "★ " + esc(e.rating) + "｜" : ""}${esc(fmt(e))}${e.venue ? "｜" + esc(e.venue) : ""}｜來源：${esc(e.source)}</div>
       </div>
       ${e.image ? `<img class="thumb" src="${esc(e.image)}" alt=""
                         loading="lazy" onerror="this.remove()">` : ""}

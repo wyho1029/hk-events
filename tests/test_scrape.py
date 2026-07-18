@@ -115,17 +115,25 @@ def test_discord_payload_trailer_survives_long_titles():
 
 def test_merge_keeps_cinema_category():
     e = make(id="c", title="反斗奇兵5", category="電影")
-    e["source"] = "hkmovie6"
+    e["source"] = "wmoov"
     out = scrape.merge([[e]], today="2026-07-14")
     assert out[0]["category"] == "電影"
 
 
 def test_merge_cinema_title_with_keyword_not_downgraded():
-    # 戲名含「電影」二字，但係 hkmovie6 來源，唔應該變「電影活動」
+    # 戲名含「電影」二字，但係院線來源，唔應該變「電影活動」
     e = make(id="c2", title="這部電影很好看", category="電影")
-    e["source"] = "hkmovie6"
+    e["source"] = "wmoov"
     out = scrape.merge([[e]], today="2026-07-14")
     assert out[0]["category"] == "電影"
+
+
+def test_merge_keeps_rating_field():
+    e = make(id="r", title="奧德賽", category="電影")
+    e["source"] = "wmoov"
+    e["rating"] = "8.9"
+    out = scrape.merge([[e]], today="2026-07-14")
+    assert out[0]["rating"] == "8.9"
 
 
 def test_cinema_and_concert_excluded_from_discord_push():
