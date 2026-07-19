@@ -173,8 +173,12 @@ function safeUrl(e) {
 }
 
 function renderHero() {
+  // 離今日最近嘅排最左（就嚟開始／啱啱開始），長期活動排後；同距離先比有冇圖
+  const now = Date.now();
+  const dist = e => Math.abs(new Date(e.start + "T00:00:00") - now);
   const feats = EVENTS.filter(e => e.featured)
-    .sort((a, b) => (b.image ? 1 : 0) - (a.image ? 1 : 0))
+    .sort((a, b) => dist(a) - dist(b)
+      || (b.image ? 1 : 0) - (a.image ? 1 : 0))
     .slice(0, 10);
   document.getElementById("feat").hidden = feats.length === 0;
   document.getElementById("rail").innerHTML = feats.map(e => {
