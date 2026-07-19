@@ -35,6 +35,13 @@
                         color:#fff; }
   #q { flex:1; min-width:140px; padding:6px 13px; border-radius:16px;
        border:1px solid var(--line); background:var(--card); color:var(--fg); }
+  /* 日期篩選：次要層級，用幽靈掣唔同分類 chips 搶眼 */
+  #when { margin-top:7px; gap:6px; }
+  #when button { padding:4px 11px; font-size:12px; background:transparent;
+                 border-color:transparent; color:var(--muted); }
+  #when button:hover { color:var(--fg); border-color:var(--line); }
+  #when button.on { border-color:var(--accent); color:var(--accent);
+                    font-weight:600; background:transparent; }
   main { max-width:720px; margin:0 auto; padding:18px 16px 40px; }
 
   section h2 { font-family:var(--serif); font-size:19px; font-weight:600;
@@ -118,6 +125,13 @@
     <button data-c="休閒">🌿 休閒</button>
     <input id="q" type="search" placeholder="搜尋活動／場地…">
   </div>
+  <div class="controls" id="when">
+    <button data-w="" class="on">任何時間</button>
+    <button data-w="today">今日</button>
+    <button data-w="weekend">今個週末</button>
+    <button data-w="7">7 日內</button>
+    <button data-w="month">今個月</button>
+  </div>
 </header>
 <main>
   <section id="feat" hidden>
@@ -132,7 +146,7 @@
   <div id="empty" hidden>冇符合嘅活動</div>
 </main>
 <script>
-let EVENTS = [], cat = "", q = "";
+let EVENTS = [], cat = "", q = "", when = "";
 
 const META = {
   "體育":     { e:"⚽",  g:"linear-gradient(135deg,#0b6e4f,#2bbf96)" },
@@ -170,6 +184,40 @@ function fmt(e) {
 
 function safeUrl(e) {
   return /^https?:\/\//.test(e.url) ? e.url : "#";
+}
+
+function ymd(d) {
+  return d.getFullYear() + "-"
+    + String(d.getMonth() + 1).padStart(2, "0") + "-"
+    + String(d.getDate()).padStart(2, "0");
+}
+
+// 日期篩選範圍 [開始, 結束]；null = 唔限時間
+function whenRange(key) {
+  const t = new Date(); t.setHours(0, 0, 0, 0);
+  const add = n => { const d = new Date(t); d.setDate(d.getDate() + n); return d; };
+  if (key === "today") return [ymd(t), ymd(t)];
+  if (key === "weekend") {
+    const dow = t.getDay();                            // 0=日 6=六
+    if (dow === 0) return [ymd(t), ymd(t)];            // 星期日：淨返今日
+    if (dow === 6) return [ymd(t), ymd(add(1))];       // 星期六：今日+聽日
+    return [ymd(add(6 - dow)), ymd(add(7 - dow))];     // 平日：下個六、日
+  }
+  if (key === "7") return [ymd(t), ymd(add(6))];
+  if (key === "month") {
+    return [ymd(t), ymd(new Date(t.getFullYear(), t.getMonth() + 1, 0))];
+  }
+  return null;
+}
+
+// 即將開始嘅排先（近期優先），跟住進行中嘅（快完先，睇少陣就冇）
+function byRelevance(today) {
+  return (a, b) => {
+    const au = a.start >= today, bu = b.start >= today;
+    if (au !== bu) return au ? -1 : 1;
+    const k = au ? "start" : "end";
+    return a[k] < b[k] ? -1 : a[k] > b[k] ? 1 : 0;
+  };
 }
 
 function renderHero() {
@@ -216,16 +264,20 @@ function renderFilms() {
 
 function render() {
   const kw = q.trim().toLowerCase();
-  const filtering = !!(cat || kw);
+  const range = whenRange(when);
+  const filtering = !!(cat || kw || range);
   document.getElementById("feat").style.display = filtering ? "none" : "";
   document.getElementById("films").style.display = filtering ? "none" : "";
   const hits = EVENTS.filter(e =>
     (!cat || e.category === cat) &&
     (!kw || (e.title + "\n" + e.venue).toLowerCase().includes(kw)) &&
+    // 活動期同篩選範圍有重疊就當中
+    (!range || (e.start <= range[1] && e.end >= range[0])) &&
     // 不篩選時院線電影只喺海報橫掃出，唔喺主列表重複
     (filtering || e.category !== "電影"));
-  // 電影欄按場次數排熱門，其餘照日期序
+  // 電影欄按場次數排熱門，其餘近期優先
   if (cat === "電影") hits.sort((a, b) => (b.shows || 0) - (a.shows || 0));
+  else hits.sort(byRelevance(ymd(new Date())));
   document.getElementById("list").innerHTML = hits.map(e => `
     <div class="ev">
       <div class="tx">
@@ -274,6 +326,13 @@ document.getElementById("cats").addEventListener("click", ev => {
 });
 document.getElementById("q").addEventListener("input", ev => {
   q = ev.target.value;
+  render();
+});
+document.getElementById("when").addEventListener("click", ev => {
+  if (ev.target.tagName !== "BUTTON") return;
+  document.querySelectorAll("#when button")
+    .forEach(b => b.classList.toggle("on", b === ev.target));
+  when = ev.target.dataset.w;
   render();
 });
 
