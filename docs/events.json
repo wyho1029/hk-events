@@ -1,5 +1,5 @@
 {
- "updated": "2026-07-19",
+ "updated": "2026-07-20",
  "events": [
   {
    "id": "e13429ad674f",
@@ -734,18 +734,6 @@
    "featured": false
   },
   {
-   "id": "fb3b24f51388",
-   "title": "香港美術研究會四十四周年會員作品聯展",
-   "category": "展覽",
-   "start": "2026-07-15",
-   "end": "2026-07-19",
-   "venue": "香港大會堂 (展覽廳)",
-   "url": "https://www.lcsd.gov.hk/tc/ticket/index.html",
-   "source": "康文署",
-   "image": "",
-   "featured": false
-  },
-  {
    "id": "6579ab46952a",
    "title": "SSEBONGRAMA 躺平鴨小鎮 @東薈城名店倉",
    "category": "休閒",
@@ -770,18 +758,6 @@
    "featured": false
   },
   {
-   "id": "b43734189cc8",
-   "title": "現代水墨畫展覽—吳信昌師生作品展",
-   "category": "展覽",
-   "start": "2026-07-16",
-   "end": "2026-07-19",
-   "venue": "沙田大會堂 (展覽廳)",
-   "url": "https://mos.hk/",
-   "source": "康文署",
-   "image": "",
-   "featured": false
-  },
-  {
    "id": "17c4a9f0b2c7",
    "title": "Scoop & Cone: AIRSIDE 夏日Gelato祭 @AIRSIDE",
    "category": "休閒",
@@ -803,30 +779,6 @@
    "url": "https://timable.com/zh/event/JOGUMANmeetsD-PARK-%E5%A4%8F-%E5%B3%B6%E5%B6%BC%E6%99%82%E5%85%89-%E6%B4%BB%E5%8B%95",
    "source": "Timable",
    "image": "https://static.timable.com/image_cdbdcc58-8f92-40fc-a5cd-7093ad119751-480x480.webp",
-   "featured": false
-  },
-  {
-   "id": "d27251b5834b",
-   "title": "中華文化節2026︰新疆生產建設兵團雜技團 — 雜技劇《唐古百戲》",
-   "category": "表演藝術",
-   "start": "2026-07-17",
-   "end": "2026-07-19",
-   "venue": "東九文化中心 (劇院)",
-   "url": "https://www.ccf.gov.hk/tc/programme/acrobatic-drama-acrobatic-spectacle-of-ancient-tang-by-xinjiang-production-and-construction-corps-acrobatic-troupe/",
-   "source": "康文署",
-   "image": "",
-   "featured": false
-  },
-  {
-   "id": "fe19a6d7c291",
-   "title": "國際綜藝合家歡2026︰《小希的逍遙遊》",
-   "category": "親子",
-   "start": "2026-07-17",
-   "end": "2026-07-19",
-   "venue": "荃灣大會堂 (文娛廳)",
-   "url": "https://www.hkiac.gov.hk/2026/tc/nanyin.html",
-   "source": "康文署",
-   "image": "",
    "featured": false
   },
   {
@@ -903,18 +855,6 @@
    "image": "https://wmoov.com/assets/poster/d9445423a7ef296a2bbc9eee55de6993.jpg",
    "rating": "7.2",
    "shows": 45,
-   "featured": false
-  },
-  {
-   "id": "54df49fae340",
-   "title": "中華文化節2026：《霓采華韻》— 非遺之魂．舞動千秋",
-   "category": "休閒",
-   "start": "2026-07-18",
-   "end": "2026-07-19",
-   "venue": "沙田大會堂 (演奏廳)",
-   "url": "https://www.hkwl.org/article/36725-ccf2026-002/",
-   "source": "康文署",
-   "image": "",
    "featured": false
   },
   {
@@ -1069,18 +1009,6 @@
    "image": "https://wmoov.com/assets/poster/e30f7f1f5e2d4d3432de084cd91b123c.jpg",
    "rating": "7.1",
    "shows": 7,
-   "featured": false
-  },
-  {
-   "id": "08020833b123",
-   "title": "巨人系列：《價》演讀劇場",
-   "category": "表演藝術",
-   "start": "2026-07-18",
-   "end": "2026-07-19",
-   "venue": "上環文娛中心 (演講廳)",
-   "url": "https://www.pants.org.hk/",
-   "source": "康文署",
-   "image": "",
    "featured": false
   },
   {
@@ -1306,18 +1234,6 @@
    "featured": false
   },
   {
-   "id": "6c905c0bdb52",
-   "title": "聲輝粵劇展演2026",
-   "category": "表演藝術",
-   "start": "2026-07-18",
-   "end": "2026-07-19",
-   "venue": "葵青劇院 (演藝廳)",
-   "url": "http://www.singfaiopera.org.hk",
-   "source": "康文署",
-   "image": "",
-   "featured": false
-  },
-  {
    "id": "88a498162c71",
    "title": "被偷走的勁歌",
    "category": "電影",
@@ -1416,18 +1332,6 @@
    "featured": false
   },
   {
-   "id": "641b6ab017db",
-   "title": "2026-27年度 「十八有藝──北區社區演藝計劃」《北上玩一「粵」》──啟動音樂會",
-   "category": "表演藝術",
-   "start": "2026-07-19",
-   "end": "2026-07-19",
-   "venue": "祥華社區會堂 (禮堂)",
-   "url": "https://www.cpo.gov.hk/zh-hk/event/tc-nd-2627/",
-   "source": "康文署",
-   "image": "",
-   "featured": false
-  },
-  {
    "id": "fef976c9236f",
    "title": "2026-27年度「十八有藝──大埔社區演藝計劃」《擊響大埔》敲擊樂創藝計劃──巡迴音樂會",
    "category": "表演藝術",
@@ -1435,114 +1339,6 @@
    "end": "2026-07-25",
    "venue": "大埔區內場地",
    "url": "https://www.facebook.com/toolboxpercussion",
-   "source": "康文署",
-   "image": "",
-   "featured": false
-  },
-  {
-   "id": "f6f0fac08fca",
-   "title": "2026-27年度「十八有藝──離島社區演藝計劃」《離島邊度先係》無伴奏合唱計劃──小型音樂會",
-   "category": "表演藝術",
-   "start": "2026-07-19",
-   "end": "2026-07-19",
-   "venue": "離島區內場地",
-   "url": "https://www.cpo.gov.hk/zh-hk/event/tc-is-2627/",
-   "source": "康文署",
-   "image": "",
-   "featured": false
-  },
-  {
-   "id": "8a224e0354d8",
-   "title": "2026社區文化大使: 東方琴韻藝術團「聽見非遺」中國音樂示範及講座：彈撥二重奏",
-   "category": "表演藝術",
-   "start": "2026-07-19",
-   "end": "2026-07-19",
-   "venue": "油尖旺區內場地",
-   "url": "https://www.facebook.com/RhythmicEast/",
-   "source": "康文署",
-   "image": "",
-   "featured": false
-  },
-  {
-   "id": "dc952f7af3e0",
-   "title": "2026社區文化大使: 竹韻小集「非遺好聲音」親子粵樂劇場︰當帝女花遇上黃飛鴻",
-   "category": "表演藝術",
-   "start": "2026-07-19",
-   "end": "2026-07-19",
-   "venue": "觀塘區內場地",
-   "url": "https://www.facebook.com/hkwindpipe/",
-   "source": "康文署",
-   "image": "",
-   "featured": false
-  },
-  {
-   "id": "8c6be8fec6a8",
-   "title": "2026社區文化大使: 紫迎楓粵劇團「非．粵～夢工場：非遺大聯動」「非．粵～區區展風華」巡迴演出",
-   "category": "表演藝術",
-   "start": "2026-07-19",
-   "end": "2026-07-19",
-   "venue": "西貢區內場地",
-   "url": "https://www.facebook.com/pmco.cca",
-   "source": "康文署",
-   "image": "",
-   "featured": false
-  },
-  {
-   "id": "366bd69f2810",
-   "title": "《Postcard Suite》2026 夏季音樂會",
-   "category": "表演藝術",
-   "start": "2026-07-19",
-   "end": "2026-07-19",
-   "venue": "元朗劇院 (演藝廳)",
-   "url": "https://www.lcsd.gov.hk/clpss/tc/search/culture/DetailForm.do?id=183291",
-   "source": "康文署",
-   "image": "",
-   "featured": false
-  },
-  {
-   "id": "7cb131c1752d",
-   "title": "《明星名劇會知音》粵劇折子戲",
-   "category": "表演藝術",
-   "start": "2026-07-19",
-   "end": "2026-07-19",
-   "venue": "高山劇場 (劇院)",
-   "url": "https://www.lcsd.gov.hk/tc/ticket/index.html",
-   "source": "康文署",
-   "image": "",
-   "featured": false
-  },
-  {
-   "id": "ca7fadd6c4ff",
-   "title": "中華文化節2026：《DidaBoy 的尋「樂」人生》馬瑋謙嗩吶與喉管音樂會",
-   "category": "表演藝術",
-   "start": "2026-07-19",
-   "end": "2026-07-19",
-   "venue": "上環文娛中心 (劇院)",
-   "url": "https://www.instagram.com/dida._.boy/",
-   "source": "康文署",
-   "image": "",
-   "featured": false
-  },
-  {
-   "id": "a5ecb75379d9",
-   "title": "夏日親子電影節 2026：《肥斌告白大作戰》",
-   "category": "電影活動",
-   "start": "2026-07-19",
-   "end": "2026-07-19",
-   "venue": "香港電影資料館 (電影院)",
-   "url": "https://www.lcsd.gov.hk/fp/tc/listing.html?id=93",
-   "source": "康文署",
-   "image": "",
-   "featured": false
-  },
-  {
-   "id": "8240a12c9d70",
-   "title": "夏日親子電影節 2026：《超巨河馬縮水之旅》",
-   "category": "電影活動",
-   "start": "2026-07-19",
-   "end": "2026-07-19",
-   "venue": "香港科學館 (演講廳)",
-   "url": "https://www.lcsd.gov.hk/fp/tc/listing.html?id=93",
    "source": "康文署",
    "image": "",
    "featured": false
@@ -1596,78 +1392,6 @@
    "featured": false
   },
   {
-   "id": "310cdb4ef6ac",
-   "title": "大江東去 ─ 邱少彬十週年紀念音樂會",
-   "category": "表演藝術",
-   "start": "2026-07-19",
-   "end": "2026-07-19",
-   "venue": "香港大會堂 (音樂廳)",
-   "url": "https://www.newtune.org/",
-   "source": "康文署",
-   "image": "",
-   "featured": false
-  },
-  {
-   "id": "63275c1eb672",
-   "title": "戲遊人生計劃2026 : 劇場演出及討論",
-   "category": "表演藝術",
-   "start": "2026-07-19",
-   "end": "2026-07-19",
-   "venue": "西灣河文娛中心 (劇院)",
-   "url": "https://www.aftec.hk/?page_id=13694&lang=zh",
-   "source": "康文署",
-   "image": "",
-   "featured": false
-  },
-  {
-   "id": "6c637a347cc7",
-   "title": "第四屆風雷舞蹈平台《曈曨 ‧ 幻》",
-   "category": "表演藝術",
-   "start": "2026-07-19",
-   "end": "2026-07-19",
-   "venue": "香港文化中心 (劇場)",
-   "url": "https://www.lcsd.gov.hk/tc/ticket/index.html",
-   "source": "康文署",
-   "image": "",
-   "featured": false
-  },
-  {
-   "id": "fcc803e8879d",
-   "title": "群星匯演",
-   "category": "表演藝術",
-   "start": "2026-07-19",
-   "end": "2026-07-19",
-   "venue": "屯門大會堂 (文娛廳)",
-   "url": "https://www.lcsd.gov.hk/tc/ticket/index.html",
-   "source": "康文署",
-   "image": "",
-   "featured": false
-  },
-  {
-   "id": "d808c46319be",
-   "title": "西灣河文娛中心場地伙伴計劃 : 爵士樂跨界工作坊 : 音樂禪",
-   "category": "表演藝術",
-   "start": "2026-07-19",
-   "end": "2026-07-19",
-   "venue": "西灣河文娛中心 (文娛廳)",
-   "url": "https://www.instagram.com/p/DZaBgnLBT9o/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA==",
-   "source": "康文署",
-   "image": "",
-   "featured": false
-  },
-  {
-   "id": "ef50af16a097",
-   "title": "西灣河文娛中心場地伙伴計劃 : 迷你音樂會",
-   "category": "表演藝術",
-   "start": "2026-07-19",
-   "end": "2026-07-19",
-   "venue": "西灣河文娛中心 (大堂)",
-   "url": "https://www.instagram.com/p/DZaBgnLBT9o/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA==",
-   "source": "康文署",
-   "image": "",
-   "featured": false
-  },
-  {
    "id": "b106d6e5cccd",
    "title": "香港大會堂場地伙伴計劃：中華文化節2026：《武松日記2026》",
    "category": "休閒",
@@ -1678,18 +1402,6 @@
    "source": "康文署",
    "image": "",
    "featured": false
-  },
-  {
-   "id": "a78c24b5b58a",
-   "title": "香港跳繩邀請錦標賽2026 世界交互繩邀請賽",
-   "category": "體育",
-   "start": "2026-07-19",
-   "end": "2026-07-19",
-   "venue": "伊利沙伯體育館 (表演場)",
-   "url": "https://www.lcsd.gov.hk/tc/ticket/index.html",
-   "source": "康文署",
-   "image": "",
-   "featured": true
   },
   {
    "id": "43acf23e312e",
@@ -5335,6 +5047,18 @@
    "end": "2026-08-21",
    "venue": "香港太空館",
    "url": "https://hk.space.museum/tc/web/spm/activities/summer-astronomy-classes.html",
+   "source": "康文署",
+   "image": "",
+   "featured": false
+  },
+  {
+   "id": "b27c0f45cc15",
+   "title": "團隊不忘初心上環音樂會",
+   "category": "表演藝術",
+   "start": "2026-08-20",
+   "end": "2026-08-20",
+   "venue": "上環文娛中心 (演講廳)",
+   "url": "https://www.lcsd.gov.hk/tc/ticket/index.html",
    "source": "康文署",
    "image": "",
    "featured": false
