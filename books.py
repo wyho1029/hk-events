@@ -26,6 +26,15 @@ HEADERS = {
 HK_TZ = datetime.timezone(datetime.timedelta(hours=8))
 TOP_N = 20
 
+# 語言考試／教科書類唔當「值得睇嘅書」，剔走（小寫 substring 比對，隨時加減）
+EXCLUDE_KEYWORDS = ["多益", "toeic", "ielts", "雅思", "托福", "toefl",
+                    "檢定", "單字", "題庫", "文法"]
+
+
+def is_excluded(title):
+    t = title.lower()
+    return any(k in t for k in EXCLUDE_KEYWORDS)
+
 
 def _norm_title(t):
     """去標點空白轉小寫，做跨榜同名比對。"""
@@ -77,11 +86,11 @@ def fetch_list(url):
 
 
 def build(total, manga, top_n=TOP_N):
-    """由總榜剔走漫畫榜命中嘅書，取 top_n 重新編號。"""
+    """由總榜剔走漫畫（漫畫榜命中）同語言考試書，取 top_n 重新編號。"""
     banned = {_norm_title(b["title"]) for b in manga}
     out = []
     for b in total:
-        if _norm_title(b["title"]) in banned:
+        if _norm_title(b["title"]) in banned or is_excluded(b["title"]):
             continue
         out.append({**b, "rank": len(out) + 1})
         if len(out) >= top_n:

@@ -17,6 +17,17 @@ def test_build_excludes_manga():
     assert [b["rank"] for b in out] == [1, 2]  # 剔走後重新連續編號
 
 
+def test_build_excludes_language_exam_books():
+    total = [mk("臺灣漫遊錄", 1),
+             mk("全新！新制多益 TOEIC 單字大全", 2),
+             mk("IELTS 雅思聽力題庫", 3),
+             mk("槓桿ETF投資法", 4)]
+    out = books.build(total, [])
+    titles = [b["title"] for b in out]
+    assert titles == ["臺灣漫遊錄", "槓桿ETF投資法"]
+    assert [b["rank"] for b in out] == [1, 2]
+
+
 def test_build_caps_top_n():
     total = [mk(f"書{i}", i) for i in range(30)]
     out = books.build(total, [], top_n=20)
