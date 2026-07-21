@@ -1,5 +1,5 @@
 {
- "updated": "2026-07-20",
+ "updated": "2026-07-21",
  "events": [
   {
    "id": "e13429ad674f",
@@ -530,18 +530,6 @@
    "featured": false
   },
   {
-   "id": "381275205a4f",
-   "title": "Harvey Nichols x Lemoi「第十三時辰的花園」藝術展",
-   "category": "展覽",
-   "start": "2026-07-07",
-   "end": "2026-07-20",
-   "venue": "Harvey Nichols (金鐘店)",
-   "url": "https://timable.com/zh/event/HarveyNicholsXLemoi-%E7%AC%AC%E5%8D%81%E4%B8%89%E6%99%82%E8%BE%B0%E7%9A%84%E8%8A%B1%E5%9C%92-%E8%97%9D%E8%A1%93%E5%B1%95",
-   "source": "Timable",
-   "image": "https://static.timable.com/image_07abc56e-fd9b-4090-9044-8e0bbfcce5f7-480x679.webp",
-   "featured": false
-  },
-  {
    "id": "e0fe1c43a2b8",
    "title": "流行爵士集體舞班",
    "category": "表演藝術",
@@ -815,18 +803,6 @@
    "url": "https://www.facebook.com/toolboxpercussion",
    "source": "康文署",
    "image": "",
-   "featured": false
-  },
-  {
-   "id": "4f1cc502dfdd",
-   "title": "Jason 陳柏宇 \"Live in Frames\" 20週年紅館演唱會 2026",
-   "category": "演唱會",
-   "start": "2026-07-18",
-   "end": "2026-07-20",
-   "venue": "Hong Kong Coliseum",
-   "url": "https://timable.com/zh/event/Jason%20%E9%99%B3%E6%9F%8F%E5%AE%87%20%22Live%20in%20Frames%22%2020%E9%80%B1%E5%B9%B4%E7%B4%85%E9%A4%A8%E6%BC%94%E5%94%B1%E6%9C%83%202026",
-   "source": "Timable",
-   "image": "https://static.timable.com/image_71051032-670f-4c50-82a4-2341fab0a6b6-466x466.webp",
    "featured": false
   },
   {
@@ -1399,102 +1375,6 @@
    "end": "2026-08-02",
    "venue": "香港大會堂 (劇院)",
    "url": "https://www.hkrep.com/tc/Season-Programme/Main-Stage-Productions/The-Diary-Of-Song-2026.html",
-   "source": "康文署",
-   "image": "",
-   "featured": false
-  },
-  {
-   "id": "43acf23e312e",
-   "title": "Sony 呈獻：Jason Chan Live in Frames 20週年演唱會",
-   "category": "演唱會",
-   "start": "2026-07-20",
-   "end": "2026-07-20",
-   "venue": "香港體育館 (表演場)",
-   "url": "https://www.lcsd.gov.hk/tc/hkc/whatsnew.html",
-   "source": "康文署",
-   "image": "",
-   "featured": false
-  },
-  {
-   "id": "908e3ffe8612",
-   "title": "《鄧惠舒專場演唱會》粵劇折子戲及粵曲演唱會",
-   "category": "表演藝術",
-   "start": "2026-07-20",
-   "end": "2026-07-20",
-   "venue": "高山劇場 (新翼演藝廳)",
-   "url": "https://www.lcsd.gov.hk/tc/ticket/index.html",
-   "source": "康文署",
-   "image": "",
-   "featured": false
-  },
-  {
-   "id": "3c11047fe159",
-   "title": "夢想成真 2026 綜合文藝匯演",
-   "category": "表演藝術",
-   "start": "2026-07-20",
-   "end": "2026-07-20",
-   "venue": "上環文娛中心 (劇院)",
-   "url": "https://www.lcsd.gov.hk/tc/ticket/index.html",
-   "source": "康文署",
-   "image": "",
-   "featured": false
-  },
-  {
-   "id": "6c4bfcd4c1c6",
-   "title": "康樂悅韻展芳華",
-   "category": "休閒",
-   "start": "2026-07-20",
-   "end": "2026-07-20",
-   "venue": "葵青劇院 (演藝廳)",
-   "url": "https://www.lcsd.gov.hk/tc/ticket/index.html",
-   "source": "康文署",
-   "image": "",
-   "featured": false
-  },
-  {
-   "id": "e412adffcb31",
-   "title": "戲劇名曲欣賞會",
-   "category": "表演藝術",
-   "start": "2026-07-20",
-   "end": "2026-07-20",
-   "venue": "屯門大會堂 (文娛廳)",
-   "url": "https://www.lcsd.gov.hk/tc/ticket/index.html",
-   "source": "康文署",
-   "image": "",
-   "featured": false
-  },
-  {
-   "id": "55603a82f47c",
-   "title": "曉風毅韻粵曲專場",
-   "category": "表演藝術",
-   "start": "2026-07-20",
-   "end": "2026-07-20",
-   "venue": "葵青劇院 (演藝廳)",
-   "url": "https://www.lcsd.gov.hk/tc/ticket/index.html",
-   "source": "康文署",
-   "image": "",
-   "featured": false
-  },
-  {
-   "id": "d43c327eb708",
-   "title": "經典金曲。傳承",
-   "category": "表演藝術",
-   "start": "2026-07-20",
-   "end": "2026-07-20",
-   "venue": "牛池灣文娛中心 (文娛廳)",
-   "url": "https://www.lcsd.gov.hk/tc/ticket/index.html",
-   "source": "康文署",
-   "image": "",
-   "featured": false
-  },
-  {
-   "id": "6baf83826e9d",
-   "title": "蝴蝶夫人與香港傳奇 ─ 江樺老師紀念音樂會",
-   "category": "表演藝術",
-   "start": "2026-07-20",
-   "end": "2026-07-20",
-   "venue": "香港大會堂 (音樂廳)",
-   "url": "https://www.lcsd.gov.hk/tc/ticket/index.html",
    "source": "康文署",
    "image": "",
    "featured": false
@@ -2497,7 +2377,7 @@
   },
   {
    "id": "2e127e231cb6",
-   "title": "《金曲妙韻聚友情》粵曲演唱會",
+   "title": "《金曲妙韻聚友情》粵戲折子戲",
    "category": "表演藝術",
    "start": "2026-07-29",
    "end": "2026-07-29",
@@ -5232,6 +5112,18 @@
    "featured": false
   },
   {
+   "id": "82bd0e27cfe9",
+   "title": "高山成韻合唱團二十週年音樂會",
+   "category": "表演藝術",
+   "start": "2026-08-21",
+   "end": "2026-08-21",
+   "venue": "上環文娛中心 (劇院)",
+   "url": "https://www.lcsd.gov.hk/tc/ticket/index.html",
+   "source": "康文署",
+   "image": "",
+   "featured": false
+  },
+  {
    "id": "a26d6e4de8a0",
    "title": "2026社區文化大使: 紫迎楓粵劇團「非．粵～夢工場：非遺大聯動」「非．粵～區區展風華」巡迴演出",
    "category": "表演藝術",
@@ -5772,6 +5664,18 @@
    "featured": false
   },
   {
+   "id": "423a582e07f7",
+   "title": "香港文化中心場地伙伴計劃：太古輕鬆樂聚系列：史詩英雄的交響啟航",
+   "category": "表演藝術",
+   "start": "2026-08-28",
+   "end": "2026-08-28",
+   "venue": "香港文化中心 (音樂廳)",
+   "url": "https://www.hkphil.org/tc/concert/swire-denim-series-from-gladiators-to-valkyries",
+   "source": "康文署",
+   "image": "",
+   "featured": false
+  },
+  {
    "id": "b71bdf918ba3",
    "title": "2026 屯門區愛心捐血周",
    "category": "休閒",
@@ -6144,6 +6048,18 @@
    "featured": false
   },
   {
+   "id": "8d00b9cd5701",
+   "title": "香港文化中心場地伙伴計劃：BBC天與地III電影音樂會",
+   "category": "電影活動",
+   "start": "2026-09-05",
+   "end": "2026-09-05",
+   "venue": "香港文化中心 (音樂廳)",
+   "url": "https://www.hkphil.org/tc/concert/bbc-planet-earth-iii-live-in-concert",
+   "source": "康文署",
+   "image": "",
+   "featured": false
+  },
+  {
    "id": "3c6e4f76d520",
    "title": "香港大會堂場地伙伴計劃：HKS獨奏會系列：葛羅夫納鋼琴獨奏會",
    "category": "表演藝術",
@@ -6151,6 +6067,18 @@
    "end": "2026-09-09",
    "venue": "香港大會堂 (音樂廳)",
    "url": "https://hksl.org/zh-hant/concert/benjamin-grosvenor-piano-recital/",
+   "source": "康文署",
+   "image": "",
+   "featured": false
+  },
+  {
+   "id": "63927db2c690",
+   "title": "香港文化中心場地伙伴計劃：成都巡演前音樂會：陸逸軒的蕭邦",
+   "category": "表演藝術",
+   "start": "2026-09-09",
+   "end": "2026-09-09",
+   "venue": "香港文化中心 (音樂廳)",
+   "url": "https://www.hkphil.org/tc/concert/chengdu-pre-tour-concert-eric-lu-plays-chopin",
    "source": "康文署",
    "image": "",
    "featured": false
@@ -6240,6 +6168,18 @@
    "featured": false
   },
   {
+   "id": "7283c4608593",
+   "title": "香港文化中心場地伙伴計劃：樂季揭幕：漢力克的田園與深宮情仇",
+   "category": "休閒",
+   "start": "2026-09-17",
+   "end": "2026-09-17",
+   "venue": "香港文化中心 (音樂廳)",
+   "url": "https://www.hkphil.org/tc/concert/season-opening-manfred-honecks-pastoral-and-elektra",
+   "source": "康文署",
+   "image": "",
+   "featured": false
+  },
+  {
    "id": "241a1562a0cf",
    "title": "中華文化節2026：明月耀香江— 湖北省歌劇舞劇院：舞劇《樂和長歌》",
    "category": "表演藝術",
@@ -6312,6 +6252,18 @@
    "featured": false
   },
   {
+   "id": "aa40cdcc75d9",
+   "title": "香港文化中心場地伙伴計劃：國慶音樂會：王紫桐的浦羅哥菲夫",
+   "category": "表演藝術",
+   "start": "2026-09-24",
+   "end": "2026-09-24",
+   "venue": "香港文化中心 (音樂廳)",
+   "url": "https://www.hkphil.org/tc/concert/national-day-concert-zitong-wang-plays-prokofiev",
+   "source": "康文署",
+   "image": "",
+   "featured": false
+  },
+  {
    "id": "612bb6066764",
    "title": "2026-27年度「十八有藝 ── 屯門社區演藝計劃」《屯門2 — 浮世鏽跡》戲劇計劃── 工作坊及展演聯合排練",
    "category": "表演藝術",
@@ -6319,6 +6271,18 @@
    "end": "2026-09-26",
    "venue": "屯門區內場地",
    "url": "https://www.cpo.gov.hk/zh-hk/event/tc-tm-2627/",
+   "source": "康文署",
+   "image": "",
+   "featured": false
+  },
+  {
+   "id": "d4365918ff1c",
+   "title": "香港文化中心場地伙伴計劃：太古榮譽呈獻：一帶一路：王紫桐的蕭邦",
+   "category": "休閒",
+   "start": "2026-09-26",
+   "end": "2026-09-26",
+   "venue": "香港文化中心 (音樂廳)",
+   "url": "https://www.hkphil.org/tc/concert/swire-proudly-sponsors-belt-and-road-zitong-wang-plays-chopin",
    "source": "康文署",
    "image": "",
    "featured": false
