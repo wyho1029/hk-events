@@ -88,6 +88,20 @@
         margin-top:7px; display:-webkit-box; -webkit-line-clamp:2;
         -webkit-box-orient:vertical; overflow:hidden; }
 
+  /* 書籍排行榜 */
+  .bk { background:var(--card); border:1px solid var(--line); border-radius:10px;
+        padding:12px 16px; margin-bottom:12px; display:flex; gap:14px;
+        align-items:center; text-decoration:none; color:var(--fg); }
+  .bk:hover .bt { color:var(--accent); }
+  .bk .rank { font-family:var(--serif); font-size:26px; font-weight:700;
+        color:var(--accent); min-width:34px; text-align:center; flex:none; }
+  .bk .cover { width:46px; height:66px; object-fit:cover; border-radius:4px;
+        border:1px solid var(--line); flex:none; }
+  .bk .tx { flex:1; min-width:0; }
+  .bk .bt { font-family:var(--serif); font-weight:600; font-size:16px;
+        line-height:1.35; display:block; }
+  .bk .bmeta { color:var(--muted); font-size:13px; margin-top:4px; display:block; }
+
   /* 一般列表 */
   .ev { background:var(--card); border:1px solid var(--line);
         border-radius:10px; padding:14px 16px; margin-bottom:12px;
@@ -123,6 +137,7 @@
     <button data-c="市集">🧺 市集</button>
     <button data-c="親子">🧸 親子</button>
     <button data-c="休閒">🌿 休閒</button>
+    <button data-c="書籍">📚 書籍</button>
     <input id="q" type="search" placeholder="搜尋活動／場地…">
   </div>
   <div class="controls" id="when">
@@ -146,7 +161,7 @@
   <div id="empty" hidden>冇符合嘅活動</div>
 </main>
 <script>
-let EVENTS = [], cat = "", q = "", when = "";
+let EVENTS = [], BOOKS = [], cat = "", q = "", when = "";
 
 const META = {
   "體育":     { e:"⚽",  g:"linear-gradient(135deg,#0b6e4f,#2bbf96)" },
@@ -158,7 +173,8 @@ const META = {
   "演唱會":   { e:"🎤",  g:"linear-gradient(135deg,#c2255c,#faa2c1)" },
   "市集":     { e:"🧺",  g:"linear-gradient(135deg,#99582a,#e0a458)" },
   "親子":     { e:"🧸",  g:"linear-gradient(135deg,#e8590c,#ffa94d)" },
-  "休閒":     { e:"🌿",  g:"linear-gradient(135deg,#2f9e44,#8ce99a)" }
+  "休閒":     { e:"🌿",  g:"linear-gradient(135deg,#2f9e44,#8ce99a)" },
+  "書籍":     { e:"📚",  g:"linear-gradient(135deg,#5f3dc4,#9775fa)" }
 };
 
 const themeBtn = document.getElementById("theme");
@@ -262,9 +278,30 @@ function renderFilms() {
     </a>`).join("");
 }
 
+function renderBooks() {
+  document.getElementById("feat").style.display = "none";
+  document.getElementById("films").style.display = "none";
+  document.getElementById("list").innerHTML = BOOKS.map(b => `
+    <a class="bk" href="${esc(safeUrl(b))}" target="_blank" rel="noopener">
+      <span class="rank">${b.rank}</span>
+      ${b.image ? `<img class="cover" src="${esc(b.image)}" alt="" loading="lazy"
+                        onerror="this.remove()">` : ""}
+      <span class="tx">
+        <span class="bt">${esc(b.title)}</span>
+        <span class="bmeta">${esc(b.author)}${b.price ? "｜" + esc(b.price) : ""}｜博客來</span>
+      </span>
+    </a>`).join("");
+  const empty = document.getElementById("empty");
+  empty.textContent = "暫時攞唔到書籍榜";
+  empty.hidden = BOOKS.length > 0;
+}
+
 function render() {
   const kw = q.trim().toLowerCase();
   const range = whenRange(when);
+  // 書籍係獨立月榜（無日期），行專屬分支；日期篩選對佢無意義故隱藏
+  document.getElementById("when").style.display = cat === "書籍" ? "none" : "";
+  if (cat === "書籍") { renderBooks(); return; }
   const filtering = !!(cat || kw || range);
   document.getElementById("feat").style.display = filtering ? "none" : "";
   document.getElementById("films").style.display = filtering ? "none" : "";
@@ -288,7 +325,9 @@ function render() {
       ${e.image ? `<img class="thumb" src="${esc(e.image)}" alt=""
                         loading="lazy" onerror="this.remove()">` : ""}
     </div>`).join("");
-  document.getElementById("empty").hidden = hits.length > 0;
+  const empty = document.getElementById("empty");
+  empty.textContent = "冇符合嘅活動";
+  empty.hidden = hits.length > 0;
 }
 
 // 滑鼠撳實拖拉橫向捲動（觸控保留原生捲動）
@@ -343,6 +382,12 @@ fetch("events.json").then(r => r.json()).then(d => {
   renderFilms();
   render();
 }).catch(() => { const el = document.getElementById("empty"); el.textContent = "載入活動資料失敗，請稍後重新整理"; el.hidden = false; });
+
+// 書籍月榜獨立載入，唔阻活動顯示；載入後若正睇緊書籍就重繪
+fetch("books.json").then(r => r.json()).then(d => {
+  BOOKS = d.books || [];
+  if (cat === "書籍") render();
+}).catch(() => {});
 </script>
 </body>
 </html>
