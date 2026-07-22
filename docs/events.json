@@ -1,5 +1,5 @@
 {
- "updated": "2026-07-21",
+ "updated": "2026-07-22",
  "events": [
   {
    "id": "e13429ad674f",
@@ -710,18 +710,6 @@
    "featured": false
   },
   {
-   "id": "a1a634372036",
-   "title": "香港書展 2026 (第36屆)",
-   "category": "展覽",
-   "start": "2026-07-15",
-   "end": "2026-07-21",
-   "venue": "香港會議展覽中心Hall 5BC",
-   "url": "https://timable.com/zh/event/%E9%A6%99%E6%B8%AF%E6%9B%B8%E5%B1%952026-%E7%AC%AC36%E5%B1%86-",
-   "source": "Timable",
-   "image": "https://static.timable.com/image_2ef0d659-a621-4a4a-b49e-5260b50d5077-456x456.webp",
-   "featured": false
-  },
-  {
    "id": "6579ab46952a",
    "title": "SSEBONGRAMA 躺平鴨小鎮 @東薈城名店倉",
    "category": "休閒",
@@ -1375,102 +1363,6 @@
    "end": "2026-08-02",
    "venue": "香港大會堂 (劇院)",
    "url": "https://www.hkrep.com/tc/Season-Programme/Main-Stage-Productions/The-Diary-Of-Song-2026.html",
-   "source": "康文署",
-   "image": "",
-   "featured": false
-  },
-  {
-   "id": "e1594cfef468",
-   "title": "《粵藝童音耀彩虹2026》粵劇折子戲",
-   "category": "表演藝術",
-   "start": "2026-07-21",
-   "end": "2026-07-21",
-   "venue": "高山劇場 (新翼演藝廳)",
-   "url": "https://www.lcsd.gov.hk/tc/ticket/index.html",
-   "source": "康文署",
-   "image": "",
-   "featured": false
-  },
-  {
-   "id": "7a1875697469",
-   "title": "「聲藝園往事時光」師生音樂會",
-   "category": "表演藝術",
-   "start": "2026-07-21",
-   "end": "2026-07-21",
-   "venue": "牛池灣文娛中心 (劇院)",
-   "url": "https://www.lcsd.gov.hk/tc/ticket/index.html",
-   "source": "康文署",
-   "image": "",
-   "featured": false
-  },
-  {
-   "id": "218756a29556",
-   "title": "棠哥 ‧ 歌 緣續心中情演唱會",
-   "category": "演唱會",
-   "start": "2026-07-21",
-   "end": "2026-07-21",
-   "venue": "香港文化中心 (音樂廳)",
-   "url": "https://www.lcsd.gov.hk/tc/ticket/index.html",
-   "source": "康文署",
-   "image": "",
-   "featured": false
-  },
-  {
-   "id": "ab55f4c3ca87",
-   "title": "笙歌樂韻妙滔滔",
-   "category": "表演藝術",
-   "start": "2026-07-21",
-   "end": "2026-07-21",
-   "venue": "葵青劇院 (演藝廳)",
-   "url": "https://www.lcsd.gov.hk/tc/ticket/index.html",
-   "source": "康文署",
-   "image": "",
-   "featured": false
-  },
-  {
-   "id": "81c1a354ee11",
-   "title": "緣聚友情在屯門金曲演唱會",
-   "category": "演唱會",
-   "start": "2026-07-21",
-   "end": "2026-07-21",
-   "venue": "屯門大會堂 (演奏廳)",
-   "url": "https://www.lcsd.gov.hk/clpss/tc/search/culture/DetailForm.do?id=183431",
-   "source": "康文署",
-   "image": "",
-   "featured": false
-  },
-  {
-   "id": "f6dfa82f4286",
-   "title": "講座：「天象廳談天說星」講座系列",
-   "category": "休閒",
-   "start": "2026-07-21",
-   "end": "2026-07-21",
-   "venue": "香港太空館",
-   "url": "https://hk.space.museum/tc/web/spm/activities/lecture.html",
-   "source": "康文署",
-   "image": "",
-   "featured": false
-  },
-  {
-   "id": "f9d334fccc79",
-   "title": "鄉土情懷 ─ 主題音樂會（美聲合唱團29周年音樂會）",
-   "category": "表演藝術",
-   "start": "2026-07-21",
-   "end": "2026-07-21",
-   "venue": "香港大會堂 (音樂廳)",
-   "url": "https://hkbelcanto.com/",
-   "source": "康文署",
-   "image": "",
-   "featured": false
-  },
-  {
-   "id": "ff9cc12aa571",
-   "title": "魅影歌聲金曲演唱會",
-   "category": "演唱會",
-   "start": "2026-07-21",
-   "end": "2026-07-21",
-   "venue": "北區大會堂 (演奏廳)",
-   "url": "https://www.lcsd.gov.hk/clpss/tc/search/culture/DetailForm.do?id=183419",
    "source": "康文署",
    "image": "",
    "featured": false
@@ -2958,7 +2850,7 @@
    "start": "2026-08-02",
    "end": "2026-08-02",
    "venue": "荃灣大會堂 (文娛廳)",
-   "url": "https://www.lcsd.gov.hk/tc/ticket/index.html",
+   "url": "https://www.urbtix.hk/event-detail/15257/",
    "source": "康文署",
    "image": "",
    "featured": false
@@ -3043,6 +2935,18 @@
    "end": "2026-08-03",
    "venue": "上環文娛中心 (展覽廳)",
    "url": "https://www.lcsd.gov.hk/tc/ticket/index.html",
+   "source": "康文署",
+   "image": "",
+   "featured": false
+  },
+  {
+   "id": "5f06284cb41b",
+   "title": "名曲粵韻獻知音",
+   "category": "表演藝術",
+   "start": "2026-08-03",
+   "end": "2026-08-03",
+   "venue": "大埔文娛中心 (演藝廳)",
+   "url": "https://www.lcsd.gov.hk/clpss/tc/search/culture/DetailForm.do?id=185774",
    "source": "康文署",
    "image": "",
    "featured": false
@@ -3211,6 +3115,18 @@
    "end": "2026-08-05",
    "venue": "東九文化中心 (劇院)",
    "url": "https://www.ktcrpa.org/dance",
+   "source": "康文署",
+   "image": "",
+   "featured": false
+  },
+  {
+   "id": "4b1a4985e407",
+   "title": "「香港芭蕾舞學會超新星大賞2026」",
+   "category": "休閒",
+   "start": "2026-08-05",
+   "end": "2026-08-09",
+   "venue": "大埔文娛中心 (演藝廳)",
+   "url": "https://hkbg.org/",
    "source": "康文署",
    "image": "",
    "featured": false
@@ -5251,6 +5167,18 @@
    "end": "2026-08-23",
    "venue": "荃灣大會堂 (文娛廳)",
    "url": "http://www.littlerout.org/",
+   "source": "康文署",
+   "image": "",
+   "featured": false
+  },
+  {
+   "id": "ef41e9530a30",
+   "title": "紫樂集周年音樂會",
+   "category": "表演藝術",
+   "start": "2026-08-22",
+   "end": "2026-08-22",
+   "venue": "上環文娛中心 (演講廳)",
+   "url": "https://www.lcsd.gov.hk/tc/ticket/index.html",
    "source": "康文署",
    "image": "",
    "featured": false
