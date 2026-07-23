@@ -50,8 +50,9 @@ GitHub Actions
   - 封面：`img.cover` 嘅 `data-original`（缺就 `src`），要 `http` 開頭。
   - `rank` = 喺榜上嘅次序（1-based）。
 - `TOTAL_URL = ".../books/"`；`MANGA_URL = ".../books/16/"`。
-- `EXCLUDE_KEYWORDS`：語言考試／教科書類（多益/TOEIC/IELTS/雅思/托福/
-  TOEFL/檢定/單字/題庫/文法），`is_excluded(title)` 小寫 substring 比對。
+- `EXCLUDE_KEYWORDS`：語言考試／語言學習／教科書類（多益/TOEIC/IELTS/雅思/
+  托福/TOEFL/檢定/單字/題庫/文法/英語/英文/日語/日文/韓語/韓文/會話/口說/
+  發音），`is_excluded(title)` 小寫 substring 比對。
 - `build(total, manga, top_n=20) -> list[dict]`：
   - `banned = {_norm_title(b["title"]) for b in manga}`。
   - 由 total 順序剔走 `_norm_title in banned` **或** `is_excluded(title)`，

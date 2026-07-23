@@ -26,9 +26,11 @@ HEADERS = {
 HK_TZ = datetime.timezone(datetime.timedelta(hours=8))
 TOP_N = 20
 
-# 語言考試／教科書類唔當「值得睇嘅書」，剔走（小寫 substring 比對，隨時加減）
+# 語言考試／語言學習／教科書類唔當「值得睇嘅書」，剔走（小寫 substring 比對）
 EXCLUDE_KEYWORDS = ["多益", "toeic", "ielts", "雅思", "托福", "toefl",
-                    "檢定", "單字", "題庫", "文法"]
+                    "檢定", "單字", "題庫", "文法",
+                    "英語", "英文", "日語", "日文", "韓語", "韓文",
+                    "會話", "口說", "發音"]
 
 
 def is_excluded(title):

@@ -21,7 +21,9 @@ def test_build_excludes_language_exam_books():
     total = [mk("臺灣漫遊錄", 1),
              mk("全新！新制多益 TOEIC 單字大全", 2),
              mk("IELTS 雅思聽力題庫", 3),
-             mk("槓桿ETF投資法", 4)]
+             mk("抄寫英語的奇蹟：1天10分鐘", 4),
+             mk("大家的日語會話", 5),
+             mk("槓桿ETF投資法", 6)]
     out = books.build(total, [])
     titles = [b["title"] for b in out]
     assert titles == ["臺灣漫遊錄", "槓桿ETF投資法"]
