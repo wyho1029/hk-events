@@ -1,5 +1,5 @@
 {
- "updated": "2026-07-23",
+ "updated": "2026-07-24",
  "events": [
   {
    "id": "e13429ad674f",
@@ -1404,78 +1404,6 @@
    "featured": false
   },
   {
-   "id": "2b2a01ba805b",
-   "title": "2026社區文化大使：樂樂國樂團「兒樂無窮」社區巡演《音樂扭蛋機》",
-   "category": "休閒",
-   "start": "2026-07-23",
-   "end": "2026-07-23",
-   "venue": "元朗區內場地",
-   "url": "https://www.facebook.com/YYCMA",
-   "source": "康文署",
-   "image": "",
-   "featured": false
-  },
-  {
-   "id": "64195625eafe",
-   "title": "名曲粵韻獻知音",
-   "category": "表演藝術",
-   "start": "2026-07-23",
-   "end": "2026-07-23",
-   "venue": "屯門大會堂 (文娛廳)",
-   "url": "https://www.lcsd.gov.hk/tc/ticket/index.html",
-   "source": "康文署",
-   "image": "",
-   "featured": false
-  },
-  {
-   "id": "2d1621207031",
-   "title": "歌舞昇平同樂日",
-   "category": "表演藝術",
-   "start": "2026-07-23",
-   "end": "2026-07-23",
-   "venue": "西灣河文娛中心 (文娛廳)",
-   "url": "https://www.lcsd.gov.hk/clpss/tc/search/culture/DetailForm.do?id=183120",
-   "source": "康文署",
-   "image": "",
-   "featured": false
-  },
-  {
-   "id": "ca73f32fc703",
-   "title": "波神大騷甜華妹之龍游深水",
-   "category": "休閒",
-   "start": "2026-07-23",
-   "end": "2026-07-23",
-   "venue": "元朗劇院 (演藝廳)",
-   "url": "https://www.lcsd.gov.hk/clpss/tc/search/culture/DetailForm.do?id=183292",
-   "source": "康文署",
-   "image": "",
-   "featured": false
-  },
-  {
-   "id": "823e89f9b282",
-   "title": "粵劇《三氣周瑜》",
-   "category": "表演藝術",
-   "start": "2026-07-23",
-   "end": "2026-07-23",
-   "venue": "高山劇場 (劇院)",
-   "url": "https://www.lcsd.gov.hk/clpss/tc/search/culture/DetailForm.do?id=183341",
-   "source": "康文署",
-   "image": "",
-   "featured": false
-  },
-  {
-   "id": "aa050b117e3e",
-   "title": "聲藝金曲會知音",
-   "category": "表演藝術",
-   "start": "2026-07-23",
-   "end": "2026-07-23",
-   "venue": "北區大會堂 (演奏廳)",
-   "url": "https://www.lcsd.gov.hk/clpss/tc/search/culture/DetailForm.do?id=185633",
-   "source": "康文署",
-   "image": "",
-   "featured": false
-  },
-  {
    "id": "abe59c0416dd",
    "title": "2026社區文化大使：樂樂國樂團「兒樂無窮」社區巡演《音樂扭蛋機》",
    "category": "休閒",
@@ -2058,7 +1986,7 @@
    "start": "2026-07-28",
    "end": "2026-08-01",
    "venue": "葵青劇院 (黑盒劇場)",
-   "url": "https://www.lcsd.gov.hk/clpss/tc/search/culture/DetailForm.do?id=185762",
+   "url": "https://www.lcsd.gov.hk/tc/ticket/index.html",
    "source": "康文署",
    "image": "",
    "featured": false
@@ -2491,6 +2419,18 @@
    "end": "2026-08-01",
    "venue": "高山劇場 (劇院)",
    "url": "https://www.lcsd.gov.hk/clpss/tc/search/culture/DetailForm.do?id=184606",
+   "source": "康文署",
+   "image": "",
+   "featured": false
+  },
+  {
+   "id": "b494bfee9949",
+   "title": "《民族音樂》展覽",
+   "category": "展覽",
+   "start": "2026-08-01",
+   "end": "2026-08-12",
+   "venue": "荃灣大會堂 (展覽館)",
+   "url": "https://www.lcsd.gov.hk/tc/ticket/index.html",
    "source": "康文署",
    "image": "",
    "featured": false
@@ -5352,6 +5292,18 @@
    "featured": false
   },
   {
+   "id": "bb0f90f8455e",
+   "title": "星樂十年華",
+   "category": "休閒",
+   "start": "2026-08-24",
+   "end": "2026-08-24",
+   "venue": "上環文娛中心 (劇院)",
+   "url": "https://www.lcsd.gov.hk/tc/ticket/index.html",
+   "source": "康文署",
+   "image": "",
+   "featured": false
+  },
+  {
    "id": "06a97a2144f9",
    "title": "《藝星韻輝耀群芳》粵曲演唱會",
    "category": "表演藝術",
@@ -5436,6 +5388,18 @@
    "featured": false
   },
   {
+   "id": "76ea4c7cd0d7",
+   "title": "西班牙約克鮑文音樂節 (香港) - 2026青年大匯演",
+   "category": "表演藝術",
+   "start": "2026-08-26",
+   "end": "2026-08-26",
+   "venue": "上環文娛中心 (演講廳)",
+   "url": "https://resonanceartshk.com/%e7%b4%84%e5%85%8b%e9%a3%bd%e6%96%87%e9%9f%b3%e6%a8%82%e7%af%80-%e9%a6%99%e6%b8%af/",
+   "source": "康文署",
+   "image": "",
+   "featured": false
+  },
+  {
    "id": "0636143b048c",
    "title": "青草仲夏金曲日",
    "category": "表演藝術",
@@ -5509,12 +5473,12 @@
   },
   {
    "id": "6a7fbd3b952d",
-   "title": "WONDER STAGE Festival 2026",
+   "title": "WONDER STAGE Annual Festival 2026",
    "category": "休閒",
    "start": "2026-08-28",
    "end": "2026-08-28",
    "venue": "屯門大會堂 (文娛廳)",
-   "url": "https://www.lcsd.gov.hk/clpss/tc/search/culture/DetailForm.do?id=184668",
+   "url": "https://www.lcsd.gov.hk/tc/ticket/index.html",
    "source": "康文署",
    "image": "",
    "featured": false
@@ -6012,6 +5976,30 @@
    "featured": false
   },
   {
+   "id": "84bc5146e1d7",
+   "title": "西灣河文娛中心場地伙伴計劃 : 440系列公開分享會：Gureum",
+   "category": "休閒",
+   "start": "2026-09-12",
+   "end": "2026-09-12",
+   "venue": "西灣河文娛中心 (劇院)",
+   "url": "https://www.lcsd.gov.hk/tc/ticket/index.html",
+   "source": "康文署",
+   "image": "",
+   "featured": false
+  },
+  {
+   "id": "63a9dbcac2b7",
+   "title": "西灣河文娛中心場地伙伴計劃 : 440系列音樂會：Gureum",
+   "category": "表演藝術",
+   "start": "2026-09-12",
+   "end": "2026-09-12",
+   "venue": "西灣河文娛中心 (劇院)",
+   "url": "https://www.instagram.com/p/DbF3DRKhqpB",
+   "source": "康文署",
+   "image": "",
+   "featured": false
+  },
+  {
    "id": "a9b940813456",
    "title": "迦密柏雨中學校友會歌詠圑十六週年度音樂會:留聲.遇",
    "category": "表演藝術",
@@ -6264,6 +6252,18 @@
    "featured": false
   },
   {
+   "id": "857d2a6f1ef6",
+   "title": "FWD富衛保險呈獻 許志安演唱會2026",
+   "category": "演唱會",
+   "start": "2026-10-10",
+   "end": "2026-10-10",
+   "venue": "香港體育館 (表演場)",
+   "url": "https://www.lcsd.gov.hk/tc/hkc/whatsnew.html",
+   "source": "康文署",
+   "image": "",
+   "featured": false
+  },
+  {
    "id": "c0e0dca3532e",
    "title": "《咒術迴戰》音樂會",
    "category": "表演藝術",
@@ -6324,6 +6324,18 @@
    "featured": false
   },
   {
+   "id": "7aa41430c7e5",
+   "title": "第十六屆韓國十月文化節：音樂劇《漫漫長夜》",
+   "category": "表演藝術",
+   "start": "2026-11-07",
+   "end": "2026-11-08",
+   "venue": "香港大會堂 (劇院)",
+   "url": "https://hk.korean-culture.org/hk/1074/board/681/read/145125",
+   "source": "康文署",
+   "image": "",
+   "featured": false
+  },
+  {
    "id": "681c7e74dcab",
    "title": "「香港藝術家」系列2026：琳間．笛語 — 邱君琳笛子演奏會",
    "category": "表演藝術",
@@ -6331,6 +6343,18 @@
    "end": "2026-11-09",
    "venue": "香港大會堂 (劇院)",
    "url": "https://www.lcsd.gov.hk/CE/CulturalService/Programme/tc/music/programs_1987.html",
+   "source": "康文署",
+   "image": "",
+   "featured": false
+  },
+  {
+   "id": "525b6640cbfe",
+   "title": "2026-27年度「十八有藝──西貢社區演藝計劃」《琴聲貢聚》口琴計劃──口琴進階班(上期)：青少年及成人班",
+   "category": "表演藝術",
+   "start": "2026-11-22",
+   "end": "2026-11-22",
+   "venue": "西貢區內場地",
+   "url": "https://www.facebook.com/hkharmonica",
    "source": "康文署",
    "image": "",
    "featured": false
