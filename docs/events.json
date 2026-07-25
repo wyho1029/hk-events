@@ -1,5 +1,5 @@
 {
- "updated": "2026-07-24",
+ "updated": "2026-07-25",
  "events": [
   {
    "id": "e13429ad674f",
@@ -246,7 +246,7 @@
    "title": "2026-27年度「十八有藝──葵青社區演藝計劃」《絳鼓尋葵》鼓樂培訓計劃──社區巡迴音樂會",
    "category": "表演藝術",
    "start": "2026-06-28",
-   "end": "2026-07-26",
+   "end": "2026-08-30",
    "venue": "葵青區內場地",
    "url": "https://www.cpo.gov.hk/zh-hk/event/tc-kwt-2627/",
    "source": "康文署",
@@ -573,30 +573,6 @@
    "end": "2026-12-29",
    "venue": "大埔文娛中心 (活動室(1))",
    "url": "https://www.lcsd.gov.hk/tc/ticket/index.html",
-   "source": "康文署",
-   "image": "",
-   "featured": false
-  },
-  {
-   "id": "75198bf9595f",
-   "title": "2026-27年度「十八有藝──沙田社區演藝計劃」《身體年輪》長者舞蹈計劃──藝術家導賞會",
-   "category": "表演藝術",
-   "start": "2026-07-08",
-   "end": "2026-07-24",
-   "venue": "沙田區內場地",
-   "url": "https://www.unlock.com.hk",
-   "source": "康文署",
-   "image": "",
-   "featured": false
-  },
-  {
-   "id": "d086bd057609",
-   "title": "2026-27年度「十八有藝──沙田社區演藝計劃」《身體年輪》長者舞蹈計劃──錄像分享會",
-   "category": "表演藝術",
-   "start": "2026-07-08",
-   "end": "2026-07-24",
-   "venue": "沙田區內場地",
-   "url": "https://www.unlock.com.hk",
    "source": "康文署",
    "image": "",
    "featured": false
@@ -1058,18 +1034,6 @@
    "featured": false
   },
   {
-   "id": "1d32dea30720",
-   "title": "慶祝香港回歸祖國29週年暨香港華翠藝文會第十九週年李翠珍師生書畫展",
-   "category": "展覽",
-   "start": "2026-07-18",
-   "end": "2026-07-24",
-   "venue": "香港大會堂 (展覽館)",
-   "url": "https://www.lcsd.gov.hk/tc/ticket/index.html",
-   "source": "康文署",
-   "image": "",
-   "featured": false
-  },
-  {
    "id": "5503c9820103",
    "title": "我們不是什麼",
    "category": "電影",
@@ -1404,18 +1368,6 @@
    "featured": false
   },
   {
-   "id": "abe59c0416dd",
-   "title": "2026社區文化大使：樂樂國樂團「兒樂無窮」社區巡演《音樂扭蛋機》",
-   "category": "休閒",
-   "start": "2026-07-24",
-   "end": "2026-07-24",
-   "venue": "中西區區內場地",
-   "url": "https://www.facebook.com/YYCMA",
-   "source": "康文署",
-   "image": "",
-   "featured": false
-  },
-  {
    "id": "3e68dadba1a0",
    "title": "《螞蟻上樹》",
    "category": "休閒",
@@ -1428,30 +1380,6 @@
    "featured": false
   },
   {
-   "id": "6cfee5ca3a18",
-   "title": "六韻同聲經典演唱會",
-   "category": "演唱會",
-   "start": "2026-07-24",
-   "end": "2026-07-24",
-   "venue": "屯門大會堂 (文娛廳)",
-   "url": "https://www.lcsd.gov.hk/tc/ticket/index.html",
-   "source": "康文署",
-   "image": "",
-   "featured": false
-  },
-  {
-   "id": "769321c6413a",
-   "title": "各方薈聚粵曲演唱會",
-   "category": "表演藝術",
-   "start": "2026-07-24",
-   "end": "2026-07-24",
-   "venue": "屯門大會堂 (文娛廳)",
-   "url": "https://www.lcsd.gov.hk/tc/ticket/index.html",
-   "source": "康文署",
-   "image": "",
-   "featured": false
-  },
-  {
    "id": "ad17777eac5c",
    "title": "國際綜藝合家歡2026︰魔動劇團（加拿大）《魔法小樹窩》",
    "category": "親子",
@@ -1459,42 +1387,6 @@
    "end": "2026-07-26",
    "venue": "大埔文娛中心 (黑盒劇場)",
    "url": "https://www.hkiac.gov.hk/2026/tc/tree.html",
-   "source": "康文署",
-   "image": "",
-   "featured": false
-  },
-  {
-   "id": "274f9896d024",
-   "title": "夏日親子電影節 2026：《最後的鯨歌守護者》",
-   "category": "電影活動",
-   "start": "2026-07-24",
-   "end": "2026-07-24",
-   "venue": "香港電影資料館 (電影院)",
-   "url": "https://www.lcsd.gov.hk/fp/tc/listing.html?id=93",
-   "source": "康文署",
-   "image": "",
-   "featured": false
-  },
-  {
-   "id": "da4bf0c4778d",
-   "title": "慶祝香港特別行政區成立29周年灣仔大匯演",
-   "category": "表演藝術",
-   "start": "2026-07-24",
-   "end": "2026-07-24",
-   "venue": "伊利沙伯體育館 (表演場)",
-   "url": "https://www.lcsd.gov.hk/tc/ticket/index.html",
-   "source": "康文署",
-   "image": "",
-   "featured": false
-  },
-  {
-   "id": "826993a38656",
-   "title": "粵劇《忽必烈大帝》",
-   "category": "表演藝術",
-   "start": "2026-07-24",
-   "end": "2026-07-24",
-   "venue": "高山劇場 (劇院)",
-   "url": "https://www.lcsd.gov.hk/clpss/tc/search/culture/DetailForm.do?id=183342",
    "source": "康文署",
    "image": "",
    "featured": false
@@ -4944,18 +4836,6 @@
    "featured": false
   },
   {
-   "id": "fa645b37122d",
-   "title": "2026第十二屆傑出少兒油畫作品展",
-   "category": "休閒",
-   "start": "2026-08-22",
-   "end": "2026-08-23",
-   "venue": "香港文化中心 (展覽館)",
-   "url": "https://www.lcsd.gov.hk/tc/ticket/index.html",
-   "source": "康文署",
-   "image": "",
-   "featured": false
-  },
-  {
    "id": "f35c5832bf1e",
    "title": "AXA安盛呈獻 古天樂 MY FIRST SHOW",
    "category": "休閒",
@@ -5035,6 +4915,18 @@
    "end": "2026-08-22",
    "venue": "大埔文娛中心 (演藝廳)",
    "url": "https://www.lcsd.gov.hk/clpss/tc/search/culture/DetailForm.do?id=184740",
+   "source": "康文署",
+   "image": "",
+   "featured": false
+  },
+  {
+   "id": "fa645b37122d",
+   "title": "油彩新境：文化的交織 2026第十二屆亞洲傑出少兒油畫展",
+   "category": "展覽",
+   "start": "2026-08-22",
+   "end": "2026-08-23",
+   "venue": "香港文化中心 (展覽館)",
+   "url": "https://www.lcsd.gov.hk/tc/ticket/index.html",
    "source": "康文署",
    "image": "",
    "featured": false
@@ -5143,6 +5035,18 @@
    "end": "2026-08-23",
    "venue": "高山劇場 (新翼演藝廳)",
    "url": "https://www.lcsd.gov.hk/clpss/tc/search/culture/DetailForm.do?id=184639",
+   "source": "康文署",
+   "image": "",
+   "featured": false
+  },
+  {
+   "id": "fc8325aa66b4",
+   "title": "亞太廣播聯盟機械人大賽 2026",
+   "category": "休閒",
+   "start": "2026-08-23",
+   "end": "2026-08-23",
+   "venue": "伊利沙伯體育館 (表演場)",
+   "url": "https://www.lcsd.gov.hk/tc/ticket/index.html",
    "source": "康文署",
    "image": "",
    "featured": false
@@ -5977,7 +5881,7 @@
   },
   {
    "id": "84bc5146e1d7",
-   "title": "西灣河文娛中心場地伙伴計劃 : 440系列公開分享會：Gureum",
+   "title": "西灣河文娛中心場地伙伴計劃 : 440系列公開分享會 : Gureum",
    "category": "休閒",
    "start": "2026-09-12",
    "end": "2026-09-12",
@@ -5989,7 +5893,7 @@
   },
   {
    "id": "63a9dbcac2b7",
-   "title": "西灣河文娛中心場地伙伴計劃 : 440系列音樂會：Gureum",
+   "title": "西灣河文娛中心場地伙伴計劃 : 440系列音樂會 : Gureum",
    "category": "表演藝術",
    "start": "2026-09-12",
    "end": "2026-09-12",
@@ -6001,7 +5905,7 @@
   },
   {
    "id": "a9b940813456",
-   "title": "迦密柏雨中學校友會歌詠圑十六週年度音樂會:留聲.遇",
+   "title": "迦密柏雨中學校友會歌詠圑十六週年音樂會:留聲.遇",
    "category": "表演藝術",
    "start": "2026-09-12",
    "end": "2026-09-12",
@@ -6121,7 +6025,7 @@
   },
   {
    "id": "646d8c7cb650",
-   "title": "香港文化中心場地伙伴計劃：第50樂季開幕音樂會 千簧一宇",
+   "title": "香港文化中心場地伙伴計劃：中華文化節2026/「亞藝無疆」藝術節2026/ 國際笙簧節2026：第50樂季開幕音樂會《千簧一宇》",
    "category": "表演藝術",
    "start": "2026-09-19",
    "end": "2026-09-20",
@@ -6353,6 +6257,18 @@
    "category": "表演藝術",
    "start": "2026-11-22",
    "end": "2026-11-22",
+   "venue": "西貢區內場地",
+   "url": "https://www.facebook.com/hkharmonica",
+   "source": "康文署",
+   "image": "",
+   "featured": false
+  },
+  {
+   "id": "b3fd80c698b7",
+   "title": "2026-27年度「十八有藝──西貢社區演藝計劃」《琴聲貢聚》口琴計劃──口琴進階班(上期)：長者班",
+   "category": "表演藝術",
+   "start": "2026-11-26",
+   "end": "2026-11-26",
    "venue": "西貢區內場地",
    "url": "https://www.facebook.com/hkharmonica",
    "source": "康文署",
