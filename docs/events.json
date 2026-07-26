@@ -1,5 +1,5 @@
 {
- "updated": "2026-07-25",
+ "updated": "2026-07-26",
  "events": [
   {
    "id": "e13429ad674f",
@@ -710,18 +710,6 @@
    "featured": false
   },
   {
-   "id": "ef04ab214881",
-   "title": "二澳農作社 x SNDO READS 「米香。城市」 @雙子匯三道SNDO",
-   "category": "休閒",
-   "start": "2026-07-16",
-   "end": "2026-07-25",
-   "venue": "TheTwins雙子匯 Il 7-F ",
-   "url": "https://timable.com/zh/event/%E4%BA%8C%E6%BE%B3%E8%BE%B2%E4%BD%9C%E7%A4%BExSNDOREADS-%E7%B1%B3%E9%A6%99-%E5%9F%8E%E5%B8%82--%E9%9B%99%E5%AD%90%E5%8C%AF%E4%B8%89%E9%81%93SNDO",
-   "source": "Timable",
-   "image": "https://static.timable.com/image_050c08cf-735c-448d-9f92-05cfd4f5d7fc-480x480.webp",
-   "featured": false
-  },
-  {
    "id": "17c4a9f0b2c7",
    "title": "Scoop & Cone: AIRSIDE 夏日Gelato祭 @AIRSIDE",
    "category": "休閒",
@@ -1272,18 +1260,6 @@
    "featured": false
   },
   {
-   "id": "fef976c9236f",
-   "title": "2026-27年度「十八有藝──大埔社區演藝計劃」《擊響大埔》敲擊樂創藝計劃──巡迴音樂會",
-   "category": "表演藝術",
-   "start": "2026-07-19",
-   "end": "2026-07-25",
-   "venue": "大埔區內場地",
-   "url": "https://www.facebook.com/toolboxpercussion",
-   "source": "康文署",
-   "image": "",
-   "featured": false
-  },
-  {
    "id": "bc5fa24c5a56",
    "title": "夏日親子電影節 2026：《靈雀密語》",
    "category": "電影活動",
@@ -1356,18 +1332,6 @@
    "featured": true
   },
   {
-   "id": "43208dab494b",
-   "title": "香港美術會年展2026（第77屆）",
-   "category": "休閒",
-   "start": "2026-07-22",
-   "end": "2026-07-25",
-   "venue": "香港大會堂 (展覽廳)",
-   "url": "https://www.lcsd.gov.hk/tc/ticket/index.html",
-   "source": "康文署",
-   "image": "",
-   "featured": false
-  },
-  {
    "id": "3e68dadba1a0",
    "title": "《螞蟻上樹》",
    "category": "休閒",
@@ -1414,66 +1378,6 @@
    "source": "盛事之都",
    "image": "https://www.brandhk.gov.hk/images/default-source/about-brandhk/2026-acghk-01.jpg",
    "featured": true
-  },
-  {
-   "id": "ba8bee7e505f",
-   "title": "2026-27年度「十八有藝──沙田社區演藝計劃」《身體年輪》長者舞蹈計劃──社區展覽",
-   "category": "展覽",
-   "start": "2026-07-25",
-   "end": "2026-07-25",
-   "venue": "沙田區內場地",
-   "url": "https://www.unlock.com.hk",
-   "source": "康文署",
-   "image": "",
-   "featured": false
-  },
-  {
-   "id": "aa7cb985fc3b",
-   "title": "TONY．東尼．詩詩入扣濃情演唱會",
-   "category": "演唱會",
-   "start": "2026-07-25",
-   "end": "2026-07-25",
-   "venue": "屯門大會堂 (文娛廳)",
-   "url": "https://www.lcsd.gov.hk/tc/ticket/index.html",
-   "source": "康文署",
-   "image": "",
-   "featured": false
-  },
-  {
-   "id": "e819b6d86723",
-   "title": "「夾縫絕響 — 香港村校校歌特色及淵源」講座",
-   "category": "休閒",
-   "start": "2026-07-25",
-   "end": "2026-07-25",
-   "venue": "香港大會堂 (演奏廳)",
-   "url": "http://www.fragrantvillage.org/",
-   "source": "康文署",
-   "image": "",
-   "featured": false
-  },
-  {
-   "id": "a5c49bb37bb0",
-   "title": "中華文化節2026：《樂響盛唐—金鐘之聲 IV：章海玥與香港愛樂民樂團》音樂會",
-   "category": "表演藝術",
-   "start": "2026-07-25",
-   "end": "2026-07-25",
-   "venue": "荃灣大會堂 (演奏廳)",
-   "url": "https://www.hkmlco.org/",
-   "source": "康文署",
-   "image": "",
-   "featured": false
-  },
-  {
-   "id": "f6131c0feb86",
-   "title": "中華文化節2026：《絲路迴響 ‧ 胡樂新聲》音樂會",
-   "category": "表演藝術",
-   "start": "2026-07-25",
-   "end": "2026-07-25",
-   "venue": "東九文化中心 (劇場)",
-   "url": "https://www.hkwl.org/article/36727-ccf2026-003/",
-   "source": "康文署",
-   "image": "",
-   "featured": false
   },
   {
    "id": "0f153ba7bab8",
@@ -1536,18 +1440,6 @@
    "featured": false
   },
   {
-   "id": "0aa4c5d992ad",
-   "title": "彭修文誕辰九十五週年音樂會",
-   "category": "表演藝術",
-   "start": "2026-07-25",
-   "end": "2026-07-25",
-   "venue": "香港大會堂 (音樂廳)",
-   "url": "https://www.hkco.org/tc/Concerts/Peng-Xiuwen-95th-Anniversary-Concert-1.html",
-   "source": "康文署",
-   "image": "",
-   "featured": false
-  },
-  {
    "id": "a0d7b2306d74",
    "title": "星空下的腳印",
    "category": "休閒",
@@ -1572,30 +1464,6 @@
    "featured": false
   },
   {
-   "id": "9a1877204fb4",
-   "title": "粵劇《樓台會》",
-   "category": "表演藝術",
-   "start": "2026-07-25",
-   "end": "2026-07-25",
-   "venue": "高山劇場 (劇院)",
-   "url": "https://www.lcsd.gov.hk/clpss/tc/search/culture/DetailForm.do?id=183344",
-   "source": "康文署",
-   "image": "",
-   "featured": false
-  },
-  {
-   "id": "a5f476f12928",
-   "title": "粵劇《花田八喜》",
-   "category": "表演藝術",
-   "start": "2026-07-25",
-   "end": "2026-07-25",
-   "venue": "高山劇場 (劇院)",
-   "url": "https://www.lcsd.gov.hk/clpss/tc/search/culture/DetailForm.do?id=183343",
-   "source": "康文署",
-   "image": "",
-   "featured": false
-  },
-  {
    "id": "d6507a98f073",
    "title": "與音樂大師近距離接觸",
    "category": "休閒",
@@ -1615,42 +1483,6 @@
    "end": "2026-07-26",
    "venue": "荃灣大會堂 (文娛廳)",
    "url": "https://www.art-mate.net/tc/doc/97130",
-   "source": "康文署",
-   "image": "",
-   "featured": false
-  },
-  {
-   "id": "2f77e31cbc68",
-   "title": "西灣河文娛中心場地伙伴計劃 : 爵士樂導賞及分享會",
-   "category": "表演藝術",
-   "start": "2026-07-25",
-   "end": "2026-07-25",
-   "venue": "西灣河文娛中心 (劇院)",
-   "url": "https://www.instagram.com/p/DZaBgnLBT9o/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA==",
-   "source": "康文署",
-   "image": "",
-   "featured": false
-  },
-  {
-   "id": "0de68b553c0a",
-   "title": "開心唱聚迎夏日演唱會",
-   "category": "演唱會",
-   "start": "2026-07-25",
-   "end": "2026-07-25",
-   "venue": "屯門大會堂 (文娛廳)",
-   "url": "https://www.lcsd.gov.hk/tc/ticket/index.html",
-   "source": "康文署",
-   "image": "",
-   "featured": false
-  },
-  {
-   "id": "a93028df8f63",
-   "title": "香港中文大學基督徒樂隊2025-2026年度音樂會 — 拾價",
-   "category": "表演藝術",
-   "start": "2026-07-25",
-   "end": "2026-07-25",
-   "venue": "大埔文娛中心 (演藝廳)",
-   "url": "https://www.instagram.com/wearecucb/",
    "source": "康文署",
    "image": "",
    "featured": false
