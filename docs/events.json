@@ -1,5 +1,5 @@
 {
- "updated": "2026-07-26",
+ "updated": "2026-07-27",
  "events": [
   {
    "id": "e13429ad674f",
@@ -710,18 +710,6 @@
    "featured": false
   },
   {
-   "id": "17c4a9f0b2c7",
-   "title": "Scoop & Cone: AIRSIDE 夏日Gelato祭 @AIRSIDE",
-   "category": "休閒",
-   "start": "2026-07-17",
-   "end": "2026-07-26",
-   "venue": "AIRSIDE 3-F & 4-F",
-   "url": "https://timable.com/zh/event/Scoop-Cone-AIRSIDE%E5%A4%8F%E6%97%A5Gelato%E7%A5%AD-AIRSIDE",
-   "source": "Timable",
-   "image": "https://static.timable.com/image_d758a776-31c5-4e13-a8ae-86916f537152-480x600.webp",
-   "featured": false
-  },
-  {
    "id": "f7eb1e9a71cd",
    "title": "「JOGUMAN meets D·PARK: 夏⽇島嶼時光」 活動",
    "category": "休閒",
@@ -1332,30 +1320,6 @@
    "featured": true
   },
   {
-   "id": "3e68dadba1a0",
-   "title": "《螞蟻上樹》",
-   "category": "休閒",
-   "start": "2026-07-24",
-   "end": "2026-07-26",
-   "venue": "葵青劇院 (黑盒劇場)",
-   "url": "https://www.lcsd.gov.hk/clpss/tc/search/culture/DetailForm.do?id=185672",
-   "source": "康文署",
-   "image": "",
-   "featured": false
-  },
-  {
-   "id": "ad17777eac5c",
-   "title": "國際綜藝合家歡2026︰魔動劇團（加拿大）《魔法小樹窩》",
-   "category": "親子",
-   "start": "2026-07-24",
-   "end": "2026-07-26",
-   "venue": "大埔文娛中心 (黑盒劇場)",
-   "url": "https://www.hkiac.gov.hk/2026/tc/tree.html",
-   "source": "康文署",
-   "image": "",
-   "featured": false
-  },
-  {
    "id": "a2f4d67201d5",
    "title": "香港動漫電玩節 2026",
    "category": "休閒",
@@ -1380,30 +1344,6 @@
    "featured": true
   },
   {
-   "id": "0f153ba7bab8",
-   "title": "中華文化節2026：中國戲曲節 — 河北省河北梆子劇院",
-   "category": "表演藝術",
-   "start": "2026-07-25",
-   "end": "2026-07-26",
-   "venue": "葵青劇院 (演藝廳)",
-   "url": "https://www.ccf.gov.hk/tc/programme/hebei-bangzi-opera-theatre-of-hebei-province/",
-   "source": "康文署",
-   "image": "",
-   "featured": false
-  },
-  {
-   "id": "dd622b628a1f",
-   "title": "國際綜藝合家歡2026︰《愛麗絲夢遊仙境—鏡中奇遇再敍新篇》",
-   "category": "親子",
-   "start": "2026-07-25",
-   "end": "2026-07-26",
-   "venue": "沙田大會堂 (演奏廳)",
-   "url": "https://www.hkiac.gov.hk/2026/tc/alice.html",
-   "source": "康文署",
-   "image": "",
-   "featured": false
-  },
-  {
    "id": "d81cf413b889",
    "title": "夏日親子電影節 2026：《樹屋奇幻故事集》",
    "category": "電影活動",
@@ -1423,30 +1363,6 @@
    "end": "2026-08-08",
    "venue": "香港電影資料館 (電影院)",
    "url": "https://www.lcsd.gov.hk/fp/tc/listing.html?id=93",
-   "source": "康文署",
-   "image": "",
-   "featured": false
-  },
-  {
-   "id": "d94384fb03e3",
-   "title": "天籟敦煌音樂巡禮 | 《如願》音樂會",
-   "category": "表演藝術",
-   "start": "2026-07-25",
-   "end": "2026-07-26",
-   "venue": "沙田大會堂 (文娛廳)",
-   "url": "https://www.urbtix.hk/event-detail/15191/",
-   "source": "康文署",
-   "image": "",
-   "featured": false
-  },
-  {
-   "id": "a0d7b2306d74",
-   "title": "星空下的腳印",
-   "category": "休閒",
-   "start": "2026-07-25",
-   "end": "2026-07-26",
-   "venue": "牛池灣文娛中心 (劇院)",
-   "url": "https://www.instagram.com/creative_theatre_ed",
    "source": "康文署",
    "image": "",
    "featured": false
@@ -1476,114 +1392,6 @@
    "featured": false
   },
   {
-   "id": "e0117c25b89a",
-   "title": "荃灣大會堂場地伙伴計劃：演戲家族經典劇目讀劇展演《美麗的1天》(階段一)",
-   "category": "休閒",
-   "start": "2026-07-25",
-   "end": "2026-07-26",
-   "venue": "荃灣大會堂 (文娛廳)",
-   "url": "https://www.art-mate.net/tc/doc/97130",
-   "source": "康文署",
-   "image": "",
-   "featured": false
-  },
-  {
-   "id": "6849e8f82cf7",
-   "title": "2026-27年度「十八有藝—深水埗社區演藝計劃」《聲的形狀4.0》無伴奏合唱音樂企劃 — 社區共享演出暨演後分享會",
-   "category": "表演藝術",
-   "start": "2026-07-26",
-   "end": "2026-07-26",
-   "venue": "深水埗區內場地",
-   "url": "https://www.instagram.com/shape_of_harmony",
-   "source": "康文署",
-   "image": "",
-   "featured": false
-  },
-  {
-   "id": "fe5fafdb9bc3",
-   "title": "2026社區文化大使: 匯樂團「古典亦時尚」社區音樂會",
-   "category": "表演藝術",
-   "start": "2026-07-26",
-   "end": "2026-07-26",
-   "venue": "北區區內場地",
-   "url": "https://www.facebook.com/MusAssembly/",
-   "source": "康文署",
-   "image": "",
-   "featured": false
-  },
-  {
-   "id": "c9c31c5506ba",
-   "title": "2026社區文化大使: 匯樂團「古典亦時尚」社區音樂會",
-   "category": "表演藝術",
-   "start": "2026-07-26",
-   "end": "2026-07-26",
-   "venue": "沙田區內場地",
-   "url": "https://www.facebook.com/MusAssembly/",
-   "source": "康文署",
-   "image": "",
-   "featured": false
-  },
-  {
-   "id": "9d46afacfb11",
-   "title": "YONEX-SUNRISE 2026全港羽毛球錦標賽",
-   "category": "體育",
-   "start": "2026-07-26",
-   "end": "2026-07-26",
-   "venue": "伊利沙伯體育館 (表演場)",
-   "url": "https://www.lcsd.gov.hk/tc/ticket/index.html",
-   "source": "康文署",
-   "image": "",
-   "featured": true
-  },
-  {
-   "id": "b050b43bea68",
-   "title": "名曲粵韻獻知音",
-   "category": "表演藝術",
-   "start": "2026-07-26",
-   "end": "2026-07-26",
-   "venue": "屯門大會堂 (文娛廳)",
-   "url": "https://www.lcsd.gov.hk/clpss/tc/search/culture/DetailForm.do?id=183459",
-   "source": "康文署",
-   "image": "",
-   "featured": false
-  },
-  {
-   "id": "9a6a849d8414",
-   "title": "國際綜藝合家歡2026︰《夏日共鳴》香港青年音樂營音樂會I",
-   "category": "表演藝術",
-   "start": "2026-07-26",
-   "end": "2026-07-26",
-   "venue": "元朗劇院 (演藝廳)",
-   "url": "https://www.lcsd.gov.hk/musicoffice/",
-   "source": "康文署",
-   "image": "",
-   "featured": false
-  },
-  {
-   "id": "42d182485fc3",
-   "title": "夏日親子電影節 2026：《妙筆女文豪》",
-   "category": "電影活動",
-   "start": "2026-07-26",
-   "end": "2026-07-26",
-   "venue": "香港電影資料館 (電影院)",
-   "url": "https://www.lcsd.gov.hk/fp/tc/listing.html?id=93",
-   "source": "康文署",
-   "image": "",
-   "featured": false
-  },
-  {
-   "id": "565b03e45604",
-   "title": "夏日親子電影節 2026：《小海蛇千里救家園》",
-   "category": "電影活動",
-   "start": "2026-07-26",
-   "end": "2026-07-26",
-   "venue": "香港電影資料館 (電影院)",
-   "url": "https://www.lcsd.gov.hk/fp/tc/listing.html?id=93",
-   "source": "康文署",
-   "image": "",
-   "featured": false
-  },
-  {
    "id": "47c9d4eb11d9",
    "title": "夏日親子電影節 2026：《貓咪雪地交友記》",
    "category": "電影活動",
@@ -1602,42 +1410,6 @@
    "start": "2026-07-26",
    "end": "2026-12-27",
    "venue": "大埔文娛中心 (活動室(1))",
-   "url": "https://www.lcsd.gov.hk/tc/ticket/index.html",
-   "source": "康文署",
-   "image": "",
-   "featured": false
-  },
-  {
-   "id": "df4189f5ecff",
-   "title": "油麻地戲院場地伙伴計劃—優越新秀粵劇傳承計劃 2026-27 例戲、粵劇演出《雷鳴金鼓戰笳聲》",
-   "category": "表演藝術",
-   "start": "2026-07-26",
-   "end": "2026-07-26",
-   "venue": "高山劇場 (新翼演藝廳)",
-   "url": "https://www.hkbarwoymt.com/tc",
-   "source": "康文署",
-   "image": "",
-   "featured": false
-  },
-  {
-   "id": "a69de38efccb",
-   "title": "第17屆中國文化交流大使藝術盛典展演",
-   "category": "休閒",
-   "start": "2026-07-26",
-   "end": "2026-07-26",
-   "venue": "屯門大會堂 (演奏廳)",
-   "url": "https://www.lcsd.gov.hk/tc/ticket/index.html",
-   "source": "康文署",
-   "image": "",
-   "featured": false
-  },
-  {
-   "id": "77694b8f1a0a",
-   "title": "粵劇《跨鳳乘龍》",
-   "category": "表演藝術",
-   "start": "2026-07-26",
-   "end": "2026-07-26",
-   "venue": "高山劇場 (劇院)",
    "url": "https://www.lcsd.gov.hk/tc/ticket/index.html",
    "source": "康文署",
    "image": "",
