@@ -1308,18 +1308,6 @@
    "featured": false
   },
   {
-   "id": "c7f81a2efe60",
-   "title": "香港動漫電玩節 2026",
-   "category": "大型盛事",
-   "start": "2026-07-24",
-   "end": "2026-07-28",
-   "venue": "香港會議展覽中心",
-   "url": "https://ani-com.hk/",
-   "source": "盛事之都",
-   "image": "https://www.brandhk.gov.hk/images/default-source/about-brandhk/2026-acghk-01.jpg",
-   "featured": true
-  },
-  {
    "id": "ed1793aa29d7",
    "title": "另類寵物世界 Exotic Pets World 2026 @合和商場",
    "category": "休閒",
@@ -1509,6 +1497,18 @@
    "url": "https://www.lcsd.gov.hk/fp/tc/listing.html?id=93",
    "source": "康文署",
    "image": "",
+   "featured": false
+  },
+  {
+   "id": "c0376d3d51d5",
+   "title": "村上春樹《爵士群像之Chet Baker》音樂會",
+   "category": "表演藝術",
+   "start": "2026-07-28",
+   "end": "2026-08-11",
+   "venue": "CODA Jazz Kissa 爵士喫茶",
+   "url": "https://timable.com/zh/event/%E6%9D%91%E4%B8%8A%E6%98%A5%E6%A8%B9-%E7%88%B5%E5%A3%AB%E7%BE%A4%E5%83%8F%E4%B9%8BChetBaker-%E9%9F%B3%E6%A8%82%E6%9C%83",
+   "source": "Timable",
+   "image": "https://static.timable.com/image_d0bd3130-36f6-4901-880b-f34322c0290a-480x640.webp",
    "featured": false
   },
   {
@@ -1776,18 +1776,6 @@
    "featured": false
   },
   {
-   "id": "864738de38b2",
-   "title": "涼夏食光 食品主題市集",
-   "category": "市集",
-   "start": "2026-07-31",
-   "end": "2026-08-02",
-   "venue": "南豐紗廠 1F",
-   "url": "https://timable.com/zh/event/%E6%B6%BC%E5%A4%8F%E9%A3%9F%E5%85%89%E9%A3%9F%E5%93%81%E4%B8%BB%E9%A1%8C%E5%B8%82%E9%9B%86",
-   "source": "Timable",
-   "image": "https://static.timable.com/image_424a34e7-6a74-400c-932a-81151886d80c-480x640.webp",
-   "featured": false
-  },
-  {
    "id": "471abdf8b15c",
    "title": "熠熠炅系列《生如夏花》—節目一",
    "category": "休閒",
@@ -1893,18 +1881,6 @@
    "url": "https://www.hkco.org/tc/Concerts/Cherish-Tonight-1.html",
    "source": "康文署",
    "image": "",
-   "featured": false
-  },
-  {
-   "id": "f83b5585faf5",
-   "title": "《失焦 Empathy for the Elderly》舞台劇",
-   "category": "休閒",
-   "start": "2026-08-01",
-   "end": "2026-08-02",
-   "venue": "上環文娛中心 演講廳",
-   "url": "https://timable.com/zh/event/%E5%A4%B1%E7%84%A6EmpathyfortheElderly-%E8%88%9E%E5%8F%B0%E5%8A%87",
-   "source": "Timable",
-   "image": "https://static.timable.com/image_8e72c82b-2ef4-4bd6-af01-9e40e83a861a-480x640.webp",
    "featured": false
   },
   {
@@ -2625,18 +2601,6 @@
    "url": "https://www.lcsd.gov.hk/tc/ticket/index.html",
    "source": "康文署",
    "image": "",
-   "featured": false
-  },
-  {
-   "id": "a476a6ae0c57",
-   "title": "「東京卍復仇者展 最後的世界線」POP-UP期間限定店 @AIRSIDE",
-   "category": "休閒",
-   "start": "2026-08-07",
-   "end": "2026-09-13",
-   "venue": "AIRSIDE 1-F 108-109號舖",
-   "url": "https://timable.com/zh/event/%E6%9D%B1%E4%BA%AC%E5%8D%8D%E5%BE%A9%E4%BB%87%E8%80%85%E5%B1%95%E6%9C%80%E5%BE%8C%E7%9A%84%E4%B8%96%E7%95%8C%E7%B7%9A-POP-UP%E6%9C%9F%E9%96%93%E9%99%90%E5%AE%9A%E5%BA%97-AIRSIDE",
-   "source": "Timable",
-   "image": "https://static.timable.com/image_d5fbf4cd-a7f9-4b66-8024-f9330ce9a6e6-480x600.webp",
    "featured": false
   },
   {
@@ -3393,18 +3357,6 @@
    "url": "https://www.lcsd.gov.hk/tc/ticket/index.html",
    "source": "康文署",
    "image": "",
-   "featured": false
-  },
-  {
-   "id": "1d14c3129130",
-   "title": "LB aka Labat 香港首個專屬之夜",
-   "category": "休閒",
-   "start": "2026-08-14",
-   "end": "2026-08-15",
-   "venue": "Soho House Hong Kong",
-   "url": "https://timable.com/zh/event/LBakaLabat%E9%A6%99%E6%B8%AF%E9%A6%96%E5%80%8B%E5%B0%88%E5%B1%AC%E4%B9%8B%E5%A4%9C",
-   "source": "Timable",
-   "image": "https://static.timable.com/image_c3993301-1a60-41fe-9cd4-6b4e325cdd3f-480x240.webp",
    "featured": false
   },
   {
@@ -4728,6 +4680,18 @@
    "featured": false
   },
   {
+   "id": "d8bbe5223bfa",
+   "title": "賽馬會平行心間節 2026 @AIRSIDE",
+   "category": "體育",
+   "start": "2026-08-23",
+   "end": "2026-08-23",
+   "venue": "AIRSIDE",
+   "url": "https://timable.com/zh/event/%E8%B3%BD%E9%A6%AC%E6%9C%83%E5%B9%B3%E8%A1%8C%E5%BF%83%E9%96%93%E7%AF%802026-AIRSIDE",
+   "source": "Timable",
+   "image": "https://static.timable.com/image_e588198d-955b-4273-958a-ddf83352ad1f-480x600.webp",
+   "featured": false
+  },
+  {
    "id": "8b8e97f64764",
    "title": "音樂劇",
    "category": "表演藝術",
@@ -5049,6 +5013,18 @@
    "url": "https://www.lcsd.gov.hk/tc/ticket/index.html",
    "source": "康文署",
    "image": "",
+   "featured": false
+  },
+  {
+   "id": "1434174e7e58",
+   "title": "DJ Hansel \"Western Pop Final Summer Wave\" 盛夏派對",
+   "category": "休閒",
+   "start": "2026-08-29",
+   "end": "2026-08-29",
+   "venue": "The Twins 雙子匯II G-F 中庭",
+   "url": "https://timable.com/zh/event/DJHansel-WesternPopFinalSummerWave-%E7%9B%9B%E5%A4%8F%E6%B4%BE%E5%B0%8D",
+   "source": "Timable",
+   "image": "https://static.timable.com/image_c014ec36-78b9-40cf-a3cc-94606f09faa5-480x964.webp",
    "featured": false
   },
   {
@@ -5436,6 +5412,18 @@
    "featured": false
   },
   {
+   "id": "c9d2b4922170",
+   "title": "《廣陵散》新編粵劇 @中華文化節 2026",
+   "category": "表演藝術",
+   "start": "2026-09-11",
+   "end": "2026-09-13",
+   "venue": "沙田大會堂 演奏廳",
+   "url": "https://timable.com/zh/event/%E5%BB%A3%E9%99%B5%E6%95%A3-%E6%96%B0%E7%B7%A8%E7%B2%B5%E5%8A%87-%E4%B8%AD%E8%8F%AF%E6%96%87%E5%8C%96%E7%AF%802026",
+   "source": "Timable",
+   "image": "https://static.timable.com/image_f4c7a953-679e-4c1f-9356-99326ab91b85-480x191.webp",
+   "featured": false
+  },
+  {
    "id": "ea5817397bff",
    "title": "歌劇：莫扎特《獨裁君主斯拉》",
    "category": "表演藝術",
@@ -5457,6 +5445,18 @@
    "url": "https://timable.com/zh/event/AlanTam%E8%AD%9A%E8%A9%A0%E9%BA%9F%E7%B4%85%E9%A4%A8%E6%BC%94%E5%94%B1%E6%9C%832026",
    "source": "Timable",
    "image": "https://static.timable.com/image_de6f73cc-790b-4bd3-ba82-5e54367ac9c5-480x604.webp",
+   "featured": false
+  },
+  {
+   "id": "3c1e1b4373c3",
+   "title": "吳建忠「戶外寫生與室內創作」水彩畫分享會",
+   "category": "休閒",
+   "start": "2026-09-12",
+   "end": "2026-09-12",
+   "venue": "NuDD",
+   "url": "https://timable.com/zh/event/%E5%90%B3%E5%BB%BA%E5%BF%A0-%E6%88%B6%E5%A4%96%E5%AF%AB%E7%94%9F%E8%88%87%E5%AE%A4%E5%85%A7%E5%89%B5%E4%BD%9C-%E6%B0%B4%E5%BD%A9%E7%95%AB%E5%88%86%E4%BA%AB%E6%9C%83",
+   "source": "Timable",
+   "image": "https://static.timable.com/image_7a511186-1f79-4857-a31f-92ba3b7ac4b4-480x640.webp",
    "featured": false
   },
   {
@@ -5772,15 +5772,15 @@
    "featured": false
   },
   {
-   "id": "1219e1d89c26",
-   "title": "梁祖堯 X 王菀之 X 谷祖琳 X 盧鎮業《寫不得你》舞台劇 @風車草劇團",
+   "id": "04e8f78080f0",
+   "title": "邵美君× 柯煒林 × 鄧濤 × 黎濟銘 × 梁仲恆《尼斯湖水怪》舞台劇 @大象創作",
    "category": "休閒",
    "start": "2026-10-23",
-   "end": "2026-11-08",
-   "venue": "香港演藝學院 歌劇院",
-   "url": "https://timable.com/zh/event/%E6%A2%81%E7%A5%96%E5%A0%AFX%E7%8E%8B%E8%8F%80%E4%B9%8BX%E8%B0%B7%E7%A5%96%E7%90%B3X%E7%9B%A7%E9%8E%AE%E6%A5%AD-%E5%AF%AB%E4%B8%8D%E5%BE%97%E4%BD%A0%E8%88%9E%E5%8F%B0%E5%8A%87--%E9%A2%A8%E8%BB%8A%E8%8D%89%E5%8A%87%E5%9C%98",
+   "end": "2026-10-31",
+   "venue": "香港文化中心 劇場",
+   "url": "https://timable.com/zh/event/%E9%82%B5%E7%BE%8E%E5%90%9B-%E6%9F%AF%E7%85%92%E6%9E%97-%E9%84%A7%E6%BF%A4-%E9%BB%8E%E6%BF%9F%E9%8A%98-%E6%A2%81%E4%BB%B2%E6%81%86-%E5%B0%BC%E6%96%AF%E6%B9%96%E6%B0%B4%E6%80%AA-%E8%88%9E%E5%8F%B0%E5%8A%87%E5%8D%B3%E5%B0%87%E4%B8%8A%E6%98%A0",
    "source": "Timable",
-   "image": "https://static.timable.com/image_c312d8cd-faf6-46f0-b152-7b9328e76d3f-480x640.webp",
+   "image": "https://static.timable.com/image_bc0b8cd8-2d99-49de-8457-a5c5799879e2-480x599.webp",
    "featured": false
   },
   {
@@ -5877,18 +5877,6 @@
    "url": "https://www.facebook.com/hkharmonica",
    "source": "康文署",
    "image": "",
-   "featured": false
-  },
-  {
-   "id": "1a7039cbf98a",
-   "title": "優里YUURI 香港演唱會 2026",
-   "category": "演唱會",
-   "start": "2026-11-27",
-   "end": "2026-11-27",
-   "venue": "亞洲國際博覽館 10號展館",
-   "url": "https://timable.com/zh/event/%E5%84%AA%E9%87%8CYUURI%E9%A6%99%E6%B8%AF%E6%BC%94%E5%94%B1%E6%9C%832026",
-   "source": "Timable",
-   "image": "https://static.timable.com/image_b734a6cb-e9be-4dbb-bd4b-3502f3afc9f8-480x600.webp",
    "featured": false
   },
   {
