@@ -181,9 +181,10 @@ const themeBtn = document.getElementById("theme");
 function setTheme(t) {
   document.documentElement.dataset.theme = t;
   themeBtn.textContent = t === "dark" ? "☀️" : "🌙";
-  localStorage.setItem("theme", t);
+  localStorage.setItem("hub-theme", t);
 }
-setTheme(localStorage.getItem("theme")
+// 全站共用 hub-theme（同 origin，localStorage 通用），冇記錄就跟系統
+setTheme(localStorage.getItem("hub-theme")
   || (matchMedia("(prefers-color-scheme: dark)").matches ? "dark" : "light"));
 themeBtn.addEventListener("click", () =>
   setTheme(document.documentElement.dataset.theme === "dark" ? "light" : "dark"));
