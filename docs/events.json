@@ -122,18 +122,6 @@
    "featured": true
   },
   {
-   "id": "1ac507e950ac",
-   "title": "「園美生活-中外園林藝術」展覽",
-   "category": "展覽",
-   "start": "2026-04-24",
-   "end": "2026-07-29",
-   "venue": "香港藝術館 2-F 專題廳",
-   "url": "https://timable.com/zh/event/-%E5%9C%92%E7%BE%8E%E7%94%9F%E6%B4%BB-%E4%B8%AD%E5%A4%96%E5%9C%92%E6%9E%97%E8%97%9D%E8%A1%93-%E5%B1%95%E8%A6%BD",
-   "source": "Timable",
-   "image": "https://static.timable.com/image_68a4b4e5-0ae0-41b6-b722-18ab8ca68833-440x440.webp",
-   "featured": false
-  },
-  {
    "id": "791180bbd763",
    "title": "長安萬象—陝西隋唐文明展",
    "category": "大型盛事",
@@ -659,6 +647,18 @@
    "url": "https://timable.com/zh/event/JOGUMANmeetsD-PARK-%E5%A4%8F-%E5%B3%B6%E5%B6%BC%E6%99%82%E5%85%89-%E6%B4%BB%E5%8B%95",
    "source": "Timable",
    "image": "https://static.timable.com/image_6104a277-a13f-4193-a5e4-62851ecbe606-480x758.webp",
+   "featured": false
+  },
+  {
+   "id": "1ed7836c8388",
+   "title": "「絲絡如弦–金絲、織物、瓷器」當代陶藝展",
+   "category": "休閒",
+   "start": "2026-07-17",
+   "end": "2026-08-23",
+   "venue": "PMQ 元創方",
+   "url": "https://timable.com/zh/event/%E7%B5%B2%E7%B5%A1%E5%A6%82%E5%BC%A6-%E9%87%91%E7%B5%B2-%E7%B9%94%E7%89%A9-%E7%93%B7%E5%99%A8-%E7%95%B6%E4%BB%A3%E9%99%B6%E8%97%9D%E5%B1%95",
+   "source": "Timable",
+   "image": "https://static.timable.com/image_f174ce53-ae8d-4f2e-bfb8-a0958923873c-480x640.webp",
    "featured": false
   },
   {
@@ -1608,6 +1608,18 @@
    "featured": false
   },
   {
+   "id": "47a91559241e",
+   "title": "This is M. Šašek 展覽",
+   "category": "展覽",
+   "start": "2026-07-31",
+   "end": "2026-08-30",
+   "venue": "Wyndham Social",
+   "url": "https://timable.com/zh/event/ThisisM--a-ek%E5%B1%95%E8%A6%BD",
+   "source": "Timable",
+   "image": "https://static.timable.com/image_3ac880c2-7385-493e-a4aa-64221263f3d0-480x600.webp",
+   "featured": false
+  },
+  {
    "id": "9f7dea7bbd73",
    "title": "「忠義滿戲台」展覽",
    "category": "展覽",
@@ -1681,7 +1693,7 @@
   },
   {
    "id": "096e9d816f58",
-   "title": "火影忍者疾風傳 × CATALOG 期間限定店@朗豪坊",
+   "title": "火影忍者疾風傳 × CATALOG 期間限定店 @朗豪坊",
    "category": "休閒",
    "start": "2026-07-31",
    "end": "2026-08-04",
@@ -2700,18 +2712,6 @@
    "featured": false
   },
   {
-   "id": "520971720e77",
-   "title": "來巷擺攤-Go to 攤",
-   "category": "休閒",
-   "start": "2026-08-08",
-   "end": "2026-08-23",
-   "venue": "來泰巷",
-   "url": "https://timable.com/zh/event/%E4%BE%86%E5%B7%B7%E6%93%BA%E6%94%A4-Goto%E6%94%A4",
-   "source": "Timable",
-   "image": "https://static.timable.com/image_dd4afd00-8337-4cbb-82ba-218510d5be3d-480x600.webp",
-   "featured": false
-  },
-  {
    "id": "bd06d6e66c80",
    "title": "原創音樂劇 : 青春的奇癒物語",
    "category": "表演藝術",
@@ -3369,18 +3369,6 @@
    "url": "https://operahongkong.org/zh/the-elixir-of-love-zh/",
    "source": "康文署",
    "image": "",
-   "featured": false
-  },
-  {
-   "id": "2e0978d24b43",
-   "title": "唐尼采蒂《愛情靈藥》歌劇 2026",
-   "category": "表演藝術",
-   "start": "2026-08-14",
-   "end": "2026-08-15",
-   "venue": "香港大會堂 音樂廳",
-   "url": "https://timable.com/zh/event/%E5%94%90%E5%B0%BC%E9%87%87%E8%92%82-%E6%84%9B%E6%83%85%E9%9D%88%E8%97%A5-%E6%AD%8C%E5%8A%872026",
-   "source": "Timable",
-   "image": "https://static.timable.com/image_fd4541e7-ab2d-4195-a9e7-73a93bdd0232-480x480.webp",
    "featured": false
   },
   {
@@ -4836,18 +4824,6 @@
    "featured": false
   },
   {
-   "id": "425c03bc4040",
-   "title": "《笨笨的事情 Foolish Things》巡迴演唱會 香港站 2026",
-   "category": "演唱會",
-   "start": "2026-08-27",
-   "end": "2026-08-27",
-   "venue": "PORTAL",
-   "url": "https://timable.com/zh/event/%E7%AC%A8%E7%AC%A8%E7%9A%84%E4%BA%8B%E6%83%85FoolishThings-%E5%B7%A1%E8%BF%B4%E6%BC%94%E5%94%B1%E6%9C%83%E9%A6%99%E6%B8%AF%E7%AB%992026",
-   "source": "Timable",
-   "image": "https://static.timable.com/image_fd13bc73-c70b-4d6a-a251-bf98c30a5c4b-480x600.webp",
-   "featured": false
-  },
-  {
    "id": "32692da4bf35",
    "title": "兒童夏日天文班 : 地球轉轉轉",
    "category": "親子",
@@ -5652,6 +5628,18 @@
    "featured": false
   },
   {
+   "id": "aa57c744dcdf",
+   "title": "大坑舞火龍 2026",
+   "category": "休閒",
+   "start": "2026-09-24",
+   "end": "2026-09-26",
+   "venue": "大坑 浣紗街",
+   "url": "https://timable.com/zh/event/%E5%A4%A7%E5%9D%91%E8%88%9E%E7%81%AB%E9%BE%8D2026",
+   "source": "Timable",
+   "image": "https://static.timable.com/image_5c3a5c82-a83e-4ff7-baf9-8cb60101516c-480x480.webp",
+   "featured": false
+  },
+  {
    "id": "aa40cdcc75d9",
    "title": "香港文化中心場地伙伴計劃：國慶音樂會：王紫桐的浦羅哥菲夫",
    "category": "表演藝術",
@@ -5808,6 +5796,18 @@
    "featured": false
   },
   {
+   "id": "1a1f2ab2b91a",
+   "title": "The Weeknd \"After Hours Til Dawn\" 亞洲巡迴演唱會 2026 香港站",
+   "category": "演唱會",
+   "start": "2026-10-24",
+   "end": "2026-10-31",
+   "venue": "啟德體育園 主場館",
+   "url": "https://timable.com/zh/event/TheWeeknd-AfterHoursTilDawn-%E4%BA%9E%E6%B4%B2%E5%B7%A1%E8%BF%B4%E6%BC%94%E5%94%B1%E6%9C%832026%E9%A6%99%E6%B8%AF%E7%AB%99",
+   "source": "Timable",
+   "image": "https://static.timable.com/image_fcff0e93-d8c2-4264-859b-7ca415361e79-480x480.webp",
+   "featured": false
+  },
+  {
    "id": "81b498df653c",
    "title": "「香港藝術家」系列 2026：李子朗鋼琴演奏會",
    "category": "表演藝術",
@@ -5841,6 +5841,18 @@
    "url": "https://hk.korean-culture.org/hk/1074/board/681/read/145125",
    "source": "康文署",
    "image": "",
+   "featured": false
+  },
+  {
+   "id": "8446c9b1e246",
+   "title": "友成空 Live in Hong Kong 演唱會 2026",
+   "category": "演唱會",
+   "start": "2026-11-08",
+   "end": "2026-11-08",
+   "venue": "MOM Livehouse",
+   "url": "https://timable.com/zh/event/%E5%8F%8B%E6%88%90%E7%A9%BALiveinHongKong%E6%BC%94%E5%94%B1%E6%9C%832026",
+   "source": "Timable",
+   "image": "https://static.timable.com/image_f536be2f-642a-40d3-a2c8-51a04d16d211-480x600.webp",
    "featured": false
   },
   {
@@ -5952,6 +5964,18 @@
    "featured": false
   },
   {
+   "id": "9548ae7ba208",
+   "title": "Garmin Run 馬拉松系列賽 香港站 2026",
+   "category": "體育",
+   "start": "2026-12-20",
+   "end": "2026-12-20",
+   "venue": "沙田運動場",
+   "url": "https://timable.com/zh/event/GarminRun%E9%A6%AC%E6%8B%89%E6%9D%BE%E7%B3%BB%E5%88%97%E8%B3%BD%E9%A6%99%E6%B8%AF%E7%AB%992026",
+   "source": "Timable",
+   "image": "https://static.timable.com/image_8125cb73-e928-484f-b6d1-c394d06c81d8-443x590.webp",
+   "featured": true
+  },
+  {
    "id": "41afaec8705f",
    "title": "粵曲研習班",
    "category": "表演藝術",
@@ -5997,18 +6021,6 @@
    "url": "https://timable.com/zh/event/Gareth-T%E6%B9%AF%E4%BB%A4%E5%B1%B1%E7%B4%85%E9%A4%A8%E6%BC%94%E5%94%B1%E6%9C%832027",
    "source": "Timable",
    "image": "https://static.timable.com/image_47c1223d-ceb5-4f80-a742-62cd2224baab-480x600.webp",
-   "featured": false
-  },
-  {
-   "id": "6acf91ef020f",
-   "title": "DaguerreoPhonic 音樂會 2027",
-   "category": "表演藝術",
-   "start": "2027-01-23",
-   "end": "2027-01-24",
-   "venue": "地點待定(香港)",
-   "url": "https://timable.com/zh/event/DaguerreoPhonic%E9%9F%B3%E6%A8%82%E6%9C%832027",
-   "source": "Timable",
-   "image": "https://static.timable.com/image_f2f509d5-02de-4883-8083-6c8a9d736198-480x600.webp",
    "featured": false
   },
   {
