@@ -1,5 +1,5 @@
 {
- "updated": "2026-07-28",
+ "updated": "2026-07-29",
  "events": [
   {
    "id": "e13429ad674f",
@@ -1296,6 +1296,18 @@
    "featured": false
   },
   {
+   "id": "cfc47823fe81",
+   "title": "Me Amo 我愛我-自畫自演藝術計劃",
+   "category": "表演藝術",
+   "start": "2026-07-25",
+   "end": "2026-08-04",
+   "venue": "賽馬會創意藝術中心",
+   "url": "https://timable.com/zh/event/MeAmo%E6%88%91%E6%84%9B%E6%88%91-%E8%87%AA%E7%95%AB%E8%87%AA%E6%BC%94%E8%97%9D%E8%A1%93%E8%A8%88%E5%8A%83",
+   "source": "Timable",
+   "image": "https://static.timable.com/image_07f8d1dc-f2fd-4d05-a52d-c486160af4ad-480x600.webp",
+   "featured": false
+  },
+  {
    "id": "ed1793aa29d7",
    "title": "另類寵物世界 Exotic Pets World 2026 @合和商場",
    "category": "休閒",
@@ -1428,72 +1440,12 @@
    "featured": false
   },
   {
-   "id": "cb73622782a1",
-   "title": "《民族音樂》展覽 — 《森巴嘉年華》及《中亞篇》",
-   "category": "展覽",
-   "start": "2026-07-28",
-   "end": "2026-07-28",
-   "venue": "沙田大會堂 (展覽廳)",
-   "url": "https://www.lcsd.gov.hk/tc/ticket/index.html",
-   "source": "康文署",
-   "image": "",
-   "featured": false
-  },
-  {
-   "id": "750225314ed8",
-   "title": "《王志良藝術工作室 王志良粵劇折子戲專場 再續任白．情》",
-   "category": "表演藝術",
-   "start": "2026-07-28",
-   "end": "2026-07-28",
-   "venue": "高山劇場 (劇院)",
-   "url": "https://www.lcsd.gov.hk/tc/ticket/index.html",
-   "source": "康文署",
-   "image": "",
-   "featured": false
-  },
-  {
    "id": "457300ef47a5",
    "title": "「情真意切」第二屆香港當代書畫百家作品展",
    "category": "休閒",
    "start": "2026-07-28",
    "end": "2026-07-30",
    "venue": "香港大會堂 (展覽館)",
-   "url": "https://www.lcsd.gov.hk/tc/ticket/index.html",
-   "source": "康文署",
-   "image": "",
-   "featured": false
-  },
-  {
-   "id": "66e43f161b1e",
-   "title": "北角衞理兒童合唱團 43周年音樂會",
-   "category": "表演藝術",
-   "start": "2026-07-28",
-   "end": "2026-07-28",
-   "venue": "香港大會堂 (音樂廳)",
-   "url": "https://www.lcsd.gov.hk/tc/ticket/index.html",
-   "source": "康文署",
-   "image": "",
-   "featured": false
-  },
-  {
-   "id": "5b31fbabedf3",
-   "title": "夏日親子電影節 2026",
-   "category": "電影活動",
-   "start": "2026-07-28",
-   "end": "2026-07-28",
-   "venue": "香港太空館 (何鴻燊天象廳)",
-   "url": "https://www.lcsd.gov.hk/fp/tc/listing.html?id=93",
-   "source": "康文署",
-   "image": "",
-   "featured": false
-  },
-  {
-   "id": "5d94d8e96962",
-   "title": "樂天第24屆音樂會",
-   "category": "表演藝術",
-   "start": "2026-07-28",
-   "end": "2026-07-28",
-   "venue": "荃灣大會堂 (文娛廳)",
    "url": "https://www.lcsd.gov.hk/tc/ticket/index.html",
    "source": "康文署",
    "image": "",
@@ -2001,18 +1953,6 @@
    "url": "https://www.lcsd.gov.hk/clpss/tc/search/culture/DetailForm.do?id=184709",
    "source": "康文署",
    "image": "",
-   "featured": false
-  },
-  {
-   "id": "754414fe553d",
-   "title": "關偉偉 \"Silence 寂靜\" 展覽",
-   "category": "展覽",
-   "start": "2026-08-01",
-   "end": "2026-09-12",
-   "venue": "MAYAO Gallery",
-   "url": "https://timable.com/zh/event/%E9%97%9C%E5%81%89%E5%81%89-SILENCE%E5%AF%82%E9%9D%9C-%E5%80%8B%E4%BA%BA%E5%B1%95%E8%A6%BD",
-   "source": "Timable",
-   "image": "https://static.timable.com/image_43c55d86-52df-4362-adc7-5830ef161d3b-480x640.webp",
    "featured": false
   },
   {
@@ -2748,6 +2688,18 @@
    "featured": false
   },
   {
+   "id": "5e7beda10279",
+   "title": "《沙田第一號文化洞窟》音樂會",
+   "category": "表演藝術",
+   "start": "2026-08-08",
+   "end": "2026-08-22",
+   "venue": "沙田大會堂 (展覽廳)",
+   "url": "https://docs.google.com/forms/d/e/1FAIpQLSdYrBVsl4l-mH_b6a77rqYAfvXKX0W1mMFdjuGcF3ui_nJUDw/viewform",
+   "source": "康文署",
+   "image": "",
+   "featured": false
+  },
+  {
    "id": "5c04c32d0627",
    "title": "亞青與鋼琴桂冠安娜 · 茨布列娃 奏響古典巨匠",
    "category": "表演藝術",
@@ -2856,6 +2808,18 @@
    "featured": false
   },
   {
+   "id": "f4a6420310fa",
+   "title": "胡思亂想的物料實驗: 小誌創作工作坊",
+   "category": "休閒",
+   "start": "2026-08-08",
+   "end": "2026-08-08",
+   "venue": "COMMONING@基隆144",
+   "url": "https://timable.com/zh/event/%E8%83%A1%E6%80%9D%E4%BA%82%E6%83%B3%E7%9A%84%E7%89%A9%E6%96%99%E5%AF%A6%E9%A9%97-%E5%B0%8F%E8%AA%8C%E5%89%B5%E4%BD%9C%E5%B7%A5%E4%BD%9C%E5%9D%8A",
+   "source": "Timable",
+   "image": "https://static.timable.com/image_4b008fbd-c04b-44a0-9d50-d99935f1f768-480x600.webp",
+   "featured": false
+  },
+  {
    "id": "cf9cbf9b8627",
    "title": "西西詩集繪本音樂劇《可不可以說》",
    "category": "表演藝術",
@@ -2889,6 +2853,18 @@
    "url": "https://www.lcsd.gov.hk/tc/hkc/whatsnew.html",
    "source": "康文署",
    "image": "",
+   "featured": false
+  },
+  {
+   "id": "84931527d82e",
+   "title": "香港浸會大學視覺藝術副學士畢業展2026「夏花」",
+   "category": "休閒",
+   "start": "2026-08-08",
+   "end": "2026-08-19",
+   "venue": "地點待定(香港)",
+   "url": "https://timable.com/zh/event/%E9%A6%99%E6%B8%AF%E6%B5%B8%E6%9C%83%E5%A4%A7%E5%AD%B8%E8%A6%96%E8%A6%BA%E8%97%9D%E8%A1%93%E5%89%AF%E5%AD%B8%E5%A3%AB%E7%95%A2%E6%A5%AD%E5%B1%952026-%E5%A4%8F%E8%8A%B1-",
+   "source": "Timable",
+   "image": "https://static.timable.com/image_03d824d3-02e8-4160-9cab-f0c9eb9509e4-480x640.webp",
    "featured": false
   },
   {
@@ -2994,6 +2970,18 @@
    "start": "2026-08-09",
    "end": "2026-08-09",
    "venue": "西灣河文娛中心 (文娛廳)",
+   "url": "https://www.lcsd.gov.hk/tc/ticket/index.html",
+   "source": "康文署",
+   "image": "",
+   "featured": false
+  },
+  {
+   "id": "4418455071ed",
+   "title": "西灣河文娛中心場地伙伴計劃：迷你音樂會",
+   "category": "表演藝術",
+   "start": "2026-08-09",
+   "end": "2026-08-09",
+   "venue": "西灣河文娛中心 (大堂)",
    "url": "https://www.lcsd.gov.hk/tc/ticket/index.html",
    "source": "康文署",
    "image": "",
@@ -3525,18 +3513,6 @@
    "url": "https://www.facebook.com/pmco.cca",
    "source": "康文署",
    "image": "",
-   "featured": false
-  },
-  {
-   "id": "9c2ef98e3c2a",
-   "title": "MTO32 紙品文具市集「SPORTS FESTIVAL 動物森森運動會」",
-   "category": "體育",
-   "start": "2026-08-15",
-   "end": "2026-08-16",
-   "venue": "D2 Place ONE 2樓",
-   "url": "https://timable.com/zh/event/MTO32%E7%B4%99%E5%93%81%E6%96%87%E5%85%B7%E5%B8%82%E9%9B%86-SPORTSFESTIVAL%E5%8B%95%E7%89%A9%E6%A3%AE%E6%A3%AE%E9%81%8B%E5%8B%95%E6%9C%83-",
-   "source": "Timable",
-   "image": "https://static.timable.com/image_8a5d39e4-06d9-424e-8429-b5357a04187c-480x600.webp",
    "featured": false
   },
   {
@@ -4344,18 +4320,6 @@
    "featured": false
   },
   {
-   "id": "8eebe43e5f28",
-   "title": "西九演藝 x 龔志成 x 江逸天 \"No More Dark\" 音樂會",
-   "category": "表演藝術",
-   "start": "2026-08-21",
-   "end": "2026-08-22",
-   "venue": "西九文化區 自由空間大盒",
-   "url": "https://timable.com/zh/event/%E8%A5%BF%E4%B9%9D%E6%BC%94%E8%97%9Dx%E9%BE%94%E5%BF%97%E6%88%90x%E6%B1%9F%E9%80%B8%E5%A4%A9-NoMoreDark-%E9%9F%B3%E6%A8%82%E6%9C%83",
-   "source": "Timable",
-   "image": "https://static.timable.com/image_2877cbac-d332-415d-9438-135630dde1bd-480x600.webp",
-   "featured": false
-  },
-  {
    "id": "4b4bc8910681",
    "title": "賽馬會中華文化藝術科技劇場計劃2.0 - 兒童創意藝術科技劇場 《筆墨大冒險》",
    "category": "體育",
@@ -4389,6 +4353,18 @@
    "url": "https://www.lcsd.gov.hk/tc/ticket/index.html",
    "source": "康文署",
    "image": "",
+   "featured": false
+  },
+  {
+   "id": "b38d85a60156",
+   "title": "\"Before The Fall: A Late-Summer Metal Night\" 演唱會 2026",
+   "category": "演唱會",
+   "start": "2026-08-22",
+   "end": "2026-08-22",
+   "venue": "浪潮音樂 Wave Music Studio",
+   "url": "https://timable.com/zh/event/AquiverArshaxMonsterPlanetxSKYBURIAL-BeforeTheFall-ALate-SummerMetalNight-%E6%BC%94%E5%94%B1%E6%9C%832026",
+   "source": "Timable",
+   "image": "https://static.timable.com/image_516d43ee-fa6d-4491-a3b3-e0a9d3ebde8c-480x600.webp",
    "featured": false
   },
   {
@@ -4449,6 +4425,30 @@
    "url": "https://www.lcsd.gov.hk/clpss/tc/search/culture/DetailForm.do?id=184637",
    "source": "康文署",
    "image": "",
+   "featured": false
+  },
+  {
+   "id": "92c2d11c73e4",
+   "title": "《沙田第一號文化洞窟》裝置藝術",
+   "category": "休閒",
+   "start": "2026-08-22",
+   "end": "2026-08-23",
+   "venue": "沙田大會堂 (展覽廳)",
+   "url": "https://docs.google.com/forms/d/e/1FAIpQLSdYrBVsl4l-mH_b6a77rqYAfvXKX0W1mMFdjuGcF3ui_nJUDw/viewform",
+   "source": "康文署",
+   "image": "",
+   "featured": false
+  },
+  {
+   "id": "ce24cff903ca",
+   "title": "「博物館RUNWAY」 2026",
+   "category": "休閒",
+   "start": "2026-08-22",
+   "end": "2026-08-22",
+   "venue": "Current Plans",
+   "url": "https://timable.com/zh/event/%E5%8D%9A%E7%89%A9%E9%A4%A8RUNWAY-2026",
+   "source": "Timable",
+   "image": "https://static.timable.com/image_7b9d1ddb-8785-44f9-a221-8d92a04e8beb-480x640.webp",
    "featured": false
   },
   {
@@ -5016,15 +5016,15 @@
    "featured": false
   },
   {
-   "id": "1434174e7e58",
-   "title": "DJ Hansel \"Western Pop Final Summer Wave\" 盛夏派對",
-   "category": "休閒",
+   "id": "bccca9131ccb",
+   "title": "Ms. Hilary與友人學生音樂會2026",
+   "category": "表演藝術",
    "start": "2026-08-29",
    "end": "2026-08-29",
-   "venue": "The Twins 雙子匯II G-F 中庭",
-   "url": "https://timable.com/zh/event/DJHansel-WesternPopFinalSummerWave-%E7%9B%9B%E5%A4%8F%E6%B4%BE%E5%B0%8D",
-   "source": "Timable",
-   "image": "https://static.timable.com/image_c014ec36-78b9-40cf-a3cc-94606f09faa5-480x964.webp",
+   "venue": "上環文娛中心 (演講廳)",
+   "url": "https://www.facebook.com/profile.php?id=100084942226359",
+   "source": "康文署",
+   "image": "",
    "featured": false
   },
   {
@@ -5364,6 +5364,18 @@
    "featured": false
   },
   {
+   "id": "8a4eea5bb392",
+   "title": "規劃署外展計劃",
+   "category": "休閒",
+   "start": "2026-09-01",
+   "end": "2026-09-01",
+   "venue": "沙田大會堂 (廣場)",
+   "url": "https://www.pland.gov.hk/",
+   "source": "康文署",
+   "image": "",
+   "featured": false
+  },
+  {
    "id": "05fbf2157c45",
    "title": "中華文化節2026：琴・源・緣 — 黃安源與竹韻小集",
    "category": "表演藝術",
@@ -5371,6 +5383,30 @@
    "end": "2026-09-04",
    "venue": "香港大會堂 (音樂廳)",
    "url": "https://www.hkwindpipe.org/",
+   "source": "康文署",
+   "image": "",
+   "featured": false
+  },
+  {
+   "id": "14fed483ca5a",
+   "title": "The Rhapsody of Strings",
+   "category": "休閒",
+   "start": "2026-09-05",
+   "end": "2026-09-05",
+   "venue": "沙田大會堂 (演奏廳)",
+   "url": "https://hkcstrings.org.hk/",
+   "source": "康文署",
+   "image": "",
+   "featured": false
+  },
+  {
+   "id": "18923d58a0d4",
+   "title": "《光影溯源》弦之境胡琴四重奏音樂會",
+   "category": "表演藝術",
+   "start": "2026-09-05",
+   "end": "2026-09-05",
+   "venue": "沙田大會堂 (文娛廳)",
+   "url": "https://www.instagram.com/cadenza.huqin.quartet.hk/",
    "source": "康文署",
    "image": "",
    "featured": false
@@ -5385,6 +5421,54 @@
    "url": "https://www.hkphil.org/tc/concert/bbc-planet-earth-iii-live-in-concert",
    "source": "康文署",
    "image": "",
+   "featured": false
+  },
+  {
+   "id": "80bab743c2c3",
+   "title": "周年音樂會2026 — 星宿幻想",
+   "category": "表演藝術",
+   "start": "2026-09-06",
+   "end": "2026-09-06",
+   "venue": "沙田大會堂 (演奏廳)",
+   "url": "https://www.hkpw.org.hk/",
+   "source": "康文署",
+   "image": "",
+   "featured": false
+  },
+  {
+   "id": "a0ec17788e69",
+   "title": "好友會知音",
+   "category": "表演藝術",
+   "start": "2026-09-07",
+   "end": "2026-09-07",
+   "venue": "沙田大會堂 (文娛廳)",
+   "url": "https://www.lcsd.gov.hk/clpss/tc/search/culture/DetailForm.do?id=185823",
+   "source": "康文署",
+   "image": "",
+   "featured": false
+  },
+  {
+   "id": "00ddc346ed61",
+   "title": "莫旭秋秋夜私語演唱會",
+   "category": "演唱會",
+   "start": "2026-09-07",
+   "end": "2026-09-07",
+   "venue": "沙田大會堂 (演奏廳)",
+   "url": "https://www.wsmmusic.com/",
+   "source": "康文署",
+   "image": "",
+   "featured": false
+  },
+  {
+   "id": "e02bf9f03f4f",
+   "title": "水中スピカ Suichu Spica Live in Hong Kong 2026 演唱會",
+   "category": "演唱會",
+   "start": "2026-09-09",
+   "end": "2026-09-09",
+   "venue": "MOM Livehouse",
+   "url": "https://timable.com/zh/event/%E6%B0%B4%E4%B8%AD---SuichuSpicaLiveinHongKong2026%E6%BC%94%E5%94%B1%E6%9C%83",
+   "source": "Timable",
+   "image": "https://static.timable.com/image_fef952b4-402a-4735-acae-f95babf191ee-480x600.webp",
    "featured": false
   },
   {
@@ -5412,18 +5496,6 @@
    "featured": false
   },
   {
-   "id": "c9d2b4922170",
-   "title": "新編粤劇《廣陵散》@中華文化節 2026",
-   "category": "休閒",
-   "start": "2026-09-11",
-   "end": "2026-09-13",
-   "venue": "沙田大會堂演奏廳",
-   "url": "https://timable.com/zh/event/%E5%BB%A3%E9%99%B5%E6%95%A3-%E6%96%B0%E7%B7%A8%E7%B2%B5%E5%8A%87-%E4%B8%AD%E8%8F%AF%E6%96%87%E5%8C%96%E7%AF%802026",
-   "source": "Timable",
-   "image": "https://static.timable.com/image_f4c7a953-679e-4c1f-9356-99326ab91b85-480x191.webp",
-   "featured": false
-  },
-  {
    "id": "ea5817397bff",
    "title": "歌劇：莫扎特《獨裁君主斯拉》",
    "category": "表演藝術",
@@ -5445,6 +5517,18 @@
    "url": "https://timable.com/zh/event/AlanTam%E8%AD%9A%E8%A9%A0%E9%BA%9F%E7%B4%85%E9%A4%A8%E6%BC%94%E5%94%B1%E6%9C%832026",
    "source": "Timable",
    "image": "https://static.timable.com/image_de6f73cc-790b-4bd3-ba82-5e54367ac9c5-480x604.webp",
+   "featured": false
+  },
+  {
+   "id": "e94da3bd9279",
+   "title": "沙田青年音樂節2026",
+   "category": "表演藝術",
+   "start": "2026-09-12",
+   "end": "2026-09-12",
+   "venue": "沙田大會堂 (廣場)",
+   "url": "https://flashexchange.org.hk/",
+   "source": "康文署",
+   "image": "",
    "featured": false
   },
   {
@@ -5688,18 +5772,6 @@
    "featured": false
   },
   {
-   "id": "e87e76cf30a9",
-   "title": "Nikolina \"BLAK ROOM\" 香港首演 2026",
-   "category": "休閒",
-   "start": "2026-10-01",
-   "end": "2026-10-01",
-   "venue": "Soho House House Studio",
-   "url": "https://timable.com/zh/event/Nikolina-BLAKROOM-%E9%A6%99%E6%B8%AF%E9%A6%96%E6%BC%942026",
-   "source": "Timable",
-   "image": "https://static.timable.com/image_53e7f4e2-46b0-442b-ac17-4e5954059bbf-480x600.webp",
-   "featured": false
-  },
-  {
    "id": "dbb39b72f4cd",
    "title": "Vaundy \"HORO\" 亞洲巡迴演唱會 2026 香港站",
    "category": "演唱會",
@@ -5719,6 +5791,18 @@
    "end": "2026-10-08",
    "venue": "香港大會堂",
    "url": "https://www.lcsd.gov.hk/CE/CulturalService/Programme/tc/music/programs_1988.html",
+   "source": "康文署",
+   "image": "",
+   "featured": false
+  },
+  {
+   "id": "0fac1ef51ca7",
+   "title": "歌劇：馬斯卡尼《鄉村騎士》與列卡華洛《丑角》",
+   "category": "表演藝術",
+   "start": "2026-10-08",
+   "end": "2026-10-11",
+   "venue": "香港文化中心 (大劇院)",
+   "url": "https://operahongkong.org/zh/cav-pag2026-zh/",
    "source": "康文署",
    "image": "",
    "featured": false
