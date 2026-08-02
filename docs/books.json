@@ -1,5 +1,5 @@
 {
- "updated": "2026-07",
+ "updated": "2026-08",
  "books": [
   {
    "rank": 1,
@@ -19,14 +19,6 @@
   },
   {
    "rank": 3,
-   "title": "新式型態學2.0　全方位實戰獲利系統：全商品、多週期、跨市場，多空皆贏的專屬攻略",
-   "author": "莎拉（Sara Wang）",
-   "price": "NT$410",
-   "url": "https://www.books.com.tw/products/0011055524",
-   "image": "https://im1.book.com.tw/image/getImage?i=https://www.books.com.tw/img/001/105/55/0011055524.jpg&v=6a5ef6bdk&w=150&h=150"
-  },
-  {
-   "rank": 4,
    "title": "隨他們去：全球熱銷突破1000萬冊現象級巨作！改變千萬人命運的心理技巧【博客來獨家版．附內在覺醒影響力躍昇卡】",
    "author": "梅爾．羅賓斯",
    "price": "NT$355",
@@ -34,12 +26,20 @@
    "image": "https://im1.book.com.tw/image/getImage?i=https://www.books.com.tw/img/001/105/53/0011055312.jpg&v=6a3b438ek&w=150&h=150"
   },
   {
-   "rank": 5,
+   "rank": 4,
    "title": "Rewire-神經可塑性：用神經科學突破行為模式迴圈，終結焦慮、恐慌和憂鬱，實現最佳的心理健康",
    "author": "妮可．維諾拉",
    "price": "NT$331",
    "url": "https://www.books.com.tw/products/0010990062",
    "image": "https://im1.book.com.tw/image/getImage?i=https://www.books.com.tw/img/001/099/00/0010990062.jpg&v=664ec6fck&w=150&h=150"
+  },
+  {
+   "rank": 5,
+   "title": "請允許我們身後財產自主：當親情不再可靠， 如何把財富留給真正值得的人",
+   "author": "高愛倫",
+   "price": "NT$363",
+   "url": "https://www.books.com.tw/products/0011056126",
+   "image": "https://im1.book.com.tw/image/getImage?i=https://www.books.com.tw/img/001/105/61/0011056126.jpg&v=6a3cafbfk&w=150&h=150"
   },
   {
    "rank": 6,
@@ -51,11 +51,11 @@
   },
   {
    "rank": 7,
-   "title": "請允許我們身後財產自主：當親情不再可靠， 如何把財富留給真正值得的人",
-   "author": "高愛倫",
-   "price": "NT$363",
-   "url": "https://www.books.com.tw/products/0011056126",
-   "image": "https://im1.book.com.tw/image/getImage?i=https://www.books.com.tw/img/001/105/61/0011056126.jpg&v=6a3cafbfk&w=150&h=150"
+   "title": "馬斯克寶典【博客來獨家贈送｜馬斯克「極限思維」火箭升空桌面立牌】：從顛覆矽谷到打造太空帝國，讀懂全球",
+   "author": "艾瑞克．喬根森",
+   "price": "NT$410",
+   "url": "https://www.books.com.tw/products/0011054683",
+   "image": "https://im2.book.com.tw/image/getImage?i=https://www.books.com.tw/img/001/105/46/0011054683.jpg&v=6a62d808k&w=150&h=150"
   },
   {
    "rank": 8,
@@ -67,62 +67,14 @@
   },
   {
    "rank": 9,
-   "title": "黃仁勳傳（暢銷增訂版）：輝達創辦人如何打造全球最搶手的晶片",
-   "author": "史帝芬．維特",
-   "price": "NT$395",
-   "url": "https://www.books.com.tw/products/0011040776",
-   "image": "https://im1.book.com.tw/image/getImage?i=https://www.books.com.tw/img/001/104/07/0011040776.jpg&v=69428191k&w=150&h=150"
+   "title": "高飛人生：從華航基層到董事長，46年台灣航空實戰經驗，淬鍊出的經營智慧、決策視野與人生格局",
+   "author": "孫洪祥",
+   "price": "NT$355",
+   "url": "https://www.books.com.tw/products/0011056438",
+   "image": "https://im1.book.com.tw/image/getImage?i=https://www.books.com.tw/img/001/105/64/0011056438.jpg&v=6a3f52fek&w=150&h=150"
   },
   {
    "rank": 10,
-   "title": "Claude 萬用手冊：Claude.ai | Desktop | Cowork | Code Mode | Design | Computer Use | Skills | Connectors | Plugins",
-   "author": "施威銘研究室",
-   "price": "NT$549",
-   "url": "https://www.books.com.tw/products/0011053532",
-   "image": "https://im1.book.com.tw/image/getImage?i=https://www.books.com.tw/img/001/105/35/0011053532.jpg&v=6a13c243k&w=150&h=150"
-  },
-  {
-   "rank": 11,
-   "title": "律師帶你看校園大小事2：老師必知的33個法律問題",
-   "author": "Kitty Mao 毛律師",
-   "price": "NT$379",
-   "url": "https://www.books.com.tw/products/0011052631",
-   "image": "https://im2.book.com.tw/image/getImage?i=https://www.books.com.tw/img/001/105/26/0011052631.jpg&v=6a1e5d06k&w=150&h=150"
-  },
-  {
-   "rank": 12,
-   "title": "槓桿ETF投資法：用50正2輕鬆打敗0050＆0056，提早退休",
-   "author": "林政華（大仁）",
-   "price": "NT$458",
-   "url": "https://www.books.com.tw/products/0010953374",
-   "image": "https://im1.book.com.tw/image/getImage?i=https://www.books.com.tw/img/001/095/33/0010953374.jpg&v=641ad8d9k&w=150&h=150"
-  },
-  {
-   "rank": 13,
-   "title": "馬斯克寶典【博客來獨家贈送｜馬斯克「極限思維」火箭升空桌面立牌】：從顛覆矽谷到打造太空帝國，讀懂全球",
-   "author": "艾瑞克．喬根森",
-   "price": "NT$410",
-   "url": "https://www.books.com.tw/products/0011054683",
-   "image": "https://im2.book.com.tw/image/getImage?i=https://www.books.com.tw/img/001/105/46/0011054683.jpg&v=6a38e644k&w=150&h=150"
-  },
-  {
-   "rank": 14,
-   "title": "4%法則：讓錢活得比你久的提領金律",
-   "author": "威廉．班根",
-   "price": "NT$379",
-   "url": "https://www.books.com.tw/products/0011054592",
-   "image": "https://im1.book.com.tw/image/getImage?i=https://www.books.com.tw/img/001/105/45/0011054592.jpg&v=6a27892ak&w=150&h=150"
-  },
-  {
-   "rank": 15,
-   "title": "高功能倖存者：如果不「有用」，我還值得被愛嗎？",
-   "author": "周慕姿",
-   "price": "NT$387",
-   "url": "https://www.books.com.tw/products/0011052184",
-   "image": "https://im1.book.com.tw/image/getImage?i=https://www.books.com.tw/img/001/105/21/0011052184.jpg&v=69fda61ck&w=150&h=150"
-  },
-  {
-   "rank": 16,
    "title": "Gemini 投資理財全攻略：小資族看過來！完全零門檻的 AI 智慧選股×財報分析×資金管理",
    "author": "施威銘研究室",
    "price": "NT$473",
@@ -130,7 +82,31 @@
    "image": "https://im2.book.com.tw/image/getImage?i=https://www.books.com.tw/img/001/105/58/0011055845.jpg&v=6a38fd21k&w=150&h=150"
   },
   {
-   "rank": 17,
+   "rank": 11,
+   "title": "黃仁勳傳（暢銷增訂版）：輝達創辦人如何打造全球最搶手的晶片",
+   "author": "史帝芬．維特",
+   "price": "NT$395",
+   "url": "https://www.books.com.tw/products/0011040776",
+   "image": "https://im1.book.com.tw/image/getImage?i=https://www.books.com.tw/img/001/104/07/0011040776.jpg&v=69428191k&w=150&h=150"
+  },
+  {
+   "rank": 12,
+   "title": "解憂雜貨店【50萬冊紀念愛藏版】：感動全球1,400 萬人的奇蹟之書，東野圭吾最令人感動落淚的作品！（附首刷限定特典「經典封面集錦明信片」）",
+   "author": "東野圭吾",
+   "price": "NT$276",
+   "url": "https://www.books.com.tw/products/0011055713",
+   "image": "https://im2.book.com.tw/image/getImage?i=https://www.books.com.tw/img/001/105/57/0011055713.jpg&v=6a3b3d26k&w=150&h=150"
+  },
+  {
+   "rank": 13,
+   "title": "花錢的藝術：打造富足人生的金錢心理學【博客來獨家附贈財富透析．互動金句透卡】",
+   "author": "摩根．豪瑟",
+   "price": "NT$379",
+   "url": "https://www.books.com.tw/products/0011057581",
+   "image": "https://im2.book.com.tw/image/getImage?i=https://www.books.com.tw/img/001/105/75/0011057581.jpg&v=6a5605d9k&w=150&h=150"
+  },
+  {
+   "rank": 14,
    "title": "擺脫憂鬱症：12堂從理解、陪伴到療癒的心理修復課",
    "author": "李正達",
    "price": "NT$355",
@@ -138,28 +114,52 @@
    "image": "https://im2.book.com.tw/image/getImage?i=https://www.books.com.tw/img/001/105/64/0011056439.jpg&v=6a4c8220k&w=150&h=150"
   },
   {
+   "rank": 15,
+   "title": "律師帶你看校園大小事2：老師必知的33個法律問題",
+   "author": "Kitty Mao 毛律師",
+   "price": "NT$379",
+   "url": "https://www.books.com.tw/products/0011052631",
+   "image": "https://im2.book.com.tw/image/getImage?i=https://www.books.com.tw/img/001/105/26/0011052631.jpg&v=6a1e5d06k&w=150&h=150"
+  },
+  {
+   "rank": 16,
+   "title": "魔法抱抱【情緒管理】（理解並安撫孩子的壞情緒）",
+   "author": "郭飛飛",
+   "price": "NT$196",
+   "url": "https://www.books.com.tw/products/0010945875",
+   "image": "https://im2.book.com.tw/image/getImage?i=https://www.books.com.tw/img/001/094/58/0010945875.jpg&v=63a97837k&w=150&h=150"
+  },
+  {
+   "rank": 17,
+   "title": "高功能倖存者：如果不「有用」，我還值得被愛嗎？",
+   "author": "周慕姿",
+   "price": "NT$387",
+   "url": "https://www.books.com.tw/products/0011052184",
+   "image": "https://im1.book.com.tw/image/getImage?i=https://www.books.com.tw/img/001/105/21/0011052184.jpg&v=69fda61ck&w=150&h=150"
+  },
+  {
    "rank": 18,
-   "title": "賣瓜的人【文壇年度耀眼新星】",
-   "author": "洪倪",
-   "price": "NT$300",
-   "url": "https://www.books.com.tw/products/0011050323",
-   "image": "https://im2.book.com.tw/image/getImage?i=https://www.books.com.tw/img/001/105/03/0011050323.jpg&v=69df3ce2k&w=150&h=150"
+   "title": "原子習慣：細微改變帶來巨大成就的實證法則",
+   "author": "詹姆斯‧克利爾",
+   "price": "NT$260",
+   "url": "https://www.books.com.tw/products/0010822522",
+   "image": "https://im1.book.com.tw/image/getImage?i=https://www.books.com.tw/img/001/082/25/0010822522.jpg&v=5cda990ck&w=150&h=150"
   },
   {
    "rank": 19,
-   "title": "出陣：從跳陣頭到世界麵包冠軍，王鵬傑的翻轉之路",
-   "author": "王鵬傑",
-   "price": "NT$387",
-   "url": "https://www.books.com.tw/products/0011054303",
-   "image": "https://im2.book.com.tw/image/getImage?i=https://www.books.com.tw/img/001/105/43/0011054303.jpg&v=6a1fee5bk&w=150&h=150"
+   "title": "【旅行特別版】蛤蟆先生去看心理師（暢銷500萬冊！英國心理諮商經典，附《蛤蟆先生旅遊去萬用卡片》）",
+   "author": "羅伯‧狄保德",
+   "price": "NT$316",
+   "url": "https://www.books.com.tw/products/0011045831",
+   "image": "https://im2.book.com.tw/image/getImage?i=https://www.books.com.tw/img/001/104/58/0011045831.jpg&v=6989e775k&w=150&h=150"
   },
   {
    "rank": 20,
-   "title": "獨斷與偏見",
-   "author": "二宮和也",
-   "price": "NT$379",
-   "url": "https://www.books.com.tw/products/0011054588",
-   "image": "https://im1.book.com.tw/image/getImage?i=https://www.books.com.tw/img/001/105/45/0011054588.jpg&v=6a277300k&w=150&h=150"
+   "title": "新式型態學2.0　全方位實戰獲利系統：全商品、多週期、跨市場，多空皆贏的專屬攻略",
+   "author": "莎拉（Sara Wang）",
+   "price": "NT$410",
+   "url": "https://www.books.com.tw/products/0011055524",
+   "image": "https://im1.book.com.tw/image/getImage?i=https://www.books.com.tw/img/001/105/55/0011055524.jpg&v=6a5ef6bdk&w=150&h=150"
   }
  ]
 }
