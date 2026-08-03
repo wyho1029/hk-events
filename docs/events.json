@@ -146,6 +146,18 @@
    "featured": false
   },
   {
+   "id": "54b54ad74e96",
+   "title": "「我是新神殿的聖歌 I Am Hymns of the New Temples」 瓦爾．肖基展覽",
+   "category": "展覽",
+   "start": "2026-05-30",
+   "end": "2026-10-25",
+   "venue": "M+ 博物館 包陪麗、渡伸一郎展廳",
+   "url": "https://timable.com/zh/event/%E7%93%A6%E7%88%BE-%E8%82%96%E5%9F%BAWaelShawky-%E6%88%91%E6%98%AF%E6%96%B0%E7%A5%9E%E6%AE%BF%E7%9A%84%E8%81%96%E6%AD%8CIAmHymnsoftheNewTemples-%E5%B1%95%E8%A6%BD",
+   "source": "Timable",
+   "image": "https://static.timable.com/image_457f6430-dd1c-4047-8673-bd4e01dd7423-480x272.webp",
+   "featured": false
+  },
+  {
    "id": "95aec92205a3",
    "title": "香港流行文化節2026：幸會25歲──香港電影資料館珍藏展 （香港電影資料館二十五周年誌慶節目）",
    "category": "電影活動",
@@ -2785,18 +2797,6 @@
    "url": "https://www.facebook.com/pmco.cca",
    "source": "康文署",
    "image": "",
-   "featured": false
-  },
-  {
-   "id": "ac46a3459f63",
-   "title": "NBA球星 Kawhi Leonard x Katch 亞洲巡迴香港站 獻技",
-   "category": "休閒",
-   "start": "2026-08-15",
-   "end": "2026-08-15",
-   "venue": "啟德體藝館 Kai Tak Arena",
-   "url": "https://timable.com/zh/event/NBA%E7%90%83%E6%98%9FKawhiLeonardxKatch%E4%BA%9E%E6%B4%B2%E5%B7%A1%E8%BF%B4%E9%A6%99%E6%B8%AF%E7%AB%99%E7%8D%BB%E6%8A%80",
-   "source": "Timable",
-   "image": "https://static.timable.com/image_ca7d938a-d8bd-491e-979c-75232f3768ef-472x590.webp",
    "featured": false
   },
   {
@@ -7192,18 +7192,6 @@
    "featured": false
   },
   {
-   "id": "b7005283965f",
-   "title": "許志安 \"On Stage\" 紅館演唱會 2026",
-   "category": "演唱會",
-   "start": "2026-10-08",
-   "end": "2026-10-10",
-   "venue": "香港體育館 (紅館)",
-   "url": "https://timable.com/zh/event/%E8%A8%B1%E5%BF%97%E5%AE%89-%E5%A5%87%E8%B9%9F-40%E9%80%B1%E5%B9%B4%E7%B4%85%E9%A4%A8%E6%BC%94%E5%94%B1%E6%9C%832026",
-   "source": "Timable",
-   "image": "https://static.timable.com/image_b1ed76df-3286-431e-8300-6c7947d4b238-480x720.webp",
-   "featured": false
-  },
-  {
    "id": "857d2a6f1ef6",
    "title": "FWD富衛保險呈獻 許志安演唱會2026",
    "category": "演唱會",
@@ -7442,6 +7430,18 @@
    "source": "Timable",
    "image": "https://static.timable.com/image_47c1223d-ceb5-4f80-a742-62cd2224baab-480x600.webp",
    "featured": false
+  },
+  {
+   "id": "075ebf6e0c5e",
+   "title": "渣打香港馬拉松 2027",
+   "category": "體育",
+   "start": "2027-01-17",
+   "end": "2027-01-17",
+   "venue": "香港",
+   "url": "https://timable.com/zh/event/%E6%B8%A3%E6%89%93%E9%A6%99%E6%B8%AF%E9%A6%AC%E6%8B%89%E6%9D%BE2027",
+   "source": "Timable",
+   "image": "https://static.timable.com/image_fe603f32-f125-4ab0-8fc4-a8d10b63cac7-480x640.webp",
+   "featured": true
   },
   {
    "id": "4a723db8ec64",
