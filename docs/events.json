@@ -158,6 +158,18 @@
    "featured": false
   },
   {
+   "id": "5c49bcdbce65",
+   "title": "紫禁城看世界──中外文化交流與互鑒",
+   "category": "大型盛事",
+   "start": "2026-06-03",
+   "end": "2028-03-06",
+   "venue": "香港故宮文化博物館",
+   "url": "https://www.hkpm.org.hk/tc/exhibition/the-hong-kong-jockey-club-series-the-forbidden-city-and-the-world-cultural-encounters",
+   "source": "盛事之都",
+   "image": "https://www.brandhk.gov.hk/images/default-source/about-brandhk/g1-kv-1600x900.jpg",
+   "featured": true
+  },
+  {
    "id": "95aec92205a3",
    "title": "香港流行文化節2026：幸會25歲──香港電影資料館珍藏展 （香港電影資料館二十五周年誌慶節目）",
    "category": "電影活動",
@@ -168,18 +180,6 @@
    "source": "康文署",
    "image": "",
    "featured": false
-  },
-  {
-   "id": "edb0e456262d",
-   "title": "香港賽馬會呈獻系列：紫禁城看世界──中外文化交流與互鑒",
-   "category": "體育",
-   "start": "2026-06-03",
-   "end": "2028-03-06",
-   "venue": "香港故宮文化博物館",
-   "url": "https://www.hkpm.org.hk/tc/exhibition/the-hong-kong-jockey-club-series-the-forbidden-city-and-the-world-cultural-encounters",
-   "source": "盛事之都",
-   "image": "https://www.brandhk.gov.hk/images/default-source/about-brandhk/g1-kv-1600x900.jpg",
-   "featured": true
   },
   {
    "id": "fae15c7ce784",
