@@ -170,6 +170,18 @@
    "featured": false
   },
   {
+   "id": "edb0e456262d",
+   "title": "香港賽馬會呈獻系列：紫禁城看世界──中外文化交流與互鑒",
+   "category": "體育",
+   "start": "2026-06-03",
+   "end": "2028-03-06",
+   "venue": "香港故宮文化博物館",
+   "url": "https://www.hkpm.org.hk/tc/exhibition/the-hong-kong-jockey-club-series-the-forbidden-city-and-the-world-cultural-encounters",
+   "source": "盛事之都",
+   "image": "https://www.brandhk.gov.hk/images/default-source/about-brandhk/g1-kv-1600x900.jpg",
+   "featured": true
+  },
+  {
    "id": "fae15c7ce784",
    "title": "2026-27年度「十八有藝──沙田社區演藝計劃」《身體年輪》長者舞蹈計劃──身體紓壓工作坊",
    "category": "表演藝術",
@@ -1432,6 +1444,18 @@
    "featured": false
   },
   {
+   "id": "151e4a2fdcd7",
+   "title": "LIVE4WELL「紫數日: 生命探索之旅」",
+   "category": "休閒",
+   "start": "2026-08-05",
+   "end": "2026-08-10",
+   "venue": "銅鑼灣祟光百貨16樓SOGO CLUB",
+   "url": "https://timable.com/zh/event/LIVE4WELL-%E7%B4%AB%E6%95%B8%E6%97%A5-%E7%94%9F%E5%91%BD%E6%8E%A2%E7%B4%A2%E4%B9%8B%E6%97%85",
+   "source": "Timable",
+   "image": "https://static.timable.com/image_54287eab-f2cb-4497-bfbf-e7709bc8c297-480x480.webp",
+   "featured": false
+  },
+  {
    "id": "3fb098d8c121",
    "title": "《嘉聲樂韻會知音（三）折子戲專場》",
    "category": "表演藝術",
@@ -1600,18 +1624,6 @@
    "featured": false
   },
   {
-   "id": "da076b8f5fc0",
-   "title": "RE-LOVE 綠續生活節",
-   "category": "休閒",
-   "start": "2026-08-07",
-   "end": "2026-09-06",
-   "venue": "南豐紗廠",
-   "url": "https://timable.com/zh/event/RE-LOVE%E7%B6%A0%E7%BA%8C%E7%94%9F%E6%B4%BB%E7%AF%80",
-   "source": "Timable",
-   "image": "https://static.timable.com/image_1e9018f1-ba11-49f2-86b9-9f0d644b3d46-480x210.webp",
-   "featured": false
-  },
-  {
    "id": "c00f2f0440ab",
    "title": "《萬世流芳張玉喬》",
    "category": "休閒",
@@ -1625,7 +1637,7 @@
   },
   {
    "id": "a476a6ae0c57",
-   "title": "「東京卍復仇者展 最後的世界線」POP-UP期間限定店 @AIRSIDE",
+   "title": "「東京卍復仇者展 最後的世界線」期間限定店 @AIRSIDE",
    "category": "休閒",
    "start": "2026-08-07",
    "end": "2026-09-13",
@@ -1861,18 +1873,6 @@
    "url": "https://docs.google.com/forms/d/e/1FAIpQLSdYrBVsl4l-mH_b6a77rqYAfvXKX0W1mMFdjuGcF3ui_nJUDw/viewform",
    "source": "康文署",
    "image": "",
-   "featured": false
-  },
-  {
-   "id": "78b39ad83ec5",
-   "title": "「Summer Card Game Fest 夏之收藏卡市集」＠黃埔天地",
-   "category": "市集",
-   "start": "2026-08-08",
-   "end": "2026-08-09",
-   "venue": "黃埔天地",
-   "url": "https://timable.com/zh/event/SummerCardGameFest%E5%A4%8F%E4%B9%8B%E6%94%B6%E8%97%8F%E5%8D%A1%E5%B8%82%E9%9B%86--%E9%BB%83%E5%9F%94%E5%A4%A9%E5%9C%B0",
-   "source": "Timable",
-   "image": "https://static.timable.com/image_768d0a78-6364-40a9-b856-84650a3109e1-480x630.webp",
    "featured": false
   },
   {
@@ -3592,6 +3592,18 @@
    "featured": false
   },
   {
+   "id": "d691c7a34d16",
+   "title": "Desire4《永恆開端》演唱會 香港站 ENCORE 2026",
+   "category": "演唱會",
+   "start": "2026-08-22",
+   "end": "2026-08-22",
+   "venue": "亞洲國際博覽館 ARENA",
+   "url": "https://timable.com/zh/event/Desire4-%E6%B0%B8%E6%81%86%E9%96%8B%E7%AB%AF-%E6%BC%94%E5%94%B1%E6%9C%83%E9%A6%99%E6%B8%AF%E7%AB%99ENCORE2026",
+   "source": "Timable",
+   "image": "https://static.timable.com/image_c83723fe-1a1a-47fb-9213-b7a8eb5f1465-480x600.webp",
+   "featured": false
+  },
+  {
    "id": "1cb2c1ba3f7a",
    "title": "ILLIT \"PRESS START♥︎\" 亞洲巡迴演唱會 2026 香港站",
    "category": "演唱會",
@@ -4624,6 +4636,18 @@
    "featured": false
   },
   {
+   "id": "1e048ff05c79",
+   "title": "香港時裝薈 2026",
+   "category": "大型盛事",
+   "start": "2026-09-01",
+   "end": "2026-09-14",
+   "venue": "",
+   "url": "https://hongkongfashionfest.com/tc/",
+   "source": "盛事之都",
+   "image": "",
+   "featured": true
+  },
+  {
    "id": "33dfa005a63f",
    "title": "《卿本佳人》（二）精品折子戲專場",
    "category": "表演藝術",
@@ -4634,6 +4658,18 @@
    "source": "康文署",
    "image": "",
    "featured": false
+  },
+  {
+   "id": "9075ac009502",
+   "title": "香港國際時尚匯展 2026",
+   "category": "大型盛事",
+   "start": "2026-09-02",
+   "end": "2026-09-05",
+   "venue": "香港會議展覽中心",
+   "url": "https://www.hktdc.com/event/centrestage/tc",
+   "source": "盛事之都",
+   "image": "",
+   "featured": true
   },
   {
    "id": "c524ddc355bd",
@@ -7000,18 +7036,6 @@
    "featured": false
   },
   {
-   "id": "e1767b3e9181",
-   "title": "Fama 農夫 x 張繼聰《人夫集團》大型綜藝舞台 Show",
-   "category": "休閒",
-   "start": "2026-10-01",
-   "end": "2026-10-31",
-   "venue": "地點待定(香港)",
-   "url": "https://timable.com/zh/event/Fama%E8%BE%B2%E5%A4%ABx%E5%BC%B5%E7%B9%BC%E8%81%B0-%E4%BA%BA%E5%A4%AB%E9%9B%86%E5%9C%98-%E5%A4%A7%E5%9E%8B%E7%B6%9C%E8%97%9D%E8%88%9E%E5%8F%B0Show",
-   "source": "Timable",
-   "image": "https://static.timable.com/image_0ce56b9b-9e65-43cd-b85d-d4dc38475e26-466x466.webp",
-   "featured": false
-  },
-  {
    "id": "dbb39b72f4cd",
    "title": "Vaundy \"HORO\" 亞洲巡迴演唱會 2026 香港站",
    "category": "演唱會",
@@ -7060,15 +7084,15 @@
    "featured": false
   },
   {
-   "id": "b7005283965f",
-   "title": "許志安 \"On Stage\" 紅館演唱會 2026",
-   "category": "演唱會",
-   "start": "2026-10-08",
-   "end": "2026-10-10",
-   "venue": "香港體育館 (紅館)",
-   "url": "https://timable.com/zh/event/%E8%A8%B1%E5%BF%97%E5%AE%89-%E5%A5%87%E8%B9%9F-40%E9%80%B1%E5%B9%B4%E7%B4%85%E9%A4%A8%E6%BC%94%E5%94%B1%E6%9C%832026",
+   "id": "e1767b3e9181",
+   "title": "Fama 農夫 x 張繼聰《人夫集團》大型綜藝舞台 Show",
+   "category": "休閒",
+   "start": "2026-10-09",
+   "end": "2026-10-25",
+   "venue": "西九文化區 戲曲中心 大劇院",
+   "url": "https://timable.com/zh/event/Fama%E8%BE%B2%E5%A4%ABx%E5%BC%B5%E7%B9%BC%E8%81%B0-%E4%BA%BA%E5%A4%AB%E9%9B%86%E5%9C%98-%E5%A4%A7%E5%9E%8B%E7%B6%9C%E8%97%9D%E8%88%9E%E5%8F%B0Show",
    "source": "Timable",
-   "image": "https://static.timable.com/image_b1ed76df-3286-431e-8300-6c7947d4b238-480x720.webp",
+   "image": "https://static.timable.com/image_d028f2fb-f03a-48b2-a482-8557ba696a8f-480x600.webp",
    "featured": false
   },
   {
@@ -7322,6 +7346,18 @@
    "source": "Timable",
    "image": "https://static.timable.com/image_47c1223d-ceb5-4f80-a742-62cd2224baab-480x600.webp",
    "featured": false
+  },
+  {
+   "id": "075ebf6e0c5e",
+   "title": "渣打香港馬拉松 2027",
+   "category": "體育",
+   "start": "2027-01-17",
+   "end": "2027-01-17",
+   "venue": "香港",
+   "url": "https://timable.com/zh/event/%E6%B8%A3%E6%89%93%E9%A6%99%E6%B8%AF%E9%A6%AC%E6%8B%89%E6%9D%BE2027",
+   "source": "Timable",
+   "image": "https://static.timable.com/image_fe603f32-f125-4ab0-8fc4-a8d10b63cac7-480x640.webp",
+   "featured": true
   },
   {
    "id": "4a723db8ec64",
