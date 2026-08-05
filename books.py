@@ -38,10 +38,10 @@ def is_excluded(title):
     return any(k in t for k in EXCLUDE_KEYWORDS)
 
 
-def _norm_title(t):
-    """去標點空白轉小寫，做跨榜同名比對。"""
-    return re.sub(r"[\s　：:，,、（）()\[\]【】「」『』《》〈〉．·.\-‧—–_/]",
-                  "", t).lower()
+def _product_id(url):
+    """博客來商品頁 URL 內嘅商品編號，做跨榜精準比對（好過靠書名）。"""
+    m = re.search(r"/products/(\w+)", url)
+    return m.group(1) if m else ""
 
 
 def _price(li):
@@ -88,11 +88,12 @@ def fetch_list(url):
 
 
 def build(total, manga, top_n=TOP_N):
-    """由總榜剔走漫畫（漫畫榜命中）同語言考試書，取 top_n 重新編號。"""
-    banned = {_norm_title(b["title"]) for b in manga}
+    """由總榜剔走漫畫（漫畫榜命中，按商品編號）同語言考試書，取 top_n 重新編號。"""
+    banned = {pid for pid in (_product_id(b["url"]) for b in manga) if pid}
     out = []
     for b in total:
-        if _norm_title(b["title"]) in banned or is_excluded(b["title"]):
+        pid = _product_id(b["url"])
+        if (pid and pid in banned) or is_excluded(b["title"]):
             continue
         out.append({**b, "rank": len(out) + 1})
         if len(out) >= top_n:
@@ -112,8 +113,12 @@ def main():
     try:
         manga = fetch_list(MANGA_URL)
     except Exception as e:
-        print(f"[!] 漫畫榜抓取失敗，當空黑名單（可能有漫畫漏網）：{e}")
         manga = []
+        print(f"[!] 漫畫榜抓取失敗：{e}")
+    if not manga:
+        # 冇黑名單就會漏漫畫，寧願保留舊 books.json，唔好出一份含漫畫嘅新榜
+        print("[!] 漫畫榜空，保留舊 books.json")
+        return
 
     books = build(total, manga)
     month = datetime.datetime.now(HK_TZ).strftime("%Y-%m")

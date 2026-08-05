@@ -1,15 +1,18 @@
 import books
 
 
-def mk(title, rank=1):
-    return {"rank": rank, "title": title, "author": "作者",
-            "price": "NT$300", "url": "https://x", "image": "https://i"}
+def mk(title, rank=1, pid=None):
+    pid = pid if pid is not None else f"001{rank:07d}"
+    return {"rank": rank, "title": title, "author": "作者", "price": "NT$300",
+            "url": f"https://www.books.com.tw/products/{pid}", "image": "https://i"}
 
 
 def test_build_excludes_manga():
-    total = [mk("臺灣漫遊錄", 1), mk("鬼滅之刃 20 (特裝版)", 2),
-             mk("槓桿ETF投資法", 3)]
-    manga = [mk("鬼滅之刃 20 (特裝版)", 1)]
+    # 漫畫榜同總榜靠商品編號比對（同一本書 pid 一樣）
+    total = [mk("臺灣漫遊錄", 1, pid="0010852315"),
+             mk("鬼滅之刃 20 (特裝版)", 2, pid="0011111111"),
+             mk("槓桿ETF投資法", 3, pid="0012222222")]
+    manga = [mk("鬼滅之刃 20 (特裝版)", 1, pid="0011111111")]
     out = books.build(total, manga)
     titles = [b["title"] for b in out]
     assert "鬼滅之刃 20 (特裝版)" not in titles
@@ -37,10 +40,10 @@ def test_build_caps_top_n():
     assert [b["rank"] for b in out] == list(range(1, 21))
 
 
-def test_norm_title_ignores_punctuation():
-    # 同一本書兩榜寫法標點差異，要視為同書
-    assert books._norm_title("鬼滅之刃 20（特裝版）") \
-        == books._norm_title("鬼滅之刃20(特裝版)")
+def test_product_id_extracted_from_url():
+    assert books._product_id(
+        "https://www.books.com.tw/products/0010852315") == "0010852315"
+    assert books._product_id("https://x.com/no-product") == ""
 
 
 def test_parse_list_extracts_fields():
