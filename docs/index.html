@@ -239,7 +239,9 @@ function byRelevance(today) {
 
 function renderHero() {
   // 離今日最近嘅排最左（就嚟開始／啱啱開始），長期活動排後；同距離先比有冇圖
-  const now = Date.now();
+  // 用今日午夜做基準（唔用 Date.now()），排序先唔會隨一日內時間浮動
+  const today0 = new Date(); today0.setHours(0, 0, 0, 0);
+  const now = today0.getTime();
   const dist = e => Math.abs(new Date(e.start + "T00:00:00") - now);
   const feats = EVENTS.filter(e => e.featured)
     .sort((a, b) => dist(a) - dist(b)
@@ -282,7 +284,11 @@ function renderFilms() {
 function renderBooks() {
   document.getElementById("feat").style.display = "none";
   document.getElementById("films").style.display = "none";
-  document.getElementById("list").innerHTML = BOOKS.map(b => `
+  const kw = q.trim().toLowerCase();
+  const hits = kw
+    ? BOOKS.filter(b => (b.title + "\n" + b.author).toLowerCase().includes(kw))
+    : BOOKS;
+  document.getElementById("list").innerHTML = hits.map(b => `
     <a class="bk" href="${esc(safeUrl(b))}" target="_blank" rel="noopener">
       <span class="rank">${b.rank}</span>
       ${b.image ? `<img class="cover" src="${esc(b.image)}" alt="" loading="lazy"
@@ -293,8 +299,8 @@ function renderBooks() {
       </span>
     </a>`).join("");
   const empty = document.getElementById("empty");
-  empty.textContent = "暫時攞唔到書籍榜";
-  empty.hidden = BOOKS.length > 0;
+  empty.textContent = BOOKS.length ? "冇符合嘅書籍" : "暫時攞唔到書籍榜";
+  empty.hidden = hits.length > 0;
 }
 
 function render() {
@@ -303,19 +309,22 @@ function render() {
   // 書籍係獨立月榜（無日期），行專屬分支；日期篩選對佢無意義故隱藏
   document.getElementById("when").style.display = cat === "書籍" ? "none" : "";
   if (cat === "書籍") { renderBooks(); return; }
+  const today = ymd(new Date());
   const filtering = !!(cat || kw || range);
   document.getElementById("feat").style.display = filtering ? "none" : "";
   document.getElementById("films").style.display = filtering ? "none" : "";
   const hits = EVENTS.filter(e =>
     (!cat || e.category === cat) &&
     (!kw || (e.title + "\n" + e.venue).toLowerCase().includes(kw)) &&
+    // 已完結唔顯示（events.json 可能係舊檔，前端補一重過濾）
+    e.end >= today &&
     // 活動期同篩選範圍有重疊就當中
     (!range || (e.start <= range[1] && e.end >= range[0])) &&
     // 不篩選時院線電影只喺海報橫掃出，唔喺主列表重複
     (filtering || e.category !== "電影"));
   // 電影欄按場次數排熱門，其餘近期優先
   if (cat === "電影") hits.sort((a, b) => (b.shows || 0) - (a.shows || 0));
-  else hits.sort(byRelevance(ymd(new Date())));
+  else hits.sort(byRelevance(today));
   document.getElementById("list").innerHTML = hits.map(e => `
     <div class="ev">
       <div class="tx">
