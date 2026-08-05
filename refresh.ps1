@@ -43,23 +43,27 @@ try {
 
     git add docs/events.json docs/books.json
     git diff --cached --quiet
-    if ($LASTEXITCODE -eq 0) { Note "資料冇變，唔使 commit"; exit 0 }
+    if ($LASTEXITCODE -ne 0) {
+        git commit -m ("chore: 本地刷新 wmoov/博客來 " + (Get-Date -Format "yyyy-MM-dd")) 2>&1 |
+            Tee-Object -FilePath $log -Append
+        if ($LASTEXITCODE -ne 0) { Note "[X] git commit 失敗 exit=$LASTEXITCODE"; exit 1 }
+    } else {
+        Note "資料冇變，唔使 commit（仍會確保未推送 commit 上到 origin）"
+    }
 
-    git commit -m ("chore: 本地刷新 wmoov/博客來 " + (Get-Date -Format "yyyy-MM-dd")) 2>&1 |
-        Tee-Object -FilePath $log -Append
-    if ($LASTEXITCODE -ne 0) { Note "[X] git commit 失敗 exit=$LASTEXITCODE"; exit 1 }
-
-    # push；Actions 可能喺我 pull 之後又 push，撞就 rebase（資料檔保留我份新嘅）再試
+    # 一律 push：唔止今次個 commit，連上次 push 失敗遺低嘅未推送 commit 都要補推，
+    # 否則會靜默留喺本地、假報成功。已同步時 git push 係 no-op（Everything up-to-date, exit 0）。
+    # Actions 可能喺我 pull 之後又 push，撞就 rebase（資料檔保留我份新嘅）再試。
     $pushed = $false
     for ($i = 0; $i -lt 3; $i++) {
         git push origin master 2>&1 | Tee-Object -FilePath $log -Append
-        if ($LASTEXITCODE -eq 0) { $pushed = $true; Note "push 成功"; break }
+        if ($LASTEXITCODE -eq 0) { $pushed = $true; break }
         Note "push 被拒，rebase 後重試 ($($i + 1))"
         git fetch origin 2>&1 | Tee-Object -FilePath $log -Append
         git rebase -X theirs origin/master 2>&1 | Tee-Object -FilePath $log -Append
     }
     if (-not $pushed) { Note "[X] push 重試 3 次都失敗，資料未上 GitHub"; exit 1 }
-    Note "完成"
+    Note "完成（已同步 origin）"
 } catch {
     "[X] $(Get-Date -Format 'yyyy-MM-dd HH:mm:ss') Exception: $($_.Exception.Message)" |
         Tee-Object -FilePath $log -Append
