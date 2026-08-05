@@ -818,18 +818,6 @@
    "featured": false
   },
   {
-   "id": "4444b3794c45",
-   "title": "香港足球盛會 2026",
-   "category": "體育",
-   "start": "2026-07-31",
-   "end": "2026-08-05",
-   "venue": "啟德體育園",
-   "url": "https://www.hongkongfootballfestival.com/tc/",
-   "source": "盛事之都",
-   "image": "https://www.brandhk.gov.hk/images/default-source/about-brandhk/f5ff9762-2db6-4675-9772-7ddb37f823e1.png",
-   "featured": false
-  },
-  {
    "id": "3260f1aef688",
    "title": "香港電影資料館‧25搜影禮（香港電影資料館二十五周年誌慶節目）",
    "category": "電影活動",
@@ -1516,6 +1504,18 @@
    "featured": false
   },
   {
+   "id": "705ffe84f866",
+   "title": "Samsung Galaxy Z8 世代: 摺機試玩活動",
+   "category": "休閒",
+   "start": "2026-08-07",
+   "end": "2026-08-09",
+   "venue": "中環街市 地面 Oasis",
+   "url": "https://timable.com/zh/event/SamsungGalaxyZ8%E4%B8%96%E4%BB%A3-%E6%91%BA%E6%A9%9F%E8%A9%A6%E7%8E%A9%E6%B4%BB%E5%8B%95",
+   "source": "Timable",
+   "image": "https://static.timable.com/image_5a0c63fd-753d-4111-986f-008f3850effa-480x600.webp",
+   "featured": false
+  },
+  {
    "id": "c00f2f0440ab",
    "title": "《萬世流芳張玉喬》",
    "category": "休閒",
@@ -1537,6 +1537,18 @@
    "url": "https://timable.com/zh/event/%E6%9D%B1%E4%BA%AC%E5%8D%8D%E5%BE%A9%E4%BB%87%E8%80%85%E5%B1%95%E6%9C%80%E5%BE%8C%E7%9A%84%E4%B8%96%E7%95%8C%E7%B7%9A-POP-UP%E6%9C%9F%E9%96%93%E9%99%90%E5%AE%9A%E5%BA%97-AIRSIDE",
    "source": "Timable",
    "image": "https://static.timable.com/image_327b5d93-c8a5-420d-a281-cffd86ab5ee3-480x480.webp",
+   "featured": false
+  },
+  {
+   "id": "bbbab24c6bbe",
+   "title": "「沙田第一號文化洞窟」裝置藝術 x 音樂會",
+   "category": "表演藝術",
+   "start": "2026-08-07",
+   "end": "2026-08-23",
+   "venue": "沙田大會堂 展覽廳",
+   "url": "https://timable.com/zh/event/%E6%B2%99%E7%94%B0%E7%AC%AC%E4%B8%80%E8%99%9F%E6%96%87%E5%8C%96%E6%B4%9E%E7%AA%9F-%E8%A3%9D%E7%BD%AE%E8%97%9D%E8%A1%93x%E9%9F%B3%E6%A8%82%E6%9C%83",
+   "source": "Timable",
+   "image": "https://static.timable.com/image_8c4811ae-678d-4610-84c4-196b457e9ccb-480x600.webp",
    "featured": false
   },
   {
@@ -1705,18 +1717,6 @@
    "url": "https://www.lcsd.gov.hk/tc/ticket/index.html",
    "source": "康文署",
    "image": "",
-   "featured": false
-  },
-  {
-   "id": "f14f20a76644",
-   "title": "《勇闖孤悲城！》音樂劇",
-   "category": "表演藝術",
-   "start": "2026-08-08",
-   "end": "2026-08-09",
-   "venue": "香港理工大學賽馬會綜藝館",
-   "url": "https://timable.com/zh/event/%E5%8B%87%E9%97%96%E5%AD%A4%E6%82%B2%E5%9F%8E--%E9%9F%B3%E6%A8%82%E5%8A%87",
-   "source": "Timable",
-   "image": "https://static.timable.com/image_ecfc0200-6ba7-4d9c-8b69-77253a4e2d4a-480x211.webp",
    "featured": false
   },
   {
@@ -4036,18 +4036,6 @@
    "featured": false
   },
   {
-   "id": "07c4828c8f74",
-   "title": "《韓樂心韻:哲學之問,音樂之答》 韓國哲學音樂講座及音樂會",
-   "category": "表演藝術",
-   "start": "2026-08-28",
-   "end": "2026-08-29",
-   "venue": "藝穗會賽馬會劇場",
-   "url": "https://timable.com/zh/event/%E9%9F%93%E6%A8%82%E5%BF%83%E9%9F%BB-%E5%93%B2%E5%AD%B8%E4%B9%8B%E5%95%8F-%E9%9F%B3%E6%A8%82%E4%B9%8B%E7%AD%94-%E9%9F%93%E5%9C%8B%E5%93%B2%E5%AD%B8%E9%9F%B3%E6%A8%82%E8%AC%9B%E5%BA%A7%E5%8F%8A%E9%9F%B3%E6%A8%82%E6%9C%83",
-   "source": "Timable",
-   "image": "",
-   "featured": false
-  },
-  {
    "id": "b69c10ccf837",
    "title": "樂趣合唱團2026音樂會",
    "category": "表演藝術",
@@ -4213,18 +4201,6 @@
    "url": "http://www.springtime.com.hk/chi/mainpage.shtml#aladdin",
    "source": "康文署",
    "image": "",
-   "featured": false
-  },
-  {
-   "id": "5016e06a72d3",
-   "title": "田宮迷你四驅車世界賽-港澳選拔賽 Hong Kong Cup @荃灣廣場 2026/27",
-   "category": "休閒",
-   "start": "2026-08-29",
-   "end": "2026-08-30",
-   "venue": "荃灣廣場",
-   "url": "https://timable.com/zh/event/%E7%94%B0%E5%AE%AE%E8%BF%B7%E4%BD%A0%E5%9B%9B%E9%A9%85%E8%BB%8A%E4%B8%96%E7%95%8C%E8%B3%BD-%E6%B8%AF%E6%BE%B3%E9%81%B8%E6%8B%94%E8%B3%BD-HongKongCup-%E8%8D%83%E7%81%A3%E5%BB%A3%E5%A0%B42026-27",
-   "source": "Timable",
-   "image": "https://static.timable.com/image_9805b372-7c41-4988-8a60-272e1d2f2ce1-480x604.webp",
    "featured": false
   },
   {
@@ -6988,6 +6964,18 @@
    "featured": false
   },
   {
+   "id": "5b850daf880c",
+   "title": "On Stage! 4.0 音樂會",
+   "category": "表演藝術",
+   "start": "2026-10-03",
+   "end": "2026-10-03",
+   "venue": "東九文化中心 樂館",
+   "url": "https://timable.com/zh/event/OnStage-4-0%E9%9F%B3%E6%A8%82%E6%9C%83",
+   "source": "Timable",
+   "image": "https://static.timable.com/image_569d5f1e-b32c-4cda-a1cf-5f3719ded830-480x600.webp",
+   "featured": false
+  },
+  {
    "id": "dbb39b72f4cd",
    "title": "Vaundy \"HORO\" 亞洲巡迴演唱會 2026 香港站",
    "category": "演唱會",
@@ -7072,6 +7060,18 @@
    "featured": false
   },
   {
+   "id": "a32614e1ff2f",
+   "title": "副島俊樹 巡迴音樂會 2026 香港站",
+   "category": "表演藝術",
+   "start": "2026-10-11",
+   "end": "2026-10-11",
+   "venue": "MOM Livehouse",
+   "url": "https://timable.com/zh/event/%E5%89%AF%E5%B3%B6%E4%BF%8A%E6%A8%B9%E5%B7%A1%E8%BF%B4%E9%9F%B3%E6%A8%82%E6%9C%832026%E9%A6%99%E6%B8%AF%E7%AB%99",
+   "source": "Timable",
+   "image": "https://static.timable.com/image_2a29a2fb-594e-429c-948b-274a70ad26d2-480x640.webp",
+   "featured": false
+  },
+  {
    "id": "5ffb2442b3e0",
    "title": "雷諾・卡普松小提琴演奏會",
    "category": "表演藝術",
@@ -7108,6 +7108,18 @@
    "featured": false
   },
   {
+   "id": "b0887ff4b32d",
+   "title": "《哥斯拉-0.0》 即將上映",
+   "category": "休閒",
+   "start": "2026-11-01",
+   "end": "2026-11-30",
+   "venue": "各大戲院院線",
+   "url": "https://timable.com/zh/event/%E5%93%A5%E6%96%AF%E6%8B%89-0-0-%E5%8D%B3%E5%B0%87%E4%B8%8A%E6%98%A0",
+   "source": "Timable",
+   "image": "https://static.timable.com/image_7f4c1eca-b44e-443e-a4ff-7b061b8c0a69-480x675.webp",
+   "featured": false
+  },
+  {
    "id": "900caff9b5dd",
    "title": "嘉貝蒂與科帕欽卡雅大提琴及小提琴演奏會",
    "category": "表演藝術",
@@ -7141,18 +7153,6 @@
    "url": "https://www.lcsd.gov.hk/CE/CulturalService/Programme/tc/music/programs_1987.html",
    "source": "康文署",
    "image": "",
-   "featured": false
-  },
-  {
-   "id": "5a4ae511d956",
-   "title": "澀谷昴 30th Anniversary Asia Tour 2026 香港巡迴演唱會",
-   "category": "演唱會",
-   "start": "2026-11-14",
-   "end": "2026-11-14",
-   "venue": "PORTAL",
-   "url": "https://timable.com/zh/event/%E6%BE%80%E8%B0%B7%E6%98%B430thAnniversaryAsiaTour2026%E9%A6%99%E6%B8%AF%E5%B7%A1%E8%BF%B4%E6%BC%94%E5%94%B1%E6%9C%83",
-   "source": "Timable",
-   "image": "https://static.timable.com/image_585339fb-cd47-42a9-a691-4ef4082b3312-480x600.webp",
    "featured": false
   },
   {
@@ -7213,18 +7213,6 @@
    "url": "https://www.lcsd.gov.hk/tc/ticket/index.html",
    "source": "康文署",
    "image": "",
-   "featured": false
-  },
-  {
-   "id": "b21400820b81",
-   "title": "香港迪士尼奇妙跑步嘉年華",
-   "category": "體育",
-   "start": "2026-11-28",
-   "end": "2026-11-29",
-   "venue": "香港迪士尼樂園",
-   "url": "https://timable.com/zh/event/%E9%A6%99%E6%B8%AF%E8%BF%AA%E5%A3%AB%E5%B0%BC%E5%A5%87%E5%A6%99%E8%B7%91%E6%AD%A5%E5%98%89%E5%B9%B4%E8%8F%AF",
-   "source": "Timable",
-   "image": "https://static.timable.com/image_72466b20-8231-4be4-8940-e32ce4ecd242-480x600.webp",
    "featured": false
   },
   {
