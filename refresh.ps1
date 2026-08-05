@@ -1,4 +1,4 @@
-# 本地刷新 hk-events 資料（住宅 IP，wmoov 電影 + 博客來書榜唔會被 403 擋）
+﻿# 本地刷新 hk-events 資料（住宅 IP，wmoov 電影 + 博客來書榜唔會被 403 擋）
 # 由 setup-task.ps1 注冊嘅 Windows 排程每日觸發，或者手動右 click Run。
 # 只更新 docs/events.json + docs/books.json，唔掂 seen.json（Discord 狀態交俾 Actions）。
 

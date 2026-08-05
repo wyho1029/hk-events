@@ -1,4 +1,4 @@
-# 注冊每日 Windows 排程，喺住宅 IP 刷新 hk-events 資料（避開雲端 403）
+﻿# 注冊每日 Windows 排程，喺住宅 IP 刷新 hk-events 資料（避開雲端 403）
 # 用法：右 click → Run with PowerShell（唔使 admin，注冊到 user scope）
 # 移除：Unregister-ScheduledTask -TaskName HKEventsRefresh -Confirm:$false
 
