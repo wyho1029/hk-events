@@ -4,7 +4,7 @@ import scrape
 def make(id="a", title="活動", category="休閒", start="2099-01-01",
          end="2099-01-02"):
     return {"id": id, "title": title, "category": category, "start": start,
-            "end": end, "venue": "", "url": "https://x", "source": "test"}
+            "end": end, "venue": "", "url": "https://x.com", "source": "test"}
 
 
 def test_is_entertainment():
@@ -30,6 +30,11 @@ def test_categorize():
     # 粵曲演唱會係傳統曲藝，要贏「演唱會」keyword
     assert scrape.categorize("《金曲妙韻聚友情》粵曲演唱會", "休閒") \
         == "表演藝術"
+    # 英文演唱會要歸演唱會（大細階唔拘），先會被 Discord 排除
+    assert scrape.categorize("TwoSet Violin World Tour", "休閒") == "演唱會"
+    assert scrape.categorize("YAN TING Live in HK 2026", "休閒") == "演唱會"
+    # 「跑」單字唔應再誤判：跑道展覽要歸展覽唔係體育
+    assert scrape.categorize("BARMINSKI「51號跑道」展覽", "休閒") == "展覽"
 
 
 def test_merge_keeps_image_field():
@@ -64,6 +69,11 @@ def test_valid():
     bad = make()
     del bad["title"]
     assert not scrape.valid(bad)
+    # start 遲過 end 唔合法
+    assert not scrape.valid(make(start="2099-05-01", end="2099-04-01"))
+    # 壞 URL（host 冇點、有括號）唔合法；正常同 schemeless 都收
+    assert not scrape.valid({**make(), "url": "https://cpuac2010(instagram)"})
+    assert scrape.valid({**make(), "url": "www.example.com/x"})
 
 
 def test_merge_dedupes_filters_and_sorts():

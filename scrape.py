@@ -1,8 +1,10 @@
 import datetime
 import json
 import os
+import re
 import sys
 import traceback
+import urllib.parse
 from pathlib import Path
 
 import requests
@@ -19,10 +21,12 @@ CATEGORIES = {"體育", "休閒", "大型盛事", "表演藝術", "展覽",
 EXCLUDE_KEYWORDS = ["見面會", "歌迷", "粉絲", "簽唱", "簽售",
                     "應援", "fan meeting", "fans meeting", "fanmeeting"]
 
-SPORT_KEYWORDS = ["馬拉松", "跑", "欖球", "足球", "籃球", "排球", "網球",
+# 用具體字眼，避免單字誤判（「跑」中「跑道」展覽、「拳」中無關詞）
+SPORT_KEYWORDS = ["馬拉松", "跑步", "賽跑", "路跑", "越野跑", "接力賽",
+                  "欖球", "足球", "籃球", "排球", "網球",
                   "羽毛球", "乒乓球", "游泳", "單車", "劍擊", "體育", "運動",
                   "錦標賽", "格蘭披治", "賽馬", "龍舟", "帆船", "高爾夫",
-                  "武術", "拳"]
+                  "武術", "拳擊", "泰拳"]
 
 # 按優先次序逐組匹配標題，第一組中就係嗰類；全部唔中先用來源預設
 CATEGORY_KEYWORDS = [
@@ -34,7 +38,8 @@ CATEGORY_KEYWORDS = [
               "書展"]),
     # 粵曲演唱會呢類傳統曲藝要贏「演唱會」keyword，所以排先
     ("表演藝術", ["粵曲", "粵劇", "折子戲", "戲曲", "粵韻"]),
-    ("演唱會", ["演唱會", "拉闊", "巡唱"]),
+    ("演唱會", ["演唱會", "拉闊", "巡唱", "巡迴演唱",
+                  "world tour", "live in hong kong", "live in hk"]),
     ("表演藝術", ["音樂會", "演奏", "管弦", "交響", "合唱", "爵士", "室樂",
                   "音樂節", "戲劇", "話劇", "舞蹈", "舞劇",
                   "歌劇", "音樂劇", "劇場", "木偶", "演藝",
@@ -51,20 +56,31 @@ def is_entertainment(title):
 
 
 def categorize(title, default):
+    t = title.lower()  # 小寫比對，令英文 keyword（world tour 等）唔分大小寫
     for cat, keywords in CATEGORY_KEYWORDS:
-        if any(k in title for k in keywords):
+        if any(k.lower() in t for k in keywords):
             return cat
     return default
+
+
+def _url_ok(url):
+    """host 要有點、冇空白／括號，擋 https://cpuac2010(instagram) 呢類壞 URL。"""
+    u = url if "://" in url else "https://" + url
+    host = urllib.parse.urlparse(u).netloc.split("@")[-1].split(":")[0]
+    return bool("." in host and not re.search(r"[\s()]", host))
 
 
 def valid(e):
     try:
         datetime.date.fromisoformat(e["start"])
         datetime.date.fromisoformat(e["end"])
-        return bool(e["id"] and e["title"] and e["url"] and e["source"]) \
-            and e["category"] in CATEGORIES
     except (KeyError, TypeError, ValueError):
         return False
+    return bool(e.get("id") and e.get("title")
+                and e.get("url") and e.get("source")) \
+        and e.get("category") in CATEGORIES \
+        and e["start"] <= e["end"] \
+        and _url_ok(e["url"])
 
 
 def merge(lists, today):
@@ -159,10 +175,14 @@ def main():
     for name, fetch in FETCHERS:
         try:
             events = fetch()
+            if not events:
+                # 空結果（例：WAF 回 200 challenge、selector 失效）當失敗，
+                # 唔好用空清單覆寫，改用上次成功資料，否則會刪走成個來源
+                raise ValueError("empty result")
             ok += 1
             print(f"{name}: {len(events)} events")
         except Exception:
-            print(f"{name}: FAILED, using previous data")
+            print(f"{name}: FAILED/empty, using previous data")
             traceback.print_exc()
             events = previous_events(name)
         results.append(events)
