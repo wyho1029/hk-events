@@ -75,14 +75,6 @@
   },
   {
    "rank": 10,
-   "title": "財富階梯：（《持續買進》作者新作）資料科學家為你打造，適用人生各階段的致富策略",
-   "author": "尼克．馬朱利",
-   "price": "NT$331",
-   "url": "https://www.books.com.tw/products/0011050390",
-   "image": "https://im1.book.com.tw/image/getImage?i=https://www.books.com.tw/img/001/105/03/0011050390.jpg&v=69e05d39k&w=150&h=150"
-  },
-  {
-   "rank": 11,
    "title": "Gemini 投資理財全攻略：小資族看過來！完全零門檻的 AI 智慧選股×財報分析×資金管理",
    "author": "施威銘研究室",
    "price": "NT$473",
@@ -90,12 +82,20 @@
    "image": "https://im2.book.com.tw/image/getImage?i=https://www.books.com.tw/img/001/105/58/0011055845.jpg&v=6a38fd21k&w=150&h=150"
   },
   {
-   "rank": 12,
+   "rank": 11,
    "title": "高飛人生：從華航基層到董事長，46年台灣航空實戰經驗，淬鍊出的經營智慧、決策視野與人生格局",
    "author": "孫洪祥",
    "price": "NT$355",
    "url": "https://www.books.com.tw/products/0011056438",
    "image": "https://im1.book.com.tw/image/getImage?i=https://www.books.com.tw/img/001/105/64/0011056438.jpg&v=6a3f52fek&w=150&h=150"
+  },
+  {
+   "rank": 12,
+   "title": "財富階梯：（《持續買進》作者新作）資料科學家為你打造，適用人生各階段的致富策略",
+   "author": "尼克．馬朱利",
+   "price": "NT$331",
+   "url": "https://www.books.com.tw/products/0011050390",
+   "image": "https://im1.book.com.tw/image/getImage?i=https://www.books.com.tw/img/001/105/03/0011050390.jpg&v=69e05d39k&w=150&h=150"
   },
   {
    "rank": 13,
@@ -115,14 +115,6 @@
   },
   {
    "rank": 15,
-   "title": "魔法抱抱【情緒管理】（理解並安撫孩子的壞情緒）",
-   "author": "郭飛飛",
-   "price": "NT$196",
-   "url": "https://www.books.com.tw/products/0010945875",
-   "image": "https://im2.book.com.tw/image/getImage?i=https://www.books.com.tw/img/001/094/58/0010945875.jpg&v=63a97837k&w=150&h=150"
-  },
-  {
-   "rank": 16,
    "title": "原子習慣：細微改變帶來巨大成就的實證法則",
    "author": "詹姆斯‧克利爾",
    "price": "NT$260",
@@ -130,12 +122,20 @@
    "image": "https://im1.book.com.tw/image/getImage?i=https://www.books.com.tw/img/001/082/25/0010822522.jpg&v=5cda990ck&w=150&h=150"
   },
   {
+   "rank": 16,
+   "title": "魔法抱抱【情緒管理】（理解並安撫孩子的壞情緒）",
+   "author": "郭飛飛",
+   "price": "NT$196",
+   "url": "https://www.books.com.tw/products/0010945875",
+   "image": "https://im2.book.com.tw/image/getImage?i=https://www.books.com.tw/img/001/094/58/0010945875.jpg&v=63a97837k&w=150&h=150"
+  },
+  {
    "rank": 17,
-   "title": "高功能倖存者：如果不「有用」，我還值得被愛嗎？",
-   "author": "周慕姿",
-   "price": "NT$387",
-   "url": "https://www.books.com.tw/products/0011052184",
-   "image": "https://im1.book.com.tw/image/getImage?i=https://www.books.com.tw/img/001/105/21/0011052184.jpg&v=69fda61ck&w=150&h=150"
+   "title": "隨他們去：全球熱銷突破1000萬冊現象級巨作！改變千萬人命運的心理技巧【附放下執念明信片】",
+   "author": "梅爾．羅賓斯",
+   "price": "NT$355",
+   "url": "https://www.books.com.tw/products/0011055310",
+   "image": "https://im1.book.com.tw/image/getImage?i=https://www.books.com.tw/img/001/105/53/0011055310.jpg&v=6a30ce17k&w=150&h=150"
   },
   {
    "rank": 18,
@@ -147,19 +147,19 @@
   },
   {
    "rank": 19,
-   "title": "律師帶你看校園大小事2：老師必知的33個法律問題",
-   "author": "Kitty Mao 毛律師",
-   "price": "NT$379",
-   "url": "https://www.books.com.tw/products/0011052631",
-   "image": "https://im2.book.com.tw/image/getImage?i=https://www.books.com.tw/img/001/105/26/0011052631.jpg&v=6a1e5d06k&w=150&h=150"
+   "title": "高功能倖存者：如果不「有用」，我還值得被愛嗎？",
+   "author": "周慕姿",
+   "price": "NT$387",
+   "url": "https://www.books.com.tw/products/0011052184",
+   "image": "https://im1.book.com.tw/image/getImage?i=https://www.books.com.tw/img/001/105/21/0011052184.jpg&v=69fda61ck&w=150&h=150"
   },
   {
    "rank": 20,
-   "title": "隨他們去：全球熱銷突破1000萬冊現象級巨作！改變千萬人命運的心理技巧【附放下執念明信片】",
-   "author": "梅爾．羅賓斯",
-   "price": "NT$355",
-   "url": "https://www.books.com.tw/products/0011055310",
-   "image": "https://im1.book.com.tw/image/getImage?i=https://www.books.com.tw/img/001/105/53/0011055310.jpg&v=6a30ce17k&w=150&h=150"
+   "title": "白夜行（經典單冊回歸版）",
+   "author": "東野圭吾",
+   "price": "NT$584",
+   "url": "https://www.books.com.tw/products/0010976664",
+   "image": "https://im1.book.com.tw/image/getImage?i=https://www.books.com.tw/img/001/097/66/0010976664.jpg&v=658511e4k&w=150&h=150"
   }
  ]
 }
