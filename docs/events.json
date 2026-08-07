@@ -1504,6 +1504,18 @@
    "featured": false
   },
   {
+   "id": "b39446dfcea8",
+   "title": "香港高級視聽展 2026",
+   "category": "休閒",
+   "start": "2026-08-07",
+   "end": "2026-08-09",
+   "venue": "香港會議展覽中心 展覽廳3FG",
+   "url": "https://timable.com/zh/event/%E9%A6%99%E6%B8%AF%E9%AB%98%E7%B4%9A%E8%A6%96%E8%81%BD%E5%B1%952026",
+   "source": "Timable",
+   "image": "https://static.timable.com/image_af06bb70-1d2e-40ba-8afc-73143aa8e796-425x425.webp",
+   "featured": false
+  },
+  {
    "id": "ee21ced68d5a",
    "title": "鬼玩人：煉獄",
    "category": "電影",
@@ -4395,18 +4407,6 @@
    "url": "https://www.lcsd.gov.hk/tc/ticket/index.html",
    "source": "康文署",
    "image": "",
-   "featured": false
-  },
-  {
-   "id": "b4387154502e",
-   "title": "YOASOBI 香港演唱會 2026-27",
-   "category": "演唱會",
-   "start": "2026-09-01",
-   "end": "2027-12-31",
-   "venue": "啟德體育園",
-   "url": "https://timable.com/zh/event/YOASOBI%E9%A6%99%E6%B8%AF%E6%BC%94%E5%94%B1%E6%9C%832026-27",
-   "source": "Timable",
-   "image": "https://static.timable.com/image_1c2dc04b-e1de-4a48-89bb-21f11686e1f4-480x480.webp",
    "featured": false
   },
   {
