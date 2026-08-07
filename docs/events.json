@@ -938,6 +938,18 @@
    "featured": false
   },
   {
+   "id": "b1a93e76a158",
+   "title": "「待填滿的空間2」藝術聯展",
+   "category": "展覽",
+   "start": "2026-08-06",
+   "end": "2026-08-10",
+   "venue": "香港視覺藝術中心",
+   "url": "https://timable.com/zh/event/%E5%BE%85%E5%A1%AB%E6%BB%BF%E7%9A%84%E7%A9%BA%E9%96%932-%E8%97%9D%E8%A1%93%E8%81%AF%E5%B1%95",
+   "source": "Timable",
+   "image": "https://static.timable.com/image_3bba62f4-7999-4f64-8993-ed9c09029436-480x853.webp",
+   "featured": false
+  },
+  {
    "id": "6bf0fd72ec00",
    "title": "UFO離奇命案",
    "category": "電影",
@@ -2778,6 +2790,18 @@
    "featured": false
   },
   {
+   "id": "3e133d01d287",
+   "title": "《四季木歌》 雙馬林巴音樂會",
+   "category": "表演藝術",
+   "start": "2026-08-16",
+   "end": "2026-08-16",
+   "venue": "香港藝術中心壽臣劇院",
+   "url": "https://timable.com/zh/event/marimba-four-seasons",
+   "source": "Timable",
+   "image": "https://static.timable.com/image_d1c9bb42-5d98-4c8a-9da6-fdaf44a53003-480x480.webp",
+   "featured": false
+  },
+  {
    "id": "7706d2ec60bd",
    "title": "《粵劇名曲齊共賞》粵劇折子戲",
    "category": "表演藝術",
@@ -3351,18 +3375,6 @@
    "url": "https://www.lcsd.gov.hk/tc/ticket/index.html",
    "source": "康文署",
    "image": "",
-   "featured": false
-  },
-  {
-   "id": "09bc11eb8bbf",
-   "title": "\"SPLASH IDOL CARNIVAL\" 音樂祭 @海洋公園",
-   "category": "休閒",
-   "start": "2026-08-22",
-   "end": "2026-08-23",
-   "venue": "香港海洋公園 水上樂園",
-   "url": "https://timable.com/zh/event/SPLASHIDOLCARNIVAL-%E9%9F%B3%E6%A8%82%E7%A5%AD-%E6%B5%B7%E6%B4%8B%E5%85%AC%E5%9C%92",
-   "source": "Timable",
-   "image": "https://static.timable.com/image_d84f1a4d-5c87-4d07-8ed5-db3c21d603f9-480x360.webp",
    "featured": false
   },
   {
@@ -4227,18 +4239,6 @@
    "url": "https://www.instagram.com/missleung_guzheng/",
    "source": "康文署",
    "image": "",
-   "featured": false
-  },
-  {
-   "id": "c57f0c7b5141",
-   "title": "《狂想曲》劇場",
-   "category": "表演藝術",
-   "start": "2026-08-30",
-   "end": "2026-08-30",
-   "venue": "東華三院賽馬會利東綜合服務中心",
-   "url": "https://timable.com/zh/event/%E7%8B%82%E6%83%B3%E6%9B%B2-%E5%8A%87%E5%A0%B4",
-   "source": "Timable",
-   "image": "https://static.timable.com/image_7b883b8a-5f18-4fb2-a4b0-b76d7cc3a0b4-480x600.webp",
    "featured": false
   },
   {
