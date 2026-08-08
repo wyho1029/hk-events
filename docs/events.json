@@ -1,5 +1,5 @@
 {
- "updated": "2026-08-07",
+ "updated": "2026-08-08",
  "events": [
   {
    "id": "e13429ad674f",
@@ -890,18 +890,6 @@
    "featured": false
   },
   {
-   "id": "15fe98bf5eeb",
-   "title": "紫荊盃國際舞蹈大賽2026 - 決賽",
-   "category": "表演藝術",
-   "start": "2026-08-04",
-   "end": "2026-08-07",
-   "venue": "屯門大會堂 (演奏廳)",
-   "url": "https://www.lcsd.gov.hk/clpss/tc/search/culture/DetailForm.do?id=185914",
-   "source": "康文署",
-   "image": "",
-   "featured": false
-  },
-  {
    "id": "4b1a4985e407",
    "title": "「香港芭蕾舞學會超新星大賞2026」",
    "category": "休閒",
@@ -961,18 +949,6 @@
    "image": "https://wmoov.com/assets/poster/f2349fc5f5823731b50e29172643a0c5.jpg",
    "rating": "6.6",
    "shows": 10,
-   "featured": false
-  },
-  {
-   "id": "c00f2f0440ab",
-   "title": "《萬世流芳張玉喬》",
-   "category": "休閒",
-   "start": "2026-08-07",
-   "end": "2026-08-07",
-   "venue": "沙田大會堂 (演奏廳)",
-   "url": "https://www.lcsd.gov.hk/tc/ticket/index.html",
-   "source": "康文署",
-   "image": "",
    "featured": false
   },
   {
@@ -1126,18 +1102,6 @@
    "featured": false
   },
   {
-   "id": "3ebe5df55ccb",
-   "title": "夏日親子電影節 2026：《化石獵人的少年時代》",
-   "category": "電影活動",
-   "start": "2026-08-07",
-   "end": "2026-08-07",
-   "venue": "香港太空館 (演講廳)",
-   "url": "https://www.lcsd.gov.hk/fp/tc/listing.html?id=93",
-   "source": "康文署",
-   "image": "",
-   "featured": false
-  },
-  {
    "id": "dee7be3daf19",
    "title": "奧德賽",
    "category": "電影",
@@ -1177,18 +1141,6 @@
    "image": "https://wmoov.com/assets/poster/47f89d52d1f0a64bb38b6026169ae9ef.jpg",
    "rating": "7",
    "shows": 1,
-   "featured": false
-  },
-  {
-   "id": "5e68a71fda99",
-   "title": "峰波情未了3.0之八十後存在（演唱會）",
-   "category": "演唱會",
-   "start": "2026-08-07",
-   "end": "2026-08-07",
-   "venue": "荃灣大會堂 (演奏廳)",
-   "url": "https://www.lcsd.gov.hk/tc/ticket/index.html",
-   "source": "康文署",
-   "image": "",
    "featured": false
   },
   {
@@ -1351,42 +1303,6 @@
    "end": "2026-08-09",
    "venue": "牛池灣文娛中心 (文娛廳)",
    "url": "https://www.facebook.com/herhishouse",
-   "source": "康文署",
-   "image": "",
-   "featured": false
-  },
-  {
-   "id": "f568c124e5ce",
-   "title": "粵劇《花田八喜》",
-   "category": "表演藝術",
-   "start": "2026-08-07",
-   "end": "2026-08-07",
-   "venue": "高山劇場 (劇院)",
-   "url": "https://www.lcsd.gov.hk/tc/ticket/index.html",
-   "source": "康文署",
-   "image": "",
-   "featured": false
-  },
-  {
-   "id": "a1f10aafd0bf",
-   "title": "粵曲欣賞會",
-   "category": "表演藝術",
-   "start": "2026-08-07",
-   "end": "2026-08-07",
-   "venue": "沙田大會堂 (文娛廳)",
-   "url": "https://www.lcsd.gov.hk/clpss/tc/search/culture/DetailForm.do?id=184568",
-   "source": "康文署",
-   "image": "",
-   "featured": false
-  },
-  {
-   "id": "d5248337a059",
-   "title": "紅豆聲情迎仲夏",
-   "category": "休閒",
-   "start": "2026-08-07",
-   "end": "2026-08-07",
-   "venue": "葵青劇院 (演藝廳)",
-   "url": "https://www.lcsd.gov.hk/clpss/tc/search/culture/DetailForm.do?id=184698",
    "source": "康文署",
    "image": "",
    "featured": false
@@ -1596,18 +1512,6 @@
    "start": "2026-08-08",
    "end": "2026-08-08",
    "venue": "沙田大會堂 (演奏廳)",
-   "url": "https://www.lcsd.gov.hk/tc/ticket/index.html",
-   "source": "康文署",
-   "image": "",
-   "featured": false
-  },
-  {
-   "id": "384fbed02772",
-   "title": "《大象的茶室》",
-   "category": "休閒",
-   "start": "2026-08-08",
-   "end": "2026-10-04",
-   "venue": "高山劇場 (新翼展覽廳)",
    "url": "https://www.lcsd.gov.hk/tc/ticket/index.html",
    "source": "康文署",
    "image": "",
@@ -1956,7 +1860,7 @@
    "start": "2026-08-09",
    "end": "2026-08-09",
    "venue": "西灣河文娛中心 (大堂)",
-   "url": "https://www.lcsd.gov.hk/tc/ticket/index.html",
+   "url": "https://www.instagram.com/p/Dbny28fBEKl/",
    "source": "康文署",
    "image": "",
    "featured": false
@@ -2262,6 +2166,18 @@
    "featured": false
   },
   {
+   "id": "82fe25df229c",
+   "title": "文化遊樂「元」─行者集匯",
+   "category": "休閒",
+   "start": "2026-08-13",
+   "end": "2026-08-13",
+   "venue": "元朗劇院 (演藝廳)",
+   "url": "https://www.aftec.hk/?p=16290&lang=zh",
+   "source": "康文署",
+   "image": "",
+   "featured": false
+  },
+  {
    "id": "6a5c3b1c213c",
    "title": "朗聲名曲獻知音",
    "category": "表演藝術",
@@ -2460,7 +2376,7 @@
    "start": "2026-08-14",
    "end": "2026-08-14",
    "venue": "高山劇場 (劇院)",
-   "url": "https://www.lcsd.gov.hk/clpss/tc/search/culture/DetailForm.do?id=184614",
+   "url": "https://www.lcsd.gov.hk/tc/ticket/index.html",
    "source": "康文署",
    "image": "",
    "featured": false
@@ -3024,6 +2940,18 @@
    "start": "2026-08-17",
    "end": "2026-08-17",
    "venue": "香港文化中心 (大堂展覽場地)",
+   "url": "https://www.lcsd.gov.hk/tc/ticket/index.html",
+   "source": "康文署",
+   "image": "",
+   "featured": false
+  },
+  {
+   "id": "384fbed02772",
+   "title": "《大象的茶室》",
+   "category": "休閒",
+   "start": "2026-08-18",
+   "end": "2026-10-04",
+   "venue": "高山劇場 (新翼展覽廳)",
    "url": "https://www.lcsd.gov.hk/tc/ticket/index.html",
    "source": "康文署",
    "image": "",
@@ -4458,18 +4386,6 @@
    "featured": false
   },
   {
-   "id": "8a4eea5bb392",
-   "title": "規劃署外展計劃",
-   "category": "休閒",
-   "start": "2026-09-01",
-   "end": "2026-09-01",
-   "venue": "沙田大會堂 (廣場)",
-   "url": "https://www.pland.gov.hk/",
-   "source": "康文署",
-   "image": "",
-   "featured": false
-  },
-  {
    "id": "1e048ff05c79",
    "title": "香港時裝薈 2026",
    "category": "大型盛事",
@@ -5101,6 +5017,18 @@
    "end": "2026-09-08",
    "venue": "大埔文娛中心 (黑盒劇場)",
    "url": "https://www.lcsd.gov.hk/clpss/tc/search/culture/DetailForm.do?id=185878",
+   "source": "康文署",
+   "image": "",
+   "featured": false
+  },
+  {
+   "id": "986fc43c90dc",
+   "title": "飛越樂谷30載演唱會",
+   "category": "演唱會",
+   "start": "2026-09-08",
+   "end": "2026-09-08",
+   "venue": "牛池灣文娛中心 (劇院)",
+   "url": "https://www.lcsd.gov.hk/clpss/tc/search/culture/DetailForm.do?id=185788",
    "source": "康文署",
    "image": "",
    "featured": false
@@ -7021,6 +6949,18 @@
    "end": "2026-09-30",
    "venue": "荃灣大會堂 (文娛廳)",
    "url": "https://www.lcsd.gov.hk/clpss/tc/search/culture/DetailForm.do?id=186009",
+   "source": "康文署",
+   "image": "",
+   "featured": false
+  },
+  {
+   "id": "0001d86a9a9e",
+   "title": "香港大會堂場地伙伴計劃：《現代豪俠「轉」》",
+   "category": "休閒",
+   "start": "2026-09-30",
+   "end": "2026-10-04",
+   "venue": "香港大會堂 (劇院)",
+   "url": "https://www.hkrep.com/tc/Season-Programme/Main-Stage-Productions/Modern-Wuxia-To-Turn-To-Be.html",
    "source": "康文署",
    "image": "",
    "featured": false
