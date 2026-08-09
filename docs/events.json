@@ -86,30 +86,6 @@
    "featured": true
   },
   {
-   "id": "22cb415b7e49",
-   "title": "「港藝新星」展覽 第四期",
-   "category": "展覽",
-   "start": "2026-02-07",
-   "end": "2026-08-09",
-   "venue": "饒宗頤文化館 藝術館 展室三",
-   "url": "https://timable.com/zh/event/%E6%B8%AF%E8%97%9D%E6%96%B0%E6%98%9F-%E5%B1%95%E8%A6%BD%E7%AC%AC%E5%9B%9B%E6%9C%9F",
-   "source": "Timable",
-   "image": "https://static.timable.com/image_f0d60d44-aad5-4413-8d63-c494e71e6df6-456x456.webp",
-   "featured": false
-  },
-  {
-   "id": "c0cb3b45c7f9",
-   "title": "李昢： 一九九八年至今的創作",
-   "category": "大型盛事",
-   "start": "2026-03-14",
-   "end": "2026-08-09",
-   "venue": "M+",
-   "url": "https://www.mplus.org.hk/tc/exhibitions/lee-bul-from-1998-to-now/",
-   "source": "盛事之都",
-   "image": "https://www.brandhk.gov.hk/images/default-source/about-brandhk/387-lee-bul-social_1600x900_isd.jpg",
-   "featured": true
-  },
-  {
    "id": "e5b8354e82ef",
    "title": "琳瑯──紐約大都會藝術博物館世界珠寶珍藏",
    "category": "大型盛事",
@@ -818,18 +794,6 @@
    "featured": false
   },
   {
-   "id": "bfa0d3012d85",
-   "title": "Alex Huda \"We Are the Things Monsters Love\" 個展",
-   "category": "展覽",
-   "start": "2026-08-01",
-   "end": "2026-08-09",
-   "venue": "WURE AREA",
-   "url": "https://timable.com/zh/event/WeAretheThingsMonstersLove",
-   "source": "Timable",
-   "image": "https://static.timable.com/image_2af11cca-7b0f-41e7-ae06-295b9d211501-480x676.webp",
-   "featured": false
-  },
-  {
    "id": "b494bfee9949",
    "title": "《民族音樂》展覽",
    "category": "展覽",
@@ -959,18 +923,6 @@
    "url": "https://www.facebook.com/herhishouse",
    "source": "康文署",
    "image": "",
-   "featured": false
-  },
-  {
-   "id": "b39446dfcea8",
-   "title": "香港高級視聽展 2026",
-   "category": "休閒",
-   "start": "2026-08-07",
-   "end": "2026-08-09",
-   "venue": "香港會議展覽中心 展覽廳3FG",
-   "url": "https://timable.com/zh/event/%E9%A6%99%E6%B8%AF%E9%AB%98%E7%B4%9A%E8%A6%96%E8%81%BD%E5%B1%952026",
-   "source": "Timable",
-   "image": "https://static.timable.com/image_af06bb70-1d2e-40ba-8afc-73143aa8e796-425x425.webp",
    "featured": false
   },
   {
@@ -7211,6 +7163,18 @@
    "url": "https://www.lcsd.gov.hk/tc/ticket/index.html",
    "source": "康文署",
    "image": "",
+   "featured": false
+  },
+  {
+   "id": "229de21166cb",
+   "title": "Gareth.T 湯令山 紅館演唱會 2027",
+   "category": "演唱會",
+   "start": "2027-01-01",
+   "end": "2027-01-31",
+   "venue": "香港體育館 (紅館)",
+   "url": "https://timable.com/zh/event/Gareth-T%E6%B9%AF%E4%BB%A4%E5%B1%B1%E7%B4%85%E9%A4%A8%E6%BC%94%E5%94%B1%E6%9C%832027",
+   "source": "Timable",
+   "image": "https://static.timable.com/image_47c1223d-ceb5-4f80-a742-62cd2224baab-480x600.webp",
    "featured": false
   },
   {
