@@ -59,22 +59,14 @@
   },
   {
    "rank": 8,
-   "title": "請允許我們身後財產自主：當親情不再可靠， 如何把財富留給真正值得的人",
-   "author": "高愛倫",
-   "price": "NT$363",
-   "url": "https://www.books.com.tw/products/0011056126",
-   "image": "https://im1.book.com.tw/image/getImage?i=https://www.books.com.tw/img/001/105/61/0011056126.jpg&v=6a3cafbfk&w=150&h=150"
+   "title": "攔截胰臟癌：破解癌王無聲警報，及早攔截沉默殺手",
+   "author": "章明珠",
+   "price": "NT$379",
+   "url": "https://www.books.com.tw/products/0011058855",
+   "image": "https://im2.book.com.tw/image/getImage?i=https://www.books.com.tw/img/001/105/88/0011058855.jpg&v=6a620539k&w=150&h=150"
   },
   {
    "rank": 9,
-   "title": "馬斯克寶典【博客來獨家贈送｜馬斯克「極限思維」火箭升空桌面立牌】：從顛覆矽谷到打造太空帝國，讀懂全球",
-   "author": "艾瑞克．喬根森",
-   "price": "NT$410",
-   "url": "https://www.books.com.tw/products/0011054683",
-   "image": "https://im2.book.com.tw/image/getImage?i=https://www.books.com.tw/img/001/105/46/0011054683.jpg&v=6a62d808k&w=150&h=150"
-  },
-  {
-   "rank": 10,
    "title": "高飛人生：從華航基層到董事長，46年台灣航空實戰經驗，淬鍊出的經營智慧、決策視野與人生格局",
    "author": "孫洪祥",
    "price": "NT$355",
@@ -82,7 +74,23 @@
    "image": "https://im1.book.com.tw/image/getImage?i=https://www.books.com.tw/img/001/105/64/0011056438.jpg&v=6a3f52fek&w=150&h=150"
   },
   {
+   "rank": 10,
+   "title": "請允許我們身後財產自主：當親情不再可靠， 如何把財富留給真正值得的人",
+   "author": "高愛倫",
+   "price": "NT$363",
+   "url": "https://www.books.com.tw/products/0011056126",
+   "image": "https://im1.book.com.tw/image/getImage?i=https://www.books.com.tw/img/001/105/61/0011056126.jpg&v=6a3cafbfk&w=150&h=150"
+  },
+  {
    "rank": 11,
+   "title": "馬斯克寶典【博客來獨家贈送｜馬斯克「極限思維」火箭升空桌面立牌】：從顛覆矽谷到打造太空帝國，讀懂全球",
+   "author": "艾瑞克．喬根森",
+   "price": "NT$410",
+   "url": "https://www.books.com.tw/products/0011054683",
+   "image": "https://im2.book.com.tw/image/getImage?i=https://www.books.com.tw/img/001/105/46/0011054683.jpg&v=6a62d808k&w=150&h=150"
+  },
+  {
+   "rank": 12,
    "title": "Gemini 投資理財全攻略：小資族看過來！完全零門檻的 AI 智慧選股×財報分析×資金管理",
    "author": "施威銘研究室",
    "price": "NT$473",
@@ -90,20 +98,12 @@
    "image": "https://im2.book.com.tw/image/getImage?i=https://www.books.com.tw/img/001/105/58/0011055845.jpg&v=6a38fd21k&w=150&h=150"
   },
   {
-   "rank": 12,
+   "rank": 13,
    "title": "財富階梯：（《持續買進》作者新作）資料科學家為你打造，適用人生各階段的致富策略",
    "author": "尼克．馬朱利",
    "price": "NT$331",
    "url": "https://www.books.com.tw/products/0011050390",
    "image": "https://im1.book.com.tw/image/getImage?i=https://www.books.com.tw/img/001/105/03/0011050390.jpg&v=69e05d39k&w=150&h=150"
-  },
-  {
-   "rank": 13,
-   "title": "攔截胰臟癌：破解癌王無聲警報，及早攔截沉默殺手",
-   "author": "章明珠",
-   "price": "NT$379",
-   "url": "https://www.books.com.tw/products/0011058855",
-   "image": "https://im2.book.com.tw/image/getImage?i=https://www.books.com.tw/img/001/105/88/0011058855.jpg&v=6a620539k&w=150&h=150"
   },
   {
    "rank": 14,
@@ -139,19 +139,19 @@
   },
   {
    "rank": 18,
-   "title": "在看板對面，聽見人生：方念華",
-   "author": "方念華",
-   "price": "NT$331",
-   "url": "https://www.books.com.tw/products/0011056991",
-   "image": "https://im2.book.com.tw/image/getImage?i=https://www.books.com.tw/img/001/105/69/0011056991.jpg&v=6a4c8a8ck&w=150&h=150"
-  },
-  {
-   "rank": 19,
    "title": "嫌疑犯X的獻身【15週年紀念全新譯本】",
    "author": "東野圭吾",
    "price": "NT$331",
    "url": "https://www.books.com.tw/products/0010864587",
    "image": "https://im2.book.com.tw/image/getImage?i=https://www.books.com.tw/img/001/086/45/0010864587.jpg&v=5f0d89d0k&w=150&h=150"
+  },
+  {
+   "rank": 19,
+   "title": "在看板對面，聽見人生：方念華",
+   "author": "方念華",
+   "price": "NT$331",
+   "url": "https://www.books.com.tw/products/0011056991",
+   "image": "https://im2.book.com.tw/image/getImage?i=https://www.books.com.tw/img/001/105/69/0011056991.jpg&v=6a4c8a8ck&w=150&h=150"
   },
   {
    "rank": 20,
