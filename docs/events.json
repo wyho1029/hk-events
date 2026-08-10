@@ -762,7 +762,7 @@
    "title": "《貓 Cats》音樂劇 世界巡演 2026 香港站",
    "category": "表演藝術",
    "start": "2026-08-06",
-   "end": "2026-09-06",
+   "end": "2026-09-13",
    "venue": "西九文化區 戲曲中心 大劇院",
    "url": "https://timable.com/zh/event/%E8%B2%93Cats-%E9%9F%B3%E6%A8%82%E5%8A%87%E4%B8%96%E7%95%8C%E5%B7%A1%E6%BC%942026%E9%A6%99%E6%B8%AF%E7%AB%99",
    "source": "Timable",
@@ -1544,18 +1544,6 @@
    "featured": false
   },
   {
-   "id": "9a2db0e0f526",
-   "title": "《誘人飯聚》上映週",
-   "category": "休閒",
-   "start": "2026-08-13",
-   "end": "2026-08-19",
-   "venue": "全港各大院線",
-   "url": "https://timable.com/zh/event/%E8%AA%98%E4%BA%BA%E9%A3%AF%E8%81%9A-%E4%B8%8A%E6%98%A0%E9%80%B1",
-   "source": "Timable",
-   "image": "https://static.timable.com/image_7c4361bd-b732-4235-9bb4-9cd209a25694-480x676.webp",
-   "featured": false
-  },
-  {
    "id": "21d1dbece89d",
    "title": "力聚唱家班演唱會",
    "category": "演唱會",
@@ -1844,6 +1832,18 @@
    "featured": false
   },
   {
+   "id": "cdfbaba07070",
+   "title": "CARD FEST 2026 ＠中港城",
+   "category": "休閒",
+   "start": "2026-08-15",
+   "end": "2026-08-16",
+   "venue": "中港城",
+   "url": "https://timable.com/zh/event/%E5%B9%B4%E5%BA%A6%E5%8D%A1%E7%89%8C%E7%9B%9B%E4%BA%8B-CARDFEST-2026-%E4%B8%AD%E6%B8%AF%E5%9F%8E",
+   "source": "Timable",
+   "image": "https://static.timable.com/image_2705f4f1-c70f-4434-9aef-15d52754be18-480x611.webp",
+   "featured": false
+  },
+  {
    "id": "02c0e9ababa4",
    "title": "《山水悠悠廿載情》粵劇折子戲",
    "category": "表演藝術",
@@ -1865,6 +1865,18 @@
    "url": "https://www.lcsd.gov.hk/clpss/tc/search/culture/DetailForm.do?id=184615",
    "source": "康文署",
    "image": "",
+   "featured": false
+  },
+  {
+   "id": "e9c9a0b571da",
+   "title": "「泰Fun Festival」@黃埔天地",
+   "category": "休閒",
+   "start": "2026-08-15",
+   "end": "2026-08-23",
+   "venue": "黃埔新天地 聚寶坊(11期) 地庫KidZone",
+   "url": "https://timable.com/zh/event/%E6%B3%B0FunFestival--%E9%BB%83%E5%9F%94%E5%A4%A9%E5%9C%B0",
+   "source": "Timable",
+   "image": "https://static.timable.com/image_af0f19a8-a066-4494-b601-ae51e7c2f57f-480x720.webp",
    "featured": false
   },
   {
@@ -2816,18 +2828,6 @@
    "featured": false
   },
   {
-   "id": "424212df9e31",
-   "title": "塔門燕鷗節 2026",
-   "category": "休閒",
-   "start": "2026-08-22",
-   "end": "2026-08-23",
-   "venue": "塔門漁民新村",
-   "url": "https://timable.com/zh/event/%E5%A1%94%E9%96%80%E7%87%95%E9%B7%97%E7%AF%802026",
-   "source": "Timable",
-   "image": "https://static.timable.com/image_ea72e2a2-0486-4ee8-bac0-b50e0b3dc509-480x480.webp",
-   "featured": false
-  },
-  {
    "id": "5ecb4c695070",
    "title": "好友粵曲會知音",
    "category": "表演藝術",
@@ -3284,18 +3284,6 @@
    "featured": false
   },
   {
-   "id": "e25a5ee1fe16",
-   "title": "「煙巒涉趣」跨媒介群展",
-   "category": "休閒",
-   "start": "2026-08-27",
-   "end": "2026-10-03",
-   "venue": "Ora-Ora",
-   "url": "https://timable.com/zh/event/%E7%85%99%E5%B7%92%E6%B6%89%E8%B6%A3-%E8%B7%A8%E5%AA%92%E4%BB%8B%E7%BE%A4%E5%B1%95",
-   "source": "Timable",
-   "image": "https://static.timable.com/image_fe285320-4727-4f6b-bff5-dd481c28055d-480x640.webp",
-   "featured": false
-  },
-  {
    "id": "32692da4bf35",
    "title": "兒童夏日天文班 : 地球轉轉轉",
    "category": "親子",
@@ -3416,6 +3404,18 @@
    "featured": false
   },
   {
+   "id": "c5d42737d0d7",
+   "title": "\"Music Wave By The Harbour\" 海景音樂會 @wwwtc mall",
+   "category": "表演藝術",
+   "start": "2026-08-29",
+   "end": "2026-09-06",
+   "venue": "wwwtc mall L5 維港空中花園",
+   "url": "https://timable.com/zh/event/MusicWaveByTheHarbour-%E6%B5%B7%E6%99%AF%E9%9F%B3%E6%A8%82%E6%9C%83-wwwtcmall",
+   "source": "Timable",
+   "image": "https://static.timable.com/image_84ee6859-b47d-468e-9c24-039906f989e0-480x600.webp",
+   "featured": false
+  },
+  {
    "id": "ae14de056cb5",
    "title": "2026弦美音樂學生音樂會",
    "category": "表演藝術",
@@ -3437,18 +3437,6 @@
    "url": "https://www.facebook.com/profile.php?id=100084942226359",
    "source": "康文署",
    "image": "",
-   "featured": false
-  },
-  {
-   "id": "963d9c9dea54",
-   "title": "《太空幻遊》音樂劇場 @香港城市室樂團",
-   "category": "表演藝術",
-   "start": "2026-08-29",
-   "end": "2026-08-30",
-   "venue": "荃灣大會堂 演奏廳",
-   "url": "https://timable.com/zh/event/%E5%A4%AA%E7%A9%BA%E5%B9%BB%E9%81%8A-%E9%9F%B3%E6%A8%82%E5%8A%87%E5%A0%B4-%E9%A6%99%E6%B8%AF%E5%9F%8E%E5%B8%82%E5%AE%A4%E6%A8%82%E5%9C%98",
-   "source": "Timable",
-   "image": "https://static.timable.com/image_b4eecce3-6b30-4c0d-ad75-3c5c4e49e0c1-300x400.webp",
    "featured": false
   },
   {
@@ -5864,18 +5852,6 @@
    "featured": false
   },
   {
-   "id": "9458bb0805e6",
-   "title": "中秋「怪奇料理」鍾情局 嘉年華市集 @AIRSIDE",
-   "category": "市集",
-   "start": "2026-09-24",
-   "end": "2026-10-04",
-   "venue": "AIRSIDE 3-F & 4-F",
-   "url": "https://timable.com/zh/event/%E4%B8%AD%E7%A7%8B-%E6%80%AA%E5%A5%87%E6%96%99%E7%90%86-%E9%8D%BE%E6%83%85%E5%B1%80%E5%98%89%E5%B9%B4%E8%8F%AF%E5%B8%82%E9%9B%86-AIRSIDE",
-   "source": "Timable",
-   "image": "https://static.timable.com/image_fd2ee84c-fedb-40e4-917f-36713f6de826-480x600.webp",
-   "featured": false
-  },
-  {
    "id": "5c0244db59e6",
    "title": "亞藝無疆2026開幕節目︰王雙駿 × 恭碩良 & Friends - 聯同 Uuhai（蒙古）、KARDI（韓國）及 KIKI（泰國）《三角演義》音樂會",
    "category": "表演藝術",
@@ -6656,6 +6632,18 @@
    "featured": false
   },
   {
+   "id": "5fec3971d040",
+   "title": "PENTAGON \"<101010>\" 10週年巡迴演唱會 2026 香港站",
+   "category": "演唱會",
+   "start": "2026-11-01",
+   "end": "2026-11-01",
+   "venue": "地點待定(香港)",
+   "url": "https://timable.com/zh/event/PENTAGON--101010--10%E9%80%B1%E5%B9%B4%E5%B7%A1%E8%BF%B4%E6%BC%94%E5%94%B1%E6%9C%832026%E9%A6%99%E6%B8%AF%E7%AB%99",
+   "source": "Timable",
+   "image": "https://static.timable.com/image_9af42ba7-4950-4524-8666-7a996ec6155a-480x600.webp",
+   "featured": false
+  },
+  {
    "id": "900caff9b5dd",
    "title": "嘉貝蒂與科帕欽卡雅大提琴及小提琴演奏會",
    "category": "表演藝術",
@@ -6692,6 +6680,18 @@
    "featured": false
   },
   {
+   "id": "040df647e22d",
+   "title": "梶浦由記 \"Yuki Kajiura LIVE vol.#22 ~precious pieces~ —SPECIAL SETLIST—\" 巡迴演唱會 2026 香港站",
+   "category": "演唱會",
+   "start": "2026-11-15",
+   "end": "2026-11-15",
+   "venue": "地點待定(香港)",
+   "url": "https://timable.com/zh/event/%E6%A2%B6%E6%B5%A6%E7%94%B1%E8%A8%98-YukiKajiuraLIVEvol--22-preciouspieces--SPECIALSETLIST--%E5%B7%A1%E8%BF%B4%E6%BC%94%E5%94%B1%E6%9C%832026%E9%A6%99%E6%B8%AF%E7%AB%99",
+   "source": "Timable",
+   "image": "https://static.timable.com/image_677f2c9c-41b2-4276-a36d-6599cf29e22a-480x600.webp",
+   "featured": false
+  },
+  {
    "id": "7618ebc56015",
    "title": "2026-27年度「十八有藝──西貢社區演藝計劃」《琴聲貢聚》口琴計劃──口琴進階班(上期)：兒童班",
    "category": "表演藝術",
@@ -6725,6 +6725,18 @@
    "url": "https://www.facebook.com/hkharmonica",
    "source": "康文署",
    "image": "",
+   "featured": false
+  },
+  {
+   "id": "670e28cdede9",
+   "title": "BLU-SWING \"Across the Blue\" 巡迴演唱會 2026 香港站",
+   "category": "演唱會",
+   "start": "2026-11-23",
+   "end": "2026-11-23",
+   "venue": "茶豆 Chamame Live House",
+   "url": "https://timable.com/zh/event/BLU-SWING-AcrosstheBlue-%E4%B8%96%E7%95%8C%E5%B7%A1%E8%BF%B4%E6%BC%94%E5%94%B1%E6%9C%832026",
+   "source": "Timable",
+   "image": "https://static.timable.com/image_a9d80bba-b45a-4dd2-b47a-1a1b9ba30659-480x600.webp",
    "featured": false
   },
   {
@@ -6773,18 +6785,6 @@
    "url": "https://www.lcsd.gov.hk/CE/CulturalService/Programme/tc/music/programs_1949.html",
    "source": "康文署",
    "image": "",
-   "featured": false
-  },
-  {
-   "id": "9cf99de4ec1f",
-   "title": "香港亞太區青年樂隊大賽 Asia Pacific Youth Music Festival 2026",
-   "category": "休閒",
-   "start": "2026-12-12",
-   "end": "2026-12-13",
-   "venue": "香港文化中心 露天廣場 C區",
-   "url": "https://timable.com/zh/event/%E9%A6%99%E6%B8%AF%E4%BA%9E%E5%A4%AA%E5%8D%80%E9%9D%92%E5%B9%B4%E6%A8%82%E9%9A%8A%E5%A4%A7%E8%B3%BDAsiaPacificYouthMusicFestival2026",
-   "source": "Timable",
-   "image": "https://static.timable.com/image_bad94a53-aa51-488a-9d96-65537f5b8cd9-480x600.webp",
    "featured": false
   },
   {
