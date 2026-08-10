@@ -1544,6 +1544,18 @@
    "featured": false
   },
   {
+   "id": "dc659364deec",
+   "title": "「生命中之輕 Lightness of Being」展覽",
+   "category": "展覽",
+   "start": "2026-08-13",
+   "end": "2026-09-12",
+   "venue": "Contemporary By Angela Li 畫廊",
+   "url": "https://timable.com/zh/event/%E7%94%9F%E5%91%BD%E4%B8%AD%E4%B9%8B%E8%BC%95LightnessofBeing-%E5%B1%95%E8%A6%BD",
+   "source": "Timable",
+   "image": "https://static.timable.com/image_06684b95-7511-408a-a376-b7c48c7d4a9e-480x600.webp",
+   "featured": false
+  },
+  {
    "id": "21d1dbece89d",
    "title": "力聚唱家班演唱會",
    "category": "演唱會",
@@ -1865,18 +1877,6 @@
    "url": "https://www.lcsd.gov.hk/clpss/tc/search/culture/DetailForm.do?id=184615",
    "source": "康文署",
    "image": "",
-   "featured": false
-  },
-  {
-   "id": "e9c9a0b571da",
-   "title": "「泰Fun Festival」@黃埔天地",
-   "category": "休閒",
-   "start": "2026-08-15",
-   "end": "2026-08-23",
-   "venue": "黃埔新天地 聚寶坊(11期) 地庫KidZone",
-   "url": "https://timable.com/zh/event/%E6%B3%B0FunFestival--%E9%BB%83%E5%9F%94%E5%A4%A9%E5%9C%B0",
-   "source": "Timable",
-   "image": "https://static.timable.com/image_af0f19a8-a066-4494-b601-ae51e7c2f57f-480x720.webp",
    "featured": false
   },
   {
@@ -2372,6 +2372,18 @@
    "featured": false
   },
   {
+   "id": "6405fcc397a1",
+   "title": "「循環榨汁機 The Cycle Juicer」展覽",
+   "category": "展覽",
+   "start": "2026-08-17",
+   "end": "2026-08-17",
+   "venue": "Major Pop Art",
+   "url": "https://timable.com/zh/event/%E5%BE%AA%E7%92%B0%E6%A6%A8%E6%B1%81%E6%A9%9FTheCycleJuicer-",
+   "source": "Timable",
+   "image": "https://static.timable.com/image_50c80288-22db-48bd-a52d-fe438966fe48-480x530.webp",
+   "featured": false
+  },
+  {
    "id": "b85e43736e2b",
    "title": "玉瑤金曲會知音",
    "category": "表演藝術",
@@ -2501,6 +2513,18 @@
    "url": "https://hksl.org/zh-hant/concert/good-music-this-lunch-18-aug/",
    "source": "康文署",
    "image": "",
+   "featured": false
+  },
+  {
+   "id": "bb28faaf91fc",
+   "title": "“HIGH5 @ Central Market” 夏日慶典 @中環街市",
+   "category": "休閒",
+   "start": "2026-08-19",
+   "end": "2026-08-23",
+   "venue": "中環街市",
+   "url": "https://timable.com/zh/event/HIGH5-CentralMarket-%E5%A4%8F%E6%97%A5%E6%85%B6%E5%85%B8-%E4%B8%AD%E7%92%B0%E8%A1%97%E5%B8%82",
+   "source": "Timable",
+   "image": "https://static.timable.com/image_e771c33b-4e09-4ebf-b7b6-1ce1e39728fb-480x679.webp",
    "featured": false
   },
   {
@@ -3401,18 +3425,6 @@
    "url": "https://www.hkphil.org/tc/concert/swire-denim-series-from-gladiators-to-valkyries",
    "source": "康文署",
    "image": "",
-   "featured": false
-  },
-  {
-   "id": "c5d42737d0d7",
-   "title": "\"Music Wave By The Harbour\" 海景音樂會 @wwwtc mall",
-   "category": "表演藝術",
-   "start": "2026-08-29",
-   "end": "2026-09-06",
-   "venue": "wwwtc mall L5 維港空中花園",
-   "url": "https://timable.com/zh/event/MusicWaveByTheHarbour-%E6%B5%B7%E6%99%AF%E9%9F%B3%E6%A8%82%E6%9C%83-wwwtcmall",
-   "source": "Timable",
-   "image": "https://static.timable.com/image_84ee6859-b47d-468e-9c24-039906f989e0-480x600.webp",
    "featured": false
   },
   {
@@ -4685,6 +4697,18 @@
    "url": "https://instagram.com/owindhk/cybersymphonicwinds; https://facebook.com/owindhk/cybersymphonicwinds",
    "source": "康文署",
    "image": "",
+   "featured": false
+  },
+  {
+   "id": "66e792c101ce",
+   "title": "Resonance 音樂會",
+   "category": "表演藝術",
+   "start": "2026-09-12",
+   "end": "2026-09-12",
+   "venue": "藝穗會奶庫",
+   "url": "https://timable.com/zh/event/Resonance%E9%9F%B3%E6%A8%82%E6%9C%83",
+   "source": "Timable",
+   "image": "https://static.timable.com/image_f0635a63-c331-4266-8d44-5e47f86b36b0-480x600.webp",
    "featured": false
   },
   {
@@ -6493,7 +6517,7 @@
    "category": "演唱會",
    "start": "2026-10-02",
    "end": "2026-10-02",
-   "venue": "亞洲國際博覽館",
+   "venue": "亞洲國際博覽館 2號館",
    "url": "https://timable.com/zh/event/TOGENASHITOGEARI%E9%A6%99%E6%B8%AF%E6%BC%94%E5%94%B1%E6%9C%832026",
    "source": "Timable",
    "image": "https://static.timable.com/image_563e0588-c886-4fdf-b464-2cd6004a5d54-480x600.webp",
@@ -6632,18 +6656,6 @@
    "featured": false
   },
   {
-   "id": "5fec3971d040",
-   "title": "PENTAGON \"<101010>\" 10週年巡迴演唱會 2026 香港站",
-   "category": "演唱會",
-   "start": "2026-11-01",
-   "end": "2026-11-01",
-   "venue": "地點待定(香港)",
-   "url": "https://timable.com/zh/event/PENTAGON--101010--10%E9%80%B1%E5%B9%B4%E5%B7%A1%E8%BF%B4%E6%BC%94%E5%94%B1%E6%9C%832026%E9%A6%99%E6%B8%AF%E7%AB%99",
-   "source": "Timable",
-   "image": "https://static.timable.com/image_9af42ba7-4950-4524-8666-7a996ec6155a-480x600.webp",
-   "featured": false
-  },
-  {
    "id": "900caff9b5dd",
    "title": "嘉貝蒂與科帕欽卡雅大提琴及小提琴演奏會",
    "category": "表演藝術",
@@ -6677,18 +6689,6 @@
    "url": "https://www.lcsd.gov.hk/CE/CulturalService/Programme/tc/music/programs_1987.html",
    "source": "康文署",
    "image": "",
-   "featured": false
-  },
-  {
-   "id": "040df647e22d",
-   "title": "梶浦由記 \"Yuki Kajiura LIVE vol.#22 ~precious pieces~ —SPECIAL SETLIST—\" 巡迴演唱會 2026 香港站",
-   "category": "演唱會",
-   "start": "2026-11-15",
-   "end": "2026-11-15",
-   "venue": "地點待定(香港)",
-   "url": "https://timable.com/zh/event/%E6%A2%B6%E6%B5%A6%E7%94%B1%E8%A8%98-YukiKajiuraLIVEvol--22-preciouspieces--SPECIALSETLIST--%E5%B7%A1%E8%BF%B4%E6%BC%94%E5%94%B1%E6%9C%832026%E9%A6%99%E6%B8%AF%E7%AB%99",
-   "source": "Timable",
-   "image": "https://static.timable.com/image_677f2c9c-41b2-4276-a36d-6599cf29e22a-480x600.webp",
    "featured": false
   },
   {
