@@ -1,5 +1,5 @@
 {
- "updated": "2026-08-10",
+ "updated": "2026-08-11",
  "events": [
   {
    "id": "e13429ad674f",
@@ -806,18 +806,6 @@
    "featured": false
   },
   {
-   "id": "ecd5e887e612",
-   "title": "桃李春風（第二回）楊善深弟子作品展",
-   "category": "休閒",
-   "start": "2026-08-07",
-   "end": "2026-08-10",
-   "venue": "香港大會堂 (展覽館)",
-   "url": "https://www.lcsd.gov.hk/tc/ticket/index.html",
-   "source": "康文署",
-   "image": "",
-   "featured": false
-  },
-  {
    "id": "5e7beda10279",
    "title": "《沙田第一號文化洞窟》音樂會",
    "category": "表演藝術",
@@ -841,30 +829,6 @@
    "image": "https://wmoov.com/assets/poster/f2349fc5f5823731b50e29172643a0c5.jpg",
    "rating": "6.6",
    "shows": 11,
-   "featured": false
-  },
-  {
-   "id": "70d062d3c37b",
-   "title": "《定邦粵藝匯知音》粵曲演唱會",
-   "category": "表演藝術",
-   "start": "2026-08-10",
-   "end": "2026-08-10",
-   "venue": "高山劇場 (新翼演藝廳)",
-   "url": "https://www.lcsd.gov.hk/clpss/tc/search/culture/DetailForm.do?id=184628",
-   "source": "康文署",
-   "image": "",
-   "featured": false
-  },
-  {
-   "id": "360406adb193",
-   "title": "《承傳經典聚群英》粵劇折子戲",
-   "category": "表演藝術",
-   "start": "2026-08-10",
-   "end": "2026-08-10",
-   "venue": "高山劇場 (劇院)",
-   "url": "https://www.lcsd.gov.hk/clpss/tc/search/culture/DetailForm.do?id=185959",
-   "source": "康文署",
-   "image": "",
    "featured": false
   },
   {
@@ -966,18 +930,6 @@
    "featured": false
   },
   {
-   "id": "3a309528a7cb",
-   "title": "喜燕歌舞表演音樂會",
-   "category": "表演藝術",
-   "start": "2026-08-10",
-   "end": "2026-08-10",
-   "venue": "北區大會堂 (演奏廳)",
-   "url": "https://www.lcsd.gov.hk/clpss/tc/search/culture/DetailForm.do?id=184578",
-   "source": "康文署",
-   "image": "",
-   "featured": false
-  },
-  {
    "id": "7da2954a3b6b",
    "title": "嚇房",
    "category": "電影",
@@ -1006,18 +958,6 @@
    "featured": false
   },
   {
-   "id": "87403c8a1dc5",
-   "title": "奇妙舞蹈世界2026",
-   "category": "表演藝術",
-   "start": "2026-08-10",
-   "end": "2026-08-10",
-   "venue": "香港大會堂 (劇院)",
-   "url": "https://www.lcsd.gov.hk/tc/ticket/index.html",
-   "source": "康文署",
-   "image": "",
-   "featured": false
-  },
-  {
    "id": "dee7be3daf19",
    "title": "奧德賽",
    "category": "電影",
@@ -1029,18 +969,6 @@
    "image": "https://wmoov.com/assets/poster/deabaea17af602310af9633d8dea4615.jpg",
    "rating": "8.8",
    "shows": 119,
-   "featured": false
-  },
-  {
-   "id": "5bf8cfe8ab2d",
-   "title": "定邦粵藝會知會",
-   "category": "休閒",
-   "start": "2026-08-10",
-   "end": "2026-08-10",
-   "venue": "葵青劇院 (演藝廳)",
-   "url": "https://www.lcsd.gov.hk/clpss/tc/search/culture/DetailForm.do?id=184700",
-   "source": "康文署",
-   "image": "",
    "featured": false
   },
   {
@@ -1265,18 +1193,6 @@
    "image": "https://wmoov.com/assets/poster/ce424cdcf50536b830ccf2bf4584a521.jpg",
    "rating": "6.8",
    "shows": 7,
-   "featured": false
-  },
-  {
-   "id": "9d19e1f2fef4",
-   "title": "聲星金曲同樂日",
-   "category": "表演藝術",
-   "start": "2026-08-10",
-   "end": "2026-08-10",
-   "venue": "荃灣大會堂 (文娛廳)",
-   "url": "https://www.lcsd.gov.hk/clpss/tc/search/culture/DetailForm.do?id=184725",
-   "source": "康文署",
-   "image": "",
    "featured": false
   },
   {
@@ -2865,7 +2781,7 @@
   },
   {
    "id": "fa645b37122d",
-   "title": "油彩新境：文化的交織 2026第十二屆亞洲傑出少兒油畫展",
+   "title": "油彩新境‧文化的交織 二O二六年第十二屆亞洲傑出青少年兒童油畫展",
    "category": "展覽",
    "start": "2026-08-22",
    "end": "2026-08-23",
@@ -3380,6 +3296,18 @@
    "featured": false
   },
   {
+   "id": "47c6bb564fd4",
+   "title": "筆尋嘗畫會慶祝香港回歸29周年《筆德意》第八屆作品展",
+   "category": "休閒",
+   "start": "2026-08-28",
+   "end": "2026-08-31",
+   "venue": "香港大會堂 (展覽廳)",
+   "url": "https://www.lcsd.gov.hk/tc/ticket/index.html",
+   "source": "康文署",
+   "image": "",
+   "featured": false
+  },
+  {
    "id": "8007d430c0f4",
    "title": "粵劇《狀王宋世傑》",
    "category": "表演藝術",
@@ -3435,6 +3363,18 @@
    "end": "2026-08-29",
    "venue": "屯門大會堂 (文娛廳)",
    "url": "https://www.lcsd.gov.hk/tc/ticket/index.html",
+   "source": "康文署",
+   "image": "",
+   "featured": false
+  },
+  {
+   "id": "c0c9fb31f8c8",
+   "title": "2026社區文化大使: 香港夏威夷小結他總會「Ukulele共融樂章」社區巡演「Ukulele共融音樂會」",
+   "category": "表演藝術",
+   "start": "2026-08-29",
+   "end": "2026-08-29",
+   "venue": "大埔區內場地",
+   "url": "https://www.facebook.com/profile.php?id=61579457733803",
    "source": "康文署",
    "image": "",
    "featured": false
@@ -4628,6 +4568,18 @@
    "featured": false
   },
   {
+   "id": "8f51a01a7a2e",
+   "title": "似是故人來經典流行曲及民歌共賞晚會",
+   "category": "休閒",
+   "start": "2026-09-11",
+   "end": "2026-09-11",
+   "venue": "上環文娛中心 (劇院)",
+   "url": "https://www.lcsd.gov.hk/clpss/tc/search/culture/DetailForm.do?id=185872",
+   "source": "康文署",
+   "image": "",
+   "featured": false
+  },
+  {
    "id": "53f2218550f4",
    "title": "北德鳥：德國北部巴洛克小提琴、 古提琴及古鍵琴三重奏音樂",
    "category": "表演藝術",
@@ -4694,7 +4646,7 @@
    "start": "2026-09-11",
    "end": "2026-09-11",
    "venue": "牛池灣文娛中心 (劇院)",
-   "url": "https://instagram.com/owindhk/cybersymphonicwinds; https://facebook.com/owindhk/cybersymphonicwinds",
+   "url": "https://www.instagram.com/owindhk/",
    "source": "康文署",
    "image": "",
    "featured": false
@@ -5348,6 +5300,30 @@
    "featured": false
   },
   {
+   "id": "d0d1d91c2e61",
+   "title": "2026社區文化大使: 香港夏威夷小結他總會「Ukulele共融樂章」社區巡演「Ukulele共融音樂會」",
+   "category": "表演藝術",
+   "start": "2026-09-19",
+   "end": "2026-09-19",
+   "venue": "沙田區內場地",
+   "url": "https://www.facebook.com/profile.php?id=61579457733803",
+   "source": "康文署",
+   "image": "",
+   "featured": false
+  },
+  {
+   "id": "e552fe5787cd",
+   "title": "SSwagger O Day 2026 GenZ嘉年華",
+   "category": "休閒",
+   "start": "2026-09-19",
+   "end": "2026-09-20",
+   "venue": "啟德體育園 (東營)",
+   "url": "https://timable.com/zh/event/SSwaggerODay-2026GenZ%E5%98%89%E5%B9%B4%E8%8F%AF",
+   "source": "Timable",
+   "image": "https://static.timable.com/image_bbfa8fb4-03f9-48d9-8330-a9545fc8736c-480x647.webp",
+   "featured": false
+  },
+  {
    "id": "647e81b924ab",
    "title": "《眾樂樂戲曲分享晚會》粵曲演唱會",
    "category": "表演藝術",
@@ -5984,6 +5960,18 @@
    "featured": false
   },
   {
+   "id": "0e41393c1bc0",
+   "title": "妙韻舞動",
+   "category": "休閒",
+   "start": "2026-09-25",
+   "end": "2026-09-25",
+   "venue": "北區大會堂 (演奏廳)",
+   "url": "https://www.lcsd.gov.hk/clpss/tc/search/culture/DetailForm.do?id=185858",
+   "source": "康文署",
+   "image": "",
+   "featured": false
+  },
+  {
    "id": "b9f4a9dbbfb7",
    "title": "愛在香江綜藝演",
    "category": "休閒",
@@ -6524,6 +6512,18 @@
    "featured": false
   },
   {
+   "id": "0b6fd242cd1d",
+   "title": "慶祝中華人民共和國成立77周年灣仔同心賀國慶大匯演",
+   "category": "表演藝術",
+   "start": "2026-10-02",
+   "end": "2026-10-02",
+   "venue": "伊利沙伯體育館 (表演場)",
+   "url": "https://www.lcsd.gov.hk/clpss/tc/search/culture/DetailForm.do?id=186768",
+   "source": "康文署",
+   "image": "",
+   "featured": false
+  },
+  {
    "id": "dbb39b72f4cd",
    "title": "Vaundy \"HORO\" 亞洲巡迴演唱會 2026 香港站",
    "category": "演唱會",
@@ -6725,18 +6725,6 @@
    "url": "https://www.facebook.com/hkharmonica",
    "source": "康文署",
    "image": "",
-   "featured": false
-  },
-  {
-   "id": "670e28cdede9",
-   "title": "BLU-SWING \"Across the Blue\" 巡迴演唱會 2026 香港站",
-   "category": "演唱會",
-   "start": "2026-11-23",
-   "end": "2026-11-23",
-   "venue": "茶豆 Chamame Live House",
-   "url": "https://timable.com/zh/event/BLU-SWING-AcrosstheBlue-%E4%B8%96%E7%95%8C%E5%B7%A1%E8%BF%B4%E6%BC%94%E5%94%B1%E6%9C%832026",
-   "source": "Timable",
-   "image": "https://static.timable.com/image_a9d80bba-b45a-4dd2-b47a-1a1b9ba30659-480x600.webp",
    "featured": false
   },
   {
