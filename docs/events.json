@@ -1642,6 +1642,18 @@
    "featured": false
   },
   {
+   "id": "d145fbec637e",
+   "title": "麥當勞小員工學習體驗日",
+   "category": "休閒",
+   "start": "2026-08-14",
+   "end": "2026-08-23",
+   "venue": "指定麥當勞餐廳",
+   "url": "https://timable.com/zh/event/%E9%BA%A5%E7%95%B6%E5%8B%9E%E5%B0%8F%E5%93%A1%E5%B7%A5%E5%AD%B8%E7%BF%92%E9%AB%94%E9%A9%97%E6%97%A5",
+   "source": "Timable",
+   "image": "https://static.timable.com/image_47580c6b-d633-43d1-9219-d7bfdb048ff3-480x157.webp",
+   "featured": false
+  },
+  {
    "id": "a7474db359ee",
    "title": "2026亞洲東區女子排球錦標賽",
    "category": "體育",
@@ -1666,15 +1678,15 @@
    "featured": false
   },
   {
-   "id": "ec6ecb14a9f3",
-   "title": "《寂寂毛聞 THE DAYS OF SMALL THINGS》電影分享會",
-   "category": "電影活動",
+   "id": "8909f623d815",
+   "title": "handgripstight x speedwaymusic x feels like heaven 亞洲巡迴演唱會 香港站2026",
+   "category": "演唱會",
    "start": "2026-08-15",
    "end": "2026-08-15",
-   "venue": "2.0 Cafe & Bar",
-   "url": "https://timable.com/zh/event/%E5%AF%82%E5%AF%82%E6%AF%9B%E8%81%9ETHEDAYSOFSMALLTHINGS-%E9%9B%BB%E5%BD%B1%E5%88%86%E4%BA%AB%E6%9C%83",
+   "venue": "地點待定(香港)",
+   "url": "https://timable.com/zh/event/handgripstightxspeedwaymusicxfeelslikeheaven%E4%BA%9E%E6%B4%B2%E5%B7%A1%E8%BF%B4%E6%BC%94%E5%94%B1%E6%9C%83%E9%A6%99%E6%B8%AF%E7%AB%992026",
    "source": "Timable",
-   "image": "https://static.timable.com/image_b7479fbf-4147-4572-b0f2-a510a188d072-480x640.webp",
+   "image": "https://static.timable.com/image_cf82d543-f9c5-4c42-aef5-dc4f9a7185c9-480x640.webp",
    "featured": false
   },
   {
@@ -2635,18 +2647,6 @@
    "url": "https://docs.google.com/forms/d/e/1FAIpQLSdYrBVsl4l-mH_b6a77rqYAfvXKX0W1mMFdjuGcF3ui_nJUDw/viewform",
    "source": "康文署",
    "image": "",
-   "featured": false
-  },
-  {
-   "id": "bc615aa1b46a",
-   "title": "「家。多點愛」狗狗領養日",
-   "category": "休閒",
-   "start": "2026-08-22",
-   "end": "2026-08-22",
-   "venue": "護寵動物醫院",
-   "url": "https://timable.com/zh/event/%E5%AE%B6-%E5%A4%9A%E9%BB%9E%E6%84%9B-%E7%8B%97%E7%8B%97%E9%A0%98%E9%A4%8A%E6%97%A5",
-   "source": "Timable",
-   "image": "https://static.timable.com/image_5a996383-01e1-4016-abbc-c1867161075c-480x480.webp",
    "featured": false
   },
   {
@@ -4402,18 +4402,6 @@
    "featured": false
   },
   {
-   "id": "811468f12646",
-   "title": "《先行一步》舞台劇 @香港話劇團",
-   "category": "表演藝術",
-   "start": "2026-09-10",
-   "end": "2026-09-20",
-   "venue": "香港話劇團 黑盒劇場",
-   "url": "https://timable.com/zh/event/%E5%85%88%E8%A1%8C%E4%B8%80%E6%AD%A5-%E8%88%9E%E5%8F%B0%E5%8A%87-%E9%A6%99%E6%B8%AF%E8%A9%B1%E5%8A%87%E5%9C%98",
-   "source": "Timable",
-   "image": "https://static.timable.com/image_0c877f09-7425-4109-9188-99509871fd4a-480x600.webp",
-   "featured": false
-  },
-  {
    "id": "769555e3c2e3",
    "title": "《朱小冰師生好友粵曲演唱會》",
    "category": "表演藝術",
@@ -4459,18 +4447,6 @@
    "url": "https://www.lcsd.gov.hk/clpss/tc/search/culture/DetailForm.do?id=185868",
    "source": "康文署",
    "image": "",
-   "featured": false
-  },
-  {
-   "id": "95b86ed05956",
-   "title": "\"VIBES BELOW ZERO\" DJ 派對 @ELEMENTS 圓方",
-   "category": "休閒",
-   "start": "2026-09-11",
-   "end": "2026-09-11",
-   "venue": "圓方 The Rink溜冰場",
-   "url": "https://timable.com/zh/event/VIBESBELOWZERO-DJ%E6%B4%BE%E5%B0%8D-ELEMENTS%E5%9C%93%E6%96%B9",
-   "source": "Timable",
-   "image": "https://static.timable.com/image_1e6c7441-4ea4-44b2-bd92-533c1c1ba6e4-480x270.webp",
    "featured": false
   },
   {
@@ -5287,6 +5263,18 @@
    "url": "https://www.actorsfamily.hk/",
    "source": "康文署",
    "image": "",
+   "featured": false
+  },
+  {
+   "id": "25cc25eec021",
+   "title": "女青中秋市集",
+   "category": "市集",
+   "start": "2026-09-19",
+   "end": "2026-09-22",
+   "venue": "香港維多利亞公園",
+   "url": "https://timable.com/zh/event/%E5%A5%B3%E9%9D%92%E4%B8%AD%E7%A7%8B%E5%B8%82%E9%9B%86",
+   "source": "Timable",
+   "image": "https://static.timable.com/image_307b08eb-f048-4b32-b58a-e0f0961f2548-480x600.webp",
    "featured": false
   },
   {
@@ -6454,6 +6442,18 @@
    "featured": false
   },
   {
+   "id": "88e11c12c6e3",
+   "title": "《梵志登與王羽佳》音樂會 @香港管弦樂團",
+   "category": "表演藝術",
+   "start": "2026-10-01",
+   "end": "2026-10-04",
+   "venue": "香港文化中心 音樂廳",
+   "url": "https://timable.com/zh/event/%E6%A2%B5%E5%BF%97%E7%99%BB%E8%88%87%E7%8E%8B%E7%BE%BD%E4%BD%B3-%E9%9F%B3%E6%A8%82%E6%9C%83-%E9%A6%99%E6%B8%AF%E7%AE%A1%E5%BC%A6%E6%A8%82%E5%9C%98",
+   "source": "Timable",
+   "image": "https://static.timable.com/image_b8ecbedd-6771-4c5c-93ba-09b02a5ecbf0-200x300.webp",
+   "featured": false
+  },
+  {
    "id": "9b97f1e1042a",
    "title": "TOGENASHI TOGEARI 《凜音の理》香港演唱會 2026",
    "category": "演唱會",
@@ -6646,27 +6646,15 @@
    "featured": false
   },
   {
-   "id": "12e07cc527be",
-   "title": "湯駿業《給最愛的音樂會》Live 2026",
-   "category": "表演藝術",
-   "start": "2026-11-13",
-   "end": "2026-11-13",
+   "id": "32451a63920c",
+   "title": "\"The Pains of Being Pure At Heart\" 香港 2026 演唱會",
+   "category": "演唱會",
+   "start": "2026-11-10",
+   "end": "2026-11-10",
    "venue": "PORTAL",
-   "url": "https://timable.com/zh/event/%E6%B9%AF%E9%A7%BF%E6%A5%AD-%E7%B5%A6%E6%9C%80%E6%84%9B%E7%9A%84%E9%9F%B3%E6%A8%82%E6%9C%83-Live2026",
+   "url": "https://timable.com/zh/event/ThePainsofBeingPureAtHeart%E9%A6%99%E6%B8%AF2026%E6%BC%94%E5%94%B1%E6%9C%83",
    "source": "Timable",
-   "image": "https://static.timable.com/image_1c2bc60c-15c7-477f-b841-e6f4d3f9e446-480x640.webp",
-   "featured": false
-  },
-  {
-   "id": "fbd79045d485",
-   "title": "\"Blank Slate Fest Volume 2\" 音樂節2026",
-   "category": "表演藝術",
-   "start": "2026-11-14",
-   "end": "2026-11-14",
-   "venue": "地點待定(香港)",
-   "url": "https://timable.com/zh/event/BlankSlateFestVolume2-%E9%9F%B3%E6%A8%82%E7%AF%802026",
-   "source": "Timable",
-   "image": "https://static.timable.com/image_932f6ff4-0e0a-4e49-baae-e87065a640fa-480x640.webp",
+   "image": "https://static.timable.com/image_a2370b51-d381-4b46-8fea-eeb8edb5abab-480x600.webp",
    "featured": false
   },
   {
@@ -6751,6 +6739,18 @@
    "url": "https://www.lcsd.gov.hk/CE/CulturalService/Programme/tc/music/programs_1949.html",
    "source": "康文署",
    "image": "",
+   "featured": false
+  },
+  {
+   "id": "b211262e8852",
+   "title": "my little airport《你一定覺得我是飲醉酒》演唱會 2026",
+   "category": "演唱會",
+   "start": "2026-12-11",
+   "end": "2026-12-12",
+   "venue": "AXA x WONDERLAND",
+   "url": "https://timable.com/zh/event/mylittleairport-%E4%BD%A0%E4%B8%80%E5%AE%9A%E8%A6%BA%E5%BE%97%E6%88%91%E6%98%AF%E9%A3%B2%E9%86%89%E9%85%92-%E6%BC%94%E5%94%B1%E6%9C%832026",
+   "source": "Timable",
+   "image": "https://static.timable.com/image_d99f7a60-2c0c-448f-8bb4-0f210a358753-480x640.webp",
    "featured": false
   },
   {
