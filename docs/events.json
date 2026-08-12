@@ -1,5 +1,5 @@
 {
- "updated": "2026-08-11",
+ "updated": "2026-08-12",
  "events": [
   {
    "id": "e13429ad674f",
@@ -530,18 +530,6 @@
    "featured": false
   },
   {
-   "id": "49533b9d979a",
-   "title": "夏日親子電影節 2026：球幕電影及映後活動",
-   "category": "電影活動",
-   "start": "2026-07-14",
-   "end": "2026-08-11",
-   "venue": "香港太空館 (何鴻燊天象廳)",
-   "url": "https://www.lcsd.gov.hk/fp/tc/listing.html?id=93",
-   "source": "康文署",
-   "image": "",
-   "featured": false
-  },
-  {
    "id": "91d8a38311ee",
    "title": "上水─佛學解行班",
    "category": "休閒",
@@ -846,18 +834,6 @@
    "featured": false
   },
   {
-   "id": "30ef17870131",
-   "title": "《金孔雀呈獻—楊小漫師生友好折子戲專場》",
-   "category": "表演藝術",
-   "start": "2026-08-11",
-   "end": "2026-08-11",
-   "venue": "高山劇場 (劇院)",
-   "url": "https://www.lcsd.gov.hk/tc/ticket/index.html",
-   "source": "康文署",
-   "image": "",
-   "featured": false
-  },
-  {
    "id": "615c3c8e2882",
    "title": "一個部門的誕生",
    "category": "電影",
@@ -1012,18 +988,6 @@
    "featured": false
   },
   {
-   "id": "48afc814fc75",
-   "title": "好友共聚演唱會",
-   "category": "演唱會",
-   "start": "2026-08-11",
-   "end": "2026-08-11",
-   "venue": "葵青劇院 (演藝廳)",
-   "url": "https://www.lcsd.gov.hk/clpss/tc/search/culture/DetailForm.do?id=184701",
-   "source": "康文署",
-   "image": "",
-   "featured": false
-  },
-  {
    "id": "cb407241a1eb",
    "title": "寂靜的朋友",
    "category": "電影",
@@ -1077,18 +1041,6 @@
    "image": "https://wmoov.com/assets/poster/7380c1074262ade8f16aeb03219547f9.jpg",
    "rating": "",
    "shows": 1,
-   "featured": false
-  },
-  {
-   "id": "eb8e808173f5",
-   "title": "從課室跳到舞台2026",
-   "category": "休閒",
-   "start": "2026-08-11",
-   "end": "2026-08-11",
-   "venue": "香港大會堂 (音樂廳)",
-   "url": "https://www.lcsd.gov.hk/tc/ticket/index.html",
-   "source": "康文署",
-   "image": "",
    "featured": false
   },
   {
@@ -1176,18 +1128,6 @@
    "featured": false
   },
   {
-   "id": "80f09ae6c92c",
-   "title": "星sing聲唱聚好聲音",
-   "category": "休閒",
-   "start": "2026-08-11",
-   "end": "2026-08-11",
-   "venue": "元朗劇院 (演藝廳)",
-   "url": "https://www.lcsd.gov.hk/clpss/tc/search/culture/DetailForm.do?id=184589",
-   "source": "康文署",
-   "image": "",
-   "featured": false
-  },
-  {
    "id": "0b6e7e6a9863",
    "title": "末日聖母號",
    "category": "電影",
@@ -1258,18 +1198,6 @@
    "featured": false
   },
   {
-   "id": "bbc429056b44",
-   "title": "秋日金曲會知音欣賞晚會",
-   "category": "表演藝術",
-   "start": "2026-08-11",
-   "end": "2026-08-11",
-   "venue": "北區大會堂 (演奏廳)",
-   "url": "https://www.lcsd.gov.hk/clpss/tc/search/culture/DetailForm.do?id=184579",
-   "source": "康文署",
-   "image": "",
-   "featured": false
-  },
-  {
    "id": "fdee735a0f77",
    "title": "秘密關係",
    "category": "電影",
@@ -1326,18 +1254,6 @@
    "featured": false
   },
   {
-   "id": "8a15f289bad6",
-   "title": "胡永彥長笛獨奏會",
-   "category": "表演藝術",
-   "start": "2026-08-11",
-   "end": "2026-08-11",
-   "venue": "香港大會堂 (劇院)",
-   "url": "https://flute-academy.com/",
-   "source": "康文署",
-   "image": "",
-   "featured": false
-  },
-  {
    "id": "d6b35bd3cd67",
    "title": "蜘蛛俠：英雄重生",
    "category": "電影",
@@ -1391,18 +1307,6 @@
    "image": "https://wmoov.com/assets/poster/78ad21fb737204ebc9973f4d18fa79e2.jpg",
    "rating": "6.2",
    "shows": 25,
-   "featured": false
-  },
-  {
-   "id": "43fa5dd3d155",
-   "title": "開心金曲夜",
-   "category": "表演藝術",
-   "start": "2026-08-11",
-   "end": "2026-08-11",
-   "venue": "荃灣大會堂 (文娛廳)",
-   "url": "https://www.lcsd.gov.hk/clpss/tc/search/culture/DetailForm.do?id=184726",
-   "source": "康文署",
-   "image": "",
    "featured": false
   },
   {
@@ -2874,18 +2778,6 @@
    "featured": false
   },
   {
-   "id": "073f0c1b492b",
-   "title": "醫健通10周年慶典",
-   "category": "休閒",
-   "start": "2026-08-22",
-   "end": "2026-08-22",
-   "venue": "MCP新都城中心 3期",
-   "url": "https://timable.com/zh/event/%E9%86%AB%E5%81%A5%E9%80%9A10%E5%91%A8%E5%B9%B4%E6%85%B6%E5%85%B8-%E4%B8%80%E5%90%8C%E7%8E%A9%E9%81%8A%E6%88%B2%E6%8F%9B%E7%A6%AE%E5%93%81-",
-   "source": "Timable",
-   "image": "https://static.timable.com/image_de66fabc-23bd-44d4-a56f-4046e85c34ee-480x101.webp",
-   "featured": false
-  },
-  {
    "id": "0ab8ea434863",
    "title": "香港大會堂場地伙伴計劃：拉闊動畫： 新篇《胡桃夾子》及《田園》",
    "category": "演唱會",
@@ -3231,18 +3123,6 @@
    "url": "https://www.lcsd.gov.hk/tc/ticket/index.html",
    "source": "康文署",
    "image": "",
-   "featured": false
-  },
-  {
-   "id": "79d96cc77a23",
-   "title": "「場域・碰撞・協作」展覽 @香港藝術中心",
-   "category": "展覽",
-   "start": "2026-08-26",
-   "end": "2026-09-20",
-   "venue": "香港藝術中心 包氏畫廊及賽馬會藝廊",
-   "url": "https://timable.com/zh/event/%E5%A0%B4%E5%9F%9F-%E7%A2%B0%E6%92%9E-%E5%8D%94%E4%BD%9C-%E9%A6%99%E6%B8%AF%E8%97%9D%E8%A1%93%E4%B8%AD%E5%BF%83%E6%97%97%E8%89%A6%E5%B1%95%E8%A6%BD",
-   "source": "Timable",
-   "image": "https://static.timable.com/image_db6f9c8f-7e03-4c41-95c7-527e83cc9567-480x679.webp",
    "featured": false
   },
   {
@@ -4758,6 +4638,18 @@
    "featured": false
   },
   {
+   "id": "b810d3a65b12",
+   "title": "永恆旋律金曲會知音",
+   "category": "表演藝術",
+   "start": "2026-09-12",
+   "end": "2026-09-12",
+   "venue": "上環文娛中心 (劇院)",
+   "url": "https://www.lcsd.gov.hk/tc/ticket/index.html",
+   "source": "康文署",
+   "image": "",
+   "featured": false
+  },
+  {
    "id": "e94da3bd9279",
    "title": "沙田青年音樂節2026",
    "category": "表演藝術",
@@ -4777,6 +4669,18 @@
    "end": "2026-09-13",
    "venue": "高山劇場 (新翼演藝廳)",
    "url": "https://www.hkbarwoymt.com/tc",
+   "source": "康文署",
+   "image": "",
+   "featured": false
+  },
+  {
+   "id": "c2f3d76a3b10",
+   "title": "火聲人為你金曲唱不停",
+   "category": "表演藝術",
+   "start": "2026-09-12",
+   "end": "2026-09-12",
+   "venue": "牛池灣文娛中心 (文娛廳)",
+   "url": "https://www.lcsd.gov.hk/tc/ticket/index.html",
    "source": "康文署",
    "image": "",
    "featured": false
@@ -5442,6 +5346,18 @@
    "featured": false
   },
   {
+   "id": "d14b05c7dcce",
+   "title": "丸亀製麵「小職人製麵教室」限定烏冬製作工作坊",
+   "category": "休閒",
+   "start": "2026-09-19",
+   "end": "2026-09-19",
+   "venue": "丸亀製麵啟德分店",
+   "url": "https://timable.com/zh/event/%E4%B8%B8%E4%BA%80%E8%A3%BD%E9%BA%B5-%E5%B0%8F%E8%81%B7%E4%BA%BA%E8%A3%BD%E9%BA%B5%E6%95%99%E5%AE%A4-%E9%99%90%E5%AE%9A%E7%83%8F%E5%86%AC%E8%A3%BD%E4%BD%9C%E5%B7%A5%E4%BD%9C%E5%9D%8A",
+   "source": "Timable",
+   "image": "https://static.timable.com/image_7b3f4106-93cf-4f3d-8ff2-0afa26b3fb99-480x680.webp",
+   "featured": false
+  },
+  {
    "id": "911ebb4140ec",
    "title": "心心歡樂為你獻",
    "category": "休閒",
@@ -5473,6 +5389,18 @@
    "end": "2026-09-19",
    "venue": "荃灣大會堂 (演奏廳)",
    "url": "https://www.sew.com.hk",
+   "source": "康文署",
+   "image": "",
+   "featured": false
+  },
+  {
+   "id": "ecbed6766104",
+   "title": "現代跨媒體室內歌劇 《七夕》",
+   "category": "表演藝術",
+   "start": "2026-09-19",
+   "end": "2026-09-20",
+   "venue": "東九文化中心 (劇場)",
+   "url": "https://www.ekcc.hk/zh-hk/events/2026/cross-media-chamber-opera-qi-xi.html",
    "source": "康文署",
    "image": "",
    "featured": false
@@ -6121,6 +6049,30 @@
    "end": "2026-09-26",
    "venue": "元朗劇院 (演藝廳)",
    "url": "https://www.lcsd.gov.hk/clpss/tc/search/culture/DetailForm.do?id=186038",
+   "source": "康文署",
+   "image": "",
+   "featured": false
+  },
+  {
+   "id": "03411dd928a7",
+   "title": "第14屆全港學界舞蹈音樂節及文化藝術節2026",
+   "category": "表演藝術",
+   "start": "2026-09-26",
+   "end": "2026-09-26",
+   "venue": "大埔文娛中心 (黑盒劇場)",
+   "url": "https://www.hkmaa.org",
+   "source": "康文署",
+   "image": "",
+   "featured": false
+  },
+  {
+   "id": "70a03e7956be",
+   "title": "第14屆全港學界舞蹈音樂節及文化藝術節2026",
+   "category": "表演藝術",
+   "start": "2026-09-26",
+   "end": "2026-09-26",
+   "venue": "大埔文娛中心 (演藝廳)",
+   "url": "https://www.hkmaa.org",
    "source": "康文署",
    "image": "",
    "featured": false
@@ -6855,6 +6807,18 @@
    "url": "https://www.lcsd.gov.hk/tc/ticket/index.html",
    "source": "康文署",
    "image": "",
+   "featured": false
+  },
+  {
+   "id": "25b512927539",
+   "title": "《Cinderella 聖誕奇緣》聖誕音樂劇 @POP Theatre",
+   "category": "表演藝術",
+   "start": "2026-12-19",
+   "end": "2026-12-27",
+   "venue": "屯門大會堂 文娛廳",
+   "url": "https://timable.com/zh/event/Cinderella%E8%81%96%E8%AA%95%E5%A5%87%E7%B7%A3-%E8%81%96%E8%AA%95%E9%9F%B3%E6%A8%82%E5%8A%87-POPTheatre",
+   "source": "Timable",
+   "image": "https://static.timable.com/image_9bdc79a1-c5f0-455c-a1a0-a08227ba0900-480x600.webp",
    "featured": false
   },
   {
