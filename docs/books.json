@@ -67,19 +67,19 @@
   },
   {
    "rank": 9,
-   "title": "在看板對面，聽見人生：方念華",
-   "author": "方念華",
-   "price": "NT$331",
-   "url": "https://www.books.com.tw/products/0011056991",
-   "image": "https://im2.book.com.tw/image/getImage?i=https://www.books.com.tw/img/001/105/69/0011056991.jpg&v=6a4c8a8ck&w=150&h=150"
-  },
-  {
-   "rank": 10,
    "title": "台灣的李登輝時代：意外國度的重塑",
    "author": "林孝庭",
    "price": "NT$497",
    "url": "https://www.books.com.tw/products/0011057571",
    "image": "https://im2.book.com.tw/image/getImage?i=https://www.books.com.tw/img/001/105/75/0011057571.jpg&v=6a549f3fk&w=150&h=150"
+  },
+  {
+   "rank": 10,
+   "title": "在看板對面，聽見人生：方念華",
+   "author": "方念華",
+   "price": "NT$331",
+   "url": "https://www.books.com.tw/products/0011056991",
+   "image": "https://im2.book.com.tw/image/getImage?i=https://www.books.com.tw/img/001/105/69/0011056991.jpg&v=6a4c8a8ck&w=150&h=150"
   },
   {
    "rank": 11,
@@ -115,38 +115,6 @@
   },
   {
    "rank": 15,
-   "title": "擺脫憂鬱症：12堂從理解、陪伴到療癒的心理修復課",
-   "author": "李正達",
-   "price": "NT$355",
-   "url": "https://www.books.com.tw/products/0011056439",
-   "image": "https://im2.book.com.tw/image/getImage?i=https://www.books.com.tw/img/001/105/64/0011056439.jpg&v=6a4c8220k&w=150&h=150"
-  },
-  {
-   "rank": 16,
-   "title": "財富階梯：（《持續買進》作者新作）資料科學家為你打造，適用人生各階段的致富策略",
-   "author": "尼克．馬朱利",
-   "price": "NT$331",
-   "url": "https://www.books.com.tw/products/0011050390",
-   "image": "https://im1.book.com.tw/image/getImage?i=https://www.books.com.tw/img/001/105/03/0011050390.jpg&v=69e05d39k&w=150&h=150"
-  },
-  {
-   "rank": 17,
-   "title": "高飛人生：從華航基層到董事長，46年台灣航空實戰經驗，淬鍊出的經營智慧、決策視野與人生格局",
-   "author": "孫洪祥",
-   "price": "NT$355",
-   "url": "https://www.books.com.tw/products/0011056438",
-   "image": "https://im1.book.com.tw/image/getImage?i=https://www.books.com.tw/img/001/105/64/0011056438.jpg&v=6a3f52fek&w=150&h=150"
-  },
-  {
-   "rank": 18,
-   "title": "隨他們去：全球熱銷突破1000萬冊現象級巨作！改變千萬人命運的心理技巧【附放下執念明信片】",
-   "author": "梅爾．羅賓斯",
-   "price": "NT$355",
-   "url": "https://www.books.com.tw/products/0011055310",
-   "image": "https://im1.book.com.tw/image/getImage?i=https://www.books.com.tw/img/001/105/53/0011055310.jpg&v=6a30ce17k&w=150&h=150"
-  },
-  {
-   "rank": 19,
    "title": "嫌疑犯X的獻身【15週年紀念全新譯本】",
    "author": "東野圭吾",
    "price": "NT$331",
@@ -154,12 +122,44 @@
    "image": "https://im2.book.com.tw/image/getImage?i=https://www.books.com.tw/img/001/086/45/0010864587.jpg&v=5f0d89d0k&w=150&h=150"
   },
   {
-   "rank": 20,
+   "rank": 16,
+   "title": "隨他們去：全球熱銷突破1000萬冊現象級巨作！改變千萬人命運的心理技巧【附放下執念明信片】",
+   "author": "梅爾．羅賓斯",
+   "price": "NT$355",
+   "url": "https://www.books.com.tw/products/0011055310",
+   "image": "https://im1.book.com.tw/image/getImage?i=https://www.books.com.tw/img/001/105/53/0011055310.jpg&v=6a30ce17k&w=150&h=150"
+  },
+  {
+   "rank": 17,
+   "title": "財富階梯：（《持續買進》作者新作）資料科學家為你打造，適用人生各階段的致富策略",
+   "author": "尼克．馬朱利",
+   "price": "NT$331",
+   "url": "https://www.books.com.tw/products/0011050390",
+   "image": "https://im1.book.com.tw/image/getImage?i=https://www.books.com.tw/img/001/105/03/0011050390.jpg&v=69e05d39k&w=150&h=150"
+  },
+  {
+   "rank": 18,
+   "title": "擺脫憂鬱症：12堂從理解、陪伴到療癒的心理修復課",
+   "author": "李正達",
+   "price": "NT$355",
+   "url": "https://www.books.com.tw/products/0011056439",
+   "image": "https://im2.book.com.tw/image/getImage?i=https://www.books.com.tw/img/001/105/64/0011056439.jpg&v=6a4c8220k&w=150&h=150"
+  },
+  {
+   "rank": 19,
    "title": "通靈藥師的處方箋：16個人與靈的真實互動，那些來不及說的、當時沒做的、至今想不通的，未解與無解，通靈藥師給出處方",
    "author": "J 藥師",
    "price": "NT$360",
    "url": "https://www.books.com.tw/products/0011042196",
    "image": "https://im1.book.com.tw/image/getImage?i=https://www.books.com.tw/img/001/104/21/0011042196.jpg&v=695c78e6k&w=150&h=150"
+  },
+  {
+   "rank": 20,
+   "title": "高飛人生：從華航基層到董事長，46年台灣航空實戰經驗，淬鍊出的經營智慧、決策視野與人生格局",
+   "author": "孫洪祥",
+   "price": "NT$355",
+   "url": "https://www.books.com.tw/products/0011056438",
+   "image": "https://im1.book.com.tw/image/getImage?i=https://www.books.com.tw/img/001/105/64/0011056438.jpg&v=6a3f52fek&w=150&h=150"
   }
  ]
 }
