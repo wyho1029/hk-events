@@ -1464,6 +1464,18 @@
    "featured": false
   },
   {
+   "id": "4ed334a18176",
+   "title": "周大福「夏調 · 感觀聲旅」展覽",
+   "category": "展覽",
+   "start": "2026-08-14",
+   "end": "2026-08-16",
+   "venue": "西九文化區 藝術展亭",
+   "url": "https://timable.com/zh/event/%E5%91%A8%E5%A4%A7%E7%A6%8F-%E5%A4%8F%E8%AA%BF-%E6%84%9F%E8%A7%80%E8%81%B2%E6%97%85-%E5%B1%95%E8%A6%BD",
+   "source": "Timable",
+   "image": "https://static.timable.com/image_daeb1214-9ab8-48c7-bf41-5f5143814181-480x240.webp",
+   "featured": false
+  },
+  {
    "id": "f1f8ca838a70",
    "title": "國際綜藝合家歡2026︰小甘筍製作（英國）《啤啤熊童話音樂會》",
    "category": "表演藝術",
@@ -2088,18 +2100,6 @@
    "featured": false
   },
   {
-   "id": "4d4dccd89b2e",
-   "title": "「The Cycle Juicer 循環榨汁機」藝術聯動創作展",
-   "category": "休閒",
-   "start": "2026-08-17",
-   "end": "2026-08-30",
-   "venue": "Major Pop Art",
-   "url": "https://timable.com/zh/event/TheCycleJuicer%E5%BE%AA%E7%92%B0%E6%A6%A8%E6%B1%81%E6%A9%9F-%E8%97%9D%E8%A1%93%E8%81%AF%E5%8B%95%E5%89%B5%E4%BD%9C%E5%B1%95",
-   "source": "Timable",
-   "image": "https://static.timable.com/image_a4c6a3eb-a9f4-43fc-bb6d-bcd19caed368-480x530.webp",
-   "featured": false
-  },
-  {
    "id": "b85e43736e2b",
    "title": "玉瑤金曲會知音",
    "category": "表演藝術",
@@ -2592,18 +2592,6 @@
    "featured": false
   },
   {
-   "id": "7beda8662843",
-   "title": "流行「元」樂‧音樂會 Vol. 3",
-   "category": "表演藝術",
-   "start": "2026-08-22",
-   "end": "2026-08-22",
-   "venue": "保良局曹貴子動感青年天地",
-   "url": "https://timable.com/zh/event/%E6%B5%81%E8%A1%8C-%E5%85%83-%E6%A8%82-%E9%9F%B3%E6%A8%82%E6%9C%83Vol-3",
-   "source": "Timable",
-   "image": "https://static.timable.com/image_dcd3a8a4-5ef3-447a-b540-a49ae0a73c6c-480x600.webp",
-   "featured": false
-  },
-  {
    "id": "46d8ae9dbe6e",
    "title": "牛池灣文娛中心場地伙伴計劃 : 東邊舞蹈團《躍動飛凡》",
    "category": "表演藝術",
@@ -2916,15 +2904,15 @@
    "featured": false
   },
   {
-   "id": "6cc7400002a9",
-   "title": "《汪定中 DEW》音樂會 @MoJo Soup Concert #58",
+   "id": "663f57ed871c",
+   "title": "《現代英倫海峽幻想曲》音樂會",
    "category": "表演藝術",
    "start": "2026-08-25",
    "end": "2026-08-25",
-   "venue": "Mojo Soup ",
-   "url": "https://timable.com/zh/event/%E6%B1%AA%E5%AE%9A%E4%B8%ADDEW-%E9%9F%B3%E6%A8%82%E6%9C%83-MoJoSoupConcert-58",
+   "venue": "東九文化中心 樂館",
+   "url": "https://timable.com/zh/event/%E7%8F%BE%E4%BB%A3%E8%8B%B1%E5%80%AB%E6%B5%B7%E5%B3%BD%E5%B9%BB%E6%83%B3%E6%9B%B2-%E9%9F%B3%E6%A8%82%E6%9C%83",
    "source": "Timable",
-   "image": "https://static.timable.com/image_3f9f06ca-ae48-4a37-8c60-74e9e25bcb83-480x640.webp",
+   "image": "https://static.timable.com/image_57b94eca-17ba-43e8-a2d4-0a90a4948fbb-300x426.webp",
    "featured": false
   },
   {
@@ -3204,18 +3192,6 @@
    "featured": false
   },
   {
-   "id": "a5a3e11473ea",
-   "title": "Michael Jackson 慶祝派對",
-   "category": "休閒",
-   "start": "2026-08-29",
-   "end": "2026-08-29",
-   "venue": "The Wanch ",
-   "url": "https://timable.com/zh/event/MichaelJackson%E6%85%B6%E7%A5%9D%E6%B4%BE%E5%B0%8D",
-   "source": "Timable",
-   "image": "https://static.timable.com/image_ae751f24-d725-4b3c-a618-411ff8a321e6-480x600.webp",
-   "featured": false
-  },
-  {
    "id": "bccca9131ccb",
    "title": "Ms. Hilary與友人學生音樂會2026",
    "category": "表演藝術",
@@ -3261,18 +3237,6 @@
    "url": "https://www.facebook.com/singsing725",
    "source": "康文署",
    "image": "",
-   "featured": false
-  },
-  {
-   "id": "f25a806f196d",
-   "title": "「凝視那些瞬間」微型畫個展",
-   "category": "展覽",
-   "start": "2026-08-29",
-   "end": "2026-09-18",
-   "venue": "UBU DECO Gallery",
-   "url": "https://timable.com/zh/event/%E5%87%9D%E8%A6%96%E9%82%A3%E4%BA%9B%E7%9E%AC%E9%96%93-DavyKit%E5%BE%AE%E5%9E%8B%E7%95%AB%E5%80%8B%E4%BA%BA%E5%B1%95%E8%A6%BD",
-   "source": "Timable",
-   "image": "https://static.timable.com/image_42d1fb0d-0b9c-4195-9173-60cc53803bde-480x320.webp",
    "featured": false
   },
   {
@@ -3684,6 +3648,18 @@
    "featured": true
   },
   {
+   "id": "a4b55f6c5b8a",
+   "title": "《共織新意: 意大利與香港男裝新浪潮》展覽",
+   "category": "展覽",
+   "start": "2026-09-03",
+   "end": "2026-09-13",
+   "venue": "Fashion Walk 地下及一樓3號舖",
+   "url": "https://timable.com/zh/event/%E5%85%B1%E7%B9%94%E6%96%B0%E6%84%8F-%E6%84%8F%E5%A4%A7%E5%88%A9%E8%88%87%E9%A6%99%E6%B8%AF%E7%94%B7%E8%A3%9D%E6%96%B0%E6%B5%AA%E6%BD%AE-%E5%B1%95%E8%A6%BD",
+   "source": "Timable",
+   "image": "https://static.timable.com/image_0fa48bf9-2957-46db-9b68-5637a4c367b0-480x270.webp",
+   "featured": false
+  },
+  {
    "id": "c524ddc355bd",
    "title": "好歌唱不停",
    "category": "休閒",
@@ -3873,6 +3849,18 @@
    "url": "https://www.oratorio.org.hk/web/zh/",
    "source": "康文署",
    "image": "",
+   "featured": false
+  },
+  {
+   "id": "58b6f7969d4b",
+   "title": "免費寵物體檢 VetCare4All Weekend",
+   "category": "休閒",
+   "start": "2026-09-05",
+   "end": "2026-09-06",
+   "venue": "香港青年協會領袖學院",
+   "url": "https://timable.com/zh/event/%E5%85%8D%E8%B2%BB%E5%AF%B5%E7%89%A9%E9%AB%94%E6%AA%A2VetCare4AllWeekend",
+   "source": "Timable",
+   "image": "https://static.timable.com/image_76444f21-9e78-4fa6-939b-c9197cc3e041-480x600.webp",
    "featured": false
   },
   {
@@ -4740,18 +4728,6 @@
    "featured": false
   },
   {
-   "id": "131a4a976d25",
-   "title": "\"Run with Miffy\" 主題跑 2026",
-   "category": "休閒",
-   "start": "2026-09-13",
-   "end": "2026-09-13",
-   "venue": "香港沙田科學園",
-   "url": "https://timable.com/zh/event/RunwithMiffy2026",
-   "source": "Timable",
-   "image": "https://static.timable.com/image_d3d36ecf-0348-4e55-b3f3-b56704767d22-480x600.webp",
-   "featured": false
-  },
-  {
    "id": "7ad63cf96c1d",
    "title": "2026合家歡音樂劇「童韻築夢想」",
    "category": "表演藝術",
@@ -5301,6 +5277,18 @@
    "url": "https://www.facebook.com/profile.php?id=61579457733803",
    "source": "康文署",
    "image": "",
+   "featured": false
+  },
+  {
+   "id": "1b96a0eb8d10",
+   "title": "KJ 黃家正《五行》鋼琴獨奏會",
+   "category": "表演藝術",
+   "start": "2026-09-19",
+   "end": "2026-09-19",
+   "venue": "上環文娛中心 劇院",
+   "url": "https://timable.com/zh/event/KJ%E9%BB%83%E5%AE%B6%E6%AD%A3-%E4%BA%94%E8%A1%8C-%E9%8B%BC%E7%90%B4%E7%8D%A8%E5%A5%8F%E6%9C%83",
+   "source": "Timable",
+   "image": "https://static.timable.com/image_e09c3a74-b40e-4db7-82cd-754db7ff909c-480x600.webp",
    "featured": false
   },
   {
@@ -6729,6 +6717,18 @@
    "url": "https://www.lcsd.gov.hk/CE/CulturalService/Programme/tc/music/programs_1987.html",
    "source": "康文署",
    "image": "",
+   "featured": false
+  },
+  {
+   "id": "c26edc85fd62",
+   "title": "《離開前 仍有話要說》劇場",
+   "category": "表演藝術",
+   "start": "2026-11-13",
+   "end": "2026-11-15",
+   "venue": "東九文化中心 劇場",
+   "url": "https://timable.com/zh/event/%E9%9B%A2%E9%96%8B%E5%89%8D-%E4%BB%8D%E6%9C%89%E8%A9%B1%E8%A6%81%E8%AA%AA-%E5%8A%87%E5%A0%B4",
+   "source": "Timable",
+   "image": "https://static.timable.com/image_1fcc7242-ef0a-4401-86bf-4a02f24c3b5d-300x422.webp",
    "featured": false
   },
   {
