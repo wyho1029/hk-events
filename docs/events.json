@@ -1,5 +1,5 @@
 {
- "updated": "2026-08-13",
+ "updated": "2026-08-14",
  "events": [
   {
    "id": "e13429ad674f",
@@ -662,6 +662,18 @@
    "featured": false
   },
   {
+   "id": "7abedb1c75a9",
+   "title": "2026-27年度 「十八有藝──灣仔社區演藝計劃」《Let's Jazz! Let's Jam!》爵士共樂培訓計劃──遴選",
+   "category": "表演藝術",
+   "start": "2026-07-30",
+   "end": "2026-08-16",
+   "venue": "灣仔區內場地",
+   "url": "https://www.cpo.gov.hk/zh-hk/event/tc-wc-2627/",
+   "source": "康文署",
+   "image": "",
+   "featured": false
+  },
+  {
    "id": "3260f1aef688",
    "title": "香港電影資料館‧25搜影禮（香港電影資料館二十五周年誌慶節目）",
    "category": "電影活動",
@@ -864,18 +876,6 @@
    "featured": false
   },
   {
-   "id": "21d1dbece89d",
-   "title": "力聚唱家班演唱會",
-   "category": "演唱會",
-   "start": "2026-08-13",
-   "end": "2026-08-13",
-   "venue": "荃灣大會堂 (文娛廳)",
-   "url": "https://www.lcsd.gov.hk/clpss/tc/search/culture/DetailForm.do?id=184728",
-   "source": "康文署",
-   "image": "",
-   "featured": false
-  },
-  {
    "id": "a855f1f13aee",
    "title": "功夫女足",
    "category": "電影",
@@ -929,18 +929,6 @@
    "image": "https://wmoov.com/assets/poster/221c818b7d6b8dd97e89305e9bc32eaf.jpg",
    "rating": "",
    "shows": 10,
-   "featured": false
-  },
-  {
-   "id": "ada4c6f3a3d6",
-   "title": "名曲粵韻獻知音",
-   "category": "表演藝術",
-   "start": "2026-08-13",
-   "end": "2026-08-13",
-   "venue": "大埔文娛中心 (演藝廳)",
-   "url": "https://www.lcsd.gov.hk/clpss/tc/search/culture/DetailForm.do?id=184695",
-   "source": "康文署",
-   "image": "",
    "featured": false
   },
   {
@@ -1084,30 +1072,6 @@
    "featured": false
   },
   {
-   "id": "82fe25df229c",
-   "title": "文化遊樂「元」─行者集匯",
-   "category": "休閒",
-   "start": "2026-08-13",
-   "end": "2026-08-13",
-   "venue": "元朗劇院 (演藝廳)",
-   "url": "https://www.aftec.hk/?p=16290&lang=zh",
-   "source": "康文署",
-   "image": "",
-   "featured": false
-  },
-  {
-   "id": "6a5c3b1c213c",
-   "title": "朗聲名曲獻知音",
-   "category": "表演藝術",
-   "start": "2026-08-13",
-   "end": "2026-08-13",
-   "venue": "荃灣大會堂 (演奏廳)",
-   "url": "https://www.lcsd.gov.hk/clpss/tc/search/culture/DetailForm.do?id=184715",
-   "source": "康文署",
-   "image": "",
-   "featured": false
-  },
-  {
    "id": "5c7718cd9746",
    "title": "末世橡樹街",
    "category": "電影",
@@ -1178,30 +1142,6 @@
    "featured": false
   },
   {
-   "id": "c13396665439",
-   "title": "粵劇《王子復仇記》",
-   "category": "表演藝術",
-   "start": "2026-08-13",
-   "end": "2026-08-13",
-   "venue": "高山劇場 (劇院)",
-   "url": "https://www.lcsd.gov.hk/clpss/tc/search/culture/DetailForm.do?id=184613",
-   "source": "康文署",
-   "image": "",
-   "featured": false
-  },
-  {
-   "id": "6b392251be10",
-   "title": "細語玎玲粵曲演唱會",
-   "category": "表演藝術",
-   "start": "2026-08-13",
-   "end": "2026-08-13",
-   "venue": "牛池灣文娛中心 (劇院)",
-   "url": "https://www.lcsd.gov.hk/tc/ticket/index.html",
-   "source": "康文署",
-   "image": "",
-   "featured": false
-  },
-  {
    "id": "7190c18de22b",
    "title": "給阿嬤的情書",
    "category": "電影",
@@ -1227,18 +1167,6 @@
    "image": "https://wmoov.com/assets/poster/4d640ebfcbd2795a49ddfd79f2ef970c.jpg",
    "rating": "9.5",
    "shows": 3,
-   "featured": false
-  },
-  {
-   "id": "c51e99fb94db",
-   "title": "繁花似錦",
-   "category": "休閒",
-   "start": "2026-08-13",
-   "end": "2026-08-13",
-   "venue": "葵青劇院 (演藝廳)",
-   "url": "https://www.lcsd.gov.hk/clpss/tc/search/culture/DetailForm.do?id=184702",
-   "source": "康文署",
-   "image": "",
    "featured": false
   },
   {
@@ -1461,18 +1389,6 @@
    "url": "https://operahongkong.org/zh/the-elixir-of-love-zh/",
    "source": "康文署",
    "image": "",
-   "featured": false
-  },
-  {
-   "id": "4ed334a18176",
-   "title": "周大福「夏調 · 感觀聲旅」展覽",
-   "category": "展覽",
-   "start": "2026-08-14",
-   "end": "2026-08-16",
-   "venue": "西九文化區 藝術展亭",
-   "url": "https://timable.com/zh/event/%E5%91%A8%E5%A4%A7%E7%A6%8F-%E5%A4%8F%E8%AA%BF-%E6%84%9F%E8%A7%80%E8%81%B2%E6%97%85-%E5%B1%95%E8%A6%BD",
-   "source": "Timable",
-   "image": "https://static.timable.com/image_daeb1214-9ab8-48c7-bf41-5f5143814181-480x240.webp",
    "featured": false
   },
   {
@@ -3960,6 +3876,18 @@
    "featured": false
   },
   {
+   "id": "8493fd2353e9",
+   "title": "2026-27年度「十八有藝──西貢社區演藝計劃」《琴聲貢聚》口琴計劃──講座",
+   "category": "表演藝術",
+   "start": "2026-09-06",
+   "end": "2026-09-06",
+   "venue": "景林鄰里社區中心",
+   "url": "https://www.facebook.com/hkharmonica",
+   "source": "康文署",
+   "image": "",
+   "featured": false
+  },
+  {
    "id": "b0546c3c3d28",
    "title": "Pujaan Hati Music Fest Hong Kong 2026",
    "category": "休閒",
@@ -4884,6 +4812,18 @@
    "featured": false
   },
   {
+   "id": "c4139c672ab6",
+   "title": "扣人心弦演唱會",
+   "category": "演唱會",
+   "start": "2026-09-14",
+   "end": "2026-09-14",
+   "venue": "牛池灣文娛中心 (文娛廳)",
+   "url": "https://www.lcsd.gov.hk/tc/ticket/index.html",
+   "source": "康文署",
+   "image": "",
+   "featured": false
+  },
+  {
    "id": "dc29e6cc58b6",
    "title": "濃情粵韻聚金秋",
    "category": "表演藝術",
@@ -5310,7 +5250,7 @@
    "start": "2026-09-19",
    "end": "2026-09-20",
    "venue": "荃灣大會堂 (文娛廳)",
-   "url": "https://www.lcsd.gov.hk/clpss/tc/search/culture/DetailForm.do?id=186000",
+   "url": "https://www.lcsd.gov.hk/tc/ticket/index.html",
    "source": "康文署",
    "image": "",
    "featured": false
@@ -6633,6 +6573,18 @@
    "url": "https://timable.com/zh/event/%E5%92%92%E8%A1%93%E8%BF%B4%E6%88%B0-%E9%9F%B3%E6%A8%82%E6%9C%83",
    "source": "Timable",
    "image": "https://static.timable.com/image_e8309062-1c33-4c4d-bc3f-833f6027bb7a-480x734.webp",
+   "featured": false
+  },
+  {
+   "id": "c6023b7be256",
+   "title": "FIRST 創作平台 2026",
+   "category": "休閒",
+   "start": "2026-10-11",
+   "end": "2026-10-11",
+   "venue": "戲曲中心排演室 1",
+   "url": "https://timable.com/zh/event/FIRST%E5%89%B5%E4%BD%9C%E5%B9%B3%E5%8F%B02026",
+   "source": "Timable",
+   "image": "https://static.timable.com/image_b6a6307f-35ae-47f9-8fe2-869591eda80f-480x600.webp",
    "featured": false
   },
   {
