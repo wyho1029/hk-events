@@ -194,6 +194,18 @@
    "featured": false
   },
   {
+   "id": "afbcd0ca22fa",
+   "title": "Miffy x 富山麵家 期間限定店",
+   "category": "休閒",
+   "start": "2026-07-01",
+   "end": "2026-10-31",
+   "venue": "富山麵家",
+   "url": "https://timable.com/zh/event/Miffyx%E5%AF%8C%E5%B1%B1%E9%BA%B5%E5%AE%B6%E6%9C%9F%E9%96%93%E9%99%90%E5%AE%9A%E5%BA%97",
+   "source": "Timable",
+   "image": "https://static.timable.com/image_679aeffe-4ed2-4125-b986-f2562e8dce14-480x600.webp",
+   "featured": false
+  },
+  {
    "id": "e87fd1d3f91b",
    "title": "《織脈》",
    "category": "休閒",
@@ -203,6 +215,18 @@
    "url": "https://www.ekcc.hk/zh-hk/events/2026/woven-pulse.html",
    "source": "康文署",
    "image": "",
+   "featured": false
+  },
+  {
+   "id": "3ac959e59ca9",
+   "title": "反斗奇兵「山下菓子 TOY-tastic 夏日限定店」 @T.O.P This is Our Place",
+   "category": "休閒",
+   "start": "2026-07-01",
+   "end": "2026-09-01",
+   "venue": "山下菓子 Kingsley Café and Meal",
+   "url": "https://timable.com/zh/event/%E5%8F%8D%E6%96%97%E5%A5%87%E5%85%B5-%E5%B1%B1%E4%B8%8B%E8%8F%93%E5%AD%90TOY-tastic%E5%A4%8F%E6%97%A5%E9%99%90%E5%AE%9A%E5%BA%97--T-O-PThisisOurPlace",
+   "source": "Timable",
+   "image": "https://static.timable.com/image_dfd68f64-e800-476c-839c-b5d382768a77-480x432.webp",
    "featured": false
   },
   {
@@ -347,18 +371,6 @@
    "url": "https://www.lcsd.gov.hk/tc/ticket/index.html",
    "source": "康文署",
    "image": "",
-   "featured": false
-  },
-  {
-   "id": "438992767745",
-   "title": "「水壺傳」久米美由紀攝影展",
-   "category": "電影活動",
-   "start": "2026-07-05",
-   "end": "2026-08-25",
-   "venue": "香港文化中心",
-   "url": "https://timable.com/zh/event/%E4%B9%85%E7%B1%B3%E7%BE%8E%E7%94%B1%E7%B4%80-%E6%B0%B4%E5%A3%BA%E5%82%B3-%E6%94%9D%E5%BD%B1%E5%B1%95",
-   "source": "Timable",
-   "image": "https://static.timable.com/image_4ca1c854-c6dd-4c53-8ac5-dd288c49928c-480x600.webp",
    "featured": false
   },
   {
@@ -566,39 +578,15 @@
    "featured": false
   },
   {
-   "id": "a6650e945dcf",
-   "title": "「縱使我遺忘了自己的名字」 展覽",
-   "category": "展覽",
-   "start": "2026-07-18",
-   "end": "2026-08-29",
-   "venue": "M PLACE",
-   "url": "https://timable.com/zh/event/EvenThoughIForgotMyName-%E5%B1%95%E8%A6%BD",
-   "source": "Timable",
-   "image": "https://static.timable.com/image_64b8a8c5-36a9-4672-b616-f4fbc2603b69-480x600.webp",
-   "featured": false
-  },
-  {
-   "id": "3ce1889bf984",
-   "title": "「織時大叫！」 展覽",
-   "category": "展覽",
-   "start": "2026-07-18",
-   "end": "2026-10-25",
-   "venue": "荃灣CHAT六廠",
-   "url": "https://timable.com/zh/event/%E7%B9%94%E6%99%82%E5%A4%A7%E5%8F%AB-%E5%B1%95%E8%A6%BD",
-   "source": "Timable",
-   "image": "https://static.timable.com/image_2a314465-3564-489a-8965-cc1f1158ee36-480x238.webp",
-   "featured": false
-  },
-  {
-   "id": "970594ab5e5f",
-   "title": "「mofusand夏日喫茶店」@德福廣場",
+   "id": "7948b158625c",
+   "title": "YEYE Weller \"Summer Paradise\" 夏日藝術裝置 ＠ifc mall",
    "category": "休閒",
-   "start": "2026-07-25",
-   "end": "2026-08-31",
-   "venue": "德福廣場 1期 中央展場",
-   "url": "https://timable.com/zh/event/mofusand%E5%A4%8F%E6%97%A5%E5%96%AB%E8%8C%B6%E5%BA%97--%E5%BE%B7%E7%A6%8F%E5%BB%A3%E5%A0%B4",
+   "start": "2026-07-23",
+   "end": "2026-08-30",
+   "venue": "ifc商場一樓中庭",
+   "url": "https://timable.com/zh/event/YEYEWeller-SummerParadise-%E5%A4%8F%E6%97%A5%E8%97%9D%E8%A1%93%E8%A3%9D%E7%BD%AE-ifc%E5%95%86%E5%A0%B4",
    "source": "Timable",
-   "image": "https://static.timable.com/image_54ba1a9a-a26a-4c2a-bc18-eb6218049c51-480x480.webp",
+   "image": "https://static.timable.com/image_1070d980-70dc-4414-acf1-b6d56c093263-480x600.webp",
    "featured": false
   },
   {
@@ -686,18 +674,6 @@
    "featured": false
   },
   {
-   "id": "932e732a96ec",
-   "title": "「香港百景」何達鴻 John Ho 展覽",
-   "category": "展覽",
-   "start": "2026-08-06",
-   "end": "2026-08-23",
-   "venue": "ztoryhome",
-   "url": "https://timable.com/zh/event/%E4%BD%95%E9%81%94%E9%B4%BBJohnHo-%E9%A6%99%E6%B8%AF%E7%99%BE%E6%99%AF100cornersofHongKong-%E5%B1%95%E8%A6%BD",
-   "source": "Timable",
-   "image": "https://static.timable.com/image_9be7e14b-7129-4e1d-b2b6-7c8589332e3e-480x640.webp",
-   "featured": false
-  },
-  {
    "id": "3ff4d46563e0",
    "title": "小熊維尼 \"Winnie the Pooh The 100th Year Celebration\" POP-UP期間限定店 @又一城",
    "category": "休閒",
@@ -707,6 +683,18 @@
    "url": "https://timable.com/zh/event/%E5%B0%8F%E7%86%8A%E7%B6%AD%E5%B0%BC-WinniethePoohThe100thYearCelebration-POP-UP%E6%9C%9F%E9%96%93%E9%99%90%E5%AE%9A%E5%BA%97-%E5%8F%88%E4%B8%80%E5%9F%8E",
    "source": "Timable",
    "image": "https://static.timable.com/image_914c62bb-6b92-4695-b99e-f8854776fd16-480x720.webp",
+   "featured": false
+  },
+  {
+   "id": "da076b8f5fc0",
+   "title": "RE-LOVE 綠續生活節",
+   "category": "休閒",
+   "start": "2026-08-07",
+   "end": "2026-09-06",
+   "venue": "南豐紗廠",
+   "url": "https://timable.com/zh/event/RE-LOVE%E7%B6%A0%E7%BA%8C%E7%94%9F%E6%B4%BB%E7%AF%80",
+   "source": "Timable",
+   "image": "https://static.timable.com/image_1e9018f1-ba11-49f2-86b9-9f0d644b3d46-480x210.webp",
    "featured": false
   },
   {
@@ -722,15 +710,27 @@
    "featured": false
   },
   {
-   "id": "f49fcbf255a8",
-   "title": "美食博覽 2026",
-   "category": "展覽",
+   "id": "aa103bcfbf50",
+   "title": "東映動畫 POP-UP 期間限定店 @又一城",
+   "category": "休閒",
    "start": "2026-08-13",
-   "end": "2026-08-17",
-   "venue": "香港會議展覽中心Hall 5BC",
-   "url": "https://timable.com/zh/event/%E7%BE%8E%E9%A3%9F%E5%8D%9A%E8%A6%BD2026",
+   "end": "2026-08-31",
+   "venue": "又一城",
+   "url": "https://timable.com/zh/event/%E6%9D%B1%E6%98%A0%E5%8B%95%E7%95%ABPOP-UP%E6%9C%9F%E9%96%93%E9%99%90%E5%AE%9A%E5%BA%97-%E5%8F%88%E4%B8%80%E5%9F%8E",
    "source": "Timable",
-   "image": "https://static.timable.com/ 2024-09-09 17.19.56-460x460.webp",
+   "image": "https://static.timable.com/image_2176f7fd-07f4-4356-894f-71e8d8f26bd5-480x320.webp",
+   "featured": false
+  },
+  {
+   "id": "bb6f0382d51f",
+   "title": "「小怪獸育成計劃」親子感官探索創作展覽",
+   "category": "展覽",
+   "start": "2026-08-14",
+   "end": "2026-09-20",
+   "venue": "AIRSIDE 3樓GATE33藝文館(SHOP 312)",
+   "url": "https://timable.com/zh/event/%E4%B8%BB%E9%A1%8C%E5%BC%8F%E8%A6%AA%E5%AD%90%E5%89%B5%E6%84%8F%E9%AB%94%E9%A9%97%E4%BC%81%E5%8A%83-AIRSIDEGATE33%E8%97%9D%E6%96%87%E9%A4%A8",
+   "source": "Timable",
+   "image": "https://static.timable.com/image_0d3e15bf-b16a-40db-9fa7-81eaf4b3ec7f-480x480.webp",
    "featured": false
   },
   {
@@ -1378,6 +1378,18 @@
    "featured": false
   },
   {
+   "id": "b83a99fdb4d2",
+   "title": "VSPO! 「Sail Beyond！～駛向更遠的彼方～」期間限定店",
+   "category": "休閒",
+   "start": "2026-08-19",
+   "end": "2026-09-16",
+   "venue": "K11 MUSEA G Room Bar & Lounge",
+   "url": "https://timable.com/zh/event/VSPO--SailBeyond--%E9%A7%9B%E5%90%91%E6%9B%B4%E9%81%A0%E7%9A%84%E5%BD%BC%E6%96%B9--%E6%9C%9F%E9%96%93%E9%99%90%E5%AE%9A%E5%BA%97",
+   "source": "Timable",
+   "image": "https://static.timable.com/image_d4307400-737e-45e1-a20b-b7cf77bf397f-480x270.webp",
+   "featured": false
+  },
+  {
    "id": "0c2d1042d26d",
    "title": "《秋鳳梨園夢紅豆最相思》折子戲專場",
    "category": "表演藝術",
@@ -1399,6 +1411,18 @@
    "url": "https://www.lcsd.gov.hk/tc/ticket/index.html",
    "source": "康文署",
    "image": "",
+   "featured": false
+  },
+  {
+   "id": "96bb175b3852",
+   "title": "《天官賜福》動畫原畫紀念展覽",
+   "category": "展覽",
+   "start": "2026-08-20",
+   "end": "2026-09-20",
+   "venue": "INCUBASE Arena B1 (新址)",
+   "url": "https://timable.com/zh/event/%E5%A4%A9%E5%AE%98%E8%B3%9C%E7%A6%8F-%E5%8B%95%E7%95%AB%E5%8E%9F%E7%95%AB%E7%B4%80%E5%BF%B5%E5%B1%95%E8%A6%BD",
+   "source": "Timable",
+   "image": "https://static.timable.com/image_d25256ee-4d24-457f-917f-849d15ff6997-480x300.webp",
    "featured": false
   },
   {
@@ -1603,6 +1627,18 @@
    "url": "https://www.lcsd.gov.hk/tc/ticket/index.html",
    "source": "康文署",
    "image": "",
+   "featured": false
+  },
+  {
+   "id": "1081cf13343e",
+   "title": "香港電腦通訊節 2026",
+   "category": "休閒",
+   "start": "2026-08-21",
+   "end": "2026-08-24",
+   "venue": "香港會議展覽中心Hall 5BC",
+   "url": "https://timable.com/zh/event/%E9%A6%99%E6%B8%AF%E9%9B%BB%E8%85%A6%E9%80%9A%E8%A8%8A%E7%AF%802026",
+   "source": "Timable",
+   "image": "https://static.timable.com/image_3f7ee234-0991-44c1-8ae8-5bf09f97d4c6-480x360.webp",
    "featured": false
   },
   {
