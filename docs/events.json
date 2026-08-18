@@ -1,5 +1,5 @@
 {
- "updated": "2026-08-17",
+ "updated": "2026-08-18",
  "events": [
   {
    "id": "e13429ad674f",
@@ -711,12 +711,12 @@
   },
   {
    "id": "aa103bcfbf50",
-   "title": "東映動畫 POP-UP 期間限定店 @又一城",
+   "title": "東映動畫期間限定店 @又一城",
    "category": "休閒",
    "start": "2026-08-13",
    "end": "2026-08-31",
-   "venue": "又一城",
-   "url": "https://timable.com/zh/event/%E6%9D%B1%E6%98%A0%E5%8B%95%E7%95%ABPOP-UP%E6%9C%9F%E9%96%93%E9%99%90%E5%AE%9A%E5%BA%97-%E5%8F%88%E4%B8%80%E5%9F%8E",
+   "venue": "又一城 LG2層",
+   "url": "https://timable.com/zh/event/%E6%9D%B1%E6%98%A0%E5%8B%95%E7%95%AB%E6%9C%9F%E9%96%93%E9%99%90%E5%AE%9A%E5%BA%97-%E5%8F%88%E4%B8%80%E5%9F%8E",
    "source": "Timable",
    "image": "https://static.timable.com/image_2176f7fd-07f4-4356-894f-71e8d8f26bd5-480x320.webp",
    "featured": false
@@ -734,30 +734,6 @@
    "featured": false
   },
   {
-   "id": "17e57e20f2e3",
-   "title": "劍虹書畫會第一屆書畫展覽",
-   "category": "展覽",
-   "start": "2026-08-14",
-   "end": "2026-08-17",
-   "venue": "香港大會堂 (展覽館)",
-   "url": "https://www.lcsd.gov.hk/tc/ticket/index.html",
-   "source": "康文署",
-   "image": "",
-   "featured": false
-  },
-  {
-   "id": "9d76509604f3",
-   "title": "IEMA 夏日音樂會2026",
-   "category": "表演藝術",
-   "start": "2026-08-17",
-   "end": "2026-08-17",
-   "venue": "沙田大會堂 (文娛廳)",
-   "url": "https://www.iema.hk/",
-   "source": "康文署",
-   "image": "",
-   "featured": false
-  },
-  {
    "id": "6bf0fd72ec00",
    "title": "UFO離奇命案",
    "category": "電影",
@@ -769,18 +745,6 @@
    "image": "https://wmoov.com/assets/poster/f2349fc5f5823731b50e29172643a0c5.jpg",
    "rating": "6.6",
    "shows": 5,
-   "featured": false
-  },
-  {
-   "id": "0f38477fc436",
-   "title": "《鑫韻劇藝小精英才藝匯演2026折子戲專場》",
-   "category": "表演藝術",
-   "start": "2026-08-17",
-   "end": "2026-08-17",
-   "venue": "高山劇場 (新翼演藝廳)",
-   "url": "https://www.lcsd.gov.hk/clpss/tc/search/culture/DetailForm.do?id=184634",
-   "source": "康文署",
-   "image": "",
    "featured": false
   },
   {
@@ -1092,18 +1056,6 @@
    "featured": false
   },
   {
-   "id": "b85e43736e2b",
-   "title": "玉瑤金曲會知音",
-   "category": "表演藝術",
-   "start": "2026-08-17",
-   "end": "2026-08-17",
-   "venue": "屯門大會堂 (文娛廳)",
-   "url": "https://www.lcsd.gov.hk/clpss/tc/search/culture/DetailForm.do?id=184658",
-   "source": "康文署",
-   "image": "",
-   "featured": false
-  },
-  {
    "id": "9a6f9721ffcf",
    "title": "真人版 魔海奇緣",
    "category": "電影",
@@ -1255,18 +1207,6 @@
    "image": "https://wmoov.com/assets/poster/e105636c48eaaaae11799c6cee1fad43.jpg",
    "rating": "8.1",
    "shows": 1,
-   "featured": false
-  },
-  {
-   "id": "74712190a08f",
-   "title": "黃瞻遠師生國畫展（第四屆）",
-   "category": "展覽",
-   "start": "2026-08-17",
-   "end": "2026-08-17",
-   "venue": "香港文化中心 (大堂展覽場地)",
-   "url": "https://www.lcsd.gov.hk/tc/ticket/index.html",
-   "source": "康文署",
-   "image": "",
    "featured": false
   },
   {
@@ -3190,18 +3130,6 @@
    "featured": false
   },
   {
-   "id": "22fa25914016",
-   "title": "「三生有幸」演唱會",
-   "category": "演唱會",
-   "start": "2026-09-06",
-   "end": "2026-09-06",
-   "venue": "大埔文娛中心 (演藝廳)",
-   "url": "https://www.lcsd.gov.hk/clpss/tc/search/culture/DetailForm.do?id=186789",
-   "source": "康文署",
-   "image": "",
-   "featured": false
-  },
-  {
    "id": "6d7d7ec46593",
    "title": "周年音樂會",
    "category": "表演藝術",
@@ -3269,6 +3197,18 @@
    "end": "2026-09-06",
    "venue": "香港大會堂 (音樂廳)",
    "url": "http://www.youthorchestra.hk",
+   "source": "康文署",
+   "image": "",
+   "featured": false
+  },
+  {
+   "id": "22fa25914016",
+   "title": "飛躍演舞台",
+   "category": "休閒",
+   "start": "2026-09-06",
+   "end": "2026-09-06",
+   "venue": "大埔文娛中心 (演藝廳)",
+   "url": "https://www.lcsd.gov.hk/tc/ticket/index.html",
    "source": "康文署",
    "image": "",
    "featured": false
@@ -4234,6 +4174,18 @@
    "featured": false
   },
   {
+   "id": "f6348782b519",
+   "title": "華麗聲韻金曲演唱會",
+   "category": "演唱會",
+   "start": "2026-09-15",
+   "end": "2026-09-15",
+   "venue": "牛池灣文娛中心 (文娛廳)",
+   "url": "https://www.lcsd.gov.hk/tc/ticket/index.html",
+   "source": "康文署",
+   "image": "",
+   "featured": false
+  },
+  {
    "id": "af7dbf38d296",
    "title": "講座：「天象廳談天說星」講座系列",
    "category": "休閒",
@@ -4264,6 +4216,18 @@
    "start": "2026-09-16",
    "end": "2026-09-16",
    "venue": "東九文化中心 (樂館)",
+   "url": "https://www.lcsd.gov.hk/tc/ticket/index.html",
+   "source": "康文署",
+   "image": "",
+   "featured": false
+  },
+  {
+   "id": "aa864f9dfde1",
+   "title": "千騙幻化",
+   "category": "休閒",
+   "start": "2026-09-16",
+   "end": "2026-09-17",
+   "venue": "香港大會堂 (音樂廳)",
    "url": "https://www.lcsd.gov.hk/tc/ticket/index.html",
    "source": "康文署",
    "image": "",
@@ -5662,6 +5626,18 @@
    "featured": false
   },
   {
+   "id": "9ef932ef5667",
+   "title": "中西區各界慶祝中華人民共和國成立77周年 ─ 舞樂同歡賀國慶",
+   "category": "休閒",
+   "start": "2026-09-29",
+   "end": "2026-09-29",
+   "venue": "香港大會堂 (音樂廳)",
+   "url": "https://www.lcsd.gov.hk/tc/ticket/index.html",
+   "source": "康文署",
+   "image": "",
+   "featured": false
+  },
+  {
    "id": "349afdff4059",
    "title": "天朗群聲金曲演唱會",
    "category": "演唱會",
@@ -6005,6 +5981,18 @@
    "end": "2026-10-27",
    "venue": "香港大會堂 (劇院)",
    "url": "https://www.lcsd.gov.hk/CE/CulturalService/Programme/tc/music/programs_1984.html",
+   "source": "康文署",
+   "image": "",
+   "featured": false
+  },
+  {
+   "id": "23d652c7b151",
+   "title": "香港文化中心場地伙伴計劃：李錦記全力支持：2026 香港鼓樂節：鼓王群英會",
+   "category": "休閒",
+   "start": "2026-10-30",
+   "end": "2026-10-30",
+   "venue": "香港文化中心 (音樂廳)",
+   "url": "https://www.hkco.org/tc/Concerts/Hong-Kong-Drum-Festival-2026--Majestic-Drums.html",
    "source": "康文署",
    "image": "",
    "featured": false
