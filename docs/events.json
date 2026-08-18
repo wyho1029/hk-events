@@ -1354,18 +1354,6 @@
    "featured": false
   },
   {
-   "id": "2960ef4b4198",
-   "title": "\"Letter to Myself\" 展覽",
-   "category": "展覽",
-   "start": "2026-08-20",
-   "end": "2026-10-03",
-   "venue": "Soluna Fine Art",
-   "url": "https://timable.com/zh/event/LettertoMyself-%E5%B1%95%E8%A6%BD",
-   "source": "Timable",
-   "image": "https://static.timable.com/image_4d134e99-a569-46a2-a6a4-28a224f35755-480x600.webp",
-   "featured": false
-  },
-  {
    "id": "96bb175b3852",
    "title": "《天官賜福》動畫原畫紀念展覽",
    "category": "展覽",
@@ -1471,6 +1459,18 @@
    "url": "https://www.lcsd.gov.hk/tc/ticket/index.html",
    "source": "康文署",
    "image": "",
+   "featured": false
+  },
+  {
+   "id": "5f74b2bb4a70",
+   "title": "\"Songs we'll never sing\" 音樂會",
+   "category": "表演藝術",
+   "start": "2026-08-21",
+   "end": "2026-08-23",
+   "venue": "藝穗會 賽馬會劇場",
+   "url": "https://timable.com/zh/event/Songswe-llneversing-%E9%9F%B3%E6%A8%82%E6%9C%83",
+   "source": "Timable",
+   "image": "https://static.timable.com/image_2ef0d06c-4006-4ad5-adf4-6b468770175a-460x315.webp",
    "featured": false
   },
   {
