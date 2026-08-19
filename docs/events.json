@@ -650,6 +650,18 @@
    "featured": false
   },
   {
+   "id": "647e3b15deef",
+   "title": "馬灣玩轉暑期市集",
+   "category": "市集",
+   "start": "2026-08-01",
+   "end": "2026-08-23",
+   "venue": "天后廟廣場",
+   "url": "https://timable.com/zh/event/%E9%A6%AC%E7%81%A3%E7%8E%A9%E8%BD%89%E6%9A%91%E6%9C%9F%E5%B8%82%E9%9B%86-",
+   "source": "Timable",
+   "image": "https://static.timable.com/image_0d8fd624-3279-4adc-9c6a-2b7b381fef54-400x400.webp",
+   "featured": false
+  },
+  {
    "id": "4686cc5bc28d",
    "title": "天文電影",
    "category": "電影活動",
@@ -687,7 +699,7 @@
   },
   {
    "id": "da076b8f5fc0",
-   "title": "RE-LOVE 綠續生活節",
+   "title": "RE-LOVE 綠續生活節 @南豐紗廠",
    "category": "休閒",
    "start": "2026-08-07",
    "end": "2026-09-06",
@@ -719,6 +731,18 @@
    "url": "https://timable.com/zh/event/%E6%9D%B1%E6%98%A0%E5%8B%95%E7%95%AB%E6%9C%9F%E9%96%93%E9%99%90%E5%AE%9A%E5%BA%97-%E5%8F%88%E4%B8%80%E5%9F%8E",
    "source": "Timable",
    "image": "https://static.timable.com/image_2176f7fd-07f4-4356-894f-71e8d8f26bd5-480x320.webp",
+   "featured": false
+  },
+  {
+   "id": "3526aa478242",
+   "title": "「古著文化祭」@RE-LOVE 綠續生活節",
+   "category": "休閒",
+   "start": "2026-08-14",
+   "end": "2026-08-23",
+   "venue": "南豐紗廠",
+   "url": "https://timable.com/zh/event/RE-LOVE%E7%B6%A0%E7%BA%8C%E7%94%9F%E6%B4%BB%E7%AF%80",
+   "source": "Timable",
+   "image": "https://static.timable.com/image_f5138894-d039-4925-b30a-90d56d12c8b8-480x441.webp",
    "featured": false
   },
   {
@@ -1862,18 +1886,6 @@
    "featured": false
   },
   {
-   "id": "2376df5d9193",
-   "title": "《日落下的彩虹》音樂分享會",
-   "category": "休閒",
-   "start": "2026-08-24",
-   "end": "2026-08-24",
-   "venue": "ROOOT",
-   "url": "https://timable.com/zh/event/%E6%97%A5%E8%90%BD%E4%B8%8B%E7%9A%84%E5%BD%A9%E8%99%B9-%E9%9F%B3%E6%A8%82%E5%88%86%E4%BA%AB%E6%9C%83",
-   "source": "Timable",
-   "image": "https://static.timable.com/image_6386dbec-75b4-4d78-8fe7-92bad17ae17e-480x600.webp",
-   "featured": false
-  },
-  {
    "id": "a8be4e1010da",
    "title": "同心唱聚金曲情",
    "category": "表演藝術",
@@ -1919,18 +1931,6 @@
    "url": "https://www.lcsd.gov.hk/tc/ticket/index.html",
    "source": "康文署",
    "image": "",
-   "featured": false
-  },
-  {
-   "id": "8556b56a9e09",
-   "title": "《星塵噪夢》音樂會",
-   "category": "表演藝術",
-   "start": "2026-08-25",
-   "end": "2026-08-25",
-   "venue": "藝穗會 奶庫",
-   "url": "https://timable.com/zh/event/%E6%98%9F%E5%A1%B5%E5%99%AA%E5%A4%A2-%E9%9F%B3%E6%A8%82%E6%9C%83",
-   "source": "Timable",
-   "image": "https://static.timable.com/image_10b5b0b1-3535-424d-a5b0-69ee09faa01f-460x306.webp",
    "featured": false
   },
   {
@@ -2054,15 +2054,15 @@
    "featured": false
   },
   {
-   "id": "23038faf9e36",
-   "title": "「識畫・相惜」展覽",
-   "category": "展覽",
+   "id": "20230eb7e94a",
+   "title": "《史詩英雄的交響啟航》音樂會 @香港管弦樂團",
+   "category": "表演藝術",
    "start": "2026-08-27",
-   "end": "2026-09-01",
-   "venue": "藝穗會 陳麗玲畫廊",
-   "url": "https://timable.com/zh/event/%E8%AD%98%E7%95%AB-%E7%9B%B8%E6%83%9C-%E5%B1%95%E8%A6%BD",
+   "end": "2026-08-28",
+   "venue": "香港文化中心 音樂廳",
+   "url": "https://timable.com/zh/event/%E5%8F%B2%E8%A9%A9%E8%8B%B1%E9%9B%84%E7%9A%84%E4%BA%A4%E9%9F%BF%E5%95%9F%E8%88%AA-%E9%9F%B3%E6%A8%82%E6%9C%83-%E9%A6%99%E6%B8%AF%E7%AE%A1%E5%BC%A6%E6%A8%82%E5%9C%98",
    "source": "Timable",
-   "image": "https://static.timable.com/image_9e163a2f-a4b2-444f-854c-e0cc3ee66b78-480x600.webp",
+   "image": "https://static.timable.com/image_54c8eaea-84dd-4ab1-b039-a69d95ffc453-480x270.webp",
    "featured": false
   },
   {
@@ -2882,18 +2882,6 @@
    "featured": false
   },
   {
-   "id": "4d66e75769ff",
-   "title": "\"Jazzing Cinema: The Films of Leslie Cheung\" 音樂會",
-   "category": "表演藝術",
-   "start": "2026-09-05",
-   "end": "2026-09-26",
-   "venue": "藝穗會 奶庫",
-   "url": "https://timable.com/zh/event/JazzingCinema-TheFilmsofLeslieCheung-%E9%9F%B3%E6%A8%82%E6%9C%83",
-   "source": "Timable",
-   "image": "https://static.timable.com/image_d4da4c5f-ef36-478f-9238-fc322ac6a0ef-480x600.webp",
-   "featured": false
-  },
-  {
    "id": "14fed483ca5a",
    "title": "The Rhapsody of Strings",
    "category": "休閒",
@@ -2939,6 +2927,18 @@
    "url": "https://www.oratorio.org.hk/web/zh/",
    "source": "康文署",
    "image": "",
+   "featured": false
+  },
+  {
+   "id": "6b3d4e0f21cf",
+   "title": "「海洋公園哈囉喂」2026",
+   "category": "休閒",
+   "start": "2026-09-05",
+   "end": "2026-11-01",
+   "venue": "香港海洋公園",
+   "url": "https://timable.com/zh/event/%E6%B5%B7%E6%B4%8B%E5%85%AC%E5%9C%92-%E5%93%88%E5%9B%89%E5%96%82-2026",
+   "source": "Timable",
+   "image": "https://static.timable.com/image_d8cf11d0-b922-4941-965b-e6e6947e4cd4-480x270.webp",
    "featured": false
   },
   {
@@ -3263,18 +3263,6 @@
    "url": "https://www.lcsd.gov.hk/clpss/tc/search/culture/DetailForm.do?id=185823",
    "source": "康文署",
    "image": "",
-   "featured": false
-  },
-  {
-   "id": "6b3d4e0f21cf",
-   "title": "海洋公園「哈囉喂」2026",
-   "category": "休閒",
-   "start": "2026-09-07",
-   "end": "2026-11-08",
-   "venue": "香港海洋公園",
-   "url": "https://timable.com/zh/event/%E6%B5%B7%E6%B4%8B%E5%85%AC%E5%9C%92-%E5%93%88%E5%9B%89%E5%96%82-2026",
-   "source": "Timable",
-   "image": "https://static.timable.com/image_d8cf11d0-b922-4941-965b-e6e6947e4cd4-480x270.webp",
    "featured": false
   },
   {
@@ -4070,18 +4058,6 @@
    "featured": false
   },
   {
-   "id": "cf6789823db7",
-   "title": "「娓尾稻來:河上鄉可持續農業及生態保育」展覽 ＠荃新天地",
-   "category": "展覽",
-   "start": "2026-09-14",
-   "end": "2026-09-20",
-   "venue": "荃新天地 2期 高層 地下中庭",
-   "url": "https://timable.com/zh/event/%E5%A8%93%E5%B0%BE%E7%A8%BB%E4%BE%86-%E6%B2%B3%E4%B8%8A%E9%84%89%E5%8F%AF%E6%8C%81%E7%BA%8C%E8%BE%B2%E6%A5%AD%E5%8F%8A%E7%94%9F%E6%85%8B%E4%BF%9D%E8%82%B2-%E5%B1%95%E8%A6%BD-%E8%8D%83%E6%96%B0%E5%A4%A9%E5%9C%B0",
-   "source": "Timable",
-   "image": "https://static.timable.com/image_7ab9ccaa-6c10-46d5-ab9a-6c69000a48b8-480x600.webp",
-   "featured": false
-  },
-  {
    "id": "d0eb8b874a95",
    "title": "力聚唱家班演唱會",
    "category": "演唱會",
@@ -4607,6 +4583,18 @@
    "url": "https://www.facebook.com/brassdebravissimo",
    "source": "康文署",
    "image": "",
+   "featured": false
+  },
+  {
+   "id": "1d4fd55ca7b8",
+   "title": "好時代 CANTO on the Beach 夕陽沙灘音樂節 2026",
+   "category": "表演藝術",
+   "start": "2026-09-19",
+   "end": "2026-09-20",
+   "venue": "愉景灣 大白灣沙灘",
+   "url": "https://timable.com/zh/event/%E5%A5%BD%E6%99%82%E4%BB%A3CANTOontheBeach%E5%A4%95%E9%99%BD%E6%B2%99%E7%81%98%E9%9F%B3%E6%A8%82%E7%AF%802026",
+   "source": "Timable",
+   "image": "https://static.timable.com/image_292fe6b4-85fe-4c19-85f1-4bf05383d66e-480x600.webp",
    "featured": false
   },
   {
@@ -5795,6 +5783,18 @@
    "url": "https://timable.com/zh/event/LANY-soft-%E4%B8%96%E7%95%8C%E5%B7%A1%E8%BF%B4%E6%BC%94%E5%94%B1%E6%9C%832026%E9%A6%99%E6%B8%AF%E7%AB%99",
    "source": "Timable",
    "image": "https://static.timable.com/image_4d7326d6-f67f-4b95-84c3-05726c6c1c67-466x466.webp",
+   "featured": false
+  },
+  {
+   "id": "ff38db04a8e7",
+   "title": "pH-1 \"pH-1 Live in Hong Kong\" 巡迴演唱會 2026 香港站",
+   "category": "演唱會",
+   "start": "2026-09-30",
+   "end": "2026-09-30",
+   "venue": "TIDES",
+   "url": "https://timable.com/zh/event/pH-1-pH-1LiveinHongKong-%E5%B7%A1%E8%BF%B4%E6%BC%94%E5%94%B1%E6%9C%832026%E9%A6%99%E6%B8%AF%E7%AB%99",
+   "source": "Timable",
+   "image": "https://static.timable.com/image_2a8e2ccc-67b2-4f1b-a7d0-e65e90b8c7b2-480x600.webp",
    "featured": false
   },
   {
