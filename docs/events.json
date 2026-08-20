@@ -1,5 +1,5 @@
 {
- "updated": "2026-08-19",
+ "updated": "2026-08-20",
  "events": [
   {
    "id": "e13429ad674f",
@@ -808,18 +808,6 @@
    "featured": false
   },
   {
-   "id": "0c2d1042d26d",
-   "title": "《秋鳳梨園夢紅豆最相思》折子戲專場",
-   "category": "表演藝術",
-   "start": "2026-08-19",
-   "end": "2026-08-19",
-   "venue": "沙田大會堂 (演奏廳)",
-   "url": "https://www.lcsd.gov.hk/clpss/tc/search/culture/DetailForm.do?id=185683",
-   "source": "康文署",
-   "image": "",
-   "featured": false
-  },
-  {
    "id": "615c3c8e2882",
    "title": "一個部門的誕生",
    "category": "電影",
@@ -1069,18 +1057,6 @@
    "image": "https://wmoov.com/assets/poster/5d9fd91cc4d6a4a1c25f2abd16170032.jpg",
    "rating": "",
    "shows": 50,
-   "featured": false
-  },
-  {
-   "id": "a583306ff37c",
-   "title": "澳洲國際音樂大賽—亞太區決賽",
-   "category": "休閒",
-   "start": "2026-08-19",
-   "end": "2026-08-19",
-   "venue": "西灣河文娛中心 (劇院)",
-   "url": "https://www.lcsd.gov.hk/tc/ticket/index.html",
-   "source": "康文署",
-   "image": "",
    "featured": false
   },
   {
@@ -6371,6 +6347,18 @@
    "url": "https://timable.com/zh/event/Clockenflap%E9%9F%B3%E6%A8%82%E5%8F%8A%E8%97%9D%E8%A1%93%E7%AF%802026",
    "source": "Timable",
    "image": "https://static.timable.com/image_77cbf4d0-76d4-4b60-8123-4688d955bf21-480x601.webp",
+   "featured": false
+  },
+  {
+   "id": "39c651f527f0",
+   "title": "林海峰x彭秀慧《內有惡戀》舞台劇",
+   "category": "休閒",
+   "start": "2026-12-04",
+   "end": "2026-12-26",
+   "venue": "西九文化區 戲曲中心 大劇院",
+   "url": "https://timable.com/zh/event/%E6%9E%97%E6%B5%B7%E5%B3%B0x%E5%BD%AD%E7%A7%80%E6%85%A7-%E5%85%A7%E6%9C%89%E6%83%A1%E6%88%80-%E8%88%9E%E5%8F%B0%E5%8A%87",
+   "source": "Timable",
+   "image": "https://static.timable.com/image_d3da4d1a-f349-4758-b6ab-01065c894021-480x640.webp",
    "featured": false
   },
   {
