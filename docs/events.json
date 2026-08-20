@@ -82,7 +82,7 @@
    "venue": "舊油麻地警署",
    "url": "https://fpf.ccidahk.gov.hk/tc/ymtps/ymtps.html#",
    "source": "盛事之都",
-   "image": "https://cms.brandhk.gov.hk/images/default-source/about-brandhk/17beb7ccf-3776-45cb-9387-14a9cf359796.jpg",
+   "image": "https://www.brandhk.gov.hk/images/default-source/about-brandhk/17beb7ccf-3776-45cb-9387-14a9cf359796.jpg",
    "featured": true
   },
   {
@@ -94,7 +94,7 @@
    "venue": "香港故宮文化博物館",
    "url": "https://www.hkpm.org.hk/tc/exhibition/treasures-of-global-jewellery-from-the-metropolitan-museum-of-art-the-body-transformed",
    "source": "盛事之都",
-   "image": "https://cms.brandhk.gov.hk/images/default-source/about-brandhk/1600x9000fa39407-b4ff-4b1a-b146-b539c71b5b0a.jpg",
+   "image": "https://www.brandhk.gov.hk/images/default-source/about-brandhk/1600x9000fa39407-b4ff-4b1a-b146-b539c71b5b0a.jpg",
    "featured": true
   },
   {
@@ -118,7 +118,7 @@
    "venue": "香港故宮文化博物館",
    "url": "https://www.hkpm.org.hk/tc/exhibition/the-hong-kong-jockey-club-series-the-forbidden-city-and-the-world-cultural-encounters",
    "source": "盛事之都",
-   "image": "https://cms.brandhk.gov.hk/images/default-source/about-brandhk/g1-kv-1600x900.jpg",
+   "image": "https://www.brandhk.gov.hk/images/default-source/about-brandhk/g1-kv-1600x900.jpg",
    "featured": true
   },
   {
@@ -1340,18 +1340,6 @@
    "featured": false
   },
   {
-   "id": "ca52b1e3c879",
-   "title": "\"DGSSG World\" Vol. 肆 音樂會 @DGSSG",
-   "category": "表演藝術",
-   "start": "2026-08-21",
-   "end": "2026-08-22",
-   "venue": "Social Room",
-   "url": "https://timable.com/zh/event/DGSSGWorldVol-%E8%82%86-%E9%9F%B3%E6%A8%82%E6%9C%83-DGSSG",
-   "source": "Timable",
-   "image": "https://static.timable.com/image_637df962-3f0d-4249-9566-f562441da622-480x597.webp",
-   "featured": false
-  },
-  {
    "id": "62c4b2afd309",
    "title": "Moment Dance Studio Summer Showcase",
    "category": "休閒",
@@ -1544,18 +1532,6 @@
    "featured": false
   },
   {
-   "id": "c8c4464b4091",
-   "title": "Southside Summer 音樂節 2026",
-   "category": "表演藝術",
-   "start": "2026-08-22",
-   "end": "2026-09-13",
-   "venue": "the pulse",
-   "url": "https://timable.com/zh/event/SouthsideSummer%E9%9F%B3%E6%A8%82%E7%AF%802026",
-   "source": "Timable",
-   "image": "https://static.timable.com/image_2e95ad1b-9976-4caf-8f3d-4668835baa7d-480x600.webp",
-   "featured": false
-  },
-  {
    "id": "f2139f7eca75",
    "title": "TIMA TMElive 國際音樂大賞 2026",
    "category": "休閒",
@@ -1589,6 +1565,18 @@
    "url": "https://docs.google.com/forms/d/e/1FAIpQLSdYrBVsl4l-mH_b6a77rqYAfvXKX0W1mMFdjuGcF3ui_nJUDw/viewform",
    "source": "康文署",
    "image": "",
+   "featured": false
+  },
+  {
+   "id": "c6e1909ea2a7",
+   "title": "《超時空偵探W-魔幻水晶球》劇場",
+   "category": "表演藝術",
+   "start": "2026-08-22",
+   "end": "2026-08-30",
+   "venue": "北區大會堂 演奏廳",
+   "url": "https://timable.com/zh/event/%E8%B6%85%E6%99%82%E7%A9%BA%E5%81%B5%E6%8E%A2W-%E9%AD%94%E5%B9%BB%E6%B0%B4%E6%99%B6%E7%90%83-%E5%8A%87%E5%A0%B4",
+   "source": "Timable",
+   "image": "https://static.timable.com/image_e239aae8-38ab-48af-80a2-22ba85df57f1-300x400.webp",
    "featured": false
   },
   {
@@ -2156,18 +2144,6 @@
    "featured": false
   },
   {
-   "id": "7c8b3b6df215",
-   "title": "盛夏玩物祭主題市集 ＠AIRSIDE",
-   "category": "市集",
-   "start": "2026-08-28",
-   "end": "2026-08-30",
-   "venue": "AIRSIDE",
-   "url": "https://timable.com/zh/event/%E7%9B%9B%E5%A4%8F%E7%8E%A9%E7%89%A9%E7%A5%AD%E4%B8%BB%E9%A1%8C%E5%B8%82%E9%9B%86-AIRSIDE",
-   "source": "Timable",
-   "image": "https://static.timable.com/image_c35ec696-c542-4bf3-b040-7d68793a28e0-480x600.webp",
-   "featured": false
-  },
-  {
    "id": "47c6bb564fd4",
    "title": "筆尋嘗畫會慶祝香港回歸29周年《筆德意》第八屆作品展",
    "category": "休閒",
@@ -2420,6 +2396,18 @@
    "featured": false
   },
   {
+   "id": "d139f5047589",
+   "title": "\"Creators Conflicts\" 同人交流會",
+   "category": "休閒",
+   "start": "2026-08-30",
+   "end": "2026-08-30",
+   "venue": "數碼港5座2樓多功能會議廳",
+   "url": "https://timable.com/zh/event/CreatorsConflicts-%E5%90%8C%E4%BA%BA%E4%BA%A4%E6%B5%81%E6%9C%83",
+   "source": "Timable",
+   "image": "https://static.timable.com/image_7277d614-1a79-4b16-b248-f967043bcaec-300x400.webp",
+   "featured": false
+  },
+  {
    "id": "3390ee921942",
    "title": "2026伍歷翹師生鋼琴演奏會",
    "category": "表演藝術",
@@ -2585,6 +2573,18 @@
    "url": "https://www.lcsd.gov.hk/tc/ticket/index.html",
    "source": "康文署",
    "image": "",
+   "featured": false
+  },
+  {
+   "id": "87a44e3dc366",
+   "title": "星雲陀螺王大賽",
+   "category": "休閒",
+   "start": "2026-08-31",
+   "end": "2026-08-31",
+   "venue": "Nebula Live House",
+   "url": "https://timable.com/zh/event/%E6%98%9F%E9%9B%B2%E9%99%80%E8%9E%BA%E7%8E%8B%E5%A4%A7%E8%B3%BD",
+   "source": "Timable",
+   "image": "https://static.timable.com/image_79789950-14fc-4dfe-919b-0a2b0f3f6401-480x640.webp",
    "featured": false
   },
   {
@@ -3713,18 +3713,6 @@
    "url": "https://www.art-mate.net/tc/doc/98634",
    "source": "康文署",
    "image": "",
-   "featured": false
-  },
-  {
-   "id": "944075d207b6",
-   "title": "香港知專設計學院「風華70．設計共鳴 哥哥紀念展」",
-   "category": "休閒",
-   "start": "2026-09-11",
-   "end": "2026-11-15",
-   "venue": "香港知專設計學院",
-   "url": "https://timable.com/zh/event/%E9%A2%A8%E8%8F%AF70-%E8%A8%AD%E8%A8%88%E5%85%B1%E9%B3%B4%E5%93%A5%E5%93%A5%E7%B4%80%E5%BF%B5%E5%B1%95--%E9%A6%99%E6%B8%AF%E7%9F%A5%E5%B0%88%E8%A8%AD%E8%A8%88%E5%AD%B8%E9%99%A2",
-   "source": "Timable",
-   "image": "https://static.timable.com/image_950fa9de-26ce-4d55-b7dd-20cc90fb2d72-480x680.webp",
    "featured": false
   },
   {
@@ -5264,6 +5252,18 @@
    "featured": false
   },
   {
+   "id": "d73f5ba81bf4",
+   "title": "\"GIRLS BAND CRY\" 期間限定店",
+   "category": "休閒",
+   "start": "2026-09-26",
+   "end": "2026-10-11",
+   "venue": "創興廣場 地庫",
+   "url": "https://timable.com/zh/event/GIRLSBANDCRY-%E6%9C%9F%E9%96%93%E9%99%90%E5%AE%9A%E5%BA%97",
+   "source": "Timable",
+   "image": "https://static.timable.com/image_439d3980-f794-4189-a7ed-4eae1715148f-480x480.webp",
+   "featured": false
+  },
+  {
    "id": "612bb6066764",
    "title": "2026-27年度「十八有藝 ── 屯門社區演藝計劃」《屯門2 — 浮世鏽跡》戲劇計劃── 工作坊及展演聯合排練",
    "category": "表演藝術",
@@ -6056,18 +6056,6 @@
    "featured": false
   },
   {
-   "id": "926551e2ce6a",
-   "title": "《笙火相傳》粤劇折子戲專場 @傳承 大戲候系列",
-   "category": "表演藝術",
-   "start": "2026-10-10",
-   "end": "2026-10-15",
-   "venue": "沙田大會堂 演奏廳",
-   "url": "https://timable.com/zh/event/%E7%AC%99%E7%81%AB%E7%9B%B8%E5%82%B3-%E7%B2%A4%E5%8A%87%E6%8A%98%E5%AD%90%E6%88%B2%E5%B0%88%E5%A0%B4-%E9%BE%8D%E5%8A%8D%E7%AC%99%E5%82%B3%E6%89%BF-%E5%A4%A7%E6%88%B2%E5%80%99%E7%B3%BB%E5%88%97",
-   "source": "Timable",
-   "image": "https://static.timable.com/image_013f6e35-dae6-44c4-b54b-0b48f6c30ac5-480x679.webp",
-   "featured": false
-  },
-  {
    "id": "72283acb2f89",
    "title": "海峽兩岸暨香港澳門經典及有裝備健力及臥推舉邀請賽",
    "category": "休閒",
@@ -6104,15 +6092,15 @@
    "featured": false
   },
   {
-   "id": "9d2b3e291c68",
-   "title": "\"Forever Bloom\" Marketoo×杜波棋 toballki 週末市集",
-   "category": "市集",
-   "start": "2026-10-17",
-   "end": "2026-10-19",
-   "venue": "D2 Place ONE",
-   "url": "https://timable.com/zh/event/ForeverBloom-Marketoo-%E6%9D%9C%E6%B3%A2%E6%A3%8Btoballki%E9%80%B1%E6%9C%AB%E5%B8%82%E9%9B%86",
+   "id": "c30f06843336",
+   "title": "《被迫營業中》劇場",
+   "category": "表演藝術",
+   "start": "2026-10-15",
+   "end": "2026-10-18",
+   "venue": "賽馬會創意藝術中心 黑盒劇場",
+   "url": "https://timable.com/zh/event/%E8%A2%AB%E8%BF%AB%E7%87%9F%E6%A5%AD%E4%B8%AD-%E5%8A%87%E5%A0%B4",
    "source": "Timable",
-   "image": "https://static.timable.com/image_f8262623-2ef2-4fa4-8442-0c41de7b3e03-480x480.webp",
+   "image": "https://static.timable.com/image_65d90a28-11e2-463d-859a-21290e795179-300x424.webp",
    "featured": false
   },
   {
@@ -6245,6 +6233,18 @@
    "url": "https://www.lcsd.gov.hk/CE/CulturalService/Programme/tc/music/programs_1987.html",
    "source": "康文署",
    "image": "",
+   "featured": false
+  },
+  {
+   "id": "63af7b120c0e",
+   "title": "\"FINAL FANTASY VII REMAKE\" 交響音樂會 世界巡迴演出 香港站",
+   "category": "表演藝術",
+   "start": "2026-11-13",
+   "end": "2026-11-14",
+   "venue": "香港文化中心 音樂廳",
+   "url": "https://timable.com/zh/event/FINALFANTASYVIIREMAKE-%E4%BA%A4%E9%9F%BF%E9%9F%B3%E6%A8%82%E6%9C%83%E4%B8%96%E7%95%8C%E5%B7%A1%E8%BF%B4%E6%BC%94%E5%87%BA%E9%A6%99%E6%B8%AF%E7%AB%99",
+   "source": "Timable",
+   "image": "https://static.timable.com/image_4d897fa1-8b6b-484c-9858-c77f4888b756-480x600.webp",
    "featured": false
   },
   {
@@ -6581,18 +6581,6 @@
    "url": "https://timable.com/zh/event/BTS-ARIRANG-%E4%B8%96%E7%95%8C%E5%B7%A1%E8%BF%B4%E6%BC%94%E5%94%B1%E6%9C%832027%E9%A6%99%E6%B8%AF%E7%AB%99",
    "source": "Timable",
    "image": "https://static.timable.com/image_ce0a1ebc-f5d5-4676-a692-156c3b8b4b9f-400x400.webp",
-   "featured": false
-  },
-  {
-   "id": "624a127eeaa1",
-   "title": "Justin Bieber \"THE ERAS\" 世界巡迴演唱會 2027 香港站",
-   "category": "演唱會",
-   "start": "2027-08-20",
-   "end": "2027-08-20",
-   "venue": "地點待定(香港)",
-   "url": "https://timable.com/zh/event/JustinBieber-THEERAS-%E4%B8%96%E7%95%8C%E5%B7%A1%E8%BF%B4%E6%BC%94%E5%94%B1%E6%9C%832027%E9%A6%99%E6%B8%AF%E7%AB%99",
-   "source": "Timable",
-   "image": "https://static.timable.com/image_c6909882-eed8-4b89-bc6a-cba36edaf281-480x480.webp",
    "featured": false
   }
  ]
