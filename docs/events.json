@@ -1,5 +1,5 @@
 {
- "updated": "2026-08-20",
+ "updated": "2026-08-21",
  "events": [
   {
    "id": "e13429ad674f",
@@ -810,18 +810,6 @@
    "featured": false
   },
   {
-   "id": "bb7ad75d6075",
-   "title": "《明日之聲週年慈善音樂會》",
-   "category": "表演藝術",
-   "start": "2026-08-20",
-   "end": "2026-08-20",
-   "venue": "高山劇場 (新翼演藝廳)",
-   "url": "https://www.lcsd.gov.hk/clpss/tc/search/culture/DetailForm.do?id=184636",
-   "source": "康文署",
-   "image": "",
-   "featured": false
-  },
-  {
    "id": "615c3c8e2882",
    "title": "一個部門的誕生",
    "category": "電影",
@@ -988,18 +976,6 @@
    "featured": false
   },
   {
-   "id": "b27c0f45cc15",
-   "title": "團隊不忘初心上環音樂會",
-   "category": "表演藝術",
-   "start": "2026-08-20",
-   "end": "2026-08-20",
-   "venue": "上環文娛中心 (演講廳)",
-   "url": "https://www.lcsd.gov.hk/tc/ticket/index.html",
-   "source": "康文署",
-   "image": "",
-   "featured": false
-  },
-  {
    "id": "be4566719c2b",
    "title": "夜王",
    "category": "電影",
@@ -1098,30 +1074,6 @@
    "featured": false
   },
   {
-   "id": "5d713e78ab82",
-   "title": "星光閃閃耀香江",
-   "category": "休閒",
-   "start": "2026-08-20",
-   "end": "2026-08-20",
-   "venue": "荃灣大會堂 (文娛廳)",
-   "url": "https://www.lcsd.gov.hk/clpss/tc/search/culture/DetailForm.do?id=184732",
-   "source": "康文署",
-   "image": "",
-   "featured": false
-  },
-  {
-   "id": "cd94fdaf43a1",
-   "title": "晉聲粵曲聚友情",
-   "category": "表演藝術",
-   "start": "2026-08-20",
-   "end": "2026-08-20",
-   "venue": "葵青劇院 (演藝廳)",
-   "url": "https://www.lcsd.gov.hk/clpss/tc/search/culture/DetailForm.do?id=184706",
-   "source": "康文署",
-   "image": "",
-   "featured": false
-  },
-  {
    "id": "5c7718cd9746",
    "title": "末世橡樹街",
    "category": "電影",
@@ -1175,18 +1127,6 @@
    "image": "https://wmoov.com/assets/poster/c74b9532678a5fbce6d2098e32b9bcea.jpg",
    "rating": "6.3",
    "shows": 2,
-   "featured": false
-  },
-  {
-   "id": "093c64024dee",
-   "title": "知音情永在",
-   "category": "表演藝術",
-   "start": "2026-08-20",
-   "end": "2026-08-20",
-   "venue": "屯門大會堂 (文娛廳)",
-   "url": "https://www.lcsd.gov.hk/clpss/tc/search/culture/DetailForm.do?id=184661",
-   "source": "康文署",
-   "image": "",
    "featured": false
   },
   {
@@ -1313,30 +1253,6 @@
    "image": "https://wmoov.com/assets/poster/5cf9e11191c48adbc489d1fc9c79e548.jpg",
    "rating": "6.2",
    "shows": 10,
-   "featured": false
-  },
-  {
-   "id": "eedbc5c41302",
-   "title": "音樂會「開心牛牛開派對」",
-   "category": "表演藝術",
-   "start": "2026-08-20",
-   "end": "2026-08-20",
-   "venue": "西灣河文娛中心 (劇院)",
-   "url": "https://www.lcsd.gov.hk/tc/ticket/index.html",
-   "source": "康文署",
-   "image": "",
-   "featured": false
-  },
-  {
-   "id": "eec8d9288992",
-   "title": "飛越彩虹：《綠野仙蹤》音樂劇",
-   "category": "表演藝術",
-   "start": "2026-08-20",
-   "end": "2026-08-20",
-   "venue": "東九文化中心 (劇場)",
-   "url": "https://www.lcsd.gov.hk/tc/ticket/index.html",
-   "source": "康文署",
-   "image": "",
    "featured": false
   },
   {
@@ -2535,6 +2451,18 @@
    "end": "2026-08-30",
    "venue": "高山劇場 (劇院)",
    "url": "https://www.lcsd.gov.hk/tc/ticket/index.html",
+   "source": "康文署",
+   "image": "",
+   "featured": false
+  },
+  {
+   "id": "0f27facc2738",
+   "title": "賽馬會中華文化藝術科技劇場計劃 2.0 - 《筆墨大冒險》",
+   "category": "體育",
+   "start": "2026-08-30",
+   "end": "2026-08-30",
+   "venue": "元朗劇院 (大堂展覽場地)",
+   "url": "https://www.lcsd.gov.hk/clpss/tc/search/culture/DetailForm.do?id=186824",
    "source": "康文署",
    "image": "",
    "featured": false
@@ -4137,7 +4065,7 @@
   },
   {
    "id": "520529884a29",
-   "title": "《一笑聲傳粵韻會知音》粵曲演唱會及粵劇折子戲",
+   "title": "《一笑聲傳粵韻會知音》粵曲演唱會",
    "category": "表演藝術",
    "start": "2026-09-15",
    "end": "2026-09-15",
@@ -4958,6 +4886,18 @@
    "start": "2026-09-21",
    "end": "2026-09-21",
    "venue": "香港大會堂 (音樂廳)",
+   "url": "https://www.lcsd.gov.hk/tc/ticket/index.html",
+   "source": "康文署",
+   "image": "",
+   "featured": false
+  },
+  {
+   "id": "e939b994f34b",
+   "title": "藝聲金曲之夜",
+   "category": "表演藝術",
+   "start": "2026-09-21",
+   "end": "2026-09-21",
+   "venue": "牛池灣文娛中心 (文娛廳)",
    "url": "https://www.lcsd.gov.hk/tc/ticket/index.html",
    "source": "康文署",
    "image": "",
@@ -5977,7 +5917,7 @@
    "category": "表演藝術",
    "start": "2026-10-08",
    "end": "2026-10-08",
-   "venue": "香港大會堂",
+   "venue": "香港大會堂 (劇院)",
    "url": "https://www.lcsd.gov.hk/CE/CulturalService/Programme/tc/music/programs_1988.html",
    "source": "康文署",
    "image": "",
@@ -6147,18 +6087,6 @@
    "end": "2026-10-27",
    "venue": "香港大會堂 (劇院)",
    "url": "https://www.lcsd.gov.hk/CE/CulturalService/Programme/tc/music/programs_1984.html",
-   "source": "康文署",
-   "image": "",
-   "featured": false
-  },
-  {
-   "id": "06b693a25fa3",
-   "title": "《民族音樂》展覽",
-   "category": "展覽",
-   "start": "2026-10-28",
-   "end": "2026-10-28",
-   "venue": "葵青劇院 (黑盒劇場)",
-   "url": "https://www.lcsd.gov.hk/tc/ticket/index.html",
    "source": "康文署",
    "image": "",
    "featured": false
