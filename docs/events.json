@@ -1,5 +1,5 @@
 {
- "updated": "2026-08-21",
+ "updated": "2026-08-22",
  "events": [
   {
    "id": "e13429ad674f",
@@ -782,30 +782,6 @@
    "featured": false
   },
   {
-   "id": "babcc17576dd",
-   "title": "兒童夏日天文班 : 認識星空",
-   "category": "親子",
-   "start": "2026-08-20",
-   "end": "2026-08-21",
-   "venue": "香港太空館",
-   "url": "https://hk.space.museum/tc/web/spm/activities/summer-astronomy-classes.html",
-   "source": "康文署",
-   "image": "",
-   "featured": false
-  },
-  {
-   "id": "62c4b2afd309",
-   "title": "Moment Dance Studio Summer Showcase",
-   "category": "休閒",
-   "start": "2026-08-21",
-   "end": "2026-08-21",
-   "venue": "屯門大會堂 (文娛廳)",
-   "url": "https://www.lcsd.gov.hk/clpss/tc/search/culture/DetailForm.do?id=184662",
-   "source": "康文署",
-   "image": "",
-   "featured": false
-  },
-  {
    "id": "6bf0fd72ec00",
    "title": "UFO離奇命案",
    "category": "電影",
@@ -827,18 +803,6 @@
    "end": "2026-08-23",
    "venue": "東九文化中心 (劇院)",
    "url": "https://www.zicket.co/zh-hant/organisers\n/peppa-pigs-fun-day-out",
-   "source": "康文署",
-   "image": "",
-   "featured": false
-  },
-  {
-   "id": "775710c07a24",
-   "title": "《雄龍婷粵萃十九》粵曲演唱會",
-   "category": "表演藝術",
-   "start": "2026-08-21",
-   "end": "2026-08-21",
-   "venue": "高山劇場 (新翼演藝廳)",
-   "url": "https://www.lcsd.gov.hk/tc/ticket/index.html",
    "source": "康文署",
    "image": "",
    "featured": false
@@ -953,18 +917,6 @@
    "image": "https://wmoov.com/assets/poster/d566a2899c20c4e6041d0f53b84dfcad.jpg",
    "rating": "7.3",
    "shows": 247,
-   "featured": false
-  },
-  {
-   "id": "a8954b4f3c63",
-   "title": "匯聚好歌為你獻",
-   "category": "休閒",
-   "start": "2026-08-21",
-   "end": "2026-08-21",
-   "venue": "荃灣大會堂 (文娛廳)",
-   "url": "https://www.lcsd.gov.hk/clpss/tc/search/culture/DetailForm.do?id=184733",
-   "source": "康文署",
-   "image": "",
    "featured": false
   },
   {
@@ -1160,18 +1112,6 @@
    "featured": false
   },
   {
-   "id": "759b57ee75a1",
-   "title": "憑歌寄意懷舊歌曲演唱會",
-   "category": "演唱會",
-   "start": "2026-08-21",
-   "end": "2026-08-21",
-   "venue": "西灣河文娛中心 (文娛廳)",
-   "url": "https://www.lcsd.gov.hk/tc/ticket/index.html",
-   "source": "康文署",
-   "image": "",
-   "featured": false
-  },
-  {
    "id": "5c7718cd9746",
    "title": "末世橡樹街",
    "category": "電影",
@@ -1360,18 +1300,6 @@
    "featured": false
   },
   {
-   "id": "82bd0e27cfe9",
-   "title": "高山成韻合唱團二十週年音樂會",
-   "category": "表演藝術",
-   "start": "2026-08-21",
-   "end": "2026-08-21",
-   "venue": "上環文娛中心 (劇院)",
-   "url": "https://www.lcsd.gov.hk/tc/ticket/index.html",
-   "source": "康文署",
-   "image": "",
-   "featured": false
-  },
-  {
    "id": "a26d6e4de8a0",
    "title": "2026社區文化大使: 紫迎楓粵劇團「非．粵～夢工場：非遺大聯動」「非．粵～區區展風華」巡迴演出",
    "category": "表演藝術",
@@ -1453,18 +1381,6 @@
    "url": "https://docs.google.com/forms/d/e/1FAIpQLSdYrBVsl4l-mH_b6a77rqYAfvXKX0W1mMFdjuGcF3ui_nJUDw/viewform",
    "source": "康文署",
    "image": "",
-   "featured": false
-  },
-  {
-   "id": "c6e1909ea2a7",
-   "title": "《超時空偵探W-魔幻水晶球》劇場",
-   "category": "表演藝術",
-   "start": "2026-08-22",
-   "end": "2026-08-30",
-   "venue": "北區大會堂 演奏廳",
-   "url": "https://timable.com/zh/event/%E8%B6%85%E6%99%82%E7%A9%BA%E5%81%B5%E6%8E%A2W-%E9%AD%94%E5%B9%BB%E6%B0%B4%E6%99%B6%E7%90%83-%E5%8A%87%E5%A0%B4",
-   "source": "Timable",
-   "image": "https://static.timable.com/image_e239aae8-38ab-48af-80a2-22ba85df57f1-300x400.webp",
    "featured": false
   },
   {
@@ -2344,6 +2260,18 @@
    "featured": false
   },
   {
+   "id": "3d070eab6ad9",
+   "title": "「24歲前必做的事」展覽",
+   "category": "展覽",
+   "start": "2026-08-30",
+   "end": "2026-08-30",
+   "venue": "屯門大會堂 展覽廳",
+   "url": "https://timable.com/zh/event/24%E6%AD%B2%E5%89%8D%E5%BF%85%E5%81%9A%E7%9A%84%E4%BA%8B-%E5%B1%95%E8%A6%BD",
+   "source": "Timable",
+   "image": "https://static.timable.com/image_6f02b524-1d82-4cc0-9493-2bcd9d3ce899-480x600.webp",
+   "featured": false
+  },
+  {
    "id": "95c091ac30a4",
    "title": "「我是我的傳奇」藝術發展計劃年終展覽（畫展及陶藝展）",
    "category": "展覽",
@@ -3023,6 +2951,18 @@
    "end": "2026-09-06",
    "venue": "東九文化中心 (樂館)",
    "url": "https://www.lcsd.gov.hk/tc/ticket/index.html",
+   "source": "康文署",
+   "image": "",
+   "featured": false
+  },
+  {
+   "id": "131569ee7bec",
+   "title": "「聽見非遺」中國音樂示範及講座",
+   "category": "休閒",
+   "start": "2026-09-06",
+   "end": "2026-09-06",
+   "venue": "牛池灣文娛中心 (文娛廳)",
+   "url": "https://rhythmic-east.com",
    "source": "康文署",
    "image": "",
    "featured": false
@@ -5104,6 +5044,18 @@
    "featured": false
   },
   {
+   "id": "79369b7e91f4",
+   "title": "《名歌競唱送萬家》粵曲演唱會",
+   "category": "表演藝術",
+   "start": "2026-09-25",
+   "end": "2026-09-25",
+   "venue": "高山劇場 (新翼演藝廳)",
+   "url": "https://www.lcsd.gov.hk/tc/ticket/index.html",
+   "source": "康文署",
+   "image": "",
+   "featured": false
+  },
+  {
    "id": "dd9d89015ea0",
    "title": "九天玄女",
    "category": "休閒",
@@ -6052,6 +6004,18 @@
    "featured": false
   },
   {
+   "id": "2bec7de95a6e",
+   "title": "亞藝無疆2026︰《聲之墨境》",
+   "category": "休閒",
+   "start": "2026-10-24",
+   "end": "2026-10-24",
+   "venue": "西灣河文娛中心 (劇院)",
+   "url": "https://www.asiaplus.gov.hk/2026/tc/canvas-of-sound",
+   "source": "康文署",
+   "image": "",
+   "featured": false
+  },
+  {
    "id": "81b498df653c",
    "title": "「香港藝術家」系列 2026：李子朗鋼琴演奏會",
    "category": "表演藝術",
@@ -6371,6 +6335,18 @@
    "end": "2026-12-24",
    "venue": "大埔文娛中心 (活動室(1))",
    "url": "https://www.lcsd.gov.hk/tc/ticket/index.html",
+   "source": "康文署",
+   "image": "",
+   "featured": false
+  },
+  {
+   "id": "dbe303f285f8",
+   "title": "2026-27年度「十八有藝──油尖旺社區演藝計劃」《油尖旺文藝復興計劃3.0》── 香港大說書",
+   "category": "表演藝術",
+   "start": "2026-12-27",
+   "end": "2026-12-27",
+   "venue": "油尖旺區內場地",
+   "url": "https://www.cpo.gov.hk/zh-hk/event/tc-ytm-2627/",
    "source": "康文署",
    "image": "",
    "featured": false
