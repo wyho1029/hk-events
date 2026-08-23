@@ -1,5 +1,5 @@
 {
- "updated": "2026-08-22",
+ "updated": "2026-08-23",
  "events": [
   {
    "id": "e13429ad674f",
@@ -129,18 +129,6 @@
    "end": "2027-03-29",
    "venue": "香港文化博物館 (專題展覽館一及二)",
    "url": "https://www.filmarchive.gov.hk/tc/web/hkfa/2026/25a-hm/pe-event-2026-25a-hm.html",
-   "source": "康文署",
-   "image": "",
-   "featured": false
-  },
-  {
-   "id": "fae15c7ce784",
-   "title": "2026-27年度「十八有藝──沙田社區演藝計劃」《身體年輪》長者舞蹈計劃──身體紓壓工作坊",
-   "category": "表演藝術",
-   "start": "2026-06-17",
-   "end": "2026-08-22",
-   "venue": "沙田區內場地",
-   "url": "https://www.unlock.com.hk",
    "source": "康文署",
    "image": "",
    "featured": false
@@ -698,18 +686,6 @@
    "featured": false
   },
   {
-   "id": "5e7beda10279",
-   "title": "《沙田第一號文化洞窟》音樂會",
-   "category": "表演藝術",
-   "start": "2026-08-08",
-   "end": "2026-08-22",
-   "venue": "沙田大會堂 (展覽廳)",
-   "url": "https://docs.google.com/forms/d/e/1FAIpQLSdYrBVsl4l-mH_b6a77rqYAfvXKX0W1mMFdjuGcF3ui_nJUDw/viewform",
-   "source": "康文署",
-   "image": "",
-   "featured": false
-  },
-  {
    "id": "aa103bcfbf50",
    "title": "東映動畫期間限定店 @又一城",
    "category": "休閒",
@@ -740,18 +716,6 @@
    "start": "2026-08-18",
    "end": "2026-10-04",
    "venue": "高山劇場 (新翼展覽廳)",
-   "url": "https://www.lcsd.gov.hk/tc/ticket/index.html",
-   "source": "康文署",
-   "image": "",
-   "featured": false
-  },
-  {
-   "id": "02c466b69ec1",
-   "title": "慶祝中華人民共和國成立77周年國慶 灣區墨韻 — 中國書協香港分會書法作品邀請展",
-   "category": "休閒",
-   "start": "2026-08-18",
-   "end": "2026-08-22",
-   "venue": "香港大會堂 (展覽廳)",
    "url": "https://www.lcsd.gov.hk/tc/ticket/index.html",
    "source": "康文署",
    "image": "",
@@ -791,18 +755,6 @@
    "url": "https://www.zicket.co/zh-hant/organisers\n/peppa-pigs-fun-day-out",
    "source": "康文署",
    "image": "",
-   "featured": false
-  },
-  {
-   "id": "0b9916fff0ef",
-   "title": "古天樂 Louis Koo \"MY FIRST SHOW\" 2026",
-   "category": "休閒",
-   "start": "2026-08-21",
-   "end": "2026-08-22",
-   "venue": "香港體育館 (紅館)",
-   "url": "https://timable.com/zh/event/%E5%8F%A4%E5%A4%A9%E6%A8%82LOUISKOO-MYFIRSTSHOW-%E7%B4%85%E9%A4%A8%E6%BC%94%E5%94%B1%E6%9C%832026",
-   "source": "Timable",
-   "image": "https://static.timable.com/image_5f9d29de-5e5e-4195-be3f-5b63b11dca5d-400x400.webp",
    "featured": false
   },
   {
@@ -866,30 +818,6 @@
    "featured": false
   },
   {
-   "id": "a26d6e4de8a0",
-   "title": "2026社區文化大使: 紫迎楓粵劇團「非．粵～夢工場：非遺大聯動」「非．粵～區區展風華」巡迴演出",
-   "category": "表演藝術",
-   "start": "2026-08-22",
-   "end": "2026-08-22",
-   "venue": "灣仔區內場地",
-   "url": "https://www.facebook.com/pmco.cca",
-   "source": "康文署",
-   "image": "",
-   "featured": false
-  },
-  {
-   "id": "f35c5832bf1e",
-   "title": "AXA安盛呈獻 古天樂 MY FIRST SHOW",
-   "category": "休閒",
-   "start": "2026-08-22",
-   "end": "2026-08-22",
-   "venue": "香港體育館 (表演場)",
-   "url": "https://www.lcsd.gov.hk/tc/hkc/whatsnew.html",
-   "source": "康文署",
-   "image": "",
-   "featured": false
-  },
-  {
    "id": "1cb2c1ba3f7a",
    "title": "ILLIT \"PRESS START♥︎\" 亞洲巡迴演唱會 2026 香港站",
    "category": "演唱會",
@@ -899,18 +827,6 @@
    "url": "https://timable.com/zh/event/ILLIT-PRESSSTART---%E4%BA%9E%E6%B4%B2%E5%B7%A1%E8%BF%B4%E6%BC%94%E5%94%B1%E6%9C%832026%E9%A6%99%E6%B8%AF%E7%AB%99",
    "source": "Timable",
    "image": "https://static.timable.com/image_94e90591-4e51-4570-8f44-3583e846bfa6-480x480.webp",
-   "featured": false
-  },
-  {
-   "id": "1293dfb32508",
-   "title": "Music Track 流行音樂會2026 - 凱倫藝室的潘多拉盒子",
-   "category": "表演藝術",
-   "start": "2026-08-22",
-   "end": "2026-08-22",
-   "venue": "屯門大會堂 (文娛廳)",
-   "url": "https://www.lcsd.gov.hk/tc/ticket/index.html",
-   "source": "康文署",
-   "image": "",
    "featured": false
   },
   {
@@ -937,18 +853,6 @@
    "image": "https://wmoov.com/assets/poster/f2349fc5f5823731b50e29172643a0c5.jpg",
    "rating": "6.6",
    "shows": 1,
-   "featured": false
-  },
-  {
-   "id": "2ebfa4d325f3",
-   "title": "《晃弦麗韻笙歌夜》粵曲演唱會",
-   "category": "表演藝術",
-   "start": "2026-08-22",
-   "end": "2026-08-22",
-   "venue": "高山劇場 (新翼演藝廳)",
-   "url": "https://www.lcsd.gov.hk/clpss/tc/search/culture/DetailForm.do?id=184637",
-   "source": "康文署",
-   "image": "",
    "featured": false
   },
   {
@@ -1017,18 +921,6 @@
    "image": "https://wmoov.com/assets/poster/375f04c3119ebafb1bc52594d09045f0.jpg",
    "rating": "",
    "shows": 95,
-   "featured": false
-  },
-  {
-   "id": "10fccff54def",
-   "title": "兒童粤劇展演",
-   "category": "親子",
-   "start": "2026-08-22",
-   "end": "2026-08-22",
-   "venue": "沙田大會堂 (演奏廳)",
-   "url": "https://mos.hk/",
-   "source": "康文署",
-   "image": "",
    "featured": false
   },
   {
@@ -1141,18 +1033,6 @@
    "image": "https://wmoov.com/assets/poster/deabaea17af602310af9633d8dea4615.jpg",
    "rating": "8.8",
    "shows": 86,
-   "featured": false
-  },
-  {
-   "id": "5ecb4c695070",
-   "title": "好友粵曲會知音",
-   "category": "表演藝術",
-   "start": "2026-08-22",
-   "end": "2026-08-22",
-   "venue": "大埔文娛中心 (演藝廳)",
-   "url": "https://www.lcsd.gov.hk/clpss/tc/search/culture/DetailForm.do?id=184740",
-   "source": "康文署",
-   "image": "",
    "featured": false
   },
   {
@@ -1360,18 +1240,6 @@
    "featured": false
   },
   {
-   "id": "ef41e9530a30",
-   "title": "紫樂集周年音樂會",
-   "category": "表演藝術",
-   "start": "2026-08-22",
-   "end": "2026-08-22",
-   "venue": "上環文娛中心 (演講廳)",
-   "url": "https://www.lcsd.gov.hk/tc/ticket/index.html",
-   "source": "康文署",
-   "image": "",
-   "featured": false
-  },
-  {
    "id": "7190c18de22b",
    "title": "給阿嬤的情書",
    "category": "電影",
@@ -1509,18 +1377,6 @@
    "image": "https://wmoov.com/assets/poster/5cf9e11191c48adbc489d1fc9c79e548.jpg",
    "rating": "6.2",
    "shows": 7,
-   "featured": false
-  },
-  {
-   "id": "0ab8ea434863",
-   "title": "香港大會堂場地伙伴計劃：拉闊動畫： 新篇《胡桃夾子》及《田園》",
-   "category": "演唱會",
-   "start": "2026-08-22",
-   "end": "2026-08-22",
-   "venue": "香港大會堂 (音樂廳)",
-   "url": "https://hksl.org/zh-hant/concert/live-animation-stories/",
-   "source": "康文署",
-   "image": "",
    "featured": false
   },
   {
@@ -4999,6 +4855,18 @@
    "end": "2026-09-23",
    "venue": "屯門大會堂 (文娛廳)",
    "url": "https://www.lcsd.gov.hk/clpss/tc/search/culture/DetailForm.do?id=186051",
+   "source": "康文署",
+   "image": "",
+   "featured": false
+  },
+  {
+   "id": "013d80d0f43a",
+   "title": "波比歌皇甜華妹之草原之夜",
+   "category": "休閒",
+   "start": "2026-09-23",
+   "end": "2026-09-23",
+   "venue": "牛池灣文娛中心 (文娛廳)",
+   "url": "https://www.lcsd.gov.hk/tc/ticket/index.html",
    "source": "康文署",
    "image": "",
    "featured": false
