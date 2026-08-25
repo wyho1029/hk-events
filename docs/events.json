@@ -746,18 +746,6 @@
    "featured": false
   },
   {
-   "id": "801058d9ad58",
-   "title": "廿二館開放日 Community Open Day",
-   "category": "休閒",
-   "start": "2026-08-23",
-   "end": "2026-08-30",
-   "venue": "廿二館",
-   "url": "https://timable.com/zh/event/%E5%BB%BF%E4%BA%8C%E9%A4%A8%E9%96%8B%E6%94%BE%E6%97%A5CommunityOpenDay",
-   "source": "Timable",
-   "image": "https://static.timable.com/image_901de1c3-1a97-42a0-b0c5-7fab35031a92-480x600.webp",
-   "featured": false
-  },
-  {
    "id": "6bf0fd72ec00",
    "title": "UFO離奇命案",
    "category": "電影",
@@ -2220,6 +2208,18 @@
    "featured": false
   },
   {
+   "id": "00b7bd8f9834",
+   "title": "曹穎褀「迷光迴路」展覽",
+   "category": "展覽",
+   "start": "2026-09-05",
+   "end": "2026-10-03",
+   "venue": "安全口 Gallery Exit 13/F",
+   "url": "https://timable.com/zh/event/%E6%9B%B9%E7%A9%8E%E8%A4%80-%E8%BF%B7%E5%85%89%E8%BF%B4%E8%B7%AF-%E5%B1%95%E8%A6%BD",
+   "source": "Timable",
+   "image": "https://static.timable.com/image_c80db929-bebb-42ef-9880-524efd8a17a3-480x601.webp",
+   "featured": false
+  },
+  {
    "id": "9ad911d86c59",
    "title": "第14屆全港學界舞蹈音樂節及文化藝術節2026",
    "category": "表演藝術",
@@ -2325,18 +2325,6 @@
    "url": "https://www.facebook.com/hkharmonica",
    "source": "康文署",
    "image": "",
-   "featured": false
-  },
-  {
-   "id": "978384a482cb",
-   "title": "2026/27馬季開鑼日",
-   "category": "休閒",
-   "start": "2026-09-06",
-   "end": "2026-09-06",
-   "venue": "沙田馬場",
-   "url": "https://timable.com/zh/event/2026-27%E9%A6%AC%E5%AD%A3%E9%96%8B%E9%91%BC%E6%97%A5",
-   "source": "Timable",
-   "image": "https://static.timable.com/image_16f9de95-eedc-484d-bca9-fdc6e2a9db52-480x480.webp",
    "featured": false
   },
   {
@@ -3204,6 +3192,18 @@
    "featured": false
   },
   {
+   "id": "2bfd9d8d093f",
+   "title": "\"Ultima Cena\" 表演",
+   "category": "休閒",
+   "start": "2026-09-13",
+   "end": "2026-09-13",
+   "venue": "Current Plans",
+   "url": "https://timable.com/zh/event/UltimaCena-%E8%A1%A8%E6%BC%94",
+   "source": "Timable",
+   "image": "https://static.timable.com/image_ba715761-3fb2-4704-ad7a-0a4f727af994-480x600.webp",
+   "featured": false
+  },
+  {
    "id": "7ad63cf96c1d",
    "title": "2026合家歡音樂劇「童韻築夢想」",
    "category": "表演藝術",
@@ -3696,6 +3696,18 @@
    "featured": false
   },
   {
+   "id": "79da997d9d38",
+   "title": "《鑼鼓喧天・藝萃元朗》粵劇 @ 千禧樂苑",
+   "category": "表演藝術",
+   "start": "2026-09-18",
+   "end": "2026-09-20",
+   "venue": "元朗劇院 演藝廳",
+   "url": "https://timable.com/zh/event/%E9%91%BC%E9%BC%93%E5%96%A7%E5%A4%A9-%E8%97%9D%E8%90%83%E5%85%83%E6%9C%97-%E7%B2%B5%E5%8A%87-%E5%8D%83%E7%A6%A7%E6%A8%82%E8%8B%91",
+   "source": "Timable",
+   "image": "https://static.timable.com/image_5fd67f1a-2106-46e0-941d-76938f80b8f6-295x400.webp",
+   "featured": false
+  },
+  {
    "id": "65069e553e09",
    "title": "世界交響樂音樂會",
    "category": "表演藝術",
@@ -3768,6 +3780,18 @@
    "featured": false
   },
   {
+   "id": "064200e72b71",
+   "title": "放空音樂聚–原音無邊 (2026年9月)",
+   "category": "休閒",
+   "start": "2026-09-18",
+   "end": "2026-09-20",
+   "venue": "大館 洗衣場石階",
+   "url": "https://timable.com/zh/event/%E6%94%BE%E7%A9%BA%E9%9F%B3%E6%A8%82%E8%81%9A-%E5%8E%9F%E9%9F%B3%E7%84%A1%E9%82%8A-2026%E5%B9%B49%E6%9C%88-",
+   "source": "Timable",
+   "image": "https://static.timable.com/image_cd0f8d95-0142-4f75-8eb7-8b3dab2ddf20-480x234.webp",
+   "featured": false
+  },
+  {
    "id": "95ab15ad045e",
    "title": "明月耀香江—湖北省歌劇舞劇院：舞劇《樂和長歌》@中華文化節 2026",
    "category": "表演藝術",
@@ -3825,18 +3849,6 @@
    "url": "https://www.lcsd.gov.hk/tc/ticket/index.html",
    "source": "康文署",
    "image": "",
-   "featured": false
-  },
-  {
-   "id": "a9008a004d01",
-   "title": "《秘渡境》音樂會",
-   "category": "表演藝術",
-   "start": "2026-09-19",
-   "end": "2026-09-19",
-   "venue": "藝穗會 地下劇場",
-   "url": "https://timable.com/zh/event/%E7%A7%98%E6%B8%A1%E5%A2%83-MirotopiaEPreleaseshow%E9%9F%B3%E6%A8%82%E6%9C%83",
-   "source": "Timable",
-   "image": "https://static.timable.com/image_97a428b3-6916-4d32-b920-29b1a0817971-480x600.webp",
    "featured": false
   },
   {
@@ -5364,6 +5376,18 @@
    "featured": false
   },
   {
+   "id": "4bd35d9cf4db",
+   "title": "「我們退休吧」市集",
+   "category": "市集",
+   "start": "2026-10-10",
+   "end": "2026-10-11",
+   "venue": "D2 Place ONE 2-F The Space",
+   "url": "https://timable.com/zh/event/%E6%88%91%E5%80%91%E9%80%80%E4%BC%91%E5%90%A7-%E5%B8%82%E9%9B%86",
+   "source": "Timable",
+   "image": "https://static.timable.com/image_e147d010-4218-480e-9d95-38bd87920847-480x600.webp",
+   "featured": false
+  },
+  {
    "id": "72283acb2f89",
    "title": "海峽兩岸暨香港澳門經典及有裝備健力及臥推舉邀請賽",
    "category": "休閒",
@@ -5433,18 +5457,6 @@
    "url": "https://timable.com/zh/event/TheWeeknd-AfterHoursTilDawn-%E4%BA%9E%E6%B4%B2%E5%B7%A1%E8%BF%B4%E6%BC%94%E5%94%B1%E6%9C%832026%E9%A6%99%E6%B8%AF%E7%AB%99",
    "source": "Timable",
    "image": "https://static.timable.com/image_fcff0e93-d8c2-4264-859b-7ca415361e79-480x480.webp",
-   "featured": false
-  },
-  {
-   "id": "e8f422398c54",
-   "title": "「Gen Z 玩樂祭」ReU FUN FEST 2026",
-   "category": "休閒",
-   "start": "2026-10-24",
-   "end": "2026-10-24",
-   "venue": "觀塘海濱活動空間 01",
-   "url": "https://timable.com/zh/event/GenZ%E7%8E%A9%E6%A8%82%E7%A5%AD-ReUFUNFEST2026",
-   "source": "Timable",
-   "image": "https://static.timable.com/image_bb5173df-8fab-4417-86a8-b83d4426d7a4-480x255.webp",
    "featured": false
   },
   {
@@ -5520,18 +5532,6 @@
    "featured": false
   },
   {
-   "id": "8223507f43cf",
-   "title": "M+夜不同: 五周年派對",
-   "category": "休閒",
-   "start": "2026-11-06",
-   "end": "2026-11-07",
-   "venue": "M+ 多個場地",
-   "url": "https://timable.com/zh/event/M-%E5%A4%9C%E4%B8%8D%E5%90%8C-%E8%81%B2%E6%99%AF%E9%AD%85%E5%BD%B1",
-   "source": "Timable",
-   "image": "https://static.timable.com/image_2ffe016a-75f3-4f35-909b-ff688452248d-480x480.webp",
-   "featured": false
-  },
-  {
    "id": "7aa41430c7e5",
    "title": "第十六屆韓國十月文化節：音樂劇《漫漫長夜》",
    "category": "表演藝術",
@@ -5568,18 +5568,6 @@
    "featured": false
   },
   {
-   "id": "2167469fbe1b",
-   "title": "林珍真《我們很快樂》原創獨腳戲",
-   "category": "休閒",
-   "start": "2026-11-13",
-   "end": "2026-11-15",
-   "venue": "香港藝術中心 壽臣劇院",
-   "url": "https://timable.com/zh/event/%E6%88%91%E5%80%91%E5%BE%88%E5%BF%AB%E6%A8%82-%E6%9E%97%E7%8F%8D%E7%9C%9F%E5%8E%9F%E5%89%B5%E7%8D%A8%E8%85%B3%E6%88%B2",
-   "source": "Timable",
-   "image": "https://static.timable.com/image_97f24941-d696-4d92-b53f-7c7cfe5a048e-480x600.webp",
-   "featured": false
-  },
-  {
    "id": "7f4cb2ca6f33",
    "title": "wave to earth \"the pieces tour\" 世界巡迴演唱會 2026 香港站",
    "category": "演唱會",
@@ -5589,6 +5577,18 @@
    "url": "https://timable.com/zh/event/wavetoearth-thepiecestour-%E4%B8%96%E7%95%8C%E5%B7%A1%E8%BF%B4%E6%BC%94%E5%94%B1%E6%9C%832026%E9%A6%99%E6%B8%AF%E7%AB%99",
    "source": "Timable",
    "image": "https://static.timable.com/image_7d9b34ac-82bb-448f-acbf-1de29c2d1f49-466x466.webp",
+   "featured": false
+  },
+  {
+   "id": "d22823889d28",
+   "title": "《第二性》音樂劇 @劇場空間",
+   "category": "表演藝術",
+   "start": "2026-11-20",
+   "end": "2026-11-22",
+   "venue": "牛池灣文娛中心 劇院",
+   "url": "https://timable.com/zh/event/%E7%AC%AC%E4%BA%8C%E6%80%A7-%E9%9F%B3%E6%A8%82%E5%8A%87",
+   "source": "Timable",
+   "image": "https://static.timable.com/image_71174054-6370-4cc0-a3e0-12a521fa371f-480x600.webp",
    "featured": false
   },
   {
@@ -5763,7 +5763,7 @@
    "id": "088bd7a587c7",
    "title": "劉德華 紅館演唱會 2026",
    "category": "演唱會",
-   "start": "2026-12-17",
+   "start": "2026-12-18",
    "end": "2027-01-10",
    "venue": "香港體育館 (紅館)",
    "url": "https://timable.com/zh/event/%E5%8A%89%E5%BE%B7%E8%8F%AF%E7%B4%85%E9%A4%A8%E6%BC%94%E5%94%B1%E6%9C%832026",
