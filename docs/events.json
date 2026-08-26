@@ -1,5 +1,5 @@
 {
- "updated": "2026-08-25",
+ "updated": "2026-08-26",
  "events": [
   {
    "id": "e13429ad674f",
@@ -710,18 +710,6 @@
    "featured": false
   },
   {
-   "id": "40ca7043fcca",
-   "title": "香港大學專業進修學院第十二屆中國書法文憑課程畢業作品展",
-   "category": "休閒",
-   "start": "2026-08-21",
-   "end": "2026-08-25",
-   "venue": "香港大會堂 (展覽館)",
-   "url": "https://www.lcsd.gov.hk/tc/ticket/index.html",
-   "source": "康文署",
-   "image": "",
-   "featured": false
-  },
-  {
    "id": "3f1bc90f7b4a",
    "title": "香港戲劇工程《超時空偵探W—魔幻水晶球》－北區大會堂場地伙伴計劃",
    "category": "表演藝術",
@@ -757,18 +745,6 @@
    "image": "https://wmoov.com/assets/poster/f2349fc5f5823731b50e29172643a0c5.jpg",
    "rating": "6.3",
    "shows": 2,
-   "featured": false
-  },
-  {
-   "id": "06a97a2144f9",
-   "title": "《藝星韻輝耀群芳》粵曲演唱會",
-   "category": "表演藝術",
-   "start": "2026-08-25",
-   "end": "2026-08-25",
-   "venue": "高山劇場 (劇院)",
-   "url": "https://www.lcsd.gov.hk/clpss/tc/search/culture/DetailForm.do?id=184618",
-   "source": "康文署",
-   "image": "",
    "featured": false
   },
   {
@@ -1022,30 +998,6 @@
    "featured": false
   },
   {
-   "id": "e70034b0301a",
-   "title": "憑歌寄意送溫情",
-   "category": "休閒",
-   "start": "2026-08-25",
-   "end": "2026-08-25",
-   "venue": "屯門大會堂 (文娛廳)",
-   "url": "https://www.lcsd.gov.hk/clpss/tc/search/culture/DetailForm.do?id=184666",
-   "source": "康文署",
-   "image": "",
-   "featured": false
-  },
-  {
-   "id": "a27430209d61",
-   "title": "提琴的魔力 — 帕格尼尼小提琴大賽冠軍章奥哲小提琴獨奏音樂會：第六屆香港國際青年音樂家大賽青年音樂家系列",
-   "category": "表演藝術",
-   "start": "2026-08-25",
-   "end": "2026-08-25",
-   "venue": "香港大會堂 (音樂廳)",
-   "url": "https://www.lcsd.gov.hk/tc/ticket/index.html",
-   "source": "康文署",
-   "image": "",
-   "featured": false
-  },
-  {
    "id": "5c7718cd9746",
    "title": "末世橡樹街",
    "category": "電影",
@@ -1057,18 +1009,6 @@
    "image": "https://wmoov.com/assets/poster/728a82a11d69eccc69f62170b3d6f938.jpg",
    "rating": "7.9",
    "shows": 75,
-   "featured": false
-  },
-  {
-   "id": "d4c3f1a28053",
-   "title": "楓之韻摯友團開心歡聚演唱會",
-   "category": "演唱會",
-   "start": "2026-08-25",
-   "end": "2026-08-25",
-   "venue": "荃灣大會堂 (文娛廳)",
-   "url": "https://www.lcsd.gov.hk/clpss/tc/search/culture/DetailForm.do?id=184736",
-   "source": "康文署",
-   "image": "",
    "featured": false
   },
   {
@@ -3816,6 +3756,18 @@
    "featured": false
   },
   {
+   "id": "c152038a54c9",
+   "title": "KJ 黃家正鋼琴獨奏會《五行》",
+   "category": "表演藝術",
+   "start": "2026-09-19",
+   "end": "2026-09-19",
+   "venue": "上環文娛中心 (劇院)",
+   "url": "https://zuniseason.org.hk/programme/kj-piano-recital-2026/",
+   "source": "康文署",
+   "image": "",
+   "featured": false
+  },
+  {
    "id": "647e81b924ab",
    "title": "《眾樂樂戲曲分享晚會》粵曲演唱會",
    "category": "表演藝術",
@@ -5011,6 +4963,18 @@
    "end": "2026-09-29",
    "venue": "荃灣大會堂 (文娛廳)",
    "url": "https://www.lcsd.gov.hk/clpss/tc/search/culture/DetailForm.do?id=186008",
+   "source": "康文署",
+   "image": "",
+   "featured": false
+  },
+  {
+   "id": "f3e3ad9d031b",
+   "title": "《敦煌石窟壁畫中的隋唐盛世》巡迴展覽",
+   "category": "展覽",
+   "start": "2026-09-29",
+   "end": "2026-09-29",
+   "venue": "元朗劇院 (大堂展覽場地)",
+   "url": "https://www.lcsd.gov.hk/tc/ticket/index.html",
    "source": "康文署",
    "image": "",
    "featured": false
