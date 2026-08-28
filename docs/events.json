@@ -1476,18 +1476,6 @@
    "featured": false
   },
   {
-   "id": "911dae9b91c1",
-   "title": "圍住唱K: 大型K歌比賽決賽 @圍方",
-   "category": "休閒",
-   "start": "2026-08-29",
-   "end": "2026-08-29",
-   "venue": "THE WAI 圍方 L2 中庭",
-   "url": "https://timable.com/zh/event/%E5%9C%8D%E4%BD%8F%E5%94%B1K-%E5%A4%A7%E5%9E%8BK%E6%AD%8C%E6%AF%94%E8%B3%BD%E6%B1%BA%E8%B3%BD",
-   "source": "Timable",
-   "image": "https://static.timable.com/image_9d947cd8-650b-48e5-9401-f731dd9d97b8-480x600.webp",
-   "featured": false
-  },
-  {
    "id": "b71bdf918ba3",
    "title": "屯門區愛心捐血周2026",
    "category": "休閒",
@@ -4617,6 +4605,18 @@
    "url": "https://www.lcsd.gov.hk/tc/ticket/index.html",
    "source": "康文署",
    "image": "",
+   "featured": false
+  },
+  {
+   "id": "b8079c36e207",
+   "title": "《最愛小提琴》: 拉羅西班牙交響曲 @香港小交響樂團",
+   "category": "表演藝術",
+   "start": "2026-09-26",
+   "end": "2026-09-26",
+   "venue": "香港大會堂 音樂廳",
+   "url": "https://timable.com/zh/event/%E6%9C%80%E6%84%9B%E5%B0%8F%E6%8F%90%E7%90%B4--%E6%8B%89%E7%BE%85%E8%A5%BF%E7%8F%AD%E7%89%99%E4%BA%A4%E9%9F%BF%E6%9B%B2-%E9%A6%99%E6%B8%AF%E5%B0%8F%E4%BA%A4%E9%9F%BF%E6%A8%82%E5%9C%98",
+   "source": "Timable",
+   "image": "https://static.timable.com/image_02f37716-075c-43b2-aaf4-6c476ae6e518-480x480.webp",
    "featured": false
   },
   {
