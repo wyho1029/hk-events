@@ -107,14 +107,6 @@
   },
   {
    "rank": 14,
-   "title": "白夜行（經典單冊回歸版）",
-   "author": "東野圭吾",
-   "price": "NT$584",
-   "url": "https://www.books.com.tw/products/0010976664",
-   "image": "https://im1.book.com.tw/image/getImage?i=https://www.books.com.tw/img/001/097/66/0010976664.jpg&v=658511e4k&w=150&h=150"
-  },
-  {
-   "rank": 15,
    "title": "致富心態（全球暢銷千萬增訂版）：關於財富、貪婪與幸福的20堂理財課",
    "author": "摩根．豪瑟",
    "price": "NT$379",
@@ -122,7 +114,7 @@
    "image": "https://im2.book.com.tw/image/getImage?i=https://www.books.com.tw/img/001/104/39/0011043967.jpg&v=696f6989k&w=150&h=150"
   },
   {
-   "rank": 16,
+   "rank": 15,
    "title": "窮查理的普通常識（紀念典藏版）：巴菲特50年智慧合夥人查理．蒙格的人生哲學",
    "author": "查理．蒙格",
    "price": "NT$395",
@@ -130,15 +122,15 @@
    "image": "https://im2.book.com.tw/image/getImage?i=https://www.books.com.tw/img/001/098/74/0010987407.jpg&v=661e5471k&w=150&h=150"
   },
   {
-   "rank": 17,
-   "title": "嫌疑犯X的獻身【15週年紀念全新譯本】",
-   "author": "東野圭吾",
-   "price": "NT$331",
-   "url": "https://www.books.com.tw/products/0010864587",
-   "image": "https://im2.book.com.tw/image/getImage?i=https://www.books.com.tw/img/001/086/45/0010864587.jpg&v=5f0d89d0k&w=150&h=150"
+   "rank": 16,
+   "title": "小書痴的下剋上FANBOOK(10)：為了成為圖書管理員不擇手段！",
+   "author": "香月美夜",
+   "price": "NT$236",
+   "url": "https://www.books.com.tw/products/0011059436",
+   "image": "https://im1.book.com.tw/image/getImage?i=https://www.books.com.tw/img/001/105/94/0011059436.jpg&v=6a686e8ak&w=150&h=150"
   },
   {
-   "rank": 18,
+   "rank": 17,
    "title": "喚醒內在的觀音：不跟痛苦糾纏，自在安心的歸零練習",
    "author": "黃淑文",
    "price": "NT$323",
@@ -146,7 +138,7 @@
    "image": "https://im1.book.com.tw/image/getImage?i=https://www.books.com.tw/img/001/105/84/0011058488.jpg&v=6a5ee283k&w=150&h=150"
   },
   {
-   "rank": 19,
+   "rank": 18,
    "title": "唯紅花綻放:習近平時代的認同與歸屬",
    "author": "馮哲芸",
    "price": "NT$395",
@@ -154,12 +146,20 @@
    "image": "https://im2.book.com.tw/image/getImage?i=https://www.books.com.tw/img/001/104/80/0011048033.jpg&v=69b944eek&w=150&h=150"
   },
   {
+   "rank": 19,
+   "title": "嫌疑犯X的獻身【15週年紀念全新譯本】",
+   "author": "東野圭吾",
+   "price": "NT$331",
+   "url": "https://www.books.com.tw/products/0010864587",
+   "image": "https://im2.book.com.tw/image/getImage?i=https://www.books.com.tw/img/001/086/45/0010864587.jpg&v=5f0d89d0k&w=150&h=150"
+  },
+  {
    "rank": 20,
-   "title": "小書痴的下剋上FANBOOK(10)：為了成為圖書管理員不擇手段！",
-   "author": "香月美夜",
-   "price": "NT$236",
-   "url": "https://www.books.com.tw/products/0011059436",
-   "image": "https://im1.book.com.tw/image/getImage?i=https://www.books.com.tw/img/001/105/94/0011059436.jpg&v=6a686e8ak&w=150&h=150"
+   "title": "財富階梯：（《持續買進》作者新作）資料科學家為你打造，適用人生各階段的致富策略",
+   "author": "尼克．馬朱利",
+   "price": "NT$331",
+   "url": "https://www.books.com.tw/products/0011050390",
+   "image": "https://im1.book.com.tw/image/getImage?i=https://www.books.com.tw/img/001/105/03/0011050390.jpg&v=69e05d39k&w=150&h=150"
   }
  ]
 }
