@@ -35,19 +35,19 @@
   },
   {
    "rank": 5,
-   "title": "解憂雜貨店【50萬冊紀念愛藏版】：感動全球1,400 萬人的奇蹟之書，東野圭吾最令人感動落淚的作品！",
-   "author": "東野圭吾",
-   "price": "NT$276",
-   "url": "https://www.books.com.tw/products/0011055713",
-   "image": "https://im2.book.com.tw/image/getImage?i=https://www.books.com.tw/img/001/105/57/0011055713.jpg&v=6a8e64b2k&w=150&h=150"
-  },
-  {
-   "rank": 6,
    "title": "高雄，緊緊緊【博客來獨家邁邁手繪限量透卡】：2314天極限轉型",
    "author": "陳其邁feat. 行政團隊口述,蘇芳禾,李珮綺,高哲暉",
    "price": "NT$379",
    "url": "https://www.books.com.tw/products/0011060441",
    "image": "https://im2.book.com.tw/image/getImage?i=https://www.books.com.tw/img/001/106/04/0011060441.jpg&v=6a7e5efdk&w=150&h=150"
+  },
+  {
+   "rank": 6,
+   "title": "解憂雜貨店【50萬冊紀念愛藏版】：感動全球1,400 萬人的奇蹟之書，東野圭吾最令人感動落淚的作品！",
+   "author": "東野圭吾",
+   "price": "NT$276",
+   "url": "https://www.books.com.tw/products/0011055713",
+   "image": "https://im2.book.com.tw/image/getImage?i=https://www.books.com.tw/img/001/105/57/0011055713.jpg&v=6a8e64b2k&w=150&h=150"
   },
   {
    "rank": 7,
@@ -75,19 +75,19 @@
   },
   {
    "rank": 10,
-   "title": "台灣的李登輝時代：意外國度的重塑",
-   "author": "林孝庭",
-   "price": "NT$567",
-   "url": "https://www.books.com.tw/products/0011057571",
-   "image": "https://im2.book.com.tw/image/getImage?i=https://www.books.com.tw/img/001/105/75/0011057571.jpg&v=6a549f3fk&w=150&h=150"
-  },
-  {
-   "rank": 11,
    "title": "P.S. 我愛鮪魚罐罐，但我更愛你：一封從貓咪天堂寄回的情書【折口附贈永遠想念藏書卡】",
    "author": "莎拉．強西",
    "price": "NT$316",
    "url": "https://www.books.com.tw/products/0011057961",
    "image": "https://im2.book.com.tw/image/getImage?i=https://www.books.com.tw/img/001/105/79/0011057961.jpg&v=6a584c78k&w=150&h=150"
+  },
+  {
+   "rank": 11,
+   "title": "台灣的李登輝時代：意外國度的重塑",
+   "author": "林孝庭",
+   "price": "NT$497",
+   "url": "https://www.books.com.tw/products/0011057571",
+   "image": "https://im2.book.com.tw/image/getImage?i=https://www.books.com.tw/img/001/105/75/0011057571.jpg&v=6a549f3fk&w=150&h=150"
   },
   {
    "rank": 12,
@@ -123,14 +123,6 @@
   },
   {
    "rank": 16,
-   "title": "小書痴的下剋上FANBOOK(10)：為了成為圖書管理員不擇手段！",
-   "author": "香月美夜",
-   "price": "NT$236",
-   "url": "https://www.books.com.tw/products/0011059436",
-   "image": "https://im1.book.com.tw/image/getImage?i=https://www.books.com.tw/img/001/105/94/0011059436.jpg&v=6a686e8ak&w=150&h=150"
-  },
-  {
-   "rank": 17,
    "title": "喚醒內在的觀音：不跟痛苦糾纏，自在安心的歸零練習",
    "author": "黃淑文",
    "price": "NT$323",
@@ -138,7 +130,23 @@
    "image": "https://im1.book.com.tw/image/getImage?i=https://www.books.com.tw/img/001/105/84/0011058488.jpg&v=6a5ee283k&w=150&h=150"
   },
   {
+   "rank": 17,
+   "title": "小書痴的下剋上FANBOOK(10)：為了成為圖書管理員不擇手段！",
+   "author": "香月美夜",
+   "price": "NT$236",
+   "url": "https://www.books.com.tw/products/0011059436",
+   "image": "https://im1.book.com.tw/image/getImage?i=https://www.books.com.tw/img/001/105/94/0011059436.jpg&v=6a686e8ak&w=150&h=150"
+  },
+  {
    "rank": 18,
+   "title": "財富階梯：（《持續買進》作者新作）資料科學家為你打造，適用人生各階段的致富策略",
+   "author": "尼克．馬朱利",
+   "price": "NT$331",
+   "url": "https://www.books.com.tw/products/0011050390",
+   "image": "https://im1.book.com.tw/image/getImage?i=https://www.books.com.tw/img/001/105/03/0011050390.jpg&v=69e05d39k&w=150&h=150"
+  },
+  {
+   "rank": 19,
    "title": "唯紅花綻放:習近平時代的認同與歸屬",
    "author": "馮哲芸",
    "price": "NT$395",
@@ -146,20 +154,12 @@
    "image": "https://im2.book.com.tw/image/getImage?i=https://www.books.com.tw/img/001/104/80/0011048033.jpg&v=69b944eek&w=150&h=150"
   },
   {
-   "rank": 19,
+   "rank": 20,
    "title": "嫌疑犯X的獻身【15週年紀念全新譯本】",
    "author": "東野圭吾",
    "price": "NT$331",
    "url": "https://www.books.com.tw/products/0010864587",
    "image": "https://im2.book.com.tw/image/getImage?i=https://www.books.com.tw/img/001/086/45/0010864587.jpg&v=5f0d89d0k&w=150&h=150"
-  },
-  {
-   "rank": 20,
-   "title": "財富階梯：（《持續買進》作者新作）資料科學家為你打造，適用人生各階段的致富策略",
-   "author": "尼克．馬朱利",
-   "price": "NT$331",
-   "url": "https://www.books.com.tw/products/0011050390",
-   "image": "https://im1.book.com.tw/image/getImage?i=https://www.books.com.tw/img/001/105/03/0011050390.jpg&v=69e05d39k&w=150&h=150"
   }
  ]
 }
