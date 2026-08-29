@@ -674,18 +674,6 @@
    "featured": false
   },
   {
-   "id": "3c0e07106a07",
-   "title": "「城市有幾種光」攝影展覽",
-   "category": "電影活動",
-   "start": "2026-08-19",
-   "end": "2026-08-29",
-   "venue": "顯影堂",
-   "url": "https://timable.com/zh/event/%E5%9F%8E%E5%B8%82%E6%9C%89%E5%B9%BE%E7%A8%AE%E5%85%89-%E6%94%9D%E5%BD%B1%E5%B1%95%E8%A6%BD",
-   "source": "Timable",
-   "image": "https://static.timable.com/image_5f6d4a9d-baaf-4717-81c1-3038cbf445eb-480x600.webp",
-   "featured": false
-  },
-  {
    "id": "4b4bc8910681",
    "title": "賽馬會中華文化藝術科技劇場計劃2.0 - 兒童創意藝術科技劇場 《筆墨大冒險》",
    "category": "體育",
@@ -755,18 +743,6 @@
    "url": "https://timable.com/zh/event/CHILL%E6%AD%8E%E9%BA%B5%E5%8C%85%E7%AF%802026-%E6%96%B0%E5%9F%8E%E5%B8%82%E5%BB%A3%E5%A0%B4",
    "source": "Timable",
    "image": "https://static.timable.com/image_40aa81ac-d1c9-4ef8-aef4-1183ba56e7a1-270x238.webp",
-   "featured": false
-  },
-  {
-   "id": "b42034e37027",
-   "title": "YAN TING 周殷廷 \"The Alchemist\" 紅館演唱會 2026",
-   "category": "演唱會",
-   "start": "2026-08-28",
-   "end": "2026-08-29",
-   "venue": "香港體育館 (紅館)",
-   "url": "https://timable.com/zh/event/YANTING%E5%91%A8%E6%AE%B7%E5%BB%B7-TheAlchemist-%E7%B4%85%E9%A4%A8%E6%BC%94%E5%94%B1%E6%9C%832026",
-   "source": "Timable",
-   "image": "https://static.timable.com/image_30d35e65-484f-4e07-afd7-f8a22c9f663d-466x466.webp",
    "featured": false
   },
   {
@@ -1504,18 +1480,6 @@
    "featured": false
   },
   {
-   "id": "ffe1c088360f",
-   "title": "衛蘭 x 炎明熹《她和她的秘密》拉闊音樂會 2026",
-   "category": "演唱會",
-   "start": "2026-08-29",
-   "end": "2026-08-29",
-   "venue": "亞洲國際博覽館 ARENA",
-   "url": "https://timable.com/zh/event/%E8%A1%9B%E8%98%ADx%E7%82%8E%E6%98%8E%E7%86%B9-%E5%A5%B9%E5%92%8C%E5%A5%B9%E7%9A%84%E7%A7%98%E5%AF%86-%E6%8B%89%E9%97%8A%E9%9F%B3%E6%A8%82%E6%9C%832026",
-   "source": "Timable",
-   "image": "https://static.timable.com/image_454a2e1b-0cc0-41d6-82d4-193559749fd6-480x480.webp",
-   "featured": false
-  },
-  {
    "id": "07bcd5a436d5",
    "title": "誘人飯聚",
    "category": "電影",
@@ -1617,18 +1581,6 @@
    "url": "https://www.lcsd.gov.hk/tc/ticket/index.html",
    "source": "康文署",
    "image": "",
-   "featured": false
-  },
-  {
-   "id": "4d3a458a57fe",
-   "title": "Ani-Territory 動漫祭 (AT04)",
-   "category": "休閒",
-   "start": "2026-08-30",
-   "end": "2026-08-30",
-   "venue": "合和酒店 大禮堂",
-   "url": "https://timable.com/zh/event/Ani-Territory%E5%8B%95%E6%BC%AB%E7%A5%AD-AT04-",
-   "source": "Timable",
-   "image": "https://static.timable.com/image_fc010251-6c28-4254-8f29-d7efc9a0537a-480x599.webp",
    "featured": false
   },
   {
@@ -1953,6 +1905,18 @@
    "url": "https://www.lcsd.gov.hk/clpss/tc/search/culture/DetailForm.do?id=185867",
    "source": "康文署",
    "image": "",
+   "featured": false
+  },
+  {
+   "id": "4753667b97fd",
+   "title": "\"Unleash Your Power\" K-Pop Random Dance 派對",
+   "category": "休閒",
+   "start": "2026-09-04",
+   "end": "2026-09-06",
+   "venue": "AIRSIDE 2-F 中庭",
+   "url": "https://timable.com/zh/event/UnleashYourPower-K-PopRandomDance%E6%B4%BE%E5%B0%8D",
+   "source": "Timable",
+   "image": "https://static.timable.com/image_9521a342-aa5e-4afd-b19a-327801c720cc-480x600.webp",
    "featured": false
   },
   {
