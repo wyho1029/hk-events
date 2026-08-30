@@ -19,19 +19,19 @@
   },
   {
    "rank": 3,
-   "title": "臺灣漫遊錄",
-   "author": "楊双子",
-   "price": "NT$300",
-   "url": "https://www.books.com.tw/products/0010852315",
-   "image": "https://im2.book.com.tw/image/getImage?i=https://www.books.com.tw/img/001/085/23/0010852315.jpg&v=674451dfk&w=150&h=150"
-  },
-  {
-   "rank": 4,
    "title": "隨他們去：全球熱銷突破1000萬冊現象級巨作！改變千萬人命運的心理技巧【博客來獨家版．附內在覺醒影響力躍昇卡】",
    "author": "梅爾．羅賓斯",
    "price": "NT$355",
    "url": "https://www.books.com.tw/products/0011055312",
    "image": "https://im1.book.com.tw/image/getImage?i=https://www.books.com.tw/img/001/105/53/0011055312.jpg&v=6a3b438ek&w=150&h=150"
+  },
+  {
+   "rank": 4,
+   "title": "臺灣漫遊錄",
+   "author": "楊双子",
+   "price": "NT$300",
+   "url": "https://www.books.com.tw/products/0010852315",
+   "image": "https://im2.book.com.tw/image/getImage?i=https://www.books.com.tw/img/001/085/23/0010852315.jpg&v=674451dfk&w=150&h=150"
   },
   {
    "rank": 5,
@@ -123,19 +123,19 @@
   },
   {
    "rank": 16,
-   "title": "喚醒內在的觀音：不跟痛苦糾纏，自在安心的歸零練習",
-   "author": "黃淑文",
-   "price": "NT$323",
-   "url": "https://www.books.com.tw/products/0011058488",
-   "image": "https://im1.book.com.tw/image/getImage?i=https://www.books.com.tw/img/001/105/84/0011058488.jpg&v=6a5ee283k&w=150&h=150"
-  },
-  {
-   "rank": 17,
    "title": "小書痴的下剋上FANBOOK(10)：為了成為圖書管理員不擇手段！",
    "author": "香月美夜",
    "price": "NT$236",
    "url": "https://www.books.com.tw/products/0011059436",
    "image": "https://im1.book.com.tw/image/getImage?i=https://www.books.com.tw/img/001/105/94/0011059436.jpg&v=6a686e8ak&w=150&h=150"
+  },
+  {
+   "rank": 17,
+   "title": "喚醒內在的觀音：不跟痛苦糾纏，自在安心的歸零練習",
+   "author": "黃淑文",
+   "price": "NT$323",
+   "url": "https://www.books.com.tw/products/0011058488",
+   "image": "https://im1.book.com.tw/image/getImage?i=https://www.books.com.tw/img/001/105/84/0011058488.jpg&v=6a5ee283k&w=150&h=150"
   },
   {
    "rank": 18,
@@ -155,11 +155,11 @@
   },
   {
    "rank": 20,
-   "title": "嫌疑犯X的獻身【15週年紀念全新譯本】",
-   "author": "東野圭吾",
-   "price": "NT$331",
-   "url": "https://www.books.com.tw/products/0010864587",
-   "image": "https://im2.book.com.tw/image/getImage?i=https://www.books.com.tw/img/001/086/45/0010864587.jpg&v=5f0d89d0k&w=150&h=150"
+   "title": "馬斯克寶典：從顛覆矽谷到打造太空帝國，讀懂全球首富20年極限思維【繁中版限定收錄：給讀者的手寫寄語印簽",
+   "author": "艾瑞克．喬根森（Eric Jorgenson）",
+   "price": "NT$410",
+   "url": "https://www.books.com.tw/products/0011054455",
+   "image": "https://im2.book.com.tw/image/getImage?i=https://www.books.com.tw/img/001/105/44/0011054455.jpg&v=6a4e05d5k&w=150&h=150"
   }
  ]
 }
