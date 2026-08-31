@@ -91,14 +91,6 @@
   },
   {
    "rank": 12,
-   "title": "通靈藥師的處方箋：16個人與靈的真實互動，那些來不及說的、當時沒做的、至今想不通的，未解與無解，通靈藥師給出處方",
-   "author": "J 藥師",
-   "price": "NT$360",
-   "url": "https://www.books.com.tw/products/0011042196",
-   "image": "https://im1.book.com.tw/image/getImage?i=https://www.books.com.tw/img/001/104/21/0011042196.jpg&v=695c78e6k&w=150&h=150"
-  },
-  {
-   "rank": 13,
    "title": "小書痴的下剋上：漢娜蘿蕾貴族院五年級生Ⅱ",
    "author": "香月美夜",
    "price": "NT$252",
@@ -106,7 +98,7 @@
    "image": "https://im2.book.com.tw/image/getImage?i=https://www.books.com.tw/img/001/105/94/0011059435.jpg&v=6a686c22k&w=150&h=150"
   },
   {
-   "rank": 14,
+   "rank": 13,
    "title": "致富心態（全球暢銷千萬增訂版）：關於財富、貪婪與幸福的20堂理財課",
    "author": "摩根．豪瑟",
    "price": "NT$379",
@@ -114,12 +106,20 @@
    "image": "https://im2.book.com.tw/image/getImage?i=https://www.books.com.tw/img/001/104/39/0011043967.jpg&v=696f6989k&w=150&h=150"
   },
   {
-   "rank": 15,
+   "rank": 14,
    "title": "窮查理的普通常識（紀念典藏版）：巴菲特50年智慧合夥人查理．蒙格的人生哲學",
    "author": "查理．蒙格",
    "price": "NT$395",
    "url": "https://www.books.com.tw/products/0010987407",
    "image": "https://im2.book.com.tw/image/getImage?i=https://www.books.com.tw/img/001/098/74/0010987407.jpg&v=661e5471k&w=150&h=150"
+  },
+  {
+   "rank": 15,
+   "title": "通靈藥師的處方箋：16個人與靈的真實互動，那些來不及說的、當時沒做的、至今想不通的，未解與無解，通靈藥師給出處方",
+   "author": "J 藥師",
+   "price": "NT$360",
+   "url": "https://www.books.com.tw/products/0011042196",
+   "image": "https://im1.book.com.tw/image/getImage?i=https://www.books.com.tw/img/001/104/21/0011042196.jpg&v=695c78e6k&w=150&h=150"
   },
   {
    "rank": 16,
@@ -133,7 +133,7 @@
    "rank": 17,
    "title": "喚醒內在的觀音：不跟痛苦糾纏，自在安心的歸零練習",
    "author": "黃淑文",
-   "price": "NT$323",
+   "price": "NT$307",
    "url": "https://www.books.com.tw/products/0011058488",
    "image": "https://im1.book.com.tw/image/getImage?i=https://www.books.com.tw/img/001/105/84/0011058488.jpg&v=6a5ee283k&w=150&h=150"
   },
@@ -147,19 +147,19 @@
   },
   {
    "rank": 19,
-   "title": "唯紅花綻放:習近平時代的認同與歸屬",
-   "author": "馮哲芸",
-   "price": "NT$395",
-   "url": "https://www.books.com.tw/products/0011048033",
-   "image": "https://im2.book.com.tw/image/getImage?i=https://www.books.com.tw/img/001/104/80/0011048033.jpg&v=69b944eek&w=150&h=150"
-  },
-  {
-   "rank": 20,
    "title": "馬斯克寶典：從顛覆矽谷到打造太空帝國，讀懂全球首富20年極限思維【繁中版限定收錄：給讀者的手寫寄語印簽",
    "author": "艾瑞克．喬根森（Eric Jorgenson）",
    "price": "NT$410",
    "url": "https://www.books.com.tw/products/0011054455",
    "image": "https://im2.book.com.tw/image/getImage?i=https://www.books.com.tw/img/001/105/44/0011054455.jpg&v=6a4e05d5k&w=150&h=150"
+  },
+  {
+   "rank": 20,
+   "title": "唯紅花綻放:習近平時代的認同與歸屬",
+   "author": "馮哲芸",
+   "price": "NT$395",
+   "url": "https://www.books.com.tw/products/0011048033",
+   "image": "https://im2.book.com.tw/image/getImage?i=https://www.books.com.tw/img/001/104/80/0011048033.jpg&v=69b944eek&w=150&h=150"
   }
  ]
 }
