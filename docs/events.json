@@ -50,30 +50,6 @@
    "featured": false
   },
   {
-   "id": "245e61703bc2",
-   "title": "「古埃及文明大展 : 埃及博物館珍藏」香港故宮文化博物館展覽",
-   "category": "展覽",
-   "start": "2025-11-20",
-   "end": "2026-08-31",
-   "venue": "香港故宮文化博物館 展廳9",
-   "url": "https://timable.com/zh/event/%E5%8F%A4%E5%9F%83%E5%8F%8A%E6%96%87%E6%98%8E%E5%A4%A7%E5%B1%95-%E5%9F%83%E5%8F%8A%E5%8D%9A%E7%89%A9%E9%A4%A8%E7%8F%8D%E8%97%8F-%E9%A6%99%E6%B8%AF%E6%95%85%E5%AE%AE%E6%96%87%E5%8C%96%E5%8D%9A%E7%89%A9%E9%A4%A8%E5%B1%95%E8%A6%BD",
-   "source": "Timable",
-   "image": "https://static.timable.com/image_9e4148ac-f9b4-4d56-b487-2016aa0a38f5-480x480.webp",
-   "featured": false
-  },
-  {
-   "id": "bfd72e89c158",
-   "title": "古埃及文明大展—埃及博物館珍藏",
-   "category": "展覽",
-   "start": "2025-11-20",
-   "end": "2026-08-31",
-   "venue": "香港故宮文化博物館",
-   "url": "https://www.hkpm.org.hk/tc/exhibition-ancient-egypt-unveiled",
-   "source": "盛事之都",
-   "image": "",
-   "featured": false
-  },
-  {
    "id": "8d3f669820a2",
    "title": "油蔴地警署光影之旅",
    "category": "大型盛事",
@@ -746,18 +722,6 @@
    "featured": false
   },
   {
-   "id": "6e5ebc633e4a",
-   "title": "「復古時光機」@RE-LOVE 綠續生活節",
-   "category": "休閒",
-   "start": "2026-08-28",
-   "end": "2026-09-30",
-   "venue": "南豐紗廠",
-   "url": "https://timable.com/zh/event/RE-LOVE%E7%B6%A0%E7%BA%8C%E7%94%9F%E6%B4%BB%E7%AF%80",
-   "source": "Timable",
-   "image": "https://static.timable.com/image_3ad92bde-3870-4801-a860-d4ce1b61b428-480x456.webp",
-   "featured": false
-  },
-  {
    "id": "47c6bb564fd4",
    "title": "筆尋嘗畫會慶祝香港回歸29周年《筆德意》第八屆作品展",
    "category": "休閒",
@@ -1390,18 +1354,6 @@
    "featured": false
   },
   {
-   "id": "bfe4f86760b8",
-   "title": "「玩膠去旅行:愛自己嘅阿卡西膠遊樂園」展覽",
-   "category": "展覽",
-   "start": "2026-09-02",
-   "end": "2026-09-13",
-   "venue": "香港藝術中心 2-F",
-   "url": "https://timable.com/zh/event/%E7%8E%A9%E8%86%A0%E5%8E%BB%E6%97%85%E8%A1%8C-%E6%84%9B%E8%87%AA%E5%B7%B1%E5%98%85%E9%98%BF%E5%8D%A1%E8%A5%BF%E8%86%A0%E9%81%8A%E6%A8%82%E5%9C%92-%E5%B1%95%E8%A6%BD",
-   "source": "Timable",
-   "image": "https://static.timable.com/image_5103fa9c-e53f-4797-9534-ed72ff979d6b-480x600.webp",
-   "featured": false
-  },
-  {
    "id": "9075ac009502",
    "title": "香港國際時尚匯展 2026",
    "category": "大型盛事",
@@ -1414,15 +1366,15 @@
    "featured": true
   },
   {
-   "id": "c3b1346e3817",
-   "title": "《當世界學習倒著走》演讀劇",
-   "category": "休閒",
+   "id": "04abd8f45444",
+   "title": "「卵石與蛋」羅佩文個展",
+   "category": "展覽",
    "start": "2026-09-03",
-   "end": "2026-09-06",
-   "venue": "地點待定(香港)",
-   "url": "https://timable.com/zh/event/%E7%95%B6%E4%B8%96%E7%95%8C%E5%AD%B8%E7%BF%92%E5%80%92%E8%91%97%E8%B5%B0-%E6%BC%94%E8%AE%80%E5%8A%87",
+   "end": "2026-09-28",
+   "venue": "POINTSMAN Art Space",
+   "url": "https://timable.com/zh/event/%E5%8D%B5%E7%9F%B3%E8%88%87%E8%9B%8B-%E7%BE%85%E4%BD%A9%E6%96%87%E5%80%8B%E5%B1%95",
    "source": "Timable",
-   "image": "https://static.timable.com/image_84a5dbd8-9bfe-4073-871a-c6b30f343fee-300x400.webp",
+   "image": "https://static.timable.com/image_e9f2d28d-c805-4aff-b0a3-57b6de71c2f4-480x600.webp",
    "featured": false
   },
   {
@@ -1846,6 +1798,18 @@
    "featured": false
   },
   {
+   "id": "74dc5b0e0a38",
+   "title": "「長明」群展",
+   "category": "休閒",
+   "start": "2026-09-06",
+   "end": "2026-09-19",
+   "venue": "香港浸會大學 視覺藝術院 啟德校園 (AVA)",
+   "url": "https://timable.com/zh/event/%E9%95%B7%E6%98%8E-%E7%BE%A4%E5%B1%95",
+   "source": "Timable",
+   "image": "https://static.timable.com/image_9515ab99-11f6-4444-9857-31e901bf6274-480x600.webp",
+   "featured": false
+  },
+  {
    "id": "22fa25914016",
    "title": "三生有幸演唱會",
    "category": "演唱會",
@@ -1963,6 +1927,18 @@
    "url": "https://www.lcsd.gov.hk/tc/ticket/index.html",
    "source": "康文署",
    "image": "",
+   "featured": false
+  },
+  {
+   "id": "0cbfb461489e",
+   "title": "“Toyol’s Summer Memories” 展覽",
+   "category": "展覽",
+   "start": "2026-09-07",
+   "end": "2026-10-02",
+   "venue": "Toyol Gallery",
+   "url": "https://timable.com/zh/event/Toyol-sSummerMemories-%E5%B1%95%E8%A6%BD",
+   "source": "Timable",
+   "image": "https://static.timable.com/image_f866da30-a541-407e-b706-cb286f481f7e-480x628.webp",
    "featured": false
   },
   {
@@ -2155,6 +2131,18 @@
    "url": "https://www.lcsd.gov.hk/tc/ticket/index.html",
    "source": "康文署",
    "image": "",
+   "featured": false
+  },
+  {
+   "id": "80072eff8c66",
+   "title": "呂文聰 x 謝君豪《創作者的靈魂》、“TO SEE AND TO BE SEEN” 攝影展 @香港金齡藝術節 2026",
+   "category": "電影活動",
+   "start": "2026-09-09",
+   "end": "2026-09-20",
+   "venue": "賽馬會創意藝術中心 L1藝廊",
+   "url": "https://timable.com/zh/event/%E5%91%82%E6%96%87%E8%81%B0x%E8%AC%9D%E5%90%9B%E8%B1%AA-%E5%89%B5%E4%BD%9C%E8%80%85%E7%9A%84%E9%9D%88%E9%AD%82---TOSEEANDTOBESEEN-%E6%94%9D%E5%BD%B1%E5%B1%95-%E9%A6%99%E6%B8%AF%E9%87%91%E9%BD%A1%E8%97%9D%E8%A1%93%E7%AF%802026",
+   "source": "Timable",
+   "image": "https://static.timable.com/image_2e19e045-d6fb-4ffd-9326-912781f1c0b0-480x842.webp",
    "featured": false
   },
   {
@@ -2686,15 +2674,15 @@
    "featured": false
   },
   {
-   "id": "156aa1247c50",
-   "title": "ROSEMANCES 花文 \"amorscenes\" album unplugged 音樂會",
-   "category": "表演藝術",
+   "id": "edb641a74756",
+   "title": "Paradiso 學生市集",
+   "category": "市集",
    "start": "2026-09-13",
    "end": "2026-09-13",
-   "venue": "CODA Jazz Kissa 爵士喫茶",
-   "url": "https://timable.com/zh/event/ROSEMANCES%E8%8A%B1%E6%96%87-amorscenes-albumunplugged%E9%9F%B3%E6%A8%82%E6%9C%83",
+   "venue": "香港伯特利教會慈光堂",
+   "url": "https://timable.com/zh/event/Paradiso%E5%AD%B8%E7%94%9F%E5%B8%82%E9%9B%86",
    "source": "Timable",
-   "image": "https://static.timable.com/image_41a0411f-368d-46ed-b9f6-74478d66b0dd-480x600.webp",
+   "image": "https://static.timable.com/image_ddd2a69c-d65d-4db5-8d4b-61b7f7aded7e-480x618.webp",
    "featured": false
   },
   {
@@ -2899,6 +2887,18 @@
    "url": "https://www.lcsd.gov.hk/tc/ticket/index.html",
    "source": "康文署",
    "image": "",
+   "featured": false
+  },
+  {
+   "id": "9486b0cbc0e0",
+   "title": "「柔韌的邊界」群展",
+   "category": "休閒",
+   "start": "2026-09-15",
+   "end": "2026-11-11",
+   "venue": "刺點畫廊 Blindspot Gallery",
+   "url": "https://timable.com/zh/event/SoftBorders%E6%9F%94%E9%9F%8C%E7%9A%84%E9%82%8A%E7%95%8C-%E7%BE%A4%E5%B1%95",
+   "source": "Timable",
+   "image": "https://static.timable.com/image_6f2522c8-aa62-4255-961e-4ecd31364158-480x640.webp",
    "featured": false
   },
   {
@@ -3346,18 +3346,6 @@
    "featured": false
   },
   {
-   "id": "243792bdf15f",
-   "title": "PLUMA “Autumn tour” 巡迴演唱會 2026 香港站",
-   "category": "演唱會",
-   "start": "2026-09-19",
-   "end": "2026-09-19",
-   "venue": "地點待定(香港)",
-   "url": "https://timable.com/zh/event/PLUMA-Autumntour-%E5%B7%A1%E8%BF%B4%E6%BC%94%E5%94%B1%E6%9C%832026%E9%A6%99%E6%B8%AF%E7%AB%99",
-   "source": "Timable",
-   "image": "https://static.timable.com/image_761f41b0-017c-4be0-a53e-ebee7ad5086d-480x632.webp",
-   "featured": false
-  },
-  {
    "id": "647e81b924ab",
    "title": "《眾樂樂戲曲分享晚會》粵曲演唱會",
    "category": "表演藝術",
@@ -3379,18 +3367,6 @@
    "url": "https://www.lcsd.gov.hk/tc/ticket/index.html",
    "source": "康文署",
    "image": "",
-   "featured": false
-  },
-  {
-   "id": "c056592ddea0",
-   "title": "「美肌。健康。體驗日」免費活動",
-   "category": "休閒",
-   "start": "2026-09-19",
-   "end": "2026-09-19",
-   "venue": "家樂坊 18F",
-   "url": "https://timable.com/zh/event/%E7%BE%8E%E8%82%8C-%E5%81%A5%E5%BA%B7-%E9%AB%94%E9%A9%97%E6%97%A5-%E5%85%8D%E8%B2%BB%E6%B4%BB%E5%8B%95",
-   "source": "Timable",
-   "image": "https://static.timable.com/image_598ae2d6-3350-41de-8a22-876a6d549717-480x360.webp",
    "featured": false
   },
   {
