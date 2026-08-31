@@ -746,6 +746,18 @@
    "featured": false
   },
   {
+   "id": "6e5ebc633e4a",
+   "title": "「復古時光機」@RE-LOVE 綠續生活節",
+   "category": "休閒",
+   "start": "2026-08-28",
+   "end": "2026-09-30",
+   "venue": "南豐紗廠",
+   "url": "https://timable.com/zh/event/RE-LOVE%E7%B6%A0%E7%BA%8C%E7%94%9F%E6%B4%BB%E7%AF%80",
+   "source": "Timable",
+   "image": "https://static.timable.com/image_3ad92bde-3870-4801-a860-d4ce1b61b428-480x456.webp",
+   "featured": false
+  },
+  {
    "id": "47c6bb564fd4",
    "title": "筆尋嘗畫會慶祝香港回歸29周年《筆德意》第八屆作品展",
    "category": "休閒",
@@ -1378,15 +1390,15 @@
    "featured": false
   },
   {
-   "id": "c63a29f7f5f7",
-   "title": "「活陶」展覽",
+   "id": "bfe4f86760b8",
+   "title": "「玩膠去旅行:愛自己嘅阿卡西膠遊樂園」展覽",
    "category": "展覽",
    "start": "2026-09-02",
-   "end": "2026-09-24",
-   "venue": "大館 03-203舖",
-   "url": "https://timable.com/zh/event/%E6%B4%BB%E9%99%B6-%E5%B1%95%E8%A6%BD",
+   "end": "2026-09-13",
+   "venue": "香港藝術中心 2-F",
+   "url": "https://timable.com/zh/event/%E7%8E%A9%E8%86%A0%E5%8E%BB%E6%97%85%E8%A1%8C-%E6%84%9B%E8%87%AA%E5%B7%B1%E5%98%85%E9%98%BF%E5%8D%A1%E8%A5%BF%E8%86%A0%E9%81%8A%E6%A8%82%E5%9C%92-%E5%B1%95%E8%A6%BD",
    "source": "Timable",
-   "image": "https://static.timable.com/image_e59c2428-0d80-4585-8ea9-35b31b9013e2-480x240.webp",
+   "image": "https://static.timable.com/image_5103fa9c-e53f-4797-9534-ed72ff979d6b-480x600.webp",
    "featured": false
   },
   {
@@ -1400,6 +1412,18 @@
    "source": "盛事之都",
    "image": "",
    "featured": true
+  },
+  {
+   "id": "c3b1346e3817",
+   "title": "《當世界學習倒著走》演讀劇",
+   "category": "休閒",
+   "start": "2026-09-03",
+   "end": "2026-09-06",
+   "venue": "地點待定(香港)",
+   "url": "https://timable.com/zh/event/%E7%95%B6%E4%B8%96%E7%95%8C%E5%AD%B8%E7%BF%92%E5%80%92%E8%91%97%E8%B5%B0-%E6%BC%94%E8%AE%80%E5%8A%87",
+   "source": "Timable",
+   "image": "https://static.timable.com/image_84a5dbd8-9bfe-4073-871a-c6b30f343fee-300x400.webp",
+   "featured": false
   },
   {
    "id": "c524ddc355bd",
@@ -3358,6 +3382,18 @@
    "featured": false
   },
   {
+   "id": "c056592ddea0",
+   "title": "「美肌。健康。體驗日」免費活動",
+   "category": "休閒",
+   "start": "2026-09-19",
+   "end": "2026-09-19",
+   "venue": "家樂坊 18F",
+   "url": "https://timable.com/zh/event/%E7%BE%8E%E8%82%8C-%E5%81%A5%E5%BA%B7-%E9%AB%94%E9%A9%97%E6%97%A5-%E5%85%8D%E8%B2%BB%E6%B4%BB%E5%8B%95",
+   "source": "Timable",
+   "image": "https://static.timable.com/image_598ae2d6-3350-41de-8a22-876a6d549717-480x360.webp",
+   "featured": false
+  },
+  {
    "id": "a11e2928b530",
    "title": "「血濃於水 : 香港歷史建築中的家國情」圖片展",
    "category": "休閒",
@@ -4834,18 +4870,6 @@
    "featured": false
   },
   {
-   "id": "1fa0422b20a9",
-   "title": "《無名盛宴 NONAMEFEST 2026》音樂會",
-   "category": "表演藝術",
-   "start": "2026-10-02",
-   "end": "2026-10-02",
-   "venue": "藝穗會",
-   "url": "https://timable.com/zh/event/%E7%84%A1%E5%90%8D%E7%9B%9B%E5%AE%B4NONAMEFEST2026-%E9%9F%B3%E6%A8%82%E6%9C%83",
-   "source": "Timable",
-   "image": "https://static.timable.com/image_900319f0-99f5-4a3e-97c5-47d27ff96bbb-480x360.webp",
-   "featured": false
-  },
-  {
    "id": "c3706b540b69",
    "title": "守護者之歌 ─ 交響音樂會",
    "category": "表演藝術",
@@ -5311,18 +5335,6 @@
    "url": "https://hksl.org/zh-hant/concert/a-hong-kong-sound-palette/",
    "source": "康文署",
    "image": "",
-   "featured": false
-  },
-  {
-   "id": "cea9f1049fea",
-   "title": "《女孩的女孩們》Oli全新棟篤笑專場 2.0重演版",
-   "category": "休閒",
-   "start": "2026-10-11",
-   "end": "2026-10-16",
-   "venue": "地點待定(香港)",
-   "url": "https://timable.com/zh/event/%E5%A5%B3%E5%AD%A9%E7%9A%84%E5%A5%B3%E5%AD%A9%E5%80%91-Oli%E5%85%A8%E6%96%B0%E6%A3%9F%E7%AF%A4%E7%AC%91%E5%B0%88%E5%A0%B42-0%E9%87%8D%E6%BC%94%E7%89%88",
-   "source": "Timable",
-   "image": "https://static.timable.com/image_b4757e64-2ecc-46ae-a267-5baf0b5b0100-480x360.webp",
    "featured": false
   },
   {
@@ -6283,18 +6295,6 @@
    "url": "https://timable.com/zh/event/Khalid-It-sAlwaysSummerSomewhere-%E4%BA%9E%E6%B4%B2%E5%B7%A1%E8%BF%B4%E6%BC%94%E5%94%B1%E6%9C%832026%E9%A6%99%E6%B8%AF%E7%AB%99",
    "source": "Timable",
    "image": "https://static.timable.com/image_69fc294f-4352-43cb-8701-cd8aee5f0d97-480x600.webp",
-   "featured": false
-  },
-  {
-   "id": "170516bc34cd",
-   "title": "何啟華 Dee《見面即地獄》劇場",
-   "category": "表演藝術",
-   "start": "2026-12-01",
-   "end": "2026-12-31",
-   "venue": "地點待定(香港)",
-   "url": "https://timable.com/zh/event/Dee-ERROR-%E8%A6%8B%E9%9D%A2%E5%8D%B3%E5%9C%B0%E7%8D%84-%E5%8A%87%E5%A0%B4",
-   "source": "Timable",
-   "image": "https://static.timable.com/image_6526d327-d3f2-419f-bc72-ce32b08fc052-480x600.webp",
    "featured": false
   },
   {
