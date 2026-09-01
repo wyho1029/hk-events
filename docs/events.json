@@ -1284,18 +1284,6 @@
    "featured": true
   },
   {
-   "id": "04abd8f45444",
-   "title": "「卵石與蛋」羅佩文個展",
-   "category": "展覽",
-   "start": "2026-09-03",
-   "end": "2026-09-28",
-   "venue": "POINTSMAN Art Space",
-   "url": "https://timable.com/zh/event/%E5%8D%B5%E7%9F%B3%E8%88%87%E8%9B%8B-%E7%BE%85%E4%BD%A9%E6%96%87%E5%80%8B%E5%B1%95",
-   "source": "Timable",
-   "image": "https://static.timable.com/image_e9f2d28d-c805-4aff-b0a3-57b6de71c2f4-480x600.webp",
-   "featured": false
-  },
-  {
    "id": "c524ddc355bd",
    "title": "好歌唱不停",
    "category": "休閒",
@@ -1584,6 +1572,18 @@
    "featured": false
   },
   {
+   "id": "25fc79de8d29",
+   "title": "戲劇大師鍾景輝紀念展覽",
+   "category": "展覽",
+   "start": "2026-09-05",
+   "end": "2026-10-04",
+   "venue": "西九文化區 戲曲中心 中庭",
+   "url": "https://timable.com/zh/event/%E6%88%B2%E5%8A%87%E5%A4%A7%E5%B8%AB%E9%8D%BE%E6%99%AF%E8%BC%9D%E7%B4%80%E5%BF%B5%E5%B1%95%E8%A6%BD",
+   "source": "Timable",
+   "image": "https://static.timable.com/image_ff8e0b08-379f-4e85-8a47-213f8ef6bbf9-480x600.webp",
+   "featured": false
+  },
+  {
    "id": "9ad911d86c59",
    "title": "第14屆全港學界舞蹈音樂節及文化藝術節2026",
    "category": "表演藝術",
@@ -1764,18 +1764,6 @@
    "featured": false
   },
   {
-   "id": "74dc5b0e0a38",
-   "title": "「長明」群展",
-   "category": "休閒",
-   "start": "2026-09-06",
-   "end": "2026-09-19",
-   "venue": "香港浸會大學 視覺藝術院 啟德校園 (AVA)",
-   "url": "https://timable.com/zh/event/%E9%95%B7%E6%98%8E-%E7%BE%A4%E5%B1%95",
-   "source": "Timable",
-   "image": "https://static.timable.com/image_9515ab99-11f6-4444-9857-31e901bf6274-480x600.webp",
-   "featured": false
-  },
-  {
    "id": "22fa25914016",
    "title": "三生有幸演唱會",
    "category": "演唱會",
@@ -1893,18 +1881,6 @@
    "url": "https://www.lcsd.gov.hk/tc/ticket/index.html",
    "source": "康文署",
    "image": "",
-   "featured": false
-  },
-  {
-   "id": "0cbfb461489e",
-   "title": "“Toyol’s Summer Memories” 展覽",
-   "category": "展覽",
-   "start": "2026-09-07",
-   "end": "2026-10-02",
-   "venue": "Toyol Gallery",
-   "url": "https://timable.com/zh/event/Toyol-sSummerMemories-%E5%B1%95%E8%A6%BD",
-   "source": "Timable",
-   "image": "https://static.timable.com/image_f866da30-a541-407e-b706-cb286f481f7e-480x628.webp",
    "featured": false
   },
   {
@@ -2100,18 +2076,6 @@
    "featured": false
   },
   {
-   "id": "80072eff8c66",
-   "title": "呂文聰 x 謝君豪《創作者的靈魂》、“TO SEE AND TO BE SEEN” 攝影展 @香港金齡藝術節 2026",
-   "category": "電影活動",
-   "start": "2026-09-09",
-   "end": "2026-09-20",
-   "venue": "賽馬會創意藝術中心 L1藝廊",
-   "url": "https://timable.com/zh/event/%E5%91%82%E6%96%87%E8%81%B0x%E8%AC%9D%E5%90%9B%E8%B1%AA-%E5%89%B5%E4%BD%9C%E8%80%85%E7%9A%84%E9%9D%88%E9%AD%82---TOSEEANDTOBESEEN-%E6%94%9D%E5%BD%B1%E5%B1%95-%E9%A6%99%E6%B8%AF%E9%87%91%E9%BD%A1%E8%97%9D%E8%A1%93%E7%AF%802026",
-   "source": "Timable",
-   "image": "https://static.timable.com/image_2e19e045-d6fb-4ffd-9326-912781f1c0b0-480x842.webp",
-   "featured": false
-  },
-  {
    "id": "76199d0e66c1",
    "title": "粵華名曲獻知音",
    "category": "表演藝術",
@@ -2196,6 +2160,18 @@
    "featured": false
   },
   {
+   "id": "bdf8e3b5c41e",
+   "title": "「日日耕」邱瑋祥個展",
+   "category": "展覽",
+   "start": "2026-09-10",
+   "end": "2026-10-31",
+   "venue": "爍樂畫廊",
+   "url": "https://timable.com/zh/event/%E6%97%A5%E6%97%A5%E8%80%95-%E9%82%B1%E7%91%8B%E7%A5%A5%E5%80%8B%E5%B1%95",
+   "source": "Timable",
+   "image": "https://static.timable.com/image_420f8619-7636-45c9-984d-a91f1385d4a5-480x600.webp",
+   "featured": false
+  },
+  {
    "id": "4a66e3481316",
    "title": "力聚唱家班演唱會",
    "category": "演唱會",
@@ -2253,6 +2229,18 @@
    "url": "https://www.lcsd.gov.hk/clpss/tc/search/culture/DetailForm.do?id=185944",
    "source": "康文署",
    "image": "",
+   "featured": false
+  },
+  {
+   "id": "740c3534ecad",
+   "title": "「焰行」群展",
+   "category": "休閒",
+   "start": "2026-09-11",
+   "end": "2026-11-14",
+   "venue": "馬凌畫廊 (灣仔)",
+   "url": "https://timable.com/zh/event/%E7%84%B0%E8%A1%8C-%E7%BE%A4%E5%B1%95",
+   "source": "Timable",
+   "image": "https://static.timable.com/image_b5f7b107-8b27-421d-9d60-991e77759ae7-480x320.webp",
    "featured": false
   },
   {
@@ -2421,6 +2409,30 @@
    "url": "https://www.instagram.com/poeticher.dance?igsh=dnYzcHI0Mmt5NTdu&utm_source=qr",
    "source": "康文署",
    "image": "",
+   "featured": false
+  },
+  {
+   "id": "b021f9d3dba0",
+   "title": "「幽園夜夢—輕語共生之調」展覽",
+   "category": "展覽",
+   "start": "2026-09-12",
+   "end": "2026-12-06",
+   "venue": "HART Haus 3-F",
+   "url": "https://timable.com/zh/event/%E5%B9%BD%E5%9C%92%E5%A4%9C%E5%A4%A2-%E8%BC%95%E8%AA%9E%E5%85%B1%E7%94%9F%E4%B9%8B%E8%AA%BF-%E5%B1%95%E8%A6%BD",
+   "source": "Timable",
+   "image": "https://static.timable.com/image_9678e8be-1bac-496b-99c6-792bebfbbcff-480x600.webp",
+   "featured": false
+  },
+  {
+   "id": "ef95dd92c297",
+   "title": "「恍惚間」梁芷榕展覽",
+   "category": "展覽",
+   "start": "2026-09-12",
+   "end": "2026-10-10",
+   "venue": "嘉圖現代藝術",
+   "url": "https://timable.com/zh/event/%E6%81%8D%E6%83%9A%E9%96%93-%E6%A2%81%E8%8A%B7%E6%A6%95%E5%B1%95%E8%A6%BD",
+   "source": "Timable",
+   "image": "https://static.timable.com/image_c679b399-25a2-43c7-aabf-20a04673eb61-480x599.webp",
    "featured": false
   },
   {
@@ -2640,18 +2652,6 @@
    "featured": false
   },
   {
-   "id": "edb641a74756",
-   "title": "Paradiso 學生市集",
-   "category": "市集",
-   "start": "2026-09-13",
-   "end": "2026-09-13",
-   "venue": "香港伯特利教會慈光堂",
-   "url": "https://timable.com/zh/event/Paradiso%E5%AD%B8%E7%94%9F%E5%B8%82%E9%9B%86",
-   "source": "Timable",
-   "image": "https://static.timable.com/image_ddd2a69c-d65d-4db5-8d4b-61b7f7aded7e-480x618.webp",
-   "featured": false
-  },
-  {
    "id": "684a82621651",
    "title": "《逐夢時分》",
    "category": "休閒",
@@ -2853,18 +2853,6 @@
    "url": "https://www.lcsd.gov.hk/tc/ticket/index.html",
    "source": "康文署",
    "image": "",
-   "featured": false
-  },
-  {
-   "id": "9486b0cbc0e0",
-   "title": "「柔韌的邊界」群展",
-   "category": "休閒",
-   "start": "2026-09-15",
-   "end": "2026-11-11",
-   "venue": "刺點畫廊 Blindspot Gallery",
-   "url": "https://timable.com/zh/event/SoftBorders%E6%9F%94%E9%9F%8C%E7%9A%84%E9%82%8A%E7%95%8C-%E7%BE%A4%E5%B1%95",
-   "source": "Timable",
-   "image": "https://static.timable.com/image_6f2522c8-aa62-4255-961e-4ecd31364158-480x640.webp",
    "featured": false
   },
   {
@@ -3273,6 +3261,18 @@
    "url": "https://www.lcsd.gov.hk/clpss/tc/search/culture/DetailForm.do?id=186036",
    "source": "康文署",
    "image": "",
+   "featured": false
+  },
+  {
+   "id": "377c2f52dcb8",
+   "title": "\"Centred\" 陳紀靜 攝影展",
+   "category": "電影活動",
+   "start": "2026-09-19",
+   "end": "2026-10-18",
+   "venue": "kubrick 油麻地店",
+   "url": "https://timable.com/zh/event/Centred-%E9%99%B3%E7%B4%80%E9%9D%9C%E6%94%9D%E5%BD%B1%E5%B1%95",
+   "source": "Timable",
+   "image": "https://static.timable.com/image_52788a67-485d-451a-8b37-2d85c3f4abc4-300x400.webp",
    "featured": false
   },
   {
