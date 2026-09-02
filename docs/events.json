@@ -710,6 +710,18 @@
    "featured": false
   },
   {
+   "id": "b4387154502e",
+   "title": "YOASOBI 香港演唱會 2026-27",
+   "category": "演唱會",
+   "start": "2026-09-01",
+   "end": "2027-12-31",
+   "venue": "啟德體育園",
+   "url": "https://timable.com/zh/event/YOASOBI%E9%A6%99%E6%B8%AF%E6%BC%94%E5%94%B1%E6%9C%832026-27",
+   "source": "Timable",
+   "image": "https://static.timable.com/image_1c2dc04b-e1de-4a48-89bb-21f11686e1f4-480x480.webp",
+   "featured": false
+  },
+  {
    "id": "2de2d552d5d7",
    "title": "油麻地戲院場地伙伴計劃—優越新秀粵劇傳承計劃 2026-27 粵劇演出《桃花湖畔鳳求凰》",
    "category": "表演藝術",
@@ -1536,18 +1548,6 @@
    "featured": false
   },
   {
-   "id": "25fc79de8d29",
-   "title": "戲劇大師鍾景輝紀念展覽",
-   "category": "展覽",
-   "start": "2026-09-05",
-   "end": "2026-10-04",
-   "venue": "西九文化區 戲曲中心 中庭",
-   "url": "https://timable.com/zh/event/%E6%88%B2%E5%8A%87%E5%A4%A7%E5%B8%AB%E9%8D%BE%E6%99%AF%E8%BC%9D%E7%B4%80%E5%BF%B5%E5%B1%95%E8%A6%BD",
-   "source": "Timable",
-   "image": "https://static.timable.com/image_ff8e0b08-379f-4e85-8a47-213f8ef6bbf9-480x600.webp",
-   "featured": false
-  },
-  {
    "id": "9ad911d86c59",
    "title": "第14屆全港學界舞蹈音樂節及文化藝術節2026",
    "category": "表演藝術",
@@ -2124,15 +2124,15 @@
    "featured": false
   },
   {
-   "id": "bdf8e3b5c41e",
-   "title": "「日日耕」邱瑋祥個展",
-   "category": "展覽",
+   "id": "55ebe1a36b43",
+   "title": "「奇幻玩物的聲色巡禮」 @「亞藝無疆」藝術節 2026",
+   "category": "休閒",
    "start": "2026-09-10",
-   "end": "2026-10-31",
-   "venue": "爍樂畫廊",
-   "url": "https://timable.com/zh/event/%E6%97%A5%E6%97%A5%E8%80%95-%E9%82%B1%E7%91%8B%E7%A5%A5%E5%80%8B%E5%B1%95",
+   "end": "2026-11-10",
+   "venue": "香港文化中心 大堂",
+   "url": "https://timable.com/zh/event/%E5%A5%87%E5%B9%BB%E7%8E%A9%E7%89%A9%E7%9A%84%E8%81%B2%E8%89%B2%E5%B7%A1%E7%A6%AE---%E4%BA%9E%E8%97%9D%E7%84%A1%E7%96%86-%E8%97%9D%E8%A1%93%E7%AF%802026",
    "source": "Timable",
-   "image": "https://static.timable.com/image_420f8619-7636-45c9-984d-a91f1385d4a5-480x600.webp",
+   "image": "https://static.timable.com/image_b2e08607-24e3-4210-ad97-c01901582ef1-480x270.webp",
    "featured": false
   },
   {
@@ -2193,18 +2193,6 @@
    "url": "https://www.lcsd.gov.hk/clpss/tc/search/culture/DetailForm.do?id=185944",
    "source": "康文署",
    "image": "",
-   "featured": false
-  },
-  {
-   "id": "740c3534ecad",
-   "title": "「焰行」群展",
-   "category": "休閒",
-   "start": "2026-09-11",
-   "end": "2026-11-14",
-   "venue": "馬凌畫廊 (灣仔)",
-   "url": "https://timable.com/zh/event/%E7%84%B0%E8%A1%8C-%E7%BE%A4%E5%B1%95",
-   "source": "Timable",
-   "image": "https://static.timable.com/image_b5f7b107-8b27-421d-9d60-991e77759ae7-480x320.webp",
    "featured": false
   },
   {
@@ -2376,27 +2364,15 @@
    "featured": false
   },
   {
-   "id": "b021f9d3dba0",
-   "title": "「幽園夜夢—輕語共生之調」展覽",
-   "category": "展覽",
+   "id": "c3ccb41e96c4",
+   "title": "「可變之物」曾敏富作品展",
+   "category": "休閒",
    "start": "2026-09-12",
-   "end": "2026-12-06",
-   "venue": "HART Haus 3-F",
-   "url": "https://timable.com/zh/event/%E5%B9%BD%E5%9C%92%E5%A4%9C%E5%A4%A2-%E8%BC%95%E8%AA%9E%E5%85%B1%E7%94%9F%E4%B9%8B%E8%AA%BF-%E5%B1%95%E8%A6%BD",
+   "end": "2026-09-27",
+   "venue": "Mooroom",
+   "url": "https://timable.com/zh/event/%E5%8F%AF%E8%AE%8A%E4%B9%8B%E7%89%A9-%E4%BD%9C%E5%93%81%E5%B1%95",
    "source": "Timable",
-   "image": "https://static.timable.com/image_9678e8be-1bac-496b-99c6-792bebfbbcff-480x600.webp",
-   "featured": false
-  },
-  {
-   "id": "ef95dd92c297",
-   "title": "「恍惚間」梁芷榕展覽",
-   "category": "展覽",
-   "start": "2026-09-12",
-   "end": "2026-10-10",
-   "venue": "嘉圖現代藝術",
-   "url": "https://timable.com/zh/event/%E6%81%8D%E6%83%9A%E9%96%93-%E6%A2%81%E8%8A%B7%E6%A6%95%E5%B1%95%E8%A6%BD",
-   "source": "Timable",
-   "image": "https://static.timable.com/image_c679b399-25a2-43c7-aabf-20a04673eb61-480x599.webp",
+   "image": "https://static.timable.com/image_2a85e0d6-1bc2-4d8c-903e-9797b4f65298-480x480.webp",
    "featured": false
   },
   {
@@ -2613,6 +2589,18 @@
    "url": "https://www.lcsd.gov.hk/tc/ticket/index.html",
    "source": "康文署",
    "image": "",
+   "featured": false
+  },
+  {
+   "id": "cf65ae0a971c",
+   "title": "《愛麗絲夢遊仙境》合家歡舞蹈演出",
+   "category": "表演藝術",
+   "start": "2026-09-13",
+   "end": "2026-09-13",
+   "venue": "青年廣場 Y綜藝館",
+   "url": "https://timable.com/zh/event/%E6%84%9B%E9%BA%97%E7%B5%B2%E5%A4%A2%E9%81%8A%E4%BB%99%E5%A2%83-%E5%90%88%E5%AE%B6%E6%AD%A1%E8%88%9E%E8%B9%88%E6%BC%94%E5%87%BA",
+   "source": "Timable",
+   "image": "https://static.timable.com/image_b7a39eeb-9731-40ab-805c-fab0b0394440-480x678.webp",
    "featured": false
   },
   {
@@ -3000,6 +2988,18 @@
    "featured": false
   },
   {
+   "id": "6ed6ae1e67d3",
+   "title": "《SAKAMOTO DAYS 坂本日常》上映週",
+   "category": "休閒",
+   "start": "2026-09-17",
+   "end": "2026-09-23",
+   "venue": "各大電影院線",
+   "url": "https://timable.com/zh/event/%E7%9B%AE%E9%BB%91%E8%93%AE-SAKAMOTODAYS%E5%9D%82%E6%9C%AC%E6%97%A5%E5%B8%B8-%E9%9B%BB%E5%BD%B1",
+   "source": "Timable",
+   "image": "https://static.timable.com/image_92dbcd43-f68f-4c62-8b09-629e62843bb9-480x702.webp",
+   "featured": false
+  },
+  {
    "id": "ff6efee7bb96",
    "title": "宋韻揚波 · 洪逸飛揚長劇《紮腳劉金定》",
    "category": "休閒",
@@ -3228,18 +3228,6 @@
    "featured": false
   },
   {
-   "id": "377c2f52dcb8",
-   "title": "\"Centred\" 陳紀靜 攝影展",
-   "category": "電影活動",
-   "start": "2026-09-19",
-   "end": "2026-10-18",
-   "venue": "kubrick 油麻地店",
-   "url": "https://timable.com/zh/event/Centred-%E9%99%B3%E7%B4%80%E9%9D%9C%E6%94%9D%E5%BD%B1%E5%B1%95",
-   "source": "Timable",
-   "image": "https://static.timable.com/image_52788a67-485d-451a-8b37-2d85c3f4abc4-300x400.webp",
-   "featured": false
-  },
-  {
    "id": "b8bee81a0699",
    "title": "2026社區文化大使: 紫迎楓粵劇團「非．粵～夢工場：非遺大聯動」「非．粵～區區展風華」巡迴演出",
    "category": "表演藝術",
@@ -3453,6 +3441,18 @@
    "url": "https://hchk.org",
    "source": "康文署",
    "image": "",
+   "featured": false
+  },
+  {
+   "id": "c84401e6eab3",
+   "title": "Helen So \"Coffee, Tea or Me?\" 音樂會",
+   "category": "表演藝術",
+   "start": "2026-09-20",
+   "end": "2026-09-20",
+   "venue": "Mojo Soup ",
+   "url": "https://timable.com/zh/event/HelenSo-Coffee-TeaorMe--%E9%9F%B3%E6%A8%82%E6%9C%83",
+   "source": "Timable",
+   "image": "https://static.timable.com/image_d12c7446-05fa-455b-bdf4-08ef27ff3099-480x600.webp",
    "featured": false
   },
   {
@@ -4821,18 +4821,6 @@
    "url": "https://www.lcsd.gov.hk/tc/ticket/index.html",
    "source": "康文署",
    "image": "",
-   "featured": false
-  },
-  {
-   "id": "9b97f1e1042a",
-   "title": "TOGENASHI TOGEARI 《凜音の理》香港演唱會 2026",
-   "category": "演唱會",
-   "start": "2026-10-02",
-   "end": "2026-10-02",
-   "venue": "亞洲國際博覽館 2號館",
-   "url": "https://timable.com/zh/event/TOGENASHITOGEARI%E9%A6%99%E6%B8%AF%E6%BC%94%E5%94%B1%E6%9C%832026",
-   "source": "Timable",
-   "image": "https://static.timable.com/image_563e0588-c886-4fdf-b464-2cd6004a5d54-480x600.webp",
    "featured": false
   },
   {
@@ -7416,6 +7404,18 @@
    "featured": false
   },
   {
+   "id": "0568e1ee451f",
+   "title": "《飢餓遊戲前傳: 黎明反擊》即將上映",
+   "category": "休閒",
+   "start": "2026-11-01",
+   "end": "2026-11-30",
+   "venue": "各大電影院線",
+   "url": "https://timable.com/zh/event/%E9%A3%A2%E9%A4%93%E9%81%8A%E6%88%B2%E5%89%8D%E5%82%B3-%E9%BB%8E%E6%98%8E%E5%8F%8D%E6%93%8A-%E5%8D%B3%E5%B0%87%E4%B8%8A%E6%98%A0",
+   "source": "Timable",
+   "image": "https://static.timable.com/image_1a3c7fd2-7965-4a4f-8d89-b3fd6f98ea24-480x675.webp",
+   "featured": false
+  },
+  {
    "id": "900caff9b5dd",
    "title": "嘉貝蒂與科帕欽卡雅大提琴及小提琴演奏會",
    "category": "表演藝術",
@@ -7813,7 +7813,7 @@
   },
   {
    "id": "0a501839c461",
-   "title": "都敬秀 \"DAY OFF\" 巡迴演唱會 2026-2027 香港站",
+   "title": "都敬秀 \"DAY OFF\" 巡迴演唱會 2027 香港站",
    "category": "演唱會",
    "start": "2027-01-16",
    "end": "2027-01-16",
