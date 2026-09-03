@@ -710,18 +710,6 @@
    "featured": false
   },
   {
-   "id": "b4387154502e",
-   "title": "YOASOBI 香港演唱會 2026-27",
-   "category": "演唱會",
-   "start": "2026-09-01",
-   "end": "2027-12-31",
-   "venue": "啟德體育園",
-   "url": "https://timable.com/zh/event/YOASOBI%E9%A6%99%E6%B8%AF%E6%BC%94%E5%94%B1%E6%9C%832026-27",
-   "source": "Timable",
-   "image": "https://static.timable.com/image_1c2dc04b-e1de-4a48-89bb-21f11686e1f4-480x480.webp",
-   "featured": false
-  },
-  {
    "id": "1e048ff05c79",
    "title": "香港時裝薈 2026",
    "category": "大型盛事",
@@ -1526,6 +1514,18 @@
    "featured": false
   },
   {
+   "id": "6a735157d0df",
+   "title": "「色空之間:被看見的潛意識」顏色展示會",
+   "category": "休閒",
+   "start": "2026-09-05",
+   "end": "2026-09-20",
+   "venue": "逐流創所",
+   "url": "https://timable.com/zh/event/%E8%89%B2%E7%A9%BA%E4%B9%8B%E9%96%93-%E8%A2%AB%E7%9C%8B%E8%A6%8B%E7%9A%84%E6%BD%9B%E6%84%8F%E8%AD%98-%E9%A1%8F%E8%89%B2%E5%B1%95%E7%A4%BA%E6%9C%83",
+   "source": "Timable",
+   "image": "https://static.timable.com/image_791de130-3787-434e-b221-282e287445d4-480x600.webp",
+   "featured": false
+  },
+  {
    "id": "fa224c8c1d33",
    "title": "兒童芭蕾舞劇:魔法巫師",
    "category": "表演藝術",
@@ -2306,18 +2306,6 @@
    "featured": false
   },
   {
-   "id": "824d997576ed",
-   "title": "\"The Stories We Share\" Anne Drouet 鋼琴音樂會",
-   "category": "表演藝術",
-   "start": "2026-09-12",
-   "end": "2026-09-12",
-   "venue": "香港",
-   "url": "https://timable.com/zh/event/AnneDrouet-TheStoriesWeShare-%E9%8B%BC%E7%90%B4%E5%8D%B3%E8%88%88%E9%9F%B3%E6%A8%82%E6%B2%BB%E7%99%82%E9%9F%B3%E6%A8%82%E6%9C%83",
-   "source": "Timable",
-   "image": "https://static.timable.com/image_1f0c47e0-399f-47e3-b838-6022dfaa89ee-300x400.webp",
-   "featured": false
-  },
-  {
    "id": "750960d001b8",
    "title": "2026社區文化大使: 紫迎楓粵劇團「非．粵～夢工場：非遺大聯動」「非．粵～區區展風華」巡迴演出",
    "category": "表演藝術",
@@ -2519,6 +2507,18 @@
    "url": "https://www.instagram.com/p/DbF3DRKhqpB",
    "source": "康文署",
    "image": "",
+   "featured": false
+  },
+  {
+   "id": "d85e5065eedf",
+   "title": "譚曉怡 x 金子栞《時光迴響:時間被封存的陶瓷世界》展覽",
+   "category": "展覽",
+   "start": "2026-09-12",
+   "end": "2026-12-12",
+   "venue": "wamono art",
+   "url": "https://timable.com/zh/event/%E8%AD%9A%E6%9B%89%E6%80%A1x%E9%87%91%E5%AD%90%E6%A0%9E-%E6%99%82%E5%85%89%E8%BF%B4%E9%9F%BF-%E6%99%82%E9%96%93%E8%A2%AB%E5%B0%81%E5%AD%98%E7%9A%84%E9%99%B6%E7%93%B7%E4%B8%96%E7%95%8C-%E5%B1%95%E8%A6%BD",
+   "source": "Timable",
+   "image": "https://static.timable.com/image_78ff3344-de81-4dda-9431-2b52b9c95c6c-480x683.webp",
    "featured": false
   },
   {
@@ -2855,18 +2855,6 @@
    "url": "https://hk.space.museum/tc/web/spm/activities/lecture.html",
    "source": "康文署",
    "image": "",
-   "featured": false
-  },
-  {
-   "id": "f22118eb3faa",
-   "title": "Kingyo Neko「Meowlit Dreamland」星光夢花園 @apm",
-   "category": "休閒",
-   "start": "2026-09-16",
-   "end": "2026-11-01",
-   "venue": "apm",
-   "url": "https://timable.com/zh/event/KingyoNeko-MeowlitDreamland-%E6%98%9F%E5%85%89%E5%A4%A2%E8%8A%B1%E5%9C%92-apm",
-   "source": "Timable",
-   "image": "https://static.timable.com/image_df99a2eb-f8bb-4d40-9064-6c2b389b937b-480x422.webp",
    "featured": false
   },
   {
@@ -3407,18 +3395,6 @@
    "url": "https://hchk.org",
    "source": "康文署",
    "image": "",
-   "featured": false
-  },
-  {
-   "id": "c84401e6eab3",
-   "title": "Helen So \"Coffee, Tea or Me?\" 音樂會",
-   "category": "表演藝術",
-   "start": "2026-09-20",
-   "end": "2026-09-20",
-   "venue": "Mojo Soup ",
-   "url": "https://timable.com/zh/event/HelenSo-Coffee-TeaorMe--%E9%9F%B3%E6%A8%82%E6%9C%83",
-   "source": "Timable",
-   "image": "https://static.timable.com/image_d12c7446-05fa-455b-bdf4-08ef27ff3099-480x600.webp",
    "featured": false
   },
   {
@@ -4070,15 +4046,15 @@
    "featured": false
   },
   {
-   "id": "ff26624af2d2",
-   "title": "《心靈電台 ON AIR》音樂會",
-   "category": "表演藝術",
+   "id": "f7647c4819e7",
+   "title": "《笑林寺齋笑拼盤SHOW》棟篤笑演出",
+   "category": "休閒",
    "start": "2026-09-26",
    "end": "2026-09-26",
-   "venue": "香港藝術中心 壽臣劇院",
-   "url": "https://timable.com/zh/event/%E5%BF%83%E9%9D%88%E9%9B%BB%E5%8F%B0ONAIR-%E9%9F%B3%E6%A8%82%E6%9C%83",
+   "venue": "魔法幻影俱樂部 ",
+   "url": "https://timable.com/zh/event/%E7%AC%91%E6%9E%97%E5%AF%BA%E9%BD%8B%E7%AC%91%E6%8B%BC%E7%9B%A4SHOW-%E6%A3%9F%E7%AF%A4%E7%AC%91%E6%BC%94%E5%87%BA",
    "source": "Timable",
-   "image": "https://static.timable.com/image_3391d1ff-c316-4854-912d-97a5817064ae-480x640.webp",
+   "image": "https://static.timable.com/image_dfc95e39-fc8f-4e8d-9b96-a4e2a4e96611-480x600.webp",
    "featured": false
   },
   {
@@ -4727,6 +4703,18 @@
    "url": "https://www.lcsd.gov.hk/clpss/tc/search/culture/DetailForm.do?id=187091",
    "source": "康文署",
    "image": "",
+   "featured": false
+  },
+  {
+   "id": "e1095d8dae9d",
+   "title": "國慶煙花匯演 2026",
+   "category": "表演藝術",
+   "start": "2026-10-01",
+   "end": "2026-10-01",
+   "venue": "維多利亞港",
+   "url": "https://timable.com/zh/event/%E5%9C%8B%E6%85%B6%E7%85%99%E8%8A%B1%E5%8C%AF%E6%BC%94-2026",
+   "source": "Timable",
+   "image": "https://static.timable.com/image_817b5612-2ad1-4f27-9051-39801fc91822-480x480.webp",
    "featured": false
   },
   {
@@ -7466,6 +7454,18 @@
    "featured": false
   },
   {
+   "id": "b4387154502e",
+   "title": "YOASOBI 香港演唱會 2026-27",
+   "category": "演唱會",
+   "start": "2026-11-01",
+   "end": "2027-12-31",
+   "venue": "啟德體育園",
+   "url": "https://timable.com/zh/event/YOASOBI%E9%A6%99%E6%B8%AF%E6%BC%94%E5%94%B1%E6%9C%832026-27",
+   "source": "Timable",
+   "image": "https://static.timable.com/image_1c2dc04b-e1de-4a48-89bb-21f11686e1f4-480x480.webp",
+   "featured": false
+  },
+  {
    "id": "900caff9b5dd",
    "title": "嘉貝蒂與科帕欽卡雅大提琴及小提琴演奏會",
    "category": "表演藝術",
@@ -7478,6 +7478,18 @@
    "featured": false
   },
   {
+   "id": "b3cfdf3f975a",
+   "title": "Aziza featuring Dave Holland, Chris Potter, Lionel Loueke and Eric Harland 音樂會",
+   "category": "表演藝術",
+   "start": "2026-11-03",
+   "end": "2026-11-03",
+   "venue": "香港大會堂 音樂廳",
+   "url": "https://timable.com/zh/event/AzizafeaturingDaveHolland-ChrisPotter-LionelLouekeandEricHarland%E9%9F%B3%E6%A8%82%E6%9C%83",
+   "source": "Timable",
+   "image": "https://static.timable.com/image_13202b76-50bb-40b0-a3d5-e924ca0d50a1-480x604.webp",
+   "featured": false
+  },
+  {
    "id": "0aee30533ad4",
    "title": "Jason Mraz﻿ 亞洲巡迴演唱會 2026 香港站",
    "category": "演唱會",
@@ -7487,18 +7499,6 @@
    "url": "https://timable.com/zh/event/JasonMraz%E4%BA%9E%E6%B4%B2%E5%B7%A1%E8%BF%B4%E6%BC%94%E5%94%B1%E6%9C%832026%E9%A6%99%E6%B8%AF%E7%AB%99",
    "source": "Timable",
    "image": "https://static.timable.com/image_0c97697f-8504-47cc-85a6-e6c670f1ad5b-466x466.webp",
-   "featured": false
-  },
-  {
-   "id": "e1dd2ec0e1a5",
-   "title": "林坤燿《巨債》舞台劇 @鉛筆製作",
-   "category": "休閒",
-   "start": "2026-11-06",
-   "end": "2026-11-14",
-   "venue": "東九文化中心",
-   "url": "https://timable.com/zh/event/%E6%9E%97%E5%9D%A4%E7%87%BF-%E5%B7%A8%E5%82%B5-%E8%88%9E%E5%8F%B0%E5%8A%87-%E9%89%9B%E7%AD%86%E8%A3%BD%E4%BD%9C",
-   "source": "Timable",
-   "image": "https://static.timable.com/image_54e597b8-158f-41ff-a3de-18c6b3e68825-480x600.webp",
    "featured": false
   },
   {
@@ -7631,18 +7631,6 @@
    "url": "https://www.facebook.com/hkharmonica",
    "source": "康文署",
    "image": "",
-   "featured": false
-  },
-  {
-   "id": "8c7c74b7acc8",
-   "title": "Intercell Amsterdam × Collective Minds 音樂會",
-   "category": "表演藝術",
-   "start": "2026-11-22",
-   "end": "2026-11-22",
-   "venue": "觀塘海濱公園",
-   "url": "https://timable.com/zh/event/IntercellAmsterdam-CollectiveMinds%E9%A6%99%E6%B8%AF%E7%AB%99%E9%9B%BB%E5%AD%90%E9%9F%B3%E6%A8%82%E6%B4%BB%E5%8B%95",
-   "source": "Timable",
-   "image": "https://static.timable.com/image_28116e52-aaed-4f47-b2bc-499340b77c1c-480x270.webp",
    "featured": false
   },
   {
@@ -7799,6 +7787,18 @@
    "url": "https://www.lcsd.gov.hk/CE/CulturalService/Programme/tc/music/programs_1949.html",
    "source": "康文署",
    "image": "",
+   "featured": false
+  },
+  {
+   "id": "c6d6952f0b0d",
+   "title": "玩轉大館馬戲季 2026",
+   "category": "休閒",
+   "start": "2026-12-11",
+   "end": "2027-01-01",
+   "venue": "大館",
+   "url": "https://timable.com/zh/event/%E7%8E%A9%E8%BD%89%E5%A4%A7%E9%A4%A8%E9%A6%AC%E6%88%B2%E5%AD%A32026",
+   "source": "Timable",
+   "image": "https://static.timable.com/image_cbe133d6-f6d2-44a7-a111-b4be47054986-480x240.webp",
    "featured": false
   },
   {
