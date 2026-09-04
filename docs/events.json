@@ -1962,18 +1962,6 @@
    "featured": false
   },
   {
-   "id": "57fb8d663994",
-   "title": "「陶瓷戲」陶塑展覽",
-   "category": "展覽",
-   "start": "2026-09-08",
-   "end": "2026-10-31",
-   "venue": "藝想展覽館",
-   "url": "https://timable.com/zh/event/%E9%99%B6%E7%93%B7%E6%88%B2-%E9%99%B6%E5%A1%91%E5%B1%95%E8%A6%BD",
-   "source": "Timable",
-   "image": "https://static.timable.com/image_a8ba32c4-af3c-49e3-87b4-5372d97cae34-480x597.webp",
-   "featured": false
-  },
-  {
    "id": "72ccd38743eb",
    "title": "唱經典 舞歡樂",
    "category": "休閒",
@@ -2127,6 +2115,18 @@
    "url": "https://www.lcsd.gov.hk/tc/ticket/index.html",
    "source": "康文署",
    "image": "",
+   "featured": false
+  },
+  {
+   "id": "749e02d1ac41",
+   "title": "「凝視異常」展覽",
+   "category": "展覽",
+   "start": "2026-09-10",
+   "end": "2026-10-04",
+   "venue": "Yrellag Gallery",
+   "url": "https://timable.com/zh/event/%E5%87%9D%E8%A6%96%E7%95%B0%E5%B8%B8-%E5%B1%95%E8%A6%BD",
+   "source": "Timable",
+   "image": "https://static.timable.com/image_c50d56b1-f6b8-4a70-8158-f056dcf9292d-480x600.webp",
    "featured": false
   },
   {
@@ -2547,18 +2547,6 @@
    "url": "https://www.art-mate.net/doc/96636",
    "source": "康文署",
    "image": "",
-   "featured": false
-  },
-  {
-   "id": "8d275e37b18c",
-   "title": "\"Summer Trio\" 音樂會",
-   "category": "表演藝術",
-   "start": "2026-09-13",
-   "end": "2026-09-13",
-   "venue": "恆安社區中心 4-F",
-   "url": "https://timable.com/zh/event/-SummerTrio-%E9%9F%B3%E6%A8%82%E6%9C%83",
-   "source": "Timable",
-   "image": "https://static.timable.com/image_285ec9f4-29a3-457a-9755-d8c376969e25-480x600.webp",
    "featured": false
   },
   {
@@ -3051,6 +3039,18 @@
    "url": "https://www.facebook.com/MusAssembly/",
    "source": "康文署",
    "image": "",
+   "featured": false
+  },
+  {
+   "id": "d05692c38764",
+   "title": "Marketoo 迎秋好物市集",
+   "category": "市集",
+   "start": "2026-09-18",
+   "end": "2026-10-04",
+   "venue": "天璽天Mall B1-F 走廊",
+   "url": "https://timable.com/zh/event/Marketoo%E8%BF%8E%E7%A7%8B%E5%A5%BD%E7%89%A9%E5%B8%82%E9%9B%86",
+   "source": "Timable",
+   "image": "https://static.timable.com/image_86653fbf-92db-47f1-95a7-986ee9c374fa-480x600.webp",
    "featured": false
   },
   {
