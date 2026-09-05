@@ -59,19 +59,19 @@
   },
   {
    "rank": 8,
-   "title": "解憂雜貨店【50萬冊紀念愛藏版】：感動全球1,400 萬人的奇蹟之書，東野圭吾最令人感動落淚的作品！",
-   "author": "東野圭吾",
-   "price": "NT$276",
-   "url": "https://www.books.com.tw/products/0011055713",
-   "image": "https://im2.book.com.tw/image/getImage?i=https://www.books.com.tw/img/001/105/57/0011055713.jpg&v=6a8e64b2k&w=150&h=150"
-  },
-  {
-   "rank": 9,
    "title": "那些散落在人間的答案【親簽，博客來獨家贈品版】",
    "author": "不朽",
    "price": "NT$591",
    "url": "https://www.books.com.tw/products/0011060438",
    "image": "https://im1.book.com.tw/image/getImage?i=https://www.books.com.tw/img/001/106/04/0011060438.jpg&v=6a7b08c6k&w=150&h=150"
+  },
+  {
+   "rank": 9,
+   "title": "解憂雜貨店【50萬冊紀念愛藏版】：感動全球1,400 萬人的奇蹟之書，東野圭吾最令人感動落淚的作品！",
+   "author": "東野圭吾",
+   "price": "NT$276",
+   "url": "https://www.books.com.tw/products/0011055713",
+   "image": "https://im2.book.com.tw/image/getImage?i=https://www.books.com.tw/img/001/105/57/0011055713.jpg&v=6a8e64b2k&w=150&h=150"
   },
   {
    "rank": 10,
@@ -91,14 +91,6 @@
   },
   {
    "rank": 12,
-   "title": "窮查理的普通常識（紀念典藏版）：巴菲特50年智慧合夥人查理．蒙格的人生哲學",
-   "author": "查理．蒙格",
-   "price": "NT$395",
-   "url": "https://www.books.com.tw/products/0010987407",
-   "image": "https://im2.book.com.tw/image/getImage?i=https://www.books.com.tw/img/001/098/74/0010987407.jpg&v=661e5471k&w=150&h=150"
-  },
-  {
-   "rank": 13,
    "title": "喚醒內在的觀音：不跟痛苦糾纏，自在安心的歸零練習",
    "author": "黃淑文",
    "price": "NT$323",
@@ -106,7 +98,7 @@
    "image": "https://im1.book.com.tw/image/getImage?i=https://www.books.com.tw/img/001/105/84/0011058488.jpg&v=6a5ee283k&w=150&h=150"
   },
   {
-   "rank": 14,
+   "rank": 13,
    "title": "台灣的李登輝時代：意外國度的重塑",
    "author": "林孝庭",
    "price": "NT$497",
@@ -114,12 +106,20 @@
    "image": "https://im2.book.com.tw/image/getImage?i=https://www.books.com.tw/img/001/105/75/0011057571.jpg&v=6a549f3fk&w=150&h=150"
   },
   {
+   "rank": 14,
+   "title": "窮查理的普通常識（紀念典藏版）：巴菲特50年智慧合夥人查理．蒙格的人生哲學",
+   "author": "查理．蒙格",
+   "price": "NT$395",
+   "url": "https://www.books.com.tw/products/0010987407",
+   "image": "https://im2.book.com.tw/image/getImage?i=https://www.books.com.tw/img/001/098/74/0010987407.jpg&v=661e5471k&w=150&h=150"
+  },
+  {
    "rank": 15,
-   "title": "小書痴的下剋上：漢娜蘿蕾貴族院五年級生Ⅱ",
-   "author": "香月美夜",
-   "price": "NT$252",
-   "url": "https://www.books.com.tw/products/0011059435",
-   "image": "https://im2.book.com.tw/image/getImage?i=https://www.books.com.tw/img/001/105/94/0011059435.jpg&v=6a686c22k&w=150&h=150"
+   "title": "產業隊長張捷的30個思維練習：從故事裡，看見投資的底層邏輯",
+   "author": "張捷",
+   "price": "NT$300",
+   "url": "https://www.books.com.tw/products/0011059912",
+   "image": "https://im1.book.com.tw/image/getImage?i=https://www.books.com.tw/img/001/105/99/0011059912.jpg&v=6a7158c9k&w=150&h=150"
   },
   {
    "rank": 16,
@@ -131,6 +131,14 @@
   },
   {
    "rank": 17,
+   "title": "小書痴的下剋上：漢娜蘿蕾貴族院五年級生Ⅱ",
+   "author": "香月美夜",
+   "price": "NT$252",
+   "url": "https://www.books.com.tw/products/0011059435",
+   "image": "https://im2.book.com.tw/image/getImage?i=https://www.books.com.tw/img/001/105/94/0011059435.jpg&v=6a686c22k&w=150&h=150"
+  },
+  {
+   "rank": 18,
    "title": "馬斯克寶典：從顛覆矽谷到打造太空帝國，讀懂全球首富20年極限思維【繁中版限定收錄：給讀者的手寫寄語印簽",
    "author": "艾瑞克．喬根森（Eric Jorgenson）",
    "price": "NT$410",
@@ -138,20 +146,12 @@
    "image": "https://im2.book.com.tw/image/getImage?i=https://www.books.com.tw/img/001/105/44/0011054455.jpg&v=6a4e05d5k&w=150&h=150"
   },
   {
-   "rank": 18,
+   "rank": 19,
    "title": "財富階梯：（《持續買進》作者新作）資料科學家為你打造，適用人生各階段的致富策略",
    "author": "尼克．馬朱利",
    "price": "NT$331",
    "url": "https://www.books.com.tw/products/0011050390",
    "image": "https://im1.book.com.tw/image/getImage?i=https://www.books.com.tw/img/001/105/03/0011050390.jpg&v=69e05d39k&w=150&h=150"
-  },
-  {
-   "rank": 19,
-   "title": "產業隊長張捷的30個思維練習：從故事裡，看見投資的底層邏輯",
-   "author": "張捷",
-   "price": "NT$300",
-   "url": "https://www.books.com.tw/products/0011059912",
-   "image": "https://im1.book.com.tw/image/getImage?i=https://www.books.com.tw/img/001/105/99/0011059912.jpg&v=6a7158c9k&w=150&h=150"
   },
   {
    "rank": 20,
