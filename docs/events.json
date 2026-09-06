@@ -1,5 +1,5 @@
 {
- "updated": "2026-09-05",
+ "updated": "2026-09-06",
  "events": [
   {
    "id": "e13429ad674f",
@@ -808,18 +808,6 @@
    "featured": false
   },
   {
-   "id": "14fed483ca5a",
-   "title": "The Rhapsody of Strings",
-   "category": "休閒",
-   "start": "2026-09-05",
-   "end": "2026-09-05",
-   "venue": "沙田大會堂 (演奏廳)",
-   "url": "https://hkcstrings.org.hk/",
-   "source": "康文署",
-   "image": "",
-   "featured": false
-  },
-  {
    "id": "6bf0fd72ec00",
    "title": "UFO離奇命案",
    "category": "電影",
@@ -831,78 +819,6 @@
    "image": "https://wmoov.com/assets/poster/f2349fc5f5823731b50e29172643a0c5.jpg",
    "rating": "6.3",
    "shows": 2,
-   "featured": false
-  },
-  {
-   "id": "18923d58a0d4",
-   "title": "《光影溯源》弦之境胡琴四重奏音樂會",
-   "category": "表演藝術",
-   "start": "2026-09-05",
-   "end": "2026-09-05",
-   "venue": "沙田大會堂 (文娛廳)",
-   "url": "https://www.instagram.com/cadenza.huqin.quartet.hk/",
-   "source": "康文署",
-   "image": "",
-   "featured": false
-  },
-  {
-   "id": "02e0d18f99e5",
-   "title": "《全國生態日2026：「香港山水．聲舞」一日音樂節延續篇》",
-   "category": "表演藝術",
-   "start": "2026-09-05",
-   "end": "2026-09-05",
-   "venue": "東九文化中心 (劇場)",
-   "url": "https://www.art-mate.net/tc/doc/99077",
-   "source": "康文署",
-   "image": "",
-   "featured": false
-  },
-  {
-   "id": "d6b1960e055b",
-   "title": "《全國生態日2026：鏡頭下的印洲塘 》",
-   "category": "休閒",
-   "start": "2026-09-05",
-   "end": "2026-09-05",
-   "venue": "東九文化中心 (劇場)",
-   "url": "https://www.art-mate.net/tc/doc/99073",
-   "source": "康文署",
-   "image": "",
-   "featured": false
-  },
-  {
-   "id": "5c43632be798",
-   "title": "《加冕盃》",
-   "category": "休閒",
-   "start": "2026-09-05",
-   "end": "2026-09-05",
-   "venue": "東九文化中心 (形館)",
-   "url": "https://www.lcsd.gov.hk/tc/ticket/index.html",
-   "source": "康文署",
-   "image": "",
-   "featured": false
-  },
-  {
-   "id": "fe0553c4436a",
-   "title": "《音樂點連結》",
-   "category": "休閒",
-   "start": "2026-09-05",
-   "end": "2026-09-06",
-   "venue": "東九文化中心 (劇院)",
-   "url": "https://musicchildren.org.hk/en/music-connect/",
-   "source": "康文署",
-   "image": "",
-   "featured": false
-  },
-  {
-   "id": "a67970a6afcb",
-   "title": "《香港聖樂團七十周年音樂會系列II：讚美頌》",
-   "category": "表演藝術",
-   "start": "2026-09-05",
-   "end": "2026-09-05",
-   "venue": "荃灣大會堂 (演奏廳)",
-   "url": "https://www.oratorio.org.hk/web/zh/",
-   "source": "康文署",
-   "image": "",
    "featured": false
   },
   {
@@ -1390,18 +1306,6 @@
    "featured": false
   },
   {
-   "id": "9ad911d86c59",
-   "title": "第14屆全港學界舞蹈音樂節及文化藝術節2026",
-   "category": "表演藝術",
-   "start": "2026-09-05",
-   "end": "2026-09-05",
-   "venue": "香港文化中心 (劇場)",
-   "url": "https://www.lcsd.gov.hk/tc/ticket/index.html",
-   "source": "康文署",
-   "image": "",
-   "featured": false
-  },
-  {
    "id": "7190c18de22b",
    "title": "給阿嬤的情書",
    "category": "電影",
@@ -1427,18 +1331,6 @@
    "image": "https://wmoov.com/assets/poster/4d640ebfcbd2795a49ddfd79f2ef970c.jpg",
    "rating": "9.5",
    "shows": 3,
-   "featured": false
-  },
-  {
-   "id": "a3f752ded0a0",
-   "title": "舞之異域 II",
-   "category": "休閒",
-   "start": "2026-09-05",
-   "end": "2026-09-05",
-   "venue": "牛池灣文娛中心 (文娛廳)",
-   "url": "https://www.lcsd.gov.hk/tc/ticket/index.html",
-   "source": "康文署",
-   "image": "",
    "featured": false
   },
   {
@@ -1498,18 +1390,6 @@
    "featured": false
   },
   {
-   "id": "391a3278ad99",
-   "title": "輕鬆金曲為你獻",
-   "category": "表演藝術",
-   "start": "2026-09-05",
-   "end": "2026-09-05",
-   "venue": "西灣河文娛中心 (文娛廳)",
-   "url": "https://www.lcsd.gov.hk/clpss/tc/search/culture/DetailForm.do?id=185855",
-   "source": "康文署",
-   "image": "",
-   "featured": false
-  },
-  {
    "id": "d8b4ecc93cb0",
    "title": "迷你兵團與大怪獸",
    "category": "電影",
@@ -1566,30 +1446,6 @@
    "featured": false
   },
   {
-   "id": "8d00b9cd5701",
-   "title": "香港文化中心場地伙伴計劃：BBC天與地III電影音樂會",
-   "category": "電影活動",
-   "start": "2026-09-05",
-   "end": "2026-09-05",
-   "venue": "香港文化中心 (音樂廳)",
-   "url": "https://www.hkphil.org/tc/concert/bbc-planet-earth-iii-live-in-concert",
-   "source": "康文署",
-   "image": "",
-   "featured": false
-  },
-  {
-   "id": "ae0f6b22bce4",
-   "title": "鳳凰粵劇團 粵劇《萬惡淫為首》",
-   "category": "表演藝術",
-   "start": "2026-09-05",
-   "end": "2026-09-05",
-   "venue": "高山劇場 (劇院)",
-   "url": "https://www.lcsd.gov.hk/clpss/tc/search/culture/DetailForm.do?id=185939",
-   "source": "康文署",
-   "image": "",
-   "featured": false
-  },
-  {
    "id": "44db98112b92",
    "title": "麥兜故事",
    "category": "電影",
@@ -1615,18 +1471,6 @@
    "image": "https://wmoov.com/assets/poster/2fe46e8a9a6c6c658d6ae73ddade62bc.jpg",
    "rating": "7.1",
    "shows": 1,
-   "featured": false
-  },
-  {
-   "id": "09a129c2578c",
-   "title": "鼎奏樂團：KJ黃家正 X 羅乃新 X 張韜 ─ 鼎奏莫絕25, 26, 27",
-   "category": "休閒",
-   "start": "2026-09-05",
-   "end": "2026-09-05",
-   "venue": "香港大會堂 (音樂廳)",
-   "url": "https://www.lcsd.gov.hk/tc/ticket/index.html",
-   "source": "康文署",
-   "image": "",
    "featured": false
   },
   {
@@ -7049,6 +6893,18 @@
    "end": "2026-10-23",
    "venue": "荃灣大會堂 (文娛廳)",
    "url": "https://www.lcsd.gov.hk/clpss/tc/search/culture/DetailForm.do?id=187036",
+   "source": "康文署",
+   "image": "",
+   "featured": false
+  },
+  {
+   "id": "ae33061b943a",
+   "title": "鳴芝聲劇團",
+   "category": "休閒",
+   "start": "2026-10-23",
+   "end": "2026-10-25",
+   "venue": "沙田大會堂 (演奏廳)",
+   "url": "https://www.lcsd.gov.hk/clpss/tc/search/culture/DetailForm.do?id=186958",
    "source": "康文署",
    "image": "",
    "featured": false
