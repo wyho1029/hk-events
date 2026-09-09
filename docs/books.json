@@ -19,19 +19,19 @@
   },
   {
    "rank": 3,
-   "title": "花錢的藝術：打造富足人生的金錢心理學【博客來獨家附贈財富透析．互動金句透卡】",
-   "author": "摩根．豪瑟",
-   "price": "NT$379",
-   "url": "https://www.books.com.tw/products/0011057581",
-   "image": "https://im2.book.com.tw/image/getImage?i=https://www.books.com.tw/img/001/105/75/0011057581.jpg&v=6a5605d9k&w=150&h=150"
-  },
-  {
-   "rank": 4,
    "title": "隨他們去：全球熱銷突破1000萬冊現象級巨作！改變千萬人命運的心理技巧【博客來獨家版．附內在覺醒影響力躍昇卡】",
    "author": "梅爾．羅賓斯",
    "price": "NT$355",
    "url": "https://www.books.com.tw/products/0011055312",
    "image": "https://im1.book.com.tw/image/getImage?i=https://www.books.com.tw/img/001/105/53/0011055312.jpg&v=6a3b438ek&w=150&h=150"
+  },
+  {
+   "rank": 4,
+   "title": "花錢的藝術：打造富足人生的金錢心理學【博客來獨家附贈財富透析．互動金句透卡】",
+   "author": "摩根．豪瑟",
+   "price": "NT$379",
+   "url": "https://www.books.com.tw/products/0011057581",
+   "image": "https://im2.book.com.tw/image/getImage?i=https://www.books.com.tw/img/001/105/75/0011057581.jpg&v=6a5605d9k&w=150&h=150"
   },
   {
    "rank": 5,
@@ -83,14 +83,6 @@
   },
   {
    "rank": 11,
-   "title": "P.S. 我愛鮪魚罐罐，但我更愛你：一封從貓咪天堂寄回的情書【折口附贈永遠想念藏書卡】",
-   "author": "莎拉．強西",
-   "price": "NT$316",
-   "url": "https://www.books.com.tw/products/0011057961",
-   "image": "https://im2.book.com.tw/image/getImage?i=https://www.books.com.tw/img/001/105/79/0011057961.jpg&v=6a584c78k&w=150&h=150"
-  },
-  {
-   "rank": 12,
    "title": "產業隊長張捷的30個思維練習：從故事裡，看見投資的底層邏輯",
    "author": "張捷",
    "price": "NT$300",
@@ -98,7 +90,23 @@
    "image": "https://im1.book.com.tw/image/getImage?i=https://www.books.com.tw/img/001/105/99/0011059912.jpg&v=6a7158c9k&w=150&h=150"
   },
   {
+   "rank": 12,
+   "title": "P.S. 我愛鮪魚罐罐，但我更愛你：一封從貓咪天堂寄回的情書【折口附贈永遠想念藏書卡】",
+   "author": "莎拉．強西",
+   "price": "NT$316",
+   "url": "https://www.books.com.tw/products/0011057961",
+   "image": "https://im2.book.com.tw/image/getImage?i=https://www.books.com.tw/img/001/105/79/0011057961.jpg&v=6a584c78k&w=150&h=150"
+  },
+  {
    "rank": 13,
+   "title": "男人第二次浪漫：情書寫給女兒",
+   "author": "蔡詩萍",
+   "price": "NT$316",
+   "url": "https://www.books.com.tw/products/0011059001",
+   "image": "https://im2.book.com.tw/image/getImage?i=https://www.books.com.tw/img/001/105/90/0011059001.jpg&v=6a619d9ak&w=150&h=150"
+  },
+  {
+   "rank": 14,
    "title": "喚醒內在的觀音：不跟痛苦糾纏，自在安心的歸零練習",
    "author": "黃淑文",
    "price": "NT$323",
@@ -106,20 +114,12 @@
    "image": "https://im1.book.com.tw/image/getImage?i=https://www.books.com.tw/img/001/105/84/0011058488.jpg&v=6a5ee283k&w=150&h=150"
   },
   {
-   "rank": 14,
+   "rank": 15,
    "title": "窮查理的普通常識（紀念典藏版）：巴菲特50年智慧合夥人查理．蒙格的人生哲學",
    "author": "查理．蒙格",
    "price": "NT$395",
    "url": "https://www.books.com.tw/products/0010987407",
    "image": "https://im2.book.com.tw/image/getImage?i=https://www.books.com.tw/img/001/098/74/0010987407.jpg&v=661e5471k&w=150&h=150"
-  },
-  {
-   "rank": 15,
-   "title": "男人第二次浪漫：情書寫給女兒",
-   "author": "蔡詩萍",
-   "price": "NT$316",
-   "url": "https://www.books.com.tw/products/0011059001",
-   "image": "https://im2.book.com.tw/image/getImage?i=https://www.books.com.tw/img/001/105/90/0011059001.jpg&v=6a619d9ak&w=150&h=150"
   },
   {
    "rank": 16,
@@ -139,14 +139,6 @@
   },
   {
    "rank": 18,
-   "title": "馬斯克寶典：從顛覆矽谷到打造太空帝國，讀懂全球首富20年極限思維【繁中版限定收錄：給讀者的手寫寄語印簽",
-   "author": "艾瑞克．喬根森（Eric Jorgenson）",
-   "price": "NT$410",
-   "url": "https://www.books.com.tw/products/0011054455",
-   "image": "https://im2.book.com.tw/image/getImage?i=https://www.books.com.tw/img/001/105/44/0011054455.jpg&v=6a4e05d5k&w=150&h=150"
-  },
-  {
-   "rank": 19,
    "title": "我的黑道姑姑：教我的99件事",
    "author": "黃山料",
    "price": "NT$331",
@@ -154,12 +146,20 @@
    "image": "https://im2.book.com.tw/image/getImage?i=https://www.books.com.tw/img/001/105/17/0011051787.jpg&v=69f900fbk&w=150&h=150"
   },
   {
+   "rank": 19,
+   "title": "高雄，緊緊緊：2314天極限轉型",
+   "author": "陳其邁feat. 行政團隊口述,蘇芳禾,李珮綺,高哲暉",
+   "price": "NT$379",
+   "url": "https://www.books.com.tw/products/0011060440",
+   "image": "https://im1.book.com.tw/image/getImage?i=https://www.books.com.tw/img/001/106/04/0011060440.jpg&v=6a7bbeb5k&w=150&h=150"
+  },
+  {
    "rank": 20,
-   "title": "高薪賽道：選擇比努力重要！走對路徑的職場換軌與談薪心法",
-   "author": "抹布（Moboo）",
-   "price": "NT$355",
-   "url": "https://www.books.com.tw/products/0011057716",
-   "image": "https://im1.book.com.tw/image/getImage?i=https://www.books.com.tw/img/001/105/77/0011057716.jpg&v=6a55fc8ek&w=150&h=150"
+   "title": "馬斯克寶典：從顛覆矽谷到打造太空帝國，讀懂全球首富20年極限思維【繁中版限定收錄：給讀者的手寫寄語印簽",
+   "author": "艾瑞克．喬根森（Eric Jorgenson）",
+   "price": "NT$410",
+   "url": "https://www.books.com.tw/products/0011054455",
+   "image": "https://im2.book.com.tw/image/getImage?i=https://www.books.com.tw/img/001/105/44/0011054455.jpg&v=6a4e05d5k&w=150&h=150"
   }
  ]
 }
