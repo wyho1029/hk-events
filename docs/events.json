@@ -1,5 +1,5 @@
 {
- "updated": "2026-09-09",
+ "updated": "2026-09-10",
  "events": [
   {
    "id": "e13429ad674f",
@@ -39,7 +39,7 @@
   },
   {
    "id": "01bad659f9be",
-   "title": "「M+希克藏品: 心靈圖景」展覽",
+   "title": "「M+希克藏品: 別傳」展覽",
    "category": "展覽",
    "start": "2025-06-27",
    "end": "2027-08-01",
@@ -667,7 +667,7 @@
    "category": "休閒",
    "start": "2026-09-05",
    "end": "2026-11-01",
-   "venue": "香港海洋公園",
+   "venue": "Ocean Park",
    "url": "https://timable.com/zh/event/%E6%B5%B7%E6%B4%8B%E5%85%AC%E5%9C%92-%E5%93%88%E5%9B%89%E5%96%82-2026",
    "source": "Timable",
    "image": "https://static.timable.com/image_d8cf11d0-b922-4941-965b-e6e6947e4cd4-480x270.webp",
@@ -819,18 +819,6 @@
    "image": "https://wmoov.com/assets/poster/d566a2899c20c4e6041d0f53b84dfcad.jpg",
    "rating": "5.8",
    "shows": 113,
-   "featured": false
-  },
-  {
-   "id": "41a0559aaf07",
-   "title": "十二欄杆十二釵",
-   "category": "休閒",
-   "start": "2026-09-09",
-   "end": "2026-09-09",
-   "venue": "香港文化中心 (大劇院)",
-   "url": "https://www.lcsd.gov.hk/tc/ticket/index.html",
-   "source": "康文署",
-   "image": "",
    "featured": false
   },
   {
@@ -1184,18 +1172,6 @@
    "featured": false
   },
   {
-   "id": "76199d0e66c1",
-   "title": "粵華名曲獻知音",
-   "category": "表演藝術",
-   "start": "2026-09-09",
-   "end": "2026-09-09",
-   "venue": "大埔文娛中心 (演藝廳)",
-   "url": "https://www.lcsd.gov.hk/clpss/tc/search/culture/DetailForm.do?id=185883",
-   "source": "康文署",
-   "image": "",
-   "featured": false
-  },
-  {
    "id": "7190c18de22b",
    "title": "給阿嬤的情書",
    "category": "電影",
@@ -1207,18 +1183,6 @@
    "image": "https://wmoov.com/assets/poster/1f9f45cb34cafe3c28685d26944cb3d7.jpg",
    "rating": "8.7",
    "shows": 20,
-   "featured": false
-  },
-  {
-   "id": "a8d0a78a4ea7",
-   "title": "綠色天使之友歌舞表演",
-   "category": "表演藝術",
-   "start": "2026-09-09",
-   "end": "2026-09-09",
-   "venue": "荃灣大會堂 (文娛廳)",
-   "url": "https://www.lcsd.gov.hk/clpss/tc/search/culture/DetailForm.do?id=185994",
-   "source": "康文署",
-   "image": "",
    "featured": false
   },
   {
@@ -1275,18 +1239,6 @@
    "image": "https://wmoov.com/assets/poster/511144fe83aa43f5415dd596df81f9fd.jpg",
    "rating": "7.3",
    "shows": 39,
-   "featured": false
-  },
-  {
-   "id": "74669988cd9d",
-   "title": "西灣河文娛中心場地伙伴計劃：440系列大師班：李珍雅",
-   "category": "休閒",
-   "start": "2026-09-09",
-   "end": "2026-09-09",
-   "venue": "西灣河文娛中心 (文娛廳)",
-   "url": "https://www.instagram.com/p/Db-ugm_hpwI/",
-   "source": "康文署",
-   "image": "",
    "featured": false
   },
   {
@@ -1357,30 +1309,6 @@
    "image": "https://wmoov.com/assets/poster/5cf9e11191c48adbc489d1fc9c79e548.jpg",
    "rating": "6.2",
    "shows": 6,
-   "featured": false
-  },
-  {
-   "id": "3c6e4f76d520",
-   "title": "香港大會堂場地伙伴計劃：HKS獨奏會系列：葛羅夫納鋼琴獨奏會",
-   "category": "表演藝術",
-   "start": "2026-09-09",
-   "end": "2026-09-09",
-   "venue": "香港大會堂 (音樂廳)",
-   "url": "https://hksl.org/zh-hant/concert/benjamin-grosvenor-piano-recital/",
-   "source": "康文署",
-   "image": "",
-   "featured": false
-  },
-  {
-   "id": "63927db2c690",
-   "title": "香港文化中心場地伙伴計劃：成都巡演前音樂會：陸逸軒的蕭邦",
-   "category": "表演藝術",
-   "start": "2026-09-09",
-   "end": "2026-09-09",
-   "venue": "香港文化中心 (音樂廳)",
-   "url": "https://www.hkphil.org/tc/concert/chengdu-pre-tour-concert-eric-lu-plays-chopin",
-   "source": "康文署",
-   "image": "",
    "featured": false
   },
   {
@@ -1461,7 +1389,7 @@
    "category": "表演藝術",
    "start": "2026-09-11",
    "end": "2026-09-13",
-   "venue": "PMQ 元創方",
+   "venue": "PMQ",
    "url": "https://timable.com/zh/event/FLOCKFEST2026%E7%B2%BE%E9%87%80%E5%95%A4%E9%85%92%E8%88%87%E9%9F%B3%E6%A8%82%E7%AF%80",
    "source": "Timable",
    "image": "https://static.timable.com/image_20ad2178-2901-4b87-8648-30ae747b901d-480x480.webp",
@@ -1571,6 +1499,18 @@
    "end": "2026-09-12",
    "venue": "香港大會堂 (劇院)",
    "url": "https://www.musicavivahk.org/zh/productions/%e8%8e%ab%e6%89%8e%e7%89%b9%e3%80%8a%e7%8d%a8%e8%a3%81%e5%90%9b%e4%b8%bb%e6%96%af%e6%8b%89%e3%80%8b/",
+   "source": "康文署",
+   "image": "",
+   "featured": false
+  },
+  {
+   "id": "93504383c022",
+   "title": "美聲雅聚音樂會",
+   "category": "表演藝術",
+   "start": "2026-09-11",
+   "end": "2026-09-11",
+   "venue": "上環文娛中心 (演講廳)",
+   "url": "https://www.lcsd.gov.hk/clpss/tc/search/culture/DetailForm.do?id=188249",
    "source": "康文署",
    "image": "",
    "featured": false
@@ -1840,15 +1780,15 @@
    "featured": false
   },
   {
-   "id": "b1144fe50107",
-   "title": "\"Zootopio\" 香港兒童英語音樂劇團 迷你音樂劇",
+   "id": "9c8101fd9be3",
+   "title": "\"Time to Shine\" 舞蹈比賽 2026 @彲．舞台",
    "category": "表演藝術",
    "start": "2026-09-13",
    "end": "2026-09-13",
-   "venue": "大埔藝術中心 黑盒劇場",
-   "url": "https://timable.com/zh/event/Zootopio-%E9%A6%99%E6%B8%AF%E5%85%92%E7%AB%A5%E8%8B%B1%E8%AA%9E%E9%9F%B3%E6%A8%82%E5%8A%87%E5%9C%98%E8%BF%B7%E4%BD%A0%E9%9F%B3%E6%A8%82%E5%8A%87",
+   "venue": "荃灣大會堂 文娛廳",
+   "url": "https://timable.com/zh/event/TimetoShine-%E8%88%9E%E8%B9%88%E6%AF%94%E8%B3%BD2026-%E5%BD%B2-%E8%88%9E%E5%8F%B0",
    "source": "Timable",
-   "image": "https://static.timable.com/image_89e9e2c9-8664-4c04-8d51-9fccdeefed5e-480x601.webp",
+   "image": "https://static.timable.com/image_c5911598-4726-4ff2-bd46-19ac01568850-300x426.webp",
    "featured": false
   },
   {
@@ -1871,6 +1811,18 @@
    "end": "2026-09-13",
    "venue": "香港文化中心 (音樂廳)",
    "url": "https://www.lcsd.gov.hk/tc/ticket/index.html",
+   "source": "康文署",
+   "image": "",
+   "featured": false
+  },
+  {
+   "id": "64629b3ad9bd",
+   "title": "2026第十二屆中華盃國際數學精英邀請賽頒獎典禮",
+   "category": "休閒",
+   "start": "2026-09-13",
+   "end": "2026-09-13",
+   "venue": "上環文娛中心 (演講廳)",
+   "url": "https://www.lcsd.gov.hk/clpss/tc/search/culture/DetailForm.do?id=188250",
    "source": "康文署",
    "image": "",
    "featured": false
@@ -2332,18 +2284,6 @@
    "featured": false
   },
   {
-   "id": "6fb8f2153da6",
-   "title": "\"Let's Dance 十四詠嘆調・十一種舞蹈風格\" 語中作樂 音樂會",
-   "category": "表演藝術",
-   "start": "2026-09-18",
-   "end": "2026-09-18",
-   "venue": "循道衞理聯合教會國際禮拜堂聖堂",
-   "url": "https://timable.com/zh/event/Let-sDance%E5%8D%81%E5%9B%9B%E8%A9%A0%E5%98%86%E8%AA%BF-%E5%8D%81%E4%B8%80%E7%A8%AE%E8%88%9E%E8%B9%88%E9%A2%A8%E6%A0%BC-%E8%AA%9E%E4%B8%AD%E4%BD%9C%E6%A8%82%E9%9F%B3%E6%A8%82%E6%9C%83",
-   "source": "Timable",
-   "image": "https://static.timable.com/image_d0e81915-9c78-4618-b68c-c14313798efb-300x424.webp",
-   "featured": false
-  },
-  {
    "id": "406d34886020",
    "title": "2026社區文化大使: 匯樂團「古典亦時尚」社區音樂會",
    "category": "表演藝術",
@@ -2469,7 +2409,7 @@
    "category": "表演藝術",
    "start": "2026-09-18",
    "end": "2026-09-19",
-   "venue": "香港文化中心 大劇院",
+   "venue": "Grand Theatre, Hong Kong Cultural Centre",
    "url": "https://timable.com/zh/event/%E6%98%8E%E6%9C%88%E8%80%80%E9%A6%99%E6%B1%9F-%E6%B9%96%E5%8C%97%E7%9C%81%E6%AD%8C%E5%8A%87%E8%88%9E%E5%8A%87%E9%99%A2-%E8%88%9E%E5%8A%87-%E6%A8%82%E5%92%8C%E9%95%B7%E6%AD%8C--%E4%B8%AD%E8%8F%AF%E6%96%87%E5%8C%96%E7%AF%802026",
    "source": "Timable",
    "image": "https://static.timable.com/image_0aa3d72b-fabe-45e2-a268-c0df3194e0e5-480x480.webp",
@@ -2848,18 +2788,6 @@
    "featured": false
   },
   {
-   "id": "0aefde96e1ad",
-   "title": "錢嘉樂 x 伍允龍 大館對談:《香港動作電影血與骨》",
-   "category": "電影活動",
-   "start": "2026-09-20",
-   "end": "2026-09-20",
-   "venue": "大館 賽馬會立方",
-   "url": "https://timable.com/zh/event/%E9%8C%A2%E5%98%89%E6%A8%82x%E4%BC%8D%E5%85%81%E9%BE%8D%E5%A4%A7%E9%A4%A8%E5%B0%8D%E8%AB%87--%E9%A6%99%E6%B8%AF%E5%8B%95%E4%BD%9C%E9%9B%BB%E5%BD%B1%E8%A1%80%E8%88%87%E9%AA%A8-",
-   "source": "Timable",
-   "image": "https://static.timable.com/image_9ca96abc-e98c-4538-8e65-0b85d2015c1f-480x234.webp",
-   "featured": false
-  },
-  {
    "id": "9ab89ed7d850",
    "title": "《名劇會知音折子戲專場》",
    "category": "表演藝術",
@@ -3148,6 +3076,18 @@
    "featured": false
   },
   {
+   "id": "2e0b296099f6",
+   "title": "\"秋鳴\" 顧家玲x羅肇婷x李鳳金 聯合展覽",
+   "category": "展覽",
+   "start": "2026-09-24",
+   "end": "2026-09-28",
+   "venue": "藝穗會 陳麗玲畫廊",
+   "url": "https://timable.com/zh/event/%E7%A7%8B%E9%B3%B4-%E9%A1%A7%E5%AE%B6%E7%8E%B2x%E7%BE%85%E8%82%87%E5%A9%B7x%E6%9D%8E%E9%B3%B3%E9%87%91%E5%B1%95%E8%A6%BD",
+   "source": "Timable",
+   "image": "https://static.timable.com/image_10353e13-83e8-45b8-af59-b29ed468ef9a-460x306.webp",
+   "featured": false
+  },
+  {
    "id": "5c0244db59e6",
    "title": "亞藝無疆2026開幕節目︰王雙駿 × 恭碩良 & Friends - 聯同 Uuhai（蒙古）、KARDI（韓國）及 KIKI（泰國）《三角演義》音樂會",
    "category": "表演藝術",
@@ -3229,18 +3169,6 @@
    "url": "https://www.hkphil.org/tc/concert/national-day-concert-zitong-wang-plays-prokofiev",
    "source": "康文署",
    "image": "",
-   "featured": false
-  },
-  {
-   "id": "18f2ea01e63b",
-   "title": "\"FROM MY NEW BAND BELIEVE (SOLO SET)\" Cameron Picton 演唱會",
-   "category": "演唱會",
-   "start": "2026-09-25",
-   "end": "2026-09-25",
-   "venue": "藝穗會奶庫",
-   "url": "https://timable.com/zh/event/FROMMYNEWBANDBELIEVE-SOLOSET--CameronPicton%E6%BC%94%E5%94%B1%E6%9C%83",
-   "source": "Timable",
-   "image": "https://static.timable.com/image_038280e9-75b2-4079-b450-fe80ed872e45-460x306.webp",
    "featured": false
   },
   {
@@ -3345,7 +3273,7 @@
    "category": "演唱會",
    "start": "2026-09-26",
    "end": "2026-09-27",
-   "venue": "亞洲國際博覽館 10號館",
+   "venue": "Hall 10, AsiaWorld-Expo",
    "url": "https://timable.com/zh/event/backnumber-GratefulYesterdays-%E4%BA%9E%E6%B4%B2%E5%B7%A1%E8%BF%B4%E6%BC%94%E5%94%B1%E6%9C%832026%E9%A6%99%E6%B8%AF%E7%AB%99",
    "source": "Timable",
    "image": "https://static.timable.com/image_a097fb02-4f17-4a82-9da3-7bc8ae48b5c0-466x466.webp",
@@ -3688,6 +3616,18 @@
    "featured": false
   },
   {
+   "id": "cd8bb63cabe7",
+   "title": "陳天姿x陳天慧x陳天美《天箏元韻》古箏音樂會",
+   "category": "表演藝術",
+   "start": "2026-09-27",
+   "end": "2026-09-27",
+   "venue": "西灣河文娛中心 劇院",
+   "url": "https://timable.com/zh/event/%E9%99%B3%E5%A4%A9%E5%A7%BFx%E9%99%B3%E5%A4%A9%E6%85%A7x%E9%99%B3%E5%A4%A9%E7%BE%8E-%E5%A4%A9%E7%AE%8F%E5%85%83%E9%9F%BB-%E5%8F%A4%E7%AE%8F%E9%9F%B3%E6%A8%82%E6%9C%83",
+   "source": "Timable",
+   "image": "https://static.timable.com/image_7bf44a62-d75f-4932-915c-c04db3c22ae2-480x178.webp",
+   "featured": false
+  },
+  {
    "id": "7b7a42ee7a12",
    "title": "陳潔靈 X 葉麗儀《盛世經典演唱會2026》",
    "category": "演唱會",
@@ -3933,7 +3873,7 @@
    "category": "演唱會",
    "start": "2026-09-30",
    "end": "2026-09-30",
-   "venue": "亞洲國際博覽館 10號館",
+   "venue": "Hall 10, AsiaWorld-Expo",
    "url": "https://timable.com/zh/event/LANY-soft-%E4%B8%96%E7%95%8C%E5%B7%A1%E8%BF%B4%E6%BC%94%E5%94%B1%E6%9C%832026%E9%A6%99%E6%B8%AF%E7%AB%99",
    "source": "Timable",
    "image": "https://static.timable.com/image_4d7326d6-f67f-4b95-84c3-05726c6c1c67-466x466.webp",
@@ -4043,6 +3983,18 @@
    "end": "2026-10-01",
    "venue": "屯門大會堂 (文娛廳)",
    "url": "https://www.lcsd.gov.hk/clpss/tc/search/culture/DetailForm.do?id=187091",
+   "source": "康文署",
+   "image": "",
+   "featured": false
+  },
+  {
+   "id": "24bedd514cba",
+   "title": "沙田節 · 慶祝中華人民共和國成立77周年「青年匯聚 華風盡展」文藝大匯演",
+   "category": "表演藝術",
+   "start": "2026-10-01",
+   "end": "2026-10-01",
+   "venue": "沙田大會堂 (演奏廳)",
+   "url": "https://www.lcsd.gov.hk/clpss/tc/search/culture/DetailForm.do?id=188257",
    "source": "康文署",
    "image": "",
    "featured": false
@@ -4216,12 +4168,24 @@
    "featured": false
   },
   {
+   "id": "2159c1dcec77",
+   "title": "SJ國際芭蕾舞學校 — 芭蕾舞周年演出 — 灰姑娘",
+   "category": "休閒",
+   "start": "2026-10-03",
+   "end": "2026-10-04",
+   "venue": "葵青劇院 (演藝廳)",
+   "url": "https://www.lcsd.gov.hk/tc/ticket/index.html",
+   "source": "康文署",
+   "image": "",
+   "featured": false
+  },
+  {
    "id": "dbb39b72f4cd",
    "title": "Vaundy \"HORO\" 亞洲巡迴演唱會 2026 香港站",
    "category": "演唱會",
    "start": "2026-10-03",
    "end": "2026-10-03",
-   "venue": "亞洲國際博覽館 ARENA",
+   "venue": "Arena, AsiaWorld Expo",
    "url": "https://timable.com/zh/event/Vaundy-HORO-%E4%BA%9E%E6%B4%B2%E5%B7%A1%E8%BF%B4%E6%BC%94%E5%94%B1%E6%9C%832026%E9%A6%99%E6%B8%AF%E7%AB%99",
    "source": "Timable",
    "image": "https://static.timable.com/image_c34e6b42-3370-481d-be4b-be1f3d848f22-466x466.webp",
@@ -4348,6 +4312,18 @@
    "featured": false
   },
   {
+   "id": "9afb6ac44605",
+   "title": "萬馬奔騰迎國慶粵曲演唱會",
+   "category": "表演藝術",
+   "start": "2026-10-03",
+   "end": "2026-10-03",
+   "venue": "大埔文娛中心 (演藝廳)",
+   "url": "https://www.hhartcentre.com/",
+   "source": "康文署",
+   "image": "",
+   "featured": false
+  },
+  {
    "id": "32ba0574a82c",
    "title": "記取昔時同雅敍毋忘相約和琴弦",
    "category": "表演藝術",
@@ -4396,18 +4372,6 @@
    "featured": false
   },
   {
-   "id": "0685e49a5f47",
-   "title": "\"a performance… maybe\" 劇場演出 @ Jibber Jabber Lab",
-   "category": "表演藝術",
-   "start": "2026-10-04",
-   "end": "2026-10-04",
-   "venue": "藝穗會賽馬會劇場",
-   "url": "https://timable.com/zh/event/aperformance-maybe-%E5%8A%87%E5%A0%B4%E6%BC%94%E5%87%BA-JibberJabberLab",
-   "source": "Timable",
-   "image": "https://static.timable.com/image_8d0d3832-7d9f-4ae2-9849-61fdbf6f9913-480x328.webp",
-   "featured": false
-  },
-  {
    "id": "340ca420f114",
    "title": "MAMAMOO \"4WARD\" 世界巡迴演唱會 2026 香港站",
    "category": "演唱會",
@@ -4417,18 +4381,6 @@
    "url": "https://timable.com/zh/event/MAMAMOO-4WARD-%E4%B8%96%E7%95%8C%E5%B7%A1%E8%BF%B4%E6%BC%94%E5%94%B1%E6%9C%832026%E9%A6%99%E6%B8%AF%E7%AB%99",
    "source": "Timable",
    "image": "https://static.timable.com/image_aeb8e61c-2037-4459-8234-9e3787e51e55-480x480.webp",
-   "featured": false
-  },
-  {
-   "id": "2159c1dcec77",
-   "title": "SJ國際芭蕾舞學校 — 芭蕾舞周年演出",
-   "category": "休閒",
-   "start": "2026-10-04",
-   "end": "2026-10-04",
-   "venue": "葵青劇院 (演藝廳)",
-   "url": "https://www.lcsd.gov.hk/clpss/tc/search/culture/DetailForm.do?id=186944",
-   "source": "康文署",
-   "image": "",
    "featured": false
   },
   {
@@ -4697,12 +4649,12 @@
   },
   {
    "id": "3cc18bab3842",
-   "title": "新月會知音",
-   "category": "表演藝術",
+   "title": "名曲競唱送萬家",
+   "category": "休閒",
    "start": "2026-10-06",
    "end": "2026-10-06",
    "venue": "屯門大會堂 (演奏廳)",
-   "url": "https://www.lcsd.gov.hk/clpss/tc/search/culture/DetailForm.do?id=187080",
+   "url": "https://www.lcsd.gov.hk/tc/ticket/index.html",
    "source": "康文署",
    "image": "",
    "featured": false
@@ -4936,6 +4888,18 @@
    "featured": false
   },
   {
+   "id": "07baded5051e",
+   "title": "第四屆\"中環街市 x Stormies 傳統德國啤酒節 2026\"",
+   "category": "休閒",
+   "start": "2026-10-08",
+   "end": "2026-10-31",
+   "venue": "中環街市",
+   "url": "https://timable.com/zh/event/%E7%AC%AC%E5%9B%9B%E5%B1%86-%E4%B8%AD%E7%92%B0%E8%A1%97%E5%B8%82xStormies%E5%82%B3%E7%B5%B1%E5%BE%B7%E5%9C%8B%E5%95%A4%E9%85%92%E7%AF%802026-",
+   "source": "Timable",
+   "image": "https://static.timable.com/image_5d7d37ae-07d2-4971-9cbb-cf03713deb9a-480x303.webp",
+   "featured": false
+  },
+  {
    "id": "b7005283965f",
    "title": "許志安 \"On Stage\" 紅館演唱會 2026",
    "category": "演唱會",
@@ -5061,7 +5025,7 @@
    "category": "表演藝術",
    "start": "2026-10-10",
    "end": "2026-10-10",
-   "venue": "麥花臣場館",
+   "venue": "Macpherson Stadium",
    "url": "https://timable.com/zh/event/%E5%92%92%E8%A1%93%E8%BF%B4%E6%88%B0-%E9%9F%B3%E6%A8%82%E6%9C%83",
    "source": "Timable",
    "image": "https://static.timable.com/image_e8309062-1c33-4c4d-bc3f-833f6027bb7a-480x734.webp",
@@ -5111,6 +5075,18 @@
    "end": "2026-10-11",
    "venue": "香港文化中心 (大劇院)",
    "url": "https://operahongkong.org/zh/cav-pag2026-zh/",
+   "source": "康文署",
+   "image": "",
+   "featured": false
+  },
+  {
+   "id": "3a98fd44b813",
+   "title": "流行金曲音樂匯演",
+   "category": "表演藝術",
+   "start": "2026-10-10",
+   "end": "2026-10-10",
+   "venue": "上環文娛中心 (演講廳)",
+   "url": "https://www.lcsd.gov.hk/clpss/tc/search/culture/DetailForm.do?id=187047",
    "source": "康文署",
    "image": "",
    "featured": false
@@ -5368,6 +5344,18 @@
    "featured": false
   },
   {
+   "id": "a3777e29ccc7",
+   "title": "東方魅力銀河芳舞歲月留聲演唱會",
+   "category": "演唱會",
+   "start": "2026-10-12",
+   "end": "2026-10-12",
+   "venue": "北區大會堂 (演奏廳)",
+   "url": "https://www.lcsd.gov.hk/clpss/tc/search/culture/DetailForm.do?id=188258",
+   "source": "康文署",
+   "image": "",
+   "featured": false
+  },
+  {
    "id": "e8d80334ce68",
    "title": "柳毅奇緣",
    "category": "休閒",
@@ -5581,6 +5569,18 @@
    "url": "https://www.lcsd.gov.hk/clpss/tc/search/culture/DetailForm.do?id=187002",
    "source": "康文署",
    "image": "",
+   "featured": false
+  },
+  {
+   "id": "f7ba0a292742",
+   "title": "中年好聲音4 越唱越強演唱會",
+   "category": "演唱會",
+   "start": "2026-10-14",
+   "end": "2026-10-14",
+   "venue": "伊利沙伯體育館 表演場",
+   "url": "https://timable.com/zh/event/%E4%B8%AD%E5%B9%B4%E5%A5%BD%E8%81%B2%E9%9F%B34%E8%B6%8A%E5%94%B1%E8%B6%8A%E5%BC%B7%E6%BC%94%E5%94%B1%E6%9C%83",
+   "source": "Timable",
+   "image": "https://static.timable.com/image_feb4ee4d-3f58-4d92-8680-155a0bc16e8d-480x600.webp",
    "featured": false
   },
   {
@@ -6473,11 +6473,11 @@
   },
   {
    "id": "1a1f2ab2b91a",
-   "title": "The Weeknd \"After Hours Til Dawn\" 亞洲巡迴演唱會 2026 香港站",
-   "category": "演唱會",
+   "title": "THE WEEKND \"AFTER HOURS TIL DAWN\" Tour 2026 HONGKONG",
+   "category": "休閒",
    "start": "2026-10-24",
    "end": "2026-10-31",
-   "venue": "啟德體育園 主場館",
+   "venue": "Kai Tak Stadium",
    "url": "https://timable.com/zh/event/TheWeeknd-AfterHoursTilDawn-%E4%BA%9E%E6%B4%B2%E5%B7%A1%E8%BF%B4%E6%BC%94%E5%94%B1%E6%9C%832026%E9%A6%99%E6%B8%AF%E7%AB%99",
    "source": "Timable",
    "image": "https://static.timable.com/image_fcff0e93-d8c2-4264-859b-7ca415361e79-480x480.webp",
@@ -6616,6 +6616,18 @@
    "featured": false
   },
   {
+   "id": "04918f9683d4",
+   "title": "樂儀社24週年師生音樂會(3)",
+   "category": "表演藝術",
+   "start": "2026-10-25",
+   "end": "2026-10-25",
+   "venue": "北區大會堂 (演奏廳)",
+   "url": "https://www.lcsd.gov.hk/clpss/tc/search/culture/DetailForm.do?id=186980",
+   "source": "康文署",
+   "image": "",
+   "featured": false
+  },
+  {
    "id": "2dd8353b5934",
    "title": "歌劇《卡門》合唱之夜 紀念喬治 • 比才逝世151周年",
    "category": "表演藝術",
@@ -6659,6 +6671,30 @@
    "end": "2026-10-25",
    "venue": "屯門大會堂 (文娛廳)",
    "url": "https://www.lcsd.gov.hk/clpss/tc/search/culture/DetailForm.do?id=187101",
+   "source": "康文署",
+   "image": "",
+   "featured": false
+  },
+  {
+   "id": "c28f81390758",
+   "title": "超新聲歌唱大賽2026初賽",
+   "category": "休閒",
+   "start": "2026-10-25",
+   "end": "2026-10-25",
+   "venue": "沙田大會堂 (展覽廳)",
+   "url": "https://www.staa.com.hk/",
+   "source": "康文署",
+   "image": "",
+   "featured": false
+  },
+  {
+   "id": "0be116cc5457",
+   "title": "超新聲歌唱大賽2026初賽",
+   "category": "休閒",
+   "start": "2026-10-25",
+   "end": "2026-10-25",
+   "venue": "沙田大會堂 (文娛廳)",
+   "url": "https://www.staa.com.hk/",
    "source": "康文署",
    "image": "",
    "featured": false
@@ -6850,7 +6886,19 @@
    "start": "2026-10-29",
    "end": "2026-11-01",
    "venue": "屯門大會堂 (展覽廳)",
-   "url": "https://www.lcsd.gov.hk/clpss/tc/search/culture/DetailForm.do?id=187104",
+   "url": "https://www.lcsd.gov.hk/tc/ticket/index.html",
+   "source": "康文署",
+   "image": "",
+   "featured": false
+  },
+  {
+   "id": "bf6242b50c11",
+   "title": "程嘉敏與傅厚鈦雙鋼琴演奏會",
+   "category": "表演藝術",
+   "start": "2026-10-29",
+   "end": "2026-10-29",
+   "venue": "香港大會堂 (劇院)",
+   "url": "https://www.fuhouthai.com/calendar/20261029",
    "source": "康文署",
    "image": "",
    "featured": false
@@ -7089,7 +7137,7 @@
    "category": "演唱會",
    "start": "2026-11-04",
    "end": "2026-11-04",
-   "venue": "亞洲國際博覽館 10號館",
+   "venue": "Hall 10, AsiaWorld-Expo",
    "url": "https://timable.com/zh/event/JasonMraz%E4%BA%9E%E6%B4%B2%E5%B7%A1%E8%BF%B4%E6%BC%94%E5%94%B1%E6%9C%832026%E9%A6%99%E6%B8%AF%E7%AB%99",
    "source": "Timable",
    "image": "https://static.timable.com/image_0c97697f-8504-47cc-85a6-e6c670f1ad5b-466x466.webp",
@@ -7121,11 +7169,11 @@
   },
   {
    "id": "69c9e6a38cd4",
-   "title": "BIGBANG \"XX: COSMOS\" 世界巡迴演唱會 2026/2027 香港站",
+   "title": "BIGBANG WORLD TOUR 2026 HONGKONG",
    "category": "演唱會",
    "start": "2026-11-13",
    "end": "2026-11-15",
-   "venue": "啟德體育園 主場館",
+   "venue": "Kai Tak Stadium",
    "url": "https://timable.com/zh/event/BIGBANG%E4%B8%96%E7%95%8C%E5%B7%A1%E8%BF%B4%E6%BC%94%E5%94%B1%E6%9C%832026%E9%A6%99%E6%B8%AF%E7%AB%99",
    "source": "Timable",
    "image": "https://static.timable.com/image_6e090575-07b0-4763-b6ee-a2fcd4665e9e-480x600.webp",
@@ -7193,7 +7241,7 @@
   },
   {
    "id": "7f4cb2ca6f33",
-   "title": "wave to earth \"the pieces tour\" 世界巡迴演唱會 2026 香港站",
+   "title": "wave to earth 0.03 World Tour 2025 Hong Kong",
    "category": "演唱會",
    "start": "2026-11-18",
    "end": "2026-11-18",
@@ -7293,7 +7341,7 @@
    "category": "演唱會",
    "start": "2026-11-27",
    "end": "2026-11-29",
-   "venue": "香港體育館 (紅館)",
+   "venue": "Hong Kong Coliseum",
    "url": "https://timable.com/zh/event/%E6%A2%81%E8%A9%A0%E7%90%AA%E7%B4%85%E9%A4%A8%E6%BC%94%E5%94%B1%E6%9C%832026",
    "source": "Timable",
    "image": "https://static.timable.com/image_b5d926bc-e1b2-46e0-8447-b26639a5ef84-480x720.webp",
@@ -7353,7 +7401,7 @@
    "category": "演唱會",
    "start": "2026-12-03",
    "end": "2026-12-03",
-   "venue": "亞洲國際博覽館 10號館",
+   "venue": "Hall 10, AsiaWorld-Expo",
    "url": "https://timable.com/zh/event/FrenchKiwiJuice-FKJ-TyberTour-%E5%B7%A1%E8%BF%B4%E6%BC%94%E5%94%B1%E6%9C%832026%E9%A6%99%E6%B8%AF%E7%AB%99",
    "source": "Timable",
    "image": "https://static.timable.com/image_8bb7f4ac-98d1-4c2a-9e38-56b51d3d1f61-480x600.webp",
@@ -7377,7 +7425,7 @@
    "category": "演唱會",
    "start": "2026-12-05",
    "end": "2026-12-05",
-   "venue": "啟德體育園 主場館",
+   "venue": "Kai Tak Stadium",
    "url": "https://timable.com/zh/event/StrayKids-RUNIT-%E4%B8%96%E7%95%8C%E5%B7%A1%E8%BF%B4%E6%BC%94%E5%94%B1%E6%9C%83%E9%A6%99%E6%B8%AF%E7%AB%992026",
    "source": "Timable",
    "image": "https://static.timable.com/image_e854e71e-7989-4ba2-b10c-215abcc4ce2f-480x600.webp",
@@ -7408,15 +7456,15 @@
    "featured": false
   },
   {
-   "id": "b5644459e5e4",
-   "title": "NTX 亞洲巡迴演唱會 香港站 2026",
+   "id": "eaa14329ace0",
+   "title": "Twins \"Side by Side Concert\" 巡迴演唱會 2026 香港站",
    "category": "演唱會",
-   "start": "2026-12-12",
-   "end": "2026-12-12",
-   "venue": "地點待定(香港)",
-   "url": "https://timable.com/zh/event/NTX%E4%BA%9E%E6%B4%B2%E5%B7%A1%E8%BF%B4%E6%BC%94%E5%94%B1%E6%9C%83%E9%A6%99%E6%B8%AF%E7%AB%992026",
+   "start": "2026-12-18",
+   "end": "2026-12-20",
+   "venue": "香港會議展覽中心  Hall 5BC",
+   "url": "https://timable.com/zh/event/Twins-SidebySideConcert-%E5%B7%A1%E8%BF%B4%E6%BC%94%E5%94%B1%E6%9C%832026%E9%A6%99%E6%B8%AF%E7%AB%99",
    "source": "Timable",
-   "image": "https://static.timable.com/image_8ed7701f-4ee9-47fc-a11c-d8379f29515a-480x640.webp",
+   "image": "https://static.timable.com/image_254ac270-89fd-49ac-b1fe-726afe139fff-480x600.webp",
    "featured": false
   },
   {
@@ -7509,7 +7557,7 @@
    "category": "演唱會",
    "start": "2027-01-02",
    "end": "2027-01-02",
-   "venue": "亞洲國際博覽館",
+   "venue": "AsiaWorld-Expo",
    "url": "https://timable.com/zh/event/QWER-ROCKATION-ROCKETLAUNCH---%E7%AC%AC%E4%BA%8C%E6%AC%A1%E5%B7%A1%E8%BF%B4%E6%BC%94%E5%94%B1%E6%9C%83%E9%A6%99%E6%B8%AF%E7%AB%99",
    "source": "Timable",
    "image": "https://static.timable.com/image_87eed16f-102d-44b5-84e9-1e2ecff8a0f6-480x596.webp",
@@ -7521,7 +7569,7 @@
    "category": "演唱會",
    "start": "2027-01-09",
    "end": "2027-01-09",
-   "venue": "亞洲國際博覽館 ARENA",
+   "venue": "Arena, AsiaWorld Expo",
    "url": "https://timable.com/zh/event/BABYMONSTER-CHOOM-%E4%B8%96%E7%95%8C%E5%B7%A1%E8%BF%B4%E6%BC%94%E5%94%B1%E6%9C%832027%E9%A6%99%E6%B8%AF%E7%AB%99",
    "source": "Timable",
    "image": "https://static.timable.com/image_ebda097d-1f9d-4709-9a96-4b4138cef9d6-466x466.webp",
@@ -7533,7 +7581,7 @@
    "category": "演唱會",
    "start": "2027-01-16",
    "end": "2027-01-16",
-   "venue": "亞洲國際博覽館 10號館",
+   "venue": "Hall 10, AsiaWorld-Expo",
    "url": "https://timable.com/zh/event/%E9%83%BD%E6%9A%BB%E7%A7%80-DAYOFF-%E5%B7%A1%E8%BF%B4%E6%BC%94%E5%94%B1%E6%9C%832026-2027%E9%A6%99%E6%B8%AF%E7%AB%99",
    "source": "Timable",
    "image": "https://static.timable.com/image_bac8ebda-17f4-4dd8-8825-3c64d49e81f3-480x600.webp",
@@ -7569,7 +7617,7 @@
    "category": "演唱會",
    "start": "2027-01-27",
    "end": "2027-01-30",
-   "venue": "亞洲國際博覽館 ARENA",
+   "venue": "Arena, AsiaWorld Expo",
    "url": "https://timable.com/zh/event/WESTLIFE25%E9%80%B1%E5%B9%B4%E4%B8%96%E7%95%8C%E5%B7%A1%E8%BF%B4%E6%BC%94%E5%94%B1%E6%9C%832027%E9%A6%99%E6%B8%AF%E7%AB%99",
    "source": "Timable",
    "image": "https://static.timable.com/image_1e334be4-2074-4ff9-8846-5606753c1d89-466x466.webp",
@@ -7581,7 +7629,7 @@
    "category": "演唱會",
    "start": "2027-03-04",
    "end": "2027-03-07",
-   "venue": "啟德體育園 主場館",
+   "venue": "Kai Tak Stadium",
    "url": "https://timable.com/zh/event/BTS-ARIRANG-%E4%B8%96%E7%95%8C%E5%B7%A1%E8%BF%B4%E6%BC%94%E5%94%B1%E6%9C%832027%E9%A6%99%E6%B8%AF%E7%AB%99",
    "source": "Timable",
    "image": "https://static.timable.com/image_ce0a1ebc-f5d5-4676-a692-156c3b8b4b9f-400x400.webp",
