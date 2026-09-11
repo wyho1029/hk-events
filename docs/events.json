@@ -1,5 +1,5 @@
 {
- "updated": "2026-09-10",
+ "updated": "2026-09-11",
  "events": [
   {
    "id": "e13429ad674f",
@@ -686,18 +686,6 @@
    "featured": false
   },
   {
-   "id": "7385daf3d9bf",
-   "title": "墨韻傳承 — 黃柱河師生書法展",
-   "category": "休閒",
-   "start": "2026-09-07",
-   "end": "2026-09-10",
-   "venue": "香港大會堂 (展覽館)",
-   "url": "https://www.lcsd.gov.hk/tc/ticket/index.html",
-   "source": "康文署",
-   "image": "",
-   "featured": false
-  },
-  {
    "id": "a49af7d91a70",
    "title": "《CAVALLUNA 馬術X劇場 穿梭異境》馬術匯演",
    "category": "表演藝術",
@@ -1324,30 +1312,6 @@
    "featured": false
   },
   {
-   "id": "769555e3c2e3",
-   "title": "《朱小冰師生好友粵曲演唱會》",
-   "category": "表演藝術",
-   "start": "2026-09-10",
-   "end": "2026-09-10",
-   "venue": "高山劇場 (劇院)",
-   "url": "https://www.lcsd.gov.hk/tc/ticket/index.html",
-   "source": "康文署",
-   "image": "",
-   "featured": false
-  },
-  {
-   "id": "4a66e3481316",
-   "title": "力聚唱家班演唱會",
-   "category": "演唱會",
-   "start": "2026-09-10",
-   "end": "2026-09-10",
-   "venue": "荃灣大會堂 (文娛廳)",
-   "url": "https://www.lcsd.gov.hk/clpss/tc/search/culture/DetailForm.do?id=185995",
-   "source": "康文署",
-   "image": "",
-   "featured": false
-  },
-  {
    "id": "43cb26ce19f4",
    "title": "油麻地戲院場地伙伴計劃—優越新秀粵劇傳承計劃 2026-27 粵劇演出《燕歸人未歸》",
    "category": "表演藝術",
@@ -1355,30 +1319,6 @@
    "end": "2026-09-11",
    "venue": "高山劇場 (新翼演藝廳)",
    "url": "https://www.hkbarwoymt.com/tc",
-   "source": "康文署",
-   "image": "",
-   "featured": false
-  },
-  {
-   "id": "4949ba85b644",
-   "title": "聚星歌舞金曲演唱會",
-   "category": "演唱會",
-   "start": "2026-09-10",
-   "end": "2026-09-10",
-   "venue": "大埔文娛中心 (黑盒劇場)",
-   "url": "https://www.lcsd.gov.hk/clpss/tc/search/culture/DetailForm.do?id=186792",
-   "source": "康文署",
-   "image": "",
-   "featured": false
-  },
-  {
-   "id": "be739b1da3c6",
-   "title": "與民同樂聚一番",
-   "category": "休閒",
-   "start": "2026-09-10",
-   "end": "2026-09-10",
-   "venue": "上環文娛中心 (劇院)",
-   "url": "https://www.lcsd.gov.hk/clpss/tc/search/culture/DetailForm.do?id=185868",
    "source": "康文署",
    "image": "",
    "featured": false
@@ -4546,7 +4486,7 @@
    "start": "2026-10-04",
    "end": "2026-10-04",
    "venue": "屯門大會堂 (文娛廳)",
-   "url": "https://www.lcsd.gov.hk/clpss/tc/search/culture/DetailForm.do?id=187095",
+   "url": "https://www.lcsd.gov.hk/tc/ticket/index.html",
    "source": "康文署",
    "image": "",
    "featured": false
@@ -4655,6 +4595,30 @@
    "end": "2026-10-06",
    "venue": "高山劇場 (劇院)",
    "url": "https://www.facebook.com/cantoneseoperanews",
+   "source": "康文署",
+   "image": "",
+   "featured": false
+  },
+  {
+   "id": "cd90261eee40",
+   "title": "中國內地電影展 2026",
+   "category": "電影活動",
+   "start": "2026-10-06",
+   "end": "2026-10-06",
+   "venue": "香港大會堂 (劇院)",
+   "url": "https://www.lcsd.gov.hk/fp/tc/listing.html?id=96",
+   "source": "康文署",
+   "image": "",
+   "featured": false
+  },
+  {
+   "id": "957d0c58b5c9",
+   "title": "中國內地電影展 2026：《浪浪山小妖怪》",
+   "category": "電影活動",
+   "start": "2026-10-06",
+   "end": "2026-10-06",
+   "venue": "香港大會堂 (劇院)",
+   "url": "https://www.lcsd.gov.hk/fp/tc/listing.html?id=96",
    "source": "康文署",
    "image": "",
    "featured": false
@@ -4805,7 +4769,7 @@
   },
   {
    "id": "fbad09459a0f",
-   "title": "西灣河文娛中心場地伙伴計劃：滴音樂系列音樂會：Espen Eriksen三重奏—北境之音",
+   "title": "西灣河文娛中心場地伙伴計劃 : 滴音樂系列音樂會 : Espen Eriksen三重奏—北境之音",
    "category": "表演藝術",
    "start": "2026-10-07",
    "end": "2026-10-07",
@@ -4924,6 +4888,18 @@
    "featured": false
   },
   {
+   "id": "299c1382fb23",
+   "title": "香港文化中心藝術教育節目2026 「超越時空的樂器」管風琴導賞音樂會",
+   "category": "表演藝術",
+   "start": "2026-10-08",
+   "end": "2026-10-08",
+   "venue": "香港文化中心 (音樂廳)",
+   "url": "https://www.lcsd.gov.hk/tc/hkcc/programmes/audbuilding/organmusicprogrammes/poec2026.html",
+   "source": "康文署",
+   "image": "",
+   "featured": false
+  },
+  {
    "id": "022cf23ef96b",
    "title": "駿聲歌韻耀梨園",
    "category": "休閒",
@@ -4955,6 +4931,18 @@
    "end": "2026-10-11",
    "venue": "香港大會堂 (展覽館)",
    "url": "https://www.lcsd.gov.hk/tc/ticket/index.html",
+   "source": "康文署",
+   "image": "",
+   "featured": false
+  },
+  {
+   "id": "1ef80ce97f98",
+   "title": "中國內地電影展 2026：《火鍋英雄》",
+   "category": "電影活動",
+   "start": "2026-10-09",
+   "end": "2026-10-09",
+   "venue": "香港太空館 (演講廳)",
+   "url": "https://www.lcsd.gov.hk/fp/tc/listing.html?id=96",
    "source": "康文署",
    "image": "",
    "featured": false
@@ -5051,6 +5039,30 @@
    "end": "2026-10-10",
    "venue": "高山劇場 (劇院)",
    "url": "https://www.lcsd.gov.hk/clpss/tc/search/culture/DetailForm.do?id=186998",
+   "source": "康文署",
+   "image": "",
+   "featured": false
+  },
+  {
+   "id": "f008ce5e496d",
+   "title": "中國內地電影展 2026：《你好，李煥英》",
+   "category": "電影活動",
+   "start": "2026-10-10",
+   "end": "2026-10-10",
+   "venue": "香港大學黃麗松講堂",
+   "url": "https://www.lcsd.gov.hk/fp/tc/listing.html?id=96",
+   "source": "康文署",
+   "image": "",
+   "featured": false
+  },
+  {
+   "id": "cbe99ca72ec6",
+   "title": "中國內地電影展 2026：《受益人》",
+   "category": "電影活動",
+   "start": "2026-10-10",
+   "end": "2026-10-10",
+   "venue": "香港電影資料館 (電影院)",
+   "url": "https://www.lcsd.gov.hk/fp/tc/listing.html?id=96",
    "source": "康文署",
    "image": "",
    "featured": false
@@ -5176,6 +5188,18 @@
    "featured": false
   },
   {
+   "id": "68c63523883b",
+   "title": "中國內地電影展 2026：《一個夜晚與三個夏天》",
+   "category": "電影活動",
+   "start": "2026-10-11",
+   "end": "2026-10-11",
+   "venue": "香港電影資料館 (電影院)",
+   "url": "https://www.lcsd.gov.hk/fp/tc/listing.html?id=96",
+   "source": "康文署",
+   "image": "",
+   "featured": false
+  },
+  {
    "id": "4fa116239e27",
    "title": "星聲傳情綜藝晚會",
    "category": "休閒",
@@ -5195,6 +5219,18 @@
    "end": "2026-10-11",
    "venue": "沙田大會堂 (文娛廳)",
    "url": "https://www.lcsd.gov.hk/clpss/tc/search/culture/DetailForm.do?id=186965",
+   "source": "康文署",
+   "image": "",
+   "featured": false
+  },
+  {
+   "id": "18eb4731dcf9",
+   "title": "歌詠風華",
+   "category": "休閒",
+   "start": "2026-10-11",
+   "end": "2026-10-11",
+   "venue": "上環文娛中心 (演講廳)",
+   "url": "https://www.lcsd.gov.hk/tc/ticket/index.html",
    "source": "康文署",
    "image": "",
    "featured": false
@@ -5279,6 +5315,18 @@
    "end": "2026-10-11",
    "venue": "荃灣大會堂 (展覽館)",
    "url": "https://www.lcsd.gov.hk/clpss/tc/search/culture/DetailForm.do?id=187042",
+   "source": "康文署",
+   "image": "",
+   "featured": false
+  },
+  {
+   "id": "2bfb95d5af0c",
+   "title": "賀國慶系列：良朋粵韻匯知音(39)折子戲專場",
+   "category": "表演藝術",
+   "start": "2026-10-11",
+   "end": "2026-10-11",
+   "venue": "上環文娛中心 (劇院)",
+   "url": "https://www.lcsd.gov.hk/clpss/tc/search/culture/DetailForm.do?id=187053",
    "source": "康文署",
    "image": "",
    "featured": false
@@ -5608,6 +5656,18 @@
    "featured": false
   },
   {
+   "id": "def65f5ad9b2",
+   "title": "江樺合唱團感恩頌讚音樂會",
+   "category": "表演藝術",
+   "start": "2026-10-14",
+   "end": "2026-10-14",
+   "venue": "香港大會堂 (劇院)",
+   "url": "https://www.lcsd.gov.hk/tc/ticket/index.html",
+   "source": "康文署",
+   "image": "",
+   "featured": false
+  },
+  {
    "id": "ef85d8b7e7c2",
    "title": "粵曲欣賞會",
    "category": "表演藝術",
@@ -5812,6 +5872,18 @@
    "featured": false
   },
   {
+   "id": "91306e0a11d0",
+   "title": "中國內地電影展 2026：《從21世紀安全撤離》",
+   "category": "電影活動",
+   "start": "2026-10-17",
+   "end": "2026-10-17",
+   "venue": "香港電影資料館 (電影院)",
+   "url": "https://www.lcsd.gov.hk/fp/tc/listing.html?id=96",
+   "source": "康文署",
+   "image": "",
+   "featured": false
+  },
+  {
    "id": "81562527db6f",
    "title": "匯聚好歌為你獻",
    "category": "休閒",
@@ -5872,8 +5944,8 @@
    "featured": false
   },
   {
-   "id": "688f940b0955",
-   "title": "西灣河文娛中心場地伙伴計劃：滴音樂系列大師班：Espen Eriksen 三重奏",
+   "id": "597bae8f350c",
+   "title": "西灣河文娛中心場地伙伴計劃 : 滴音樂系列 : Ari Hoenig三重奏—Tivon Pennicott及Ben Tiberio",
    "category": "表演藝術",
    "start": "2026-10-17",
    "end": "2026-10-17",
@@ -5884,8 +5956,8 @@
    "featured": false
   },
   {
-   "id": "597bae8f350c",
-   "title": "西灣河文娛中心場地伙伴計劃：滴音樂系列：Ari Hoenig三重奏—Tivon Pennicott及Ben Tiberio",
+   "id": "688f940b0955",
+   "title": "西灣河文娛中心場地伙伴計劃 : 滴音樂系列大師班 : Espen Eriksen 三重奏",
    "category": "表演藝術",
    "start": "2026-10-17",
    "end": "2026-10-17",
@@ -6412,6 +6484,18 @@
    "featured": false
   },
   {
+   "id": "13522f0f3940",
+   "title": "中國內地電影展 2026：《受益人》",
+   "category": "電影活動",
+   "start": "2026-10-23",
+   "end": "2026-10-23",
+   "venue": "香港太空館 (演講廳)",
+   "url": "https://www.lcsd.gov.hk/fp/tc/listing.html?id=96",
+   "source": "康文署",
+   "image": "",
+   "featured": false
+  },
+  {
    "id": "2201064e1a79",
    "title": "城市當代舞蹈節 2026 開幕節目:《也許貝克特》",
    "category": "表演藝術",
@@ -6503,6 +6587,18 @@
    "end": "2026-10-25",
    "venue": "高山劇場 (劇院)",
    "url": "https://www.lcsd.gov.hk/tc/ticket/index.html",
+   "source": "康文署",
+   "image": "",
+   "featured": false
+  },
+  {
+   "id": "338f1659093e",
+   "title": "中國內地電影展 2026：《喜喪》",
+   "category": "電影活動",
+   "start": "2026-10-24",
+   "end": "2026-10-24",
+   "venue": "香港電影資料館 (電影院)",
+   "url": "https://www.lcsd.gov.hk/fp/tc/listing.html?id=96",
    "source": "康文署",
    "image": "",
    "featured": false
@@ -6934,7 +7030,7 @@
    "start": "2026-10-30",
    "end": "2026-10-30",
    "venue": "東九文化中心 (劇場)",
-   "url": "https://www.hkgna.com",
+   "url": "https://www.art-mate.net/doc/99973?name=HKGNA+%E9%9F%B3%E6%A8%82%E7%AF%80+2026+-+%E3%80%8C%E5%85%B1%E9%B3%B4%E7%84%A1%E7%95%8C%E3%80%8D%E9%96%8B%E5%B9%95%E9%9F%B3%E6%A8%82%E6%9C%83",
    "source": "康文署",
    "image": "",
    "featured": false
@@ -7019,6 +7115,18 @@
    "end": "2026-10-31",
    "venue": "高山劇場 (劇院)",
    "url": "https://www.lcsd.gov.hk/clpss/tc/search/culture/DetailForm.do?id=188244",
+   "source": "康文署",
+   "image": "",
+   "featured": false
+  },
+  {
+   "id": "09b2b1b5d36f",
+   "title": "中國內地電影展 2026：《火鍋英雄》",
+   "category": "電影活動",
+   "start": "2026-10-31",
+   "end": "2026-10-31",
+   "venue": "香港電影資料館 (電影院)",
+   "url": "https://www.lcsd.gov.hk/fp/tc/listing.html?id=96",
    "source": "康文署",
    "image": "",
    "featured": false
@@ -7144,6 +7252,18 @@
    "featured": false
   },
   {
+   "id": "859d3f95efca",
+   "title": "中國內地電影展 2026：《你好，李煥英》",
+   "category": "電影活動",
+   "start": "2026-11-07",
+   "end": "2026-11-07",
+   "venue": "北區大會堂 (演奏廳)",
+   "url": "https://www.lcsd.gov.hk/fp/tc/listing.html?id=96",
+   "source": "康文署",
+   "image": "",
+   "featured": false
+  },
+  {
    "id": "7aa41430c7e5",
    "title": "第十六屆韓國十月文化節：音樂劇《漫漫長夜》",
    "category": "表演藝術",
@@ -7151,6 +7271,18 @@
    "end": "2026-11-08",
    "venue": "香港大會堂 (劇院)",
    "url": "https://hk.korean-culture.org/hk/1074/board/681/read/145125",
+   "source": "康文署",
+   "image": "",
+   "featured": false
+  },
+  {
+   "id": "3902b4b4ecfa",
+   "title": "中國內地電影展 2026：《從21世紀安全撤離》",
+   "category": "電影活動",
+   "start": "2026-11-08",
+   "end": "2026-11-08",
+   "venue": "香港太空館 (演講廳)",
+   "url": "https://www.lcsd.gov.hk/fp/tc/listing.html?id=96",
    "source": "康文署",
    "image": "",
    "featured": false
@@ -7204,6 +7336,30 @@
    "featured": false
   },
   {
+   "id": "b3092021ffd4",
+   "title": "中國內地電影展 2026",
+   "category": "電影活動",
+   "start": "2026-11-14",
+   "end": "2026-11-14",
+   "venue": "香港電影資料館 (電影院)",
+   "url": "https://www.lcsd.gov.hk/fp/tc/listing.html?id=96",
+   "source": "康文署",
+   "image": "",
+   "featured": false
+  },
+  {
+   "id": "d7894616de74",
+   "title": "中國內地電影展 2026：《羅小黑戰記II》",
+   "category": "電影活動",
+   "start": "2026-11-14",
+   "end": "2026-11-14",
+   "venue": "香港電影資料館 (電影院)",
+   "url": "https://www.lcsd.gov.hk/fp/tc/listing.html?id=96",
+   "source": "康文署",
+   "image": "",
+   "featured": false
+  },
+  {
    "id": "8cfb53fd04c8",
    "title": "亞藝無疆2026︰眉月製作《圓》",
    "category": "休閒",
@@ -7240,6 +7396,18 @@
    "featured": false
   },
   {
+   "id": "bc934431f3b5",
+   "title": "中國內地電影展 2026",
+   "category": "電影活動",
+   "start": "2026-11-15",
+   "end": "2026-11-15",
+   "venue": "香港太空館 (演講廳)",
+   "url": "https://www.lcsd.gov.hk/fp/tc/listing.html?id=96",
+   "source": "康文署",
+   "image": "",
+   "featured": false
+  },
+  {
    "id": "7010ac3d0baa",
    "title": "設計營商周 2026",
    "category": "大型盛事",
@@ -7250,6 +7418,18 @@
    "source": "盛事之都",
    "image": "",
    "featured": true
+  },
+  {
+   "id": "7262c845efb4",
+   "title": "香港文化中心場地伙伴計劃：貝托祺的布魯赫納四",
+   "category": "休閒",
+   "start": "2026-11-17",
+   "end": "2026-11-18",
+   "venue": "香港文化中心 (音樂廳)",
+   "url": "https://www.hkphil.org/tc/concert/tarmo-peltokoski-conducts-bruckner-4",
+   "source": "康文署",
+   "image": "",
+   "featured": false
   },
   {
    "id": "7f4cb2ca6f33",
@@ -7576,6 +7756,18 @@
    "featured": false
   },
   {
+   "id": "82240687ec2b",
+   "title": "外展音樂短期課程",
+   "category": "休閒",
+   "start": "2027-01-03",
+   "end": "2027-03-21",
+   "venue": "大埔文娛中心 (活動室(1))",
+   "url": "https://www.lcsd.gov.hk/tc/ticket/index.html",
+   "source": "康文署",
+   "image": "",
+   "featured": false
+  },
+  {
    "id": "06a6a5ecd019",
    "title": "BABYMONSTER \"CHOOM\" 世界巡迴演唱會 2027 香港站",
    "category": "演唱會",
@@ -7645,6 +7837,18 @@
    "url": "https://timable.com/zh/event/BTS-ARIRANG-%E4%B8%96%E7%95%8C%E5%B7%A1%E8%BF%B4%E6%BC%94%E5%94%B1%E6%9C%832027%E9%A6%99%E6%B8%AF%E7%AB%99",
    "source": "Timable",
    "image": "https://static.timable.com/image_ce0a1ebc-f5d5-4676-a692-156c3b8b4b9f-400x400.webp",
+   "featured": false
+  },
+  {
+   "id": "47f0c5429a8b",
+   "title": "外展音樂短期課程",
+   "category": "休閒",
+   "start": "2027-04-04",
+   "end": "2027-06-27",
+   "venue": "大埔文娛中心 (活動室(1))",
+   "url": "https://www.lcsd.gov.hk/tc/ticket/index.html",
+   "source": "康文署",
+   "image": "",
    "featured": false
   },
   {
