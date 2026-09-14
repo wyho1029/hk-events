@@ -566,18 +566,6 @@
    "featured": false
   },
   {
-   "id": "1e048ff05c79",
-   "title": "香港時裝薈 2026",
-   "category": "大型盛事",
-   "start": "2026-09-01",
-   "end": "2026-09-14",
-   "venue": "",
-   "url": "https://hongkongfashionfest.com/tc/",
-   "source": "盛事之都",
-   "image": "",
-   "featured": true
-  },
-  {
    "id": "a69a459f00cb",
    "title": "「彩燈·迎月」中秋慶典 @利東街",
    "category": "休閒",
@@ -635,18 +623,6 @@
    "url": "https://timable.com/zh/event/%E9%98%BF%E9%A3%9B%E6%AD%A3%E5%82%B3-xoffLINE%E8%81%AF%E4%B9%98%E7%B3%BB%E5%88%97%E6%9C%9F%E9%96%93%E9%99%90%E5%AE%9A%E5%BA%97",
    "source": "Timable",
    "image": "https://static.timable.com/image_a04fda59-87f7-41c6-a09f-4f4bb73aec97-480x516.webp",
-   "featured": false
-  },
-  {
-   "id": "505bcdee9c8f",
-   "title": "「海洋公園哈囉喂」嘩鬼突襲 希慎廣場 及 ELEMENTS 圓方",
-   "category": "休閒",
-   "start": "2026-09-11",
-   "end": "2026-10-11",
-   "venue": "希慎廣場 地下",
-   "url": "https://timable.com/zh/event/%E6%B5%B7%E6%B4%8B%E5%85%AC%E5%9C%92%E5%93%88%E5%9B%89%E5%96%82%E5%85%A8%E5%9C%92%E7%A5%AD2026",
-   "source": "Timable",
-   "image": "https://static.timable.com/image_5dc73e5a-11d2-4e9b-987e-ce77c9fca06a-480x320.webp",
    "featured": false
   },
   {
@@ -1606,18 +1582,6 @@
    "featured": false
   },
   {
-   "id": "bade8adf2ca1",
-   "title": "「普濟香江」中秋綵燈晚會@國慶77周年暨嗇色園105周年紀慶",
-   "category": "休閒",
-   "start": "2026-09-17",
-   "end": "2026-10-04",
-   "venue": "嗇色園黃大仙祠",
-   "url": "https://timable.com/zh/event/%E6%99%AE%E6%BF%9F%E9%A6%99%E6%B1%9F-%E4%B8%AD%E7%A7%8B%E7%B6%B5%E7%87%88%E6%99%9A%E6%9C%83-%E5%9C%8B%E6%85%B677%E5%91%A8%E5%B9%B4%E6%9A%A8%E5%97%87%E8%89%B2%E5%9C%92105%E5%91%A8%E5%B9%B4%E7%B4%80%E6%85%B6",
-   "source": "Timable",
-   "image": "https://static.timable.com/image_174ff26a-697d-46d3-8288-8668c344ec2a-480x613.webp",
-   "featured": false
-  },
-  {
    "id": "ff6efee7bb96",
    "title": "宋韻揚波 · 洪逸飛揚長劇《紮腳劉金定》",
    "category": "休閒",
@@ -1867,6 +1831,18 @@
    "url": "https://www.facebook.com/profile.php?id=61579457733803",
    "source": "康文署",
    "image": "",
+   "featured": false
+  },
+  {
+   "id": "dcb59b20ca66",
+   "title": "Esther Wu《秘渡境 Mirotopia》專輯發佈音樂會",
+   "category": "表演藝術",
+   "start": "2026-09-19",
+   "end": "2026-09-19",
+   "venue": "藝穗會 地下劇場",
+   "url": "https://timable.com/zh/event/EstherWu-%E7%A7%98%E6%B8%A1%E5%A2%83Mirotopia-%E5%B0%88%E8%BC%AF%E7%99%BC%E4%BD%88%E9%9F%B3%E6%A8%82%E6%9C%83",
+   "source": "Timable",
+   "image": "https://static.timable.com/image_2143d654-15f1-4fad-98c6-3d619d521c92-480x600.webp",
    "featured": false
   },
   {
@@ -2218,18 +2194,6 @@
    "featured": false
   },
   {
-   "id": "d41072dd9850",
-   "title": "\"CHIIKAWA ARTIVERSE\" 中秋燈會限定活動@AIRSIDE",
-   "category": "休閒",
-   "start": "2026-09-21",
-   "end": "2026-10-04",
-   "venue": "AIRSIDE",
-   "url": "https://timable.com/zh/event/CHIIKAWAARTIVERSE-%E4%B8%AD%E7%A7%8B%E7%87%88%E6%9C%83%E9%99%90%E5%AE%9A%E6%B4%BB%E5%8B%95-AIRSIDE",
-   "source": "Timable",
-   "image": "https://static.timable.com/image_74cfac3b-1927-4331-b8de-ac5f9c48dc0e-480x600.webp",
-   "featured": false
-  },
-  {
    "id": "9ab89ed7d850",
    "title": "《名劇會知音折子戲專場》",
    "category": "表演藝術",
@@ -2275,6 +2239,18 @@
    "url": "https://www.lcsd.gov.hk/clpss/tc/search/culture/DetailForm.do?id=185842",
    "source": "康文署",
    "image": "",
+   "featured": false
+  },
+  {
+   "id": "9a7098b765b3",
+   "title": "「中秋光雕耀大埔」慶祝活動",
+   "category": "休閒",
+   "start": "2026-09-21",
+   "end": "2026-09-21",
+   "venue": "大埔舊墟公立學校",
+   "url": "https://timable.com/zh/event/%E4%B8%AD%E7%A7%8B%E5%85%89%E9%9B%95%E8%80%80%E5%A4%A7%E5%9F%94-%E6%85%B6%E7%A5%9D%E6%B4%BB%E5%8B%95",
+   "source": "Timable",
+   "image": "https://static.timable.com/image_734dfe58-f1a0-42a0-8b32-1ec933261bf3-480x640.webp",
    "featured": false
   },
   {
@@ -2518,6 +2494,30 @@
    "featured": false
   },
   {
+   "id": "e536f2e3e8c4",
+   "title": "Golden Cheese 香港快閃店 @AIRSIDE",
+   "category": "休閒",
+   "start": "2026-09-24",
+   "end": "2027-03-24",
+   "venue": "AIRSIDE 2-F 227B號鋪",
+   "url": "https://timable.com/zh/event/GoldenCheese%E9%A6%99%E6%B8%AF%E5%BF%AB%E9%96%83%E5%BA%97-AIRSIDE",
+   "source": "Timable",
+   "image": "https://static.timable.com/image_2a61bfa1-1ea6-4c95-a853-26810a1466fa-480x360.webp",
+   "featured": false
+  },
+  {
+   "id": "e8d50f2aefac",
+   "title": "「H1M 賞月遊港島 中秋開篷巴士團」@觀光城巴 X 藍屋",
+   "category": "休閒",
+   "start": "2026-09-24",
+   "end": "2026-09-27",
+   "venue": "堅尼地城",
+   "url": "https://timable.com/zh/event/H1M%E8%B3%9E%E6%9C%88%E9%81%8A%E6%B8%AF%E5%B3%B6%E4%B8%AD%E7%A7%8B%E9%96%8B%E7%AF%B7%E5%B7%B4%E5%A3%AB%E5%9C%98--%E8%A7%80%E5%85%89%E5%9F%8E%E5%B7%B4X%E8%97%8D%E5%B1%8B",
+   "source": "Timable",
+   "image": "https://static.timable.com/image_95493c7d-73e3-4d3b-9818-6f5b2480bf42-480x480.webp",
+   "featured": false
+  },
+  {
    "id": "5c0244db59e6",
    "title": "亞藝無疆2026開幕節目︰王雙駿 × 恭碩良 & Friends - 聯同 Uuhai（蒙古）、KARDI（韓國）及 KIKI（泰國）《三角演義》音樂會",
    "category": "表演藝術",
@@ -2614,18 +2614,6 @@
    "featured": false
   },
   {
-   "id": "a38aaae2dfa6",
-   "title": "《新世紀福音戰士》30週年 EVANGELION HONG KONG MOVIE Fest. 2026 期間限定店",
-   "category": "休閒",
-   "start": "2026-09-25",
-   "end": "2026-11-12",
-   "venue": "iSQUARE 7/F",
-   "url": "https://timable.com/zh/event/%E6%96%B0%E4%B8%96%E7%B4%80%E7%A6%8F%E9%9F%B3%E6%88%B0%E5%A3%AB-30%E9%80%B1%E5%B9%B4EVANGELIONHONGKONGMOVIEFest-2026%E6%9C%9F%E9%96%93%E9%99%90%E5%AE%9A%E5%BA%97",
-   "source": "Timable",
-   "image": "https://static.timable.com/image_e225de2d-9681-4aa5-a8c0-09f42329ed72-480x600.webp",
-   "featured": false
-  },
-  {
    "id": "1a411ba9f93a",
    "title": "「最後的使者 渚薰展」@《EVANGELION》系列30th紀念",
    "category": "休閒",
@@ -2659,6 +2647,18 @@
    "url": "https://www.lcsd.gov.hk/clpss/tc/search/culture/DetailForm.do?id=186037",
    "source": "康文署",
    "image": "",
+   "featured": false
+  },
+  {
+   "id": "b299909ad91b",
+   "title": "大澳搖櫓夜彩遊 2026",
+   "category": "休閒",
+   "start": "2026-09-25",
+   "end": "2026-10-03",
+   "venue": "大澳",
+   "url": "https://timable.com/zh/event/%E5%A4%A7%E6%BE%B3%E6%90%96%E6%AB%93%E5%A4%9C%E5%BD%A9%E9%81%8A2026",
+   "source": "Timable",
+   "image": "https://static.timable.com/image_aa6586fd-fb9c-4704-8769-cac57d0bb697-480x679.webp",
    "featured": false
   },
   {
@@ -2755,6 +2755,18 @@
    "url": "https://www.lcsd.gov.hk/tc/ticket/index.html",
    "source": "康文署",
    "image": "",
+   "featured": false
+  },
+  {
+   "id": "f30795e52bc9",
+   "title": "「AI 登月任務:月球開拓週」 @黃埔天地時尚坊",
+   "category": "休閒",
+   "start": "2026-09-26",
+   "end": "2026-10-04",
+   "venue": "黃埔天地 時尚坊 MTR層",
+   "url": "https://timable.com/zh/event/AI%E7%99%BB%E6%9C%88%E4%BB%BB%E5%8B%99-%E6%9C%88%E7%90%83%E9%96%8B%E6%8B%93%E9%80%B1--%E9%BB%83%E5%9F%94%E5%A4%A9%E5%9C%B0%E6%99%82%E5%B0%9A%E5%9D%8A",
+   "source": "Timable",
+   "image": "https://static.timable.com/image_a091fb40-33b8-4869-87f6-108b6a77f25b-480x321.webp",
    "featured": false
   },
   {
@@ -6970,18 +6982,6 @@
    "featured": false
   },
   {
-   "id": "b98f8643e4b0",
-   "title": "Shoose \"Signal\" Live in Hong Kong 2026",
-   "category": "演唱會",
-   "start": "2026-11-15",
-   "end": "2026-11-15",
-   "venue": "PORTAL",
-   "url": "https://timable.com/zh/event/Shoose-Signal-LiveinHongKong2026",
-   "source": "Timable",
-   "image": "https://static.timable.com/image_3e1356d6-43f4-4cf0-b5d4-38044e1d7217-300x400.webp",
-   "featured": false
-  },
-  {
    "id": "bc934431f3b5",
    "title": "中國內地電影展 2026",
    "category": "電影活動",
@@ -7362,7 +7362,7 @@
    "venue": "亞洲國際博覽館 ARENA",
    "url": "https://timable.com/zh/event/BABYMONSTER-CHOOM-%E4%B8%96%E7%95%8C%E5%B7%A1%E8%BF%B4%E6%BC%94%E5%94%B1%E6%9C%832027%E9%A6%99%E6%B8%AF%E7%AB%99",
    "source": "Timable",
-   "image": "https://static.timable.com/image_ebda097d-1f9d-4709-9a96-4b4138cef9d6-466x466.webp",
+   "image": "https://static.timable.com/image_ec8159e6-4daa-4f07-93e5-14eff82ee3b9-480x600.webp",
    "featured": false
   },
   {
