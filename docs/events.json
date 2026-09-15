@@ -530,18 +530,6 @@
    "featured": false
   },
   {
-   "id": "e1b977d36c1e",
-   "title": "《女神異聞錄》30周年期間限定店",
-   "category": "休閒",
-   "start": "2026-08-27",
-   "end": "2026-09-20",
-   "venue": "啟德零售館2 1F M2-123&124",
-   "url": "https://timable.com/zh/event/%E5%A5%B3%E7%A5%9E%E7%95%B0%E8%81%9E%E9%8C%84-30%E5%91%A8%E5%B9%B4%E6%9C%9F%E9%96%93%E9%99%90%E5%AE%9A%E5%BA%97",
-   "source": "Timable",
-   "image": "https://static.timable.com/image_64d65723-75d5-4dc0-acd1-c83999b0a9d5-480x595.webp",
-   "featured": false
-  },
-  {
    "id": "6058be15ad05",
    "title": "「世外．光隙」沉浸互動藝術展",
    "category": "展覽",
@@ -551,6 +539,18 @@
    "url": "https://timable.com/zh/event/%E4%B8%96%E5%A4%96-%E5%85%89%E9%9A%99-%E6%B2%89%E6%B5%B8%E4%BA%92%E5%8B%95%E8%97%9D%E8%A1%93%E5%B1%95",
    "source": "Timable",
    "image": "https://static.timable.com/image_f98144bb-2bd5-4e25-87d0-001306ded9db-480x640.webp",
+   "featured": false
+  },
+  {
+   "id": "ed07abb4a1dc",
+   "title": "「藝探埃及: 超時空之旅」沉浸式數碼藝術體驗展 @數碼港商場",
+   "category": "休閒",
+   "start": "2026-08-28",
+   "end": "2026-10-30",
+   "venue": "數碼港商場 4-F 404店舖",
+   "url": "https://timable.com/zh/event/%E8%97%9D%E6%8E%A2%E5%9F%83%E5%8F%8A-%E8%B6%85%E6%99%82%E7%A9%BA%E4%B9%8B%E6%97%85-%E6%B2%89%E6%B5%B8%E5%BC%8F%E6%95%B8%E7%A2%BC%E8%97%9D%E8%A1%93%E9%AB%94%E9%A9%97%E5%B1%95-%E6%95%B8%E7%A2%BC%E6%B8%AF%E5%95%86%E5%A0%B4",
+   "source": "Timable",
+   "image": "https://static.timable.com/image_4468aea5-7130-45d0-89be-d3ba3dabfc3a-480x480.webp",
    "featured": false
   },
   {
@@ -575,18 +575,6 @@
    "url": "https://timable.com/zh/event/%E5%BD%A9%E7%87%88-%E8%BF%8E%E6%9C%88-%E4%B8%AD%E7%A7%8B%E6%85%B6%E5%85%B8-%E5%88%A9%E6%9D%B1%E8%A1%97",
    "source": "Timable",
    "image": "https://static.timable.com/image_9e2b5021-9270-4b19-904c-295fdad4662b-480x320.webp",
-   "featured": false
-  },
-  {
-   "id": "6b3d4e0f21cf",
-   "title": "「海洋公園哈囉喂」2026",
-   "category": "休閒",
-   "start": "2026-09-05",
-   "end": "2026-11-01",
-   "venue": "香港海洋公園",
-   "url": "https://timable.com/zh/event/%E6%B5%B7%E6%B4%8B%E5%85%AC%E5%9C%92-%E5%93%88%E5%9B%89%E5%96%82-2026",
-   "source": "Timable",
-   "image": "https://static.timable.com/image_d8cf11d0-b922-4941-965b-e6e6947e4cd4-480x270.webp",
    "featured": false
   },
   {
@@ -1564,6 +1552,18 @@
    "featured": false
   },
   {
+   "id": "d7b6c284c4b6",
+   "title": "WestK Picnic Fest 西九野餐節",
+   "category": "休閒",
+   "start": "2026-09-18",
+   "end": "2026-10-11",
+   "venue": "西九文化區 藝術公園 海濱草坪 東面",
+   "url": "https://timable.com/zh/event/WestKPicnicFest%E8%A5%BF%E4%B9%9D%E9%87%8E%E9%A4%90%E7%AF%80",
+   "source": "Timable",
+   "image": "https://static.timable.com/image_f52beb6e-0b37-4208-abcd-1c1b876875a0-480x600.webp",
+   "featured": false
+  },
+  {
    "id": "a4f7c71ed208",
    "title": "《Play House》",
    "category": "休閒",
@@ -2077,6 +2077,18 @@
    "url": "https://www.lcsd.gov.hk/tc/ticket/index.html",
    "source": "康文署",
    "image": "",
+   "featured": false
+  },
+  {
+   "id": "d41072dd9850",
+   "title": "\"CHIIKAWA ARTIVERSE\" 中秋燈會限定活動@AIRSIDE",
+   "category": "休閒",
+   "start": "2026-09-21",
+   "end": "2026-10-04",
+   "venue": "AIRSIDE",
+   "url": "https://timable.com/zh/event/CHIIKAWAARTIVERSE-%E4%B8%AD%E7%A7%8B%E7%87%88%E6%9C%83%E9%99%90%E5%AE%9A%E6%B4%BB%E5%8B%95-AIRSIDE",
+   "source": "Timable",
+   "image": "https://static.timable.com/image_74cfac3b-1927-4331-b8de-ac5f9c48dc0e-480x600.webp",
    "featured": false
   },
   {
@@ -7024,6 +7036,18 @@
    "featured": false
   },
   {
+   "id": "ac377513f447",
+   "title": "聖雅各福群會\"GOrun Together 挑戰賽2026\"",
+   "category": "休閒",
+   "start": "2026-11-22",
+   "end": "2026-11-22",
+   "venue": "白石角海濱長廊",
+   "url": "https://timable.com/zh/event/%E8%81%96%E9%9B%85%E5%90%84%E7%A6%8F%E7%BE%A4%E6%9C%83-GOrunTogether%E6%8C%91%E6%88%B0%E8%B3%BD2026-",
+   "source": "Timable",
+   "image": "https://static.timable.com/image_ca3f1975-4a69-48fc-a557-697c04bd7d85-480x480.webp",
+   "featured": false
+  },
+  {
    "id": "b3fd80c698b7",
    "title": "2026-27年度「十八有藝──西貢社區演藝計劃」《琴聲貢聚》口琴計劃──口琴進階班(上期)：長者班",
    "category": "表演藝術",
@@ -7177,18 +7201,6 @@
    "url": "https://www.lcsd.gov.hk/CE/CulturalService/Programme/tc/music/programs_1949.html",
    "source": "康文署",
    "image": "",
-   "featured": false
-  },
-  {
-   "id": "fbff1eb51e8c",
-   "title": "\"兒童書展暨超級親子用品展\" 第十三屆 2026",
-   "category": "展覽",
-   "start": "2026-12-11",
-   "end": "2026-12-13",
-   "venue": "亞洲國際博覽館",
-   "url": "https://timable.com/zh/event/%E5%85%92%E7%AB%A5%E6%9B%B8%E5%B1%95%E6%9A%A8%E8%B6%85%E7%B4%9A%E8%A6%AA%E5%AD%90%E7%94%A8%E5%93%81%E5%B1%95-%E7%AC%AC%E5%8D%81%E4%B8%89%E5%B1%862026",
-   "source": "Timable",
-   "image": "https://static.timable.com/image_5afa5e6a-8dfc-42aa-b319-0f5193377192-480x600.webp",
    "featured": false
   },
   {
