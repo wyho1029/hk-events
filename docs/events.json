@@ -1372,18 +1372,6 @@
    "featured": false
   },
   {
-   "id": "bc9ad90c8858",
-   "title": "TWS 期間限定店 ＠MOKO新世紀廣場",
-   "category": "休閒",
-   "start": "2026-09-16",
-   "end": "2026-09-27",
-   "venue": "MOKO新世紀廣場 MTR樓層 中庭",
-   "url": "https://timable.com/zh/event/TWS%E6%9C%9F%E9%96%93%E9%99%90%E5%AE%9A%E5%BA%97-MOKO%E6%96%B0%E4%B8%96%E7%B4%80%E5%BB%A3%E5%A0%B4",
-   "source": "Timable",
-   "image": "https://static.timable.com/image_9397a1ff-d1e8-4739-a598-3e014aae032c-480x600.webp",
-   "featured": false
-  },
-  {
    "id": "87b329deff91",
    "title": "《名曲粵韻獻知音》粵曲演唱會",
    "category": "表演藝術",
@@ -6832,6 +6820,18 @@
    "featured": false
   },
   {
+   "id": "931edfb822f6",
+   "title": "香港管弦樂團《馬勒第八交響曲》音樂會",
+   "category": "表演藝術",
+   "start": "2026-11-07",
+   "end": "2026-11-08",
+   "venue": "香港文化中心 音樂廳",
+   "url": "https://timable.com/zh/event/%E9%A6%99%E6%B8%AF%E7%AE%A1%E5%BC%A6%E6%A8%82%E5%9C%98-%E9%A6%AC%E5%8B%92%E7%AC%AC%E5%85%AB%E4%BA%A4%E9%9F%BF%E6%9B%B2-%E9%9F%B3%E6%A8%82%E6%9C%83",
+   "source": "Timable",
+   "image": "https://static.timable.com/image_e7eec1e8-aa7a-450a-b0fb-345e64d68dcd-480x600.webp",
+   "featured": false
+  },
+  {
    "id": "8bbd3ce16806",
    "title": "中國內地電影展 2026：《從21世紀安全撤離》",
    "category": "電影活動",
@@ -7346,18 +7346,6 @@
    "source": "Timable",
    "image": "https://static.timable.com/image_bac8ebda-17f4-4dd8-8825-3c64d49e81f3-480x600.webp",
    "featured": false
-  },
-  {
-   "id": "075ebf6e0c5e",
-   "title": "渣打香港馬拉松 2027",
-   "category": "體育",
-   "start": "2027-01-17",
-   "end": "2027-01-17",
-   "venue": "香港",
-   "url": "https://timable.com/zh/event/%E6%B8%A3%E6%89%93%E9%A6%99%E6%B8%AF%E9%A6%AC%E6%8B%89%E6%9D%BE2027",
-   "source": "Timable",
-   "image": "https://static.timable.com/image_fe603f32-f125-4ab0-8fc4-a8d10b63cac7-480x640.webp",
-   "featured": true
   },
   {
    "id": "bb019cccc1c5",
