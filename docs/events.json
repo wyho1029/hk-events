@@ -1492,18 +1492,6 @@
    "featured": false
   },
   {
-   "id": "a18502095128",
-   "title": "「風土之味 Taste of Terroir」展覽 @ PMQ 味道圖書館",
-   "category": "展覽",
-   "start": "2026-09-18",
-   "end": "2026-11-08",
-   "venue": "Taste Library 味道圖書館",
-   "url": "https://timable.com/zh/event/%E9%A2%A8%E5%9C%9F%E4%B9%8B%E5%91%B3TasteofTerroir-%E5%B1%95%E8%A6%BD-PMQ%E5%91%B3%E9%81%93%E5%9C%96%E6%9B%B8%E9%A4%A8",
-   "source": "Timable",
-   "image": "https://static.timable.com/image_006d3459-2a0b-4788-adb2-19a4e3d6bc85-480x613.webp",
-   "featured": false
-  },
-  {
    "id": "65069e553e09",
    "title": "世界交響樂音樂會",
    "category": "表演藝術",
@@ -2497,6 +2485,18 @@
    "url": "https://timable.com/zh/event/backnumber-GratefulYesterdays-%E4%BA%9E%E6%B4%B2%E5%B7%A1%E8%BF%B4%E6%BC%94%E5%94%B1%E6%9C%832026%E9%A6%99%E6%B8%AF%E7%AB%99",
    "source": "Timable",
    "image": "https://static.timable.com/image_a097fb02-4f17-4a82-9da3-7bc8ae48b5c0-466x466.webp",
+   "featured": false
+  },
+  {
+   "id": "9b5fc34092b6",
+   "title": "moon tang「The Moon Festival ☆月緣之夜」音樂會",
+   "category": "表演藝術",
+   "start": "2026-09-26",
+   "end": "2026-09-26",
+   "venue": "西貢",
+   "url": "https://timable.com/zh/event/moontang-TheMoonFestival-%E6%9C%88%E7%B7%A3%E4%B9%8B%E5%A4%9C-%E9%9F%B3%E6%A8%82%E6%9C%83",
+   "source": "Timable",
+   "image": "https://static.timable.com/image_a1c7ad7d-9b36-4007-87b8-035075269e81-480x634.webp",
    "featured": false
   },
   {
