@@ -43,14 +43,6 @@
   },
   {
    "rank": 6,
-   "title": "Rewire-神經可塑性：用神經科學突破行為模式迴圈，終結焦慮、恐慌和憂鬱，實現最佳的心理健康",
-   "author": "妮可．維諾拉",
-   "price": "NT$331",
-   "url": "https://www.books.com.tw/products/0010990062",
-   "image": "https://im1.book.com.tw/image/getImage?i=https://www.books.com.tw/img/001/099/00/0010990062.jpg&v=664ec6fck&w=150&h=150"
-  },
-  {
-   "rank": 7,
    "title": "高雄，緊緊緊：2314天極限轉型",
    "author": "陳其邁feat. 行政團隊口述,蘇芳禾,李珮綺,高哲暉",
    "price": "NT$379",
@@ -58,15 +50,15 @@
    "image": "https://im1.book.com.tw/image/getImage?i=https://www.books.com.tw/img/001/106/04/0011060440.jpg&v=6a7bbeb5k&w=150&h=150"
   },
   {
-   "rank": 8,
-   "title": "納瓦爾寶典珍藏版：從白手起家到財務自由，矽谷傳奇創投家的投資哲學與人生智慧",
-   "author": "艾瑞克．喬根森",
-   "price": "NT$355",
-   "url": "https://www.books.com.tw/products/0011012422",
-   "image": "https://im1.book.com.tw/image/getImage?i=https://www.books.com.tw/img/001/101/24/0011012422.jpg&v=6789502ck&w=150&h=150"
+   "rank": 7,
+   "title": "Rewire-神經可塑性：用神經科學突破行為模式迴圈，終結焦慮、恐慌和憂鬱，實現最佳的心理健康",
+   "author": "妮可．維諾拉",
+   "price": "NT$331",
+   "url": "https://www.books.com.tw/products/0010990062",
+   "image": "https://im1.book.com.tw/image/getImage?i=https://www.books.com.tw/img/001/099/00/0010990062.jpg&v=664ec6fck&w=150&h=150"
   },
   {
-   "rank": 9,
+   "rank": 8,
    "title": "昨年（昨年映像經典版）：讓安‧海瑟薇一口氣讀到天黑的小說！年度話題神作，席捲歐美文壇！",
    "author": "卡蘿．克萊兒．柏克",
    "price": "NT$410",
@@ -74,15 +66,15 @@
    "image": "https://im2.book.com.tw/image/getImage?i=https://www.books.com.tw/img/001/106/12/0011061243.jpg&v=6a8425b1k&w=150&h=150"
   },
   {
-   "rank": 10,
-   "title": "產業隊長張捷的30個思維練習：從故事裡，看見投資的底層邏輯",
-   "author": "張捷",
-   "price": "NT$300",
-   "url": "https://www.books.com.tw/products/0011059912",
-   "image": "https://im1.book.com.tw/image/getImage?i=https://www.books.com.tw/img/001/105/99/0011059912.jpg&v=6a7158c9k&w=150&h=150"
+   "rank": 9,
+   "title": "納瓦爾寶典珍藏版：從白手起家到財務自由，矽谷傳奇創投家的投資哲學與人生智慧",
+   "author": "艾瑞克．喬根森",
+   "price": "NT$355",
+   "url": "https://www.books.com.tw/products/0011012422",
+   "image": "https://im1.book.com.tw/image/getImage?i=https://www.books.com.tw/img/001/101/24/0011012422.jpg&v=6789502ck&w=150&h=150"
   },
   {
-   "rank": 11,
+   "rank": 10,
    "title": "我是如此幸運",
    "author": "克里斯欽．華森",
    "price": "NT$355",
@@ -90,20 +82,28 @@
    "image": "https://im2.book.com.tw/image/getImage?i=https://www.books.com.tw/img/001/106/11/0011061173.jpg&v=6a841407k&w=150&h=150"
   },
   {
-   "rank": 12,
-   "title": "解憂雜貨店【50萬冊紀念愛藏版】：感動全球1,400 萬人的奇蹟之書，東野圭吾最令人感動落淚的作品！",
-   "author": "東野圭吾",
-   "price": "NT$276",
-   "url": "https://www.books.com.tw/products/0011055713",
-   "image": "https://im2.book.com.tw/image/getImage?i=https://www.books.com.tw/img/001/105/57/0011055713.jpg&v=6a8e64b2k&w=150&h=150"
+   "rank": 11,
+   "title": "產業隊長張捷的30個思維練習：從故事裡，看見投資的底層邏輯",
+   "author": "張捷",
+   "price": "NT$300",
+   "url": "https://www.books.com.tw/products/0011059912",
+   "image": "https://im1.book.com.tw/image/getImage?i=https://www.books.com.tw/img/001/105/99/0011059912.jpg&v=6a7158c9k&w=150&h=150"
   },
   {
-   "rank": 13,
+   "rank": 12,
    "title": "致富心態（全球暢銷千萬增訂版）：關於財富、貪婪與幸福的20堂理財課",
    "author": "摩根．豪瑟",
    "price": "NT$379",
    "url": "https://www.books.com.tw/products/0011043967",
    "image": "https://im2.book.com.tw/image/getImage?i=https://www.books.com.tw/img/001/104/39/0011043967.jpg&v=696f6989k&w=150&h=150"
+  },
+  {
+   "rank": 13,
+   "title": "解憂雜貨店【50萬冊紀念愛藏版】：感動全球1,400 萬人的奇蹟之書，東野圭吾最令人感動落淚的作品！",
+   "author": "東野圭吾",
+   "price": "NT$276",
+   "url": "https://www.books.com.tw/products/0011055713",
+   "image": "https://im2.book.com.tw/image/getImage?i=https://www.books.com.tw/img/001/105/57/0011055713.jpg&v=6a8e64b2k&w=150&h=150"
   },
   {
    "rank": 14,
@@ -115,14 +115,6 @@
   },
   {
    "rank": 15,
-   "title": "喚醒內在的觀音：不跟痛苦糾纏，自在安心的歸零練習",
-   "author": "黃淑文",
-   "price": "NT$323",
-   "url": "https://www.books.com.tw/products/0011058488",
-   "image": "https://im1.book.com.tw/image/getImage?i=https://www.books.com.tw/img/001/105/84/0011058488.jpg&v=6a5ee283k&w=150&h=150"
-  },
-  {
-   "rank": 16,
    "title": "我的黑道姑姑：教我的99件事",
    "author": "黃山料",
    "price": "NT$331",
@@ -130,7 +122,7 @@
    "image": "https://im2.book.com.tw/image/getImage?i=https://www.books.com.tw/img/001/105/17/0011051787.jpg&v=69f900fbk&w=150&h=150"
   },
   {
-   "rank": 17,
+   "rank": 16,
    "title": "在世界地圖上找投資機會 ： AI時代邊旅行邊致富的全球投資筆記",
    "author": "詹惠珠",
    "price": "NT$276",
@@ -138,15 +130,7 @@
    "image": "https://im2.book.com.tw/image/getImage?i=https://www.books.com.tw/img/001/106/04/0011060431.jpg&v=6a7ad446k&w=150&h=150"
   },
   {
-   "rank": 18,
-   "title": "男人第二次浪漫：情書寫給女兒",
-   "author": "蔡詩萍",
-   "price": "NT$316",
-   "url": "https://www.books.com.tw/products/0011059001",
-   "image": "https://im2.book.com.tw/image/getImage?i=https://www.books.com.tw/img/001/105/90/0011059001.jpg&v=6a619d9ak&w=150&h=150"
-  },
-  {
-   "rank": 19,
+   "rank": 17,
    "title": "專屬訂製．鉤針花樣典藏集300：打造專屬鉤織作品的靈感圖庫",
    "author": "日本VOGUE社",
    "price": "NT$458",
@@ -154,12 +138,28 @@
    "image": "https://im1.book.com.tw/image/getImage?i=https://www.books.com.tw/img/001/106/00/0011060036.jpg&v=6a72ecd4k&w=150&h=150"
   },
   {
-   "rank": 20,
+   "rank": 18,
    "title": "一直盈 股市必勝法：30年王牌分析師第一次系統化親授，8堂股市操作大法×42篇獨門祕訣×3階段進出場節奏，人人都可滿載而歸！",
    "author": "鍾國忠",
    "price": "NT$355",
    "url": "https://www.books.com.tw/products/0011061916",
    "image": "https://im1.book.com.tw/image/getImage?i=https://www.books.com.tw/img/001/106/19/0011061916.jpg&v=6a8d58bek&w=150&h=150"
+  },
+  {
+   "rank": 19,
+   "title": "男人第二次浪漫：情書寫給女兒",
+   "author": "蔡詩萍",
+   "price": "NT$316",
+   "url": "https://www.books.com.tw/products/0011059001",
+   "image": "https://im2.book.com.tw/image/getImage?i=https://www.books.com.tw/img/001/105/90/0011059001.jpg&v=6a619d9ak&w=150&h=150"
+  },
+  {
+   "rank": 20,
+   "title": "從1到N的創業槓桿學：商業槓桿教主林芝樺，教你打造持續成長、穩定獲利的事業",
+   "author": "林芝樺",
+   "price": "NT$355",
+   "url": "https://www.books.com.tw/products/0011061963",
+   "image": "https://im2.book.com.tw/image/getImage?i=https://www.books.com.tw/img/001/106/19/0011061963.jpg&v=6a8e919ak&w=150&h=150"
   }
  ]
 }
