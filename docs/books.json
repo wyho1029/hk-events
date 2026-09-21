@@ -67,22 +67,6 @@
   },
   {
    "rank": 9,
-   "title": "納瓦爾寶典珍藏版：從白手起家到財務自由，矽谷傳奇創投家的投資哲學與人生智慧",
-   "author": "艾瑞克．喬根森",
-   "price": "NT$355",
-   "url": "https://www.books.com.tw/products/0011012422",
-   "image": "https://im1.book.com.tw/image/getImage?i=https://www.books.com.tw/img/001/101/24/0011012422.jpg&v=6789502ck&w=150&h=150"
-  },
-  {
-   "rank": 10,
-   "title": "我是如此幸運",
-   "author": "克里斯欽．華森",
-   "price": "NT$355",
-   "url": "https://www.books.com.tw/products/0011061173",
-   "image": "https://im2.book.com.tw/image/getImage?i=https://www.books.com.tw/img/001/106/11/0011061173.jpg&v=6a841407k&w=150&h=150"
-  },
-  {
-   "rank": 11,
    "title": "產業隊長張捷的30個思維練習：從故事裡，看見投資的底層邏輯",
    "author": "張捷",
    "price": "NT$300",
@@ -90,20 +74,36 @@
    "image": "https://im1.book.com.tw/image/getImage?i=https://www.books.com.tw/img/001/105/99/0011059912.jpg&v=6a7158c9k&w=150&h=150"
   },
   {
+   "rank": 10,
+   "title": "納瓦爾寶典珍藏版：從白手起家到財務自由，矽谷傳奇創投家的投資哲學與人生智慧",
+   "author": "艾瑞克．喬根森",
+   "price": "NT$355",
+   "url": "https://www.books.com.tw/products/0011012422",
+   "image": "https://im1.book.com.tw/image/getImage?i=https://www.books.com.tw/img/001/101/24/0011012422.jpg&v=6789502ck&w=150&h=150"
+  },
+  {
+   "rank": 11,
+   "title": "我是如此幸運",
+   "author": "克里斯欽．華森",
+   "price": "NT$355",
+   "url": "https://www.books.com.tw/products/0011061173",
+   "image": "https://im2.book.com.tw/image/getImage?i=https://www.books.com.tw/img/001/106/11/0011061173.jpg&v=6a841407k&w=150&h=150"
+  },
+  {
    "rank": 12,
+   "title": "一直盈 股市必勝法：30年王牌分析師第一次系統化親授，8堂股市操作大法×42篇獨門祕訣×3階段進出場節奏，人人都可滿載而歸！",
+   "author": "鍾國忠",
+   "price": "NT$355",
+   "url": "https://www.books.com.tw/products/0011061916",
+   "image": "https://im1.book.com.tw/image/getImage?i=https://www.books.com.tw/img/001/106/19/0011061916.jpg&v=6a8d58bek&w=150&h=150"
+  },
+  {
+   "rank": 13,
    "title": "致富心態（全球暢銷千萬增訂版）：關於財富、貪婪與幸福的20堂理財課",
    "author": "摩根．豪瑟",
    "price": "NT$379",
    "url": "https://www.books.com.tw/products/0011043967",
    "image": "https://im2.book.com.tw/image/getImage?i=https://www.books.com.tw/img/001/104/39/0011043967.jpg&v=696f6989k&w=150&h=150"
-  },
-  {
-   "rank": 13,
-   "title": "解憂雜貨店【50萬冊紀念愛藏版】：感動全球1,400 萬人的奇蹟之書，東野圭吾最令人感動落淚的作品！",
-   "author": "東野圭吾",
-   "price": "NT$276",
-   "url": "https://www.books.com.tw/products/0011055713",
-   "image": "https://im2.book.com.tw/image/getImage?i=https://www.books.com.tw/img/001/105/57/0011055713.jpg&v=6a8e64b2k&w=150&h=150"
   },
   {
    "rank": 14,
@@ -115,6 +115,14 @@
   },
   {
    "rank": 15,
+   "title": "解憂雜貨店【50萬冊紀念愛藏版】：感動全球1,400 萬人的奇蹟之書，東野圭吾最令人感動落淚的作品！",
+   "author": "東野圭吾",
+   "price": "NT$276",
+   "url": "https://www.books.com.tw/products/0011055713",
+   "image": "https://im2.book.com.tw/image/getImage?i=https://www.books.com.tw/img/001/105/57/0011055713.jpg&v=6a8e64b2k&w=150&h=150"
+  },
+  {
+   "rank": 16,
    "title": "長期買進：財金教授周冠男的42堂自制力投資課",
    "author": "周冠男",
    "price": "NT$355",
@@ -122,20 +130,12 @@
    "image": "https://im1.book.com.tw/image/getImage?i=https://www.books.com.tw/img/001/099/60/0010996040.jpg&v=669a4059k&w=150&h=150"
   },
   {
-   "rank": 16,
+   "rank": 17,
    "title": "在世界地圖上找投資機會 ： AI時代邊旅行邊致富的全球投資筆記",
    "author": "詹惠珠",
    "price": "NT$276",
    "url": "https://www.books.com.tw/products/0011060431",
    "image": "https://im2.book.com.tw/image/getImage?i=https://www.books.com.tw/img/001/106/04/0011060431.jpg&v=6a7ad446k&w=150&h=150"
-  },
-  {
-   "rank": 17,
-   "title": "一直盈 股市必勝法：30年王牌分析師第一次系統化親授，8堂股市操作大法×42篇獨門祕訣×3階段進出場節奏，人人都可滿載而歸！",
-   "author": "鍾國忠",
-   "price": "NT$355",
-   "url": "https://www.books.com.tw/products/0011061916",
-   "image": "https://im1.book.com.tw/image/getImage?i=https://www.books.com.tw/img/001/106/19/0011061916.jpg&v=6a8d58bek&w=150&h=150"
   },
   {
    "rank": 18,
