@@ -1713,7 +1713,7 @@
    "category": "演唱會",
    "start": "2026-09-26",
    "end": "2026-09-27",
-   "venue": "Hall 10, AsiaWorld-Expo",
+   "venue": "亞洲國際博覽館 10號館",
    "url": "https://timable.com/zh/event/backnumber-GratefulYesterdays-%E4%BA%9E%E6%B4%B2%E5%B7%A1%E8%BF%B4%E6%BC%94%E5%94%B1%E6%9C%832026%E9%A6%99%E6%B8%AF%E7%AB%99",
    "source": "Timable",
    "image": "https://static.timable.com/image_a097fb02-4f17-4a82-9da3-7bc8ae48b5c0-466x466.webp",
@@ -2308,6 +2308,30 @@
    "featured": false
   },
   {
+   "id": "11b2ed6ea5ea",
+   "title": "MAMAMOO \"4WARD\" 官方期間限定店 2026（香港站）",
+   "category": "休閒",
+   "start": "2026-09-30",
+   "end": "2026-10-18",
+   "venue": "MOKO 新世紀廣場 K-POP NAMU",
+   "url": "https://timable.com/zh/event/MAMAMOO-4WARD-%E5%AE%98%E6%96%B9%E6%9C%9F%E9%96%93%E9%99%90%E5%AE%9A%E5%BA%972026-%E9%A6%99%E6%B8%AF%E7%AB%99-",
+   "source": "Timable",
+   "image": "https://static.timable.com/image_2330153b-3b47-4638-a63f-99f53f561a74-480x602.webp",
+   "featured": false
+  },
+  {
+   "id": "13d41d7c70da",
+   "title": "SUNRISEPOP｜動漫聯動祭＠皇室堡",
+   "category": "休閒",
+   "start": "2026-09-30",
+   "end": "2026-10-12",
+   "venue": "皇室堡 地下中庭",
+   "url": "https://timable.com/zh/event/SUNRISEPOP-%E5%8B%95%E6%BC%AB%E8%81%AF%E5%8B%95%E7%A5%AD-%E7%9A%87%E5%AE%A4%E5%A0%A1",
+   "source": "Timable",
+   "image": "https://static.timable.com/image_84384cec-a283-41d2-8ceb-9142045b16de-472x590.webp",
+   "featured": false
+  },
+  {
    "id": "8f09d898c8c6",
    "title": "《民族音樂》展覽 — 《中國西南地區民樂探索》及《印尼音樂巡禮 — 峇里的嘉美蘭音樂》",
    "category": "展覽",
@@ -2329,18 +2353,6 @@
    "url": "https://www.lcsd.gov.hk/tc/ticket/index.html",
    "source": "康文署",
    "image": "",
-   "featured": false
-  },
-  {
-   "id": "d2cbc340acd4",
-   "title": "全港青少年精英舞蹈大賽2026:秋季賽(大灣區比賽)@香港青年舞蹈家協會",
-   "category": "表演藝術",
-   "start": "2026-09-30",
-   "end": "2026-10-04",
-   "venue": "西灣河文娛中心 劇院",
-   "url": "https://timable.com/zh/event/%E5%85%A8%E6%B8%AF%E9%9D%92%E5%B0%91%E5%B9%B4%E7%B2%BE%E8%8B%B1%E8%88%9E%E8%B9%88%E5%A4%A7%E8%B3%BD2026-%E7%A7%8B%E5%AD%A3%E8%B3%BD-%E5%A4%A7%E7%81%A3%E5%8D%80%E6%AF%94%E8%B3%BD--%E9%A6%99%E6%B8%AF%E9%9D%92%E5%B9%B4%E8%88%9E%E8%B9%88%E5%AE%B6%E5%8D%94%E6%9C%83",
-   "source": "Timable",
-   "image": "https://static.timable.com/image_3a21de88-02a1-4731-abbb-3ce4533c14f8-300x423.webp",
    "featured": false
   },
   {
@@ -2413,18 +2425,6 @@
    "url": "https://www.hkrep.com/tc/Season-Programme/Main-Stage-Productions/Modern-Wuxia-To-Turn-To-Be.html",
    "source": "康文署",
    "image": "",
-   "featured": false
-  },
-  {
-   "id": "d797c2e85d78",
-   "title": "FOAM FEST 手工啤酒 x DJ音樂節 2026",
-   "category": "表演藝術",
-   "start": "2026-10-01",
-   "end": "2026-10-30",
-   "venue": "尖沙咀",
-   "url": "https://timable.com/zh/event/FOAMFEST",
-   "source": "Timable",
-   "image": "https://static.timable.com/image_2c820af1-f717-48cb-a1bf-266d8a6e8f07-480x360.webp",
    "featured": false
   },
   {
@@ -2521,18 +2521,6 @@
    "url": "https://www.lcsd.gov.hk/tc/ticket/index.html",
    "source": "康文署",
    "image": "",
-   "featured": false
-  },
-  {
-   "id": "83d6fe00d65d",
-   "title": "THE TOYrifying SOUTHSIDE玩懼節",
-   "category": "休閒",
-   "start": "2026-10-02",
-   "end": "2026-11-01",
-   "venue": "THE SOUTHSIDE",
-   "url": "https://timable.com/zh/event/THETOYrifyingSOUTHSIDE%E7%8E%A9%E6%87%BC%E7%AF%80",
-   "source": "Timable",
-   "image": "https://static.timable.com/image_fa0197c6-20f6-4c1b-a826-8013546c8657-480x241.webp",
    "featured": false
   },
   {
@@ -3028,6 +3016,18 @@
    "featured": false
   },
   {
+   "id": "cf6174c12b8f",
+   "title": "PopCorn、 The LOHAS 康城「喪玩日與夜」",
+   "category": "休閒",
+   "start": "2026-10-05",
+   "end": "2026-11-01",
+   "venue": "The Lohas 康城",
+   "url": "https://timable.com/zh/event/PopCorn-TheLOHAS%E5%BA%B7%E5%9F%8E-%E5%96%AA%E7%8E%A9%E6%97%A5%E8%88%87%E5%A4%9C-",
+   "source": "Timable",
+   "image": "https://static.timable.com/image_8dbb6ab5-8201-4842-b0f3-018acd6b4527-480x360.webp",
+   "featured": false
+  },
+  {
    "id": "d21affb9a93b",
    "title": "《敦煌石窟壁畫中的隋唐盛世》巡迴展覽",
    "category": "展覽",
@@ -3508,18 +3508,6 @@
    "featured": false
   },
   {
-   "id": "f6fc8ada82f8",
-   "title": "精英盃 ELITE CUP 中國舞比賽 2026@香港舞蹈總會",
-   "category": "表演藝術",
-   "start": "2026-10-09",
-   "end": "2026-10-12",
-   "venue": "青年廣場 Y綜藝館",
-   "url": "https://timable.com/zh/event/%E7%B2%BE%E8%8B%B1%E7%9B%83ELITECUP%E4%B8%AD%E5%9C%8B%E8%88%9E%E6%AF%94%E8%B3%BD2026-%E9%A6%99%E6%B8%AF%E8%88%9E%E8%B9%88%E7%B8%BD%E6%9C%83",
-   "source": "Timable",
-   "image": "https://static.timable.com/image_dd319b2b-a1cd-4b2f-bd0a-1e7225723413-480x480.webp",
-   "featured": false
-  },
-  {
    "id": "d2d804d6be84",
    "title": "踮起腳尖說再見",
    "category": "休閒",
@@ -3685,6 +3673,18 @@
    "url": "https://www.lcsd.gov.hk/clpss/tc/search/culture/DetailForm.do?id=186947",
    "source": "康文署",
    "image": "",
+   "featured": false
+  },
+  {
+   "id": "a7d80fd36586",
+   "title": "葉詠詩 x 盧思泓 x Cong 四重奏 「香港小交響樂團 ‧ 笙 ‧ 弦樂四重奏 A HONG KONG SOUND PALETTE」音樂會 2026",
+   "category": "表演藝術",
+   "start": "2026-10-10",
+   "end": "2026-10-10",
+   "venue": "香港大會堂 音樂廳",
+   "url": "https://timable.com/zh/event/%E8%91%89%E8%A9%A0%E8%A9%A9x%E7%9B%A7%E6%80%9D%E6%B3%93xCong%E5%9B%9B%E9%87%8D%E5%A5%8F-%E9%A6%99%E6%B8%AF%E5%B0%8F%E4%BA%A4%E9%9F%BF%E6%A8%82%E5%9C%98-%E7%AC%99-%E5%BC%A6%E6%A8%82%E5%9B%9B%E9%87%8D%E5%A5%8FAHONGKONGSOUNDPALETTE-%E9%9F%B3%E6%A8%82%E6%9C%832026",
+   "source": "Timable",
+   "image": "https://static.timable.com/image_66e2d528-d6c3-4de2-88d0-cae9ccfd8aaa-480x360.webp",
    "featured": false
   },
   {
@@ -5296,6 +5296,18 @@
    "featured": false
   },
   {
+   "id": "c48a976de0c0",
+   "title": "Ford Trio \"Live in Hong Kong\" 巡迴演唱會 2026 香港站",
+   "category": "演唱會",
+   "start": "2026-10-24",
+   "end": "2026-10-24",
+   "venue": "MOM Livehouse",
+   "url": "https://timable.com/zh/event/FordTrio-LiveinHongKong-%E5%B7%A1%E8%BF%B4%E6%BC%94%E5%94%B1%E6%9C%832026%E9%A6%99%E6%B8%AF%E7%AB%99",
+   "source": "Timable",
+   "image": "https://static.timable.com/image_569119cd-4403-496f-b0a0-c4d5c4e3bc7d-480x640.webp",
+   "featured": false
+  },
+  {
    "id": "1a1f2ab2b91a",
    "title": "The Weeknd \"After Hours Til Dawn\" 亞洲巡迴演唱會 2026 香港站",
    "category": "演唱會",
@@ -5425,6 +5437,18 @@
    "url": "https://www.lcsd.gov.hk/clpss/tc/search/culture/DetailForm.do?id=188329",
    "source": "康文署",
    "image": "",
+   "featured": false
+  },
+  {
+   "id": "750231bee49d",
+   "title": "觀音誕開放日暨捐血日 2026",
+   "category": "休閒",
+   "start": "2026-10-24",
+   "end": "2026-10-25",
+   "venue": "慈山寺",
+   "url": "https://timable.com/zh/event/%E8%A7%80%E9%9F%B3%E8%AA%95%E9%96%8B%E6%94%BE%E6%97%A5%E6%9A%A8%E6%8D%90%E8%A1%80%E6%97%A52026",
+   "source": "Timable",
+   "image": "https://static.timable.com/image_8f9c3e13-441a-4df7-a355-f05bbf4fb9ce-480x676.webp",
    "featured": false
   },
   {
@@ -5860,18 +5884,6 @@
    "featured": false
   },
   {
-   "id": "6db655c6942b",
-   "title": "《東街西影》街拍攝影聯展 2026",
-   "category": "展覽",
-   "start": "2026-10-30",
-   "end": "2026-11-01",
-   "venue": "賽馬會創意藝術中心 JCCAC",
-   "url": "https://timable.com/zh/event/%E6%9D%B1%E8%A1%97%E8%A5%BF%E5%BD%B12026-%E8%A1%97%E6%8B%8D%E6%94%9D%E5%BD%B1%E8%81%AF%E5%B1%95",
-   "source": "Timable",
-   "image": "https://static.timable.com/image_7a502d1b-ec57-4519-a543-84697422ccc7-480x600.webp",
-   "featured": false
-  },
-  {
    "id": "4b881cee130e",
    "title": "側田《再一起 COME TOGETHER》演唱會 2026 香港站",
    "category": "演唱會",
@@ -6272,11 +6284,11 @@
    "title": "BIGBANG \"XX: COSMOS\" 世界巡迴演唱會 2026/2027 香港站",
    "category": "演唱會",
    "start": "2026-11-13",
-   "end": "2026-11-15",
+   "end": "2026-11-17",
    "venue": "啟德體育園 主場館",
    "url": "https://timable.com/zh/event/BIGBANG%E4%B8%96%E7%95%8C%E5%B7%A1%E8%BF%B4%E6%BC%94%E5%94%B1%E6%9C%832026%E9%A6%99%E6%B8%AF%E7%AB%99",
    "source": "Timable",
-   "image": "https://static.timable.com/image_6e090575-07b0-4763-b6ee-a2fcd4665e9e-480x600.webp",
+   "image": "https://static.timable.com/image_043e21e0-a3e8-44b6-a1a0-c82c9bed59aa-480x600.webp",
    "featured": false
   },
   {
@@ -6457,18 +6469,6 @@
    "url": "https://www.hkco.org/tc/Concerts/The-Spirit-Of-The-Masters.html",
    "source": "康文署",
    "image": "",
-   "featured": false
-  },
-  {
-   "id": "9bc3494d1460",
-   "title": "黎曉黛‧夏星《北歐四季》音樂劇場演出",
-   "category": "表演藝術",
-   "start": "2026-11-21",
-   "end": "2026-11-21",
-   "venue": "荃灣大會堂 演奏廳",
-   "url": "https://timable.com/zh/event/%E9%BB%8E%E6%9B%89%E9%BB%9B-%E5%A4%8F%E6%98%9F-%E5%8C%97%E6%AD%90%E5%9B%9B%E5%AD%A3-%E9%9F%B3%E6%A8%82%E5%8A%87%E5%A0%B4%E6%BC%94%E5%87%BA",
-   "source": "Timable",
-   "image": "https://static.timable.com/image_de7cbe17-55ba-4da9-9eca-2c1f19a83e26-300x400.webp",
    "featured": false
   },
   {
