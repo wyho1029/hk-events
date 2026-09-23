@@ -570,7 +570,7 @@
    "title": "國際中秋綵燈匯 2026 @維多利亞公園",
    "category": "休閒",
    "start": "2026-09-17",
-   "end": "2026-09-27",
+   "end": "2026-10-04",
    "venue": "維多利亞公園",
    "url": "https://timable.com/zh/event/%E5%9C%8B%E9%9A%9B%E4%B8%AD%E7%A7%8B%E7%B6%B5%E7%87%88%E5%8C%AF-%E7%B6%AD%E5%A4%9A%E5%88%A9%E4%BA%9E%E5%85%AC%E5%9C%92",
    "source": "Timable",
@@ -647,18 +647,6 @@
    "url": "https://timable.com/zh/event/CHIIKAWAARTIVERSE-%E4%B8%AD%E7%A7%8B%E7%87%88%E6%9C%83%E9%99%90%E5%AE%9A%E6%B4%BB%E5%8B%95-AIRSIDE",
    "source": "Timable",
    "image": "https://static.timable.com/image_74cfac3b-1927-4331-b8de-ac5f9c48dc0e-480x600.webp",
-   "featured": false
-  },
-  {
-   "id": "081df9bbff24",
-   "title": "「凝伙」展覽及嘉年華@賽馬會",
-   "category": "體育",
-   "start": "2026-09-22",
-   "end": "2026-09-27",
-   "venue": "THE BURROW",
-   "url": "https://timable.com/zh/event/%E8%B3%BD%E9%A6%AC%E6%9C%83-%E5%87%9D%E4%BC%99-%E4%B8%AD%E7%A7%8B%E7%AF%80%E6%B4%BB%E5%8B%95%E7%B3%BB%E5%88%97",
-   "source": "Timable",
-   "image": "https://static.timable.com/image_c514e110-f870-4578-b613-552ce0a74aa8-480x480.webp",
    "featured": false
   },
   {
@@ -1460,6 +1448,30 @@
    "featured": false
   },
   {
+   "id": "ef121b438e25",
+   "title": "Zespri 「MoonGold 中秋圓遊會」@西九文化區",
+   "category": "休閒",
+   "start": "2026-09-24",
+   "end": "2026-09-26",
+   "venue": "西九文化區 藝術公園",
+   "url": "https://timable.com/zh/event/Zespri-MoonGold%E4%B8%AD%E7%A7%8B%E5%9C%93%E9%81%8A%E6%9C%83--%E8%A5%BF%E4%B9%9D%E6%96%87%E5%8C%96%E5%8D%80",
+   "source": "Timable",
+   "image": "https://static.timable.com/image_1e151304-51a2-4fc2-af51-645aa4d5f554-480x274.webp",
+   "featured": false
+  },
+  {
+   "id": "32dc8862ab6a",
+   "title": "「藝/常 Art / Daily」藝術展覽",
+   "category": "展覽",
+   "start": "2026-09-24",
+   "end": "2026-10-11",
+   "venue": "香港逸東酒店",
+   "url": "https://timable.com/zh/event/%E8%97%9D-%E5%B8%B8Art-Daily-%E8%97%9D%E8%A1%93%E5%B1%95%E8%A6%BD",
+   "source": "Timable",
+   "image": "https://static.timable.com/image_2507ef75-1edf-4e99-b7cb-1bb8084cfb8f-480x600.webp",
+   "featured": false
+  },
+  {
    "id": "5c0244db59e6",
    "title": "亞藝無疆2026開幕節目︰王雙駿 × 恭碩良 & Friends - 聯同 Uuhai（蒙古）、KARDI（韓國）及 KIKI（泰國）《三角演義》音樂會",
    "category": "表演藝術",
@@ -1532,18 +1544,6 @@
    "featured": false
   },
   {
-   "id": "487a576a4807",
-   "title": "秋季家居博覽 2026",
-   "category": "展覽",
-   "start": "2026-09-24",
-   "end": "2026-09-27",
-   "venue": "香港會議展覽中心 展覽廳3BCD",
-   "url": "https://timable.com/zh/event/%E7%A7%8B%E5%AD%A3%E5%AE%B6%E5%B1%85%E5%8D%9A%E8%A6%BD2026",
-   "source": "Timable",
-   "image": "https://static.timable.com/image_3e492959-69bd-4988-8530-d8ec5681c40b-480x679.webp",
-   "featured": false
-  },
-  {
    "id": "25761047a1fe",
    "title": "粵劇《紅菱巧破無頭案》",
    "category": "表演藝術",
@@ -1589,6 +1589,18 @@
    "url": "https://timable.com/zh/event/%E6%9C%80%E5%BE%8C%E7%9A%84%E4%BD%BF%E8%80%85%E6%B8%9A%E8%96%B0%E5%B1%95---EVANGELION-%E7%B3%BB%E5%88%9730th%E7%B4%80%E5%BF%B5",
    "source": "Timable",
    "image": "https://static.timable.com/image_461f29b4-7033-4c53-9257-d0e1f1d49acd-480x600.webp",
+   "featured": false
+  },
+  {
+   "id": "659359d68034",
+   "title": "中秋滿悅市集@PopWalk 天晉滙",
+   "category": "市集",
+   "start": "2026-09-25",
+   "end": "2026-09-27",
+   "venue": "PopWalk 天晉滙",
+   "url": "https://timable.com/zh/event/PopWalk%E5%A4%A9%E6%99%89%E6%BB%99-%E4%B8%AD%E7%A7%8B-",
+   "source": "Timable",
+   "image": "https://static.timable.com/image_aaaccb28-1d57-4949-8435-55adfd026a78-480x600.webp",
    "featured": false
   },
   {
@@ -2477,6 +2489,18 @@
    "url": "https://www.lcsd.gov.hk/clpss/tc/search/culture/DetailForm.do?id=187011",
    "source": "康文署",
    "image": "",
+   "featured": false
+  },
+  {
+   "id": "86fc89eb7fe0",
+   "title": "《赤水》第六代伊藤赤水首個香港個人展覽",
+   "category": "展覽",
+   "start": "2026-10-02",
+   "end": "2026-10-31",
+   "venue": "Touch Ceramics",
+   "url": "https://timable.com/zh/event/%E8%B5%A4%E6%B0%B4-%E7%AC%AC%E5%85%AD%E4%BB%A3%E4%BC%8A%E8%97%A4%E8%B5%A4%E6%B0%B4%E9%A6%96%E5%80%8B%E9%A6%99%E6%B8%AF%E5%80%8B%E4%BA%BA%E5%B1%95%E8%A6%BD",
+   "source": "Timable",
+   "image": "https://static.timable.com/image_ba8c9671-ad4e-4c1a-bbe4-417b44884aef-480x679.webp",
    "featured": false
   },
   {
@@ -3476,18 +3500,6 @@
    "featured": false
   },
   {
-   "id": "d0c0c73536d1",
-   "title": "黃敏蕎 \"Hand made\" 生日限定專場音樂會",
-   "category": "表演藝術",
-   "start": "2026-10-09",
-   "end": "2026-10-09",
-   "venue": "翻騰三周半 Fountain de Chopin",
-   "url": "https://timable.com/zh/event/%E9%BB%83%E6%95%8F%E8%95%8E-Handmade-%E7%94%9F%E6%97%A5%E9%99%90%E5%AE%9A%E5%B0%88%E5%A0%B4%E9%9F%B3%E6%A8%82%E6%9C%83",
-   "source": "Timable",
-   "image": "https://static.timable.com/image_3e95c4a2-8f6a-47f2-83bc-46202a82bdfc-480x640.webp",
-   "featured": false
-  },
-  {
    "id": "857d2a6f1ef6",
    "title": "FWD富衛保險呈獻 許志安演唱會2026",
    "category": "演唱會",
@@ -3509,6 +3521,18 @@
    "url": "https://timable.com/zh/event/NCT127-NEOCITY-THEREDLINE-%E7%AC%AC%E4%BA%94%E6%AC%A1%E4%B8%96%E7%95%8C%E5%B7%A1%E8%BF%B4%E6%BC%94%E5%94%B1%E6%9C%83",
    "source": "Timable",
    "image": "https://static.timable.com/image_17c50eb6-4095-4468-8c85-4614503fd787-480x681.webp",
+   "featured": false
+  },
+  {
+   "id": "5746864e45c8",
+   "title": "Traffic Light Project 紅綠燈社交派對",
+   "category": "休閒",
+   "start": "2026-10-10",
+   "end": "2026-10-10",
+   "venue": "Arcadia Restaurant & Bar",
+   "url": "https://timable.com/zh/event/TrafficLightProject%E7%B4%85%E7%B6%A0%E7%87%88%E7%A4%BE%E4%BA%A4%E6%B4%BE%E5%B0%8D",
+   "source": "Timable",
+   "image": "https://static.timable.com/image_07cc4950-d99e-4130-994d-20cccf2fdcd6-480x600.webp",
    "featured": false
   },
   {
@@ -4134,18 +4158,6 @@
    "source": "盛事之都",
    "image": "",
    "featured": true
-  },
-  {
-   "id": "641c47f04b2f",
-   "title": "Stephy Tang \"Tathātā\" Album Launch Live 音樂會",
-   "category": "表演藝術",
-   "start": "2026-10-14",
-   "end": "2026-10-16",
-   "venue": "TIDES",
-   "url": "https://timable.com/zh/event/StephyTang-Tath-t--albumlaunchlive%E6%BC%94%E5%94%B1%E6%9C%83",
-   "source": "Timable",
-   "image": "https://static.timable.com/image_42e18f50-95df-4443-b1b8-715f7fa6e3c5-480x640.webp",
-   "featured": false
   },
   {
    "id": "d1c3373f8701",
@@ -6116,6 +6128,18 @@
    "featured": false
   },
   {
+   "id": "c69f2301ec4e",
+   "title": "YVES 巡迴演唱會 2026 香港站",
+   "category": "演唱會",
+   "start": "2026-11-01",
+   "end": "2026-11-01",
+   "venue": "PORTAL",
+   "url": "https://timable.com/zh/event/YVES%E5%B7%A1%E8%BF%B4%E6%BC%94%E5%94%B1%E6%9C%832026%E9%A6%99%E6%B8%AF%E7%AB%99",
+   "source": "Timable",
+   "image": "https://static.timable.com/image_6416eff6-01c5-4540-b90f-f26967fa2ea9-480x600.webp",
+   "featured": false
+  },
+  {
    "id": "d67f9e7a871b",
    "title": "《風籟聲饗：香港作曲家聯會 × 崇基管樂團》",
    "category": "表演藝術",
@@ -6404,18 +6428,6 @@
    "featured": false
   },
   {
-   "id": "389b2a8eb7b2",
-   "title": "Hangover Festival",
-   "category": "休閒",
-   "start": "2026-11-21",
-   "end": "2026-11-21",
-   "venue": "AQUABEAT 03",
-   "url": "https://timable.com/zh/event/HangoverFestival",
-   "source": "Timable",
-   "image": "https://static.timable.com/image_05269912-ee12-4cf5-bb98-dec967f40fe4-480x600.webp",
-   "featured": false
-  },
-  {
    "id": "6930911a20ef",
    "title": "音樂劇《第二性》",
    "category": "表演藝術",
@@ -6641,18 +6653,6 @@
    "url": "https://www.lcsd.gov.hk/tc/ticket/index.html",
    "source": "康文署",
    "image": "",
-   "featured": false
-  },
-  {
-   "id": "c90aaa5cd50b",
-   "title": "菲道爾《地球是平的》巡迴演唱會 2026 香港站",
-   "category": "演唱會",
-   "start": "2026-12-05",
-   "end": "2026-12-05",
-   "venue": "麥花臣場館",
-   "url": "https://timable.com/zh/event/%E8%8F%B2%E9%81%93%E7%88%BE-%E5%9C%B0%E7%90%83%E6%98%AF%E5%B9%B3%E7%9A%84-%E5%B7%A1%E8%BF%B4%E6%BC%94%E5%94%B1%E6%9C%832026%E9%A6%99%E6%B8%AF%E7%AB%99",
-   "source": "Timable",
-   "image": "https://static.timable.com/image_44ab9dd3-6e11-4c4c-9d9f-bc2ead9efa86-480x599.webp",
    "featured": false
   },
   {
