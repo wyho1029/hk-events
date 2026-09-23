@@ -1532,6 +1532,18 @@
    "featured": false
   },
   {
+   "id": "487a576a4807",
+   "title": "秋季家居博覽 2026",
+   "category": "展覽",
+   "start": "2026-09-24",
+   "end": "2026-09-27",
+   "venue": "香港會議展覽中心 展覽廳3BCD",
+   "url": "https://timable.com/zh/event/%E7%A7%8B%E5%AD%A3%E5%AE%B6%E5%B1%85%E5%8D%9A%E8%A6%BD2026",
+   "source": "Timable",
+   "image": "https://static.timable.com/image_3e492959-69bd-4988-8530-d8ec5681c40b-480x679.webp",
+   "featured": false
+  },
+  {
    "id": "25761047a1fe",
    "title": "粵劇《紅菱巧破無頭案》",
    "category": "表演藝術",
@@ -2369,18 +2381,6 @@
    "url": "https://www.lcsd.gov.hk/clpss/tc/search/culture/DetailForm.do?id=187091",
    "source": "康文署",
    "image": "",
-   "featured": false
-  },
-  {
-   "id": "3eb1da5eb649",
-   "title": "《劇場版 魔法少女小圓〈瓦爾普吉斯的迴天〉》期間限定店@LCX",
-   "category": "表演藝術",
-   "start": "2026-10-01",
-   "end": "2026-10-31",
-   "venue": "LCX",
-   "url": "https://timable.com/zh/event/%E5%8A%87%E5%A0%B4%E7%89%88%E9%AD%94%E6%B3%95%E5%B0%91%E5%A5%B3%E5%B0%8F%E5%9C%93-%E7%93%A6%E7%88%BE%E6%99%AE%E5%90%89%E6%96%AF%E7%9A%84%E8%BF%B4%E5%A4%A9--%E5%8A%87%E5%A0%B4",
-   "source": "Timable",
-   "image": "https://static.timable.com/image_887174e8-3dd8-4457-a281-bc86dd5be21a-480x321.webp",
    "featured": false
   },
   {
@@ -3500,18 +3500,6 @@
    "featured": false
   },
   {
-   "id": "7bdaecbcd15b",
-   "title": "Halloween Spooky Chills「盞鬼」愉景灣 2026 萬聖節盛會",
-   "category": "休閒",
-   "start": "2026-10-10",
-   "end": "2026-11-01",
-   "venue": "愉景灣",
-   "url": "https://timable.com/zh/event/SpookyChills%E6%84%89%E6%99%AF%E7%81%A3%E8%90%AC%E8%81%96%E7%AF%802026%E7%9B%9B%E6%9C%83",
-   "source": "Timable",
-   "image": "https://static.timable.com/image_76b2f085-f10e-4917-9c4b-635ce75f8570-480x600.webp",
-   "featured": false
-  },
-  {
    "id": "4725dfbbc792",
    "title": "NCT 127 \"NEO CITY - THE REDLINE\" 巡迴演唱會 2026 香港站",
    "category": "演唱會",
@@ -4146,6 +4134,18 @@
    "source": "盛事之都",
    "image": "",
    "featured": true
+  },
+  {
+   "id": "641c47f04b2f",
+   "title": "Stephy Tang \"Tathātā\" Album Launch Live 音樂會",
+   "category": "表演藝術",
+   "start": "2026-10-14",
+   "end": "2026-10-16",
+   "venue": "TIDES",
+   "url": "https://timable.com/zh/event/StephyTang-Tath-t--albumlaunchlive%E6%BC%94%E5%94%B1%E6%9C%83",
+   "source": "Timable",
+   "image": "https://static.timable.com/image_42e18f50-95df-4443-b1b8-715f7fa6e3c5-480x640.webp",
+   "featured": false
   },
   {
    "id": "d1c3373f8701",
@@ -5312,18 +5312,6 @@
    "featured": false
   },
   {
-   "id": "848657ba5a75",
-   "title": "世界之約 X LIFE MART 《萌寵異寵》手作主題市集",
-   "category": "市集",
-   "start": "2026-10-24",
-   "end": "2026-10-25",
-   "venue": "南豐紗廠",
-   "url": "https://timable.com/zh/event/%E4%B8%96%E7%95%8C%E4%B9%8B%E7%B4%84XLIFEMART-%E8%90%8C%E5%AF%B5%E7%95%B0%E5%AF%B5-%E6%89%8B%E4%BD%9C%E4%B8%BB%E9%A1%8C%E5%B8%82%E9%9B%86",
-   "source": "Timable",
-   "image": "https://static.timable.com/image_11512276-791d-40a0-b33f-f5b110d3f3a6-480x601.webp",
-   "featured": false
-  },
-  {
    "id": "338f1659093e",
    "title": "中國內地電影展 2026：《喜喪》",
    "category": "電影活動",
@@ -6413,6 +6401,18 @@
    "url": "https://www.facebook.com/pmco.cca",
    "source": "康文署",
    "image": "",
+   "featured": false
+  },
+  {
+   "id": "389b2a8eb7b2",
+   "title": "Hangover Festival",
+   "category": "休閒",
+   "start": "2026-11-21",
+   "end": "2026-11-21",
+   "venue": "AQUABEAT 03",
+   "url": "https://timable.com/zh/event/HangoverFestival",
+   "source": "Timable",
+   "image": "https://static.timable.com/image_05269912-ee12-4cf5-bb98-dec967f40fe4-480x600.webp",
    "featured": false
   },
   {
