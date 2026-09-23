@@ -1460,18 +1460,6 @@
    "featured": false
   },
   {
-   "id": "32dc8862ab6a",
-   "title": "「藝/常 Art / Daily」藝術展覽",
-   "category": "展覽",
-   "start": "2026-09-24",
-   "end": "2026-10-11",
-   "venue": "香港逸東酒店",
-   "url": "https://timable.com/zh/event/%E8%97%9D-%E5%B8%B8Art-Daily-%E8%97%9D%E8%A1%93%E5%B1%95%E8%A6%BD",
-   "source": "Timable",
-   "image": "https://static.timable.com/image_2507ef75-1edf-4e99-b7cb-1bb8084cfb8f-480x600.webp",
-   "featured": false
-  },
-  {
    "id": "5c0244db59e6",
    "title": "亞藝無疆2026開幕節目︰王雙駿 × 恭碩良 & Friends - 聯同 Uuhai（蒙古）、KARDI（韓國）及 KIKI（泰國）《三角演義》音樂會",
    "category": "表演藝術",
@@ -2381,6 +2369,18 @@
    "url": "https://www.hkrep.com/tc/Season-Programme/Main-Stage-Productions/Modern-Wuxia-To-Turn-To-Be.html",
    "source": "康文署",
    "image": "",
+   "featured": false
+  },
+  {
+   "id": "bd67a8ff646e",
+   "title": "\"Ciao! Gelato Fest 2026\" 意式雪糕市集",
+   "category": "市集",
+   "start": "2026-10-01",
+   "end": "2026-10-11",
+   "venue": "PMQ 元創方",
+   "url": "https://timable.com/zh/event/Ciao-GelatoFest2026-%E6%84%8F%E5%BC%8F%E9%9B%AA%E7%B3%95%E5%B8%82%E9%9B%86",
+   "source": "Timable",
+   "image": "https://static.timable.com/image_d7b52ae6-ca57-461e-a963-38072c2bd621-480x679.webp",
    "featured": false
   },
   {
