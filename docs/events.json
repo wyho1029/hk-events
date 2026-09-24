@@ -1572,18 +1572,6 @@
    "featured": false
   },
   {
-   "id": "cc3dff34b74b",
-   "title": "「超記憶」展覽",
-   "category": "展覽",
-   "start": "2026-09-26",
-   "end": "2026-10-01",
-   "venue": "不二藝術空間 閣樓",
-   "url": "https://timable.com/zh/event/%E8%B6%85%E8%A8%98%E6%86%B6-%E5%B1%95%E8%A6%BD",
-   "source": "Timable",
-   "image": "https://static.timable.com/image_a4ad9558-edaf-4384-9017-da0c31c86bd3-480x640.webp",
-   "featured": false
-  },
-  {
    "id": "7fc8f29b0cf5",
    "title": "上環文娛中心場地伙伴計劃︰中華文化節2026︰兒童藝術科技音樂劇場《五行中西》",
    "category": "表演藝術",
@@ -2025,18 +2013,6 @@
    "url": "https://www.lcsd.gov.hk/clpss/tc/search/culture/DetailForm.do?id=186008",
    "source": "康文署",
    "image": "",
-   "featured": false
-  },
-  {
-   "id": "3bd9b3a828c8",
-   "title": "FUGGLER「牙寶茶檔」限定快閃店",
-   "category": "休閒",
-   "start": "2026-09-29",
-   "end": "2026-10-27",
-   "venue": "朗豪坊",
-   "url": "https://timable.com/zh/event/FUGGLER-%E7%89%99%E5%AF%B6%E8%8C%B6%E6%AA%94-%E6%9C%97%E8%B1%AA%E5%9D%8A%E5%BF%AB%E9%96%83%E5%BA%97",
-   "source": "Timable",
-   "image": "https://static.timable.com/image_520feff1-2f3a-4543-9e16-e440df65b457-480x600.webp",
    "featured": false
   },
   {
@@ -3549,6 +3525,18 @@
    "url": "https://www.lcsd.gov.hk/clpss/tc/search/culture/DetailForm.do?id=187047",
    "source": "康文署",
    "image": "",
+   "featured": false
+  },
+  {
+   "id": "8a88a1be534a",
+   "title": "紙品文具市集 MTOS VOL.3 Mini Hong Kong FEST",
+   "category": "市集",
+   "start": "2026-10-10",
+   "end": "2026-10-11",
+   "venue": "上海街618號",
+   "url": "https://timable.com/zh/event/%E7%B4%99%E5%93%81%E6%96%87%E5%85%B7%E5%B8%82%E9%9B%86MTOSVOL-3--MiniHongKongFEST-",
+   "source": "Timable",
+   "image": "https://static.timable.com/image_9cd0ab3a-8352-4d3b-b42b-49fac211a3b0-480x599.webp",
    "featured": false
   },
   {
@@ -6721,14 +6709,14 @@
   },
   {
    "id": "8886bfea2c0b",
-   "title": "QWER \"ROCKATION: ROCKET LAUNCH!!\" 第二次巡迴演唱會 2027 香港站",
-   "category": "演唱會",
+   "title": "QWER \"ROCKATION: ROCKET LAUNCH!!\" 香港站2027",
+   "category": "休閒",
    "start": "2027-01-02",
    "end": "2027-01-02",
    "venue": "亞洲國際博覽館",
    "url": "https://timable.com/zh/event/QWER-ROCKATION-ROCKETLAUNCH---%E7%AC%AC%E4%BA%8C%E6%AC%A1%E5%B7%A1%E8%BF%B4%E6%BC%94%E5%94%B1%E6%9C%83%E9%A6%99%E6%B8%AF%E7%AB%99",
    "source": "Timable",
-   "image": "https://static.timable.com/image_87eed16f-102d-44b5-84e9-1e2ecff8a0f6-480x596.webp",
+   "image": "https://static.timable.com/image_18a22e63-ac1c-45a7-bfa3-c82049527d82-480x600.webp",
    "featured": false
   },
   {
@@ -6813,6 +6801,18 @@
    "url": "https://timable.com/zh/event/BTS-ARIRANG-%E4%B8%96%E7%95%8C%E5%B7%A1%E8%BF%B4%E6%BC%94%E5%94%B1%E6%9C%832027%E9%A6%99%E6%B8%AF%E7%AB%99",
    "source": "Timable",
    "image": "https://static.timable.com/image_ce0a1ebc-f5d5-4676-a692-156c3b8b4b9f-400x400.webp",
+   "featured": false
+  },
+  {
+   "id": "9feb9cd6cb99",
+   "title": "韓經arte愛樂樂團 × SM Classics：K-pop音樂會@第55屆香港藝術節",
+   "category": "表演藝術",
+   "start": "2027-03-12",
+   "end": "2027-03-14",
+   "venue": "香港文化中心 音樂廳",
+   "url": "https://timable.com/zh/event/%E9%9F%93%E7%B6%93arte%E6%84%9B%E6%A8%82%E6%A8%82%E5%9C%98-SMClassics-K-pop%E9%9F%B3%E6%A8%82%E6%9C%83-%E7%AC%AC55%E5%B1%86%E9%A6%99%E6%B8%AF%E8%97%9D%E8%A1%93%E7%AF%80",
+   "source": "Timable",
+   "image": "https://static.timable.com/image_1bdf6ec3-6b80-4c71-af31-a4eecfcce689-480x265.webp",
    "featured": false
   },
   {
