@@ -1266,18 +1266,6 @@
    "featured": false
   },
   {
-   "id": "3879aa5450ff",
-   "title": "薄扶林村火龍巡遊 2026",
-   "category": "休閒",
-   "start": "2026-09-24",
-   "end": "2026-09-25",
-   "venue": "薄扶林村",
-   "url": "https://timable.com/zh/event/%E8%96%84%E6%89%B6%E6%9E%97%E6%9D%91%E7%81%AB%E9%BE%8D%E5%B7%A1%E9%81%8A2026",
-   "source": "Timable",
-   "image": "https://static.timable.com/image_5f700a85-9012-4823-9d59-3136301888a1-480x355.webp",
-   "featured": false
-  },
-  {
    "id": "5fe026269c30",
    "title": "虛假之城",
    "category": "電影",
@@ -2253,6 +2241,18 @@
    "url": "https://www.hkrep.com/tc/Season-Programme/Main-Stage-Productions/Modern-Wuxia-To-Turn-To-Be.html",
    "source": "康文署",
    "image": "",
+   "featured": false
+  },
+  {
+   "id": "d9c06136ba15",
+   "title": "\"i-dle LYNKPOP : THE VR CONCERT THE ENCOUNTER\" 沉浸式VR體驗展 香港站",
+   "category": "休閒",
+   "start": "2026-10-01",
+   "end": "2027-01-03",
+   "venue": "The ONE",
+   "url": "https://timable.com/zh/event/i-dleLYNKPOP-THEVRCONCERTTHEENCOUNTER%E6%B2%89%E6%B5%B8%E5%BC%8FVR%E9%AB%94%E9%A9%97%E5%B1%95%E9%A6%99%E6%B8%AF%E7%AB%99",
+   "source": "Timable",
+   "image": "https://static.timable.com/image_3c547817-c597-4975-ac38-fe43e51be987-480x600.webp",
    "featured": false
   },
   {
