@@ -2232,6 +2232,18 @@
    "featured": false
   },
   {
+   "id": "bb92cdc8a13d",
+   "title": "英國藝術家 Luke Jerram 世界巡展鉅作 \"Walk me to Mars\" @朗豪坊",
+   "category": "休閒",
+   "start": "2026-09-30",
+   "end": "2026-11-01",
+   "venue": "朗豪坊",
+   "url": "https://timable.com/zh/event/WalkmetoMars-%E7%99%BB%E9%99%B8%E6%9C%97%E8%B1%AA%E5%9D%8A%E8%8B%B1%E5%9C%8B%E8%97%9D%E8%A1%93%E5%AE%B6LukeJerram%E4%B8%96%E7%95%8C%E5%B7%A1%E5%B1%95%E9%89%85%E4%BD%9C-MARS-%E6%89%93%E9%80%A0%E5%9F%8E%E5%B8%82%E7%81%AB%E6%98%9F%E7%9B%B8%E9%81%87",
+   "source": "Timable",
+   "image": "https://static.timable.com/image_c3695fc5-905f-4edd-9ec1-bf0746aafeae-480x625.webp",
+   "featured": false
+  },
+  {
    "id": "0001d86a9a9e",
    "title": "香港大會堂場地伙伴計劃：《現代豪俠「轉」》",
    "category": "休閒",
@@ -2241,18 +2253,6 @@
    "url": "https://www.hkrep.com/tc/Season-Programme/Main-Stage-Productions/Modern-Wuxia-To-Turn-To-Be.html",
    "source": "康文署",
    "image": "",
-   "featured": false
-  },
-  {
-   "id": "d9c06136ba15",
-   "title": "\"i-dle LYNKPOP : THE VR CONCERT THE ENCOUNTER\" 沉浸式VR體驗展 香港站",
-   "category": "休閒",
-   "start": "2026-10-01",
-   "end": "2027-01-03",
-   "venue": "The ONE",
-   "url": "https://timable.com/zh/event/i-dleLYNKPOP-THEVRCONCERTTHEENCOUNTER%E6%B2%89%E6%B5%B8%E5%BC%8FVR%E9%AB%94%E9%A9%97%E5%B1%95%E9%A6%99%E6%B8%AF%E7%AB%99",
-   "source": "Timable",
-   "image": "https://static.timable.com/image_3c547817-c597-4975-ac38-fe43e51be987-480x600.webp",
    "featured": false
   },
   {
@@ -2269,11 +2269,11 @@
   },
   {
    "id": "f1de64f4a657",
-   "title": "Tokyo Indies Coffee Festival",
+   "title": "Tokyo Indies Coffee Festival@啟德 SNDO READS",
    "category": "休閒",
    "start": "2026-10-01",
    "end": "2026-10-04",
-   "venue": "The Twins 雙子匯",
+   "venue": "SNDO 三道 7-F SNDO READS中庭",
    "url": "https://timable.com/zh/event/TokyoIndiesCoffeeFestival",
    "source": "Timable",
    "image": "https://static.timable.com/image_62e7c0ca-0b5b-4551-bd06-4eb8cb5611f9-480x600.webp",
@@ -6736,11 +6736,11 @@
    "title": "BABYMONSTER \"CHOOM\" 世界巡迴演唱會 2027 香港站",
    "category": "演唱會",
    "start": "2027-01-09",
-   "end": "2027-01-09",
+   "end": "2027-01-10",
    "venue": "亞洲國際博覽館 ARENA",
    "url": "https://timable.com/zh/event/BABYMONSTER-CHOOM-%E4%B8%96%E7%95%8C%E5%B7%A1%E8%BF%B4%E6%BC%94%E5%94%B1%E6%9C%832027%E9%A6%99%E6%B8%AF%E7%AB%99",
    "source": "Timable",
-   "image": "https://static.timable.com/image_ec8159e6-4daa-4f07-93e5-14eff82ee3b9-480x600.webp",
+   "image": "https://static.timable.com/image_611e4f1d-e243-4c2e-a7a0-642d43060668-480x600.webp",
    "featured": false
   },
   {
@@ -6812,7 +6812,7 @@
    "venue": "香港文化中心 音樂廳",
    "url": "https://timable.com/zh/event/%E9%9F%93%E7%B6%93arte%E6%84%9B%E6%A8%82%E6%A8%82%E5%9C%98-SMClassics-K-pop%E9%9F%B3%E6%A8%82%E6%9C%83-%E7%AC%AC55%E5%B1%86%E9%A6%99%E6%B8%AF%E8%97%9D%E8%A1%93%E7%AF%80",
    "source": "Timable",
-   "image": "https://static.timable.com/image_1bdf6ec3-6b80-4c71-af31-a4eecfcce689-480x265.webp",
+   "image": "https://static.timable.com/image_a956ad0a-de31-4f4d-a941-8fdcac3bc620-480x600.webp",
    "featured": false
   },
   {
