@@ -3,19 +3,19 @@
  "books": [
   {
    "rank": 1,
-   "title": "高雄，緊緊緊【博客來獨家邁邁手繪限量透卡】：2314天極限轉型",
-   "author": "陳其邁feat. 行政團隊口述,蘇芳禾,李珮綺,高哲暉",
-   "price": "NT$379",
-   "url": "https://www.books.com.tw/products/0011060441",
-   "image": "https://im2.book.com.tw/image/getImage?i=https://www.books.com.tw/img/001/106/04/0011060441.jpg&v=6a7e5efdk&w=150&h=150"
-  },
-  {
-   "rank": 2,
    "title": "攔截胰臟癌：破解癌王無聲警報，及早攔截沉默殺手",
    "author": "章明珠",
    "price": "NT$379",
    "url": "https://www.books.com.tw/products/0011058855",
    "image": "https://im2.book.com.tw/image/getImage?i=https://www.books.com.tw/img/001/105/88/0011058855.jpg&v=6a82becbk&w=150&h=150"
+  },
+  {
+   "rank": 2,
+   "title": "高雄，緊緊緊【博客來獨家邁邁手繪限量透卡】：2314天極限轉型",
+   "author": "陳其邁feat. 行政團隊口述,蘇芳禾,李珮綺,高哲暉",
+   "price": "NT$379",
+   "url": "https://www.books.com.tw/products/0011060441",
+   "image": "https://im2.book.com.tw/image/getImage?i=https://www.books.com.tw/img/001/106/04/0011060441.jpg&v=6a7e5efdk&w=150&h=150"
   },
   {
    "rank": 3,
@@ -75,11 +75,11 @@
   },
   {
    "rank": 10,
-   "title": "產業隊長張捷的30個思維練習：從故事裡，看見投資的底層邏輯",
-   "author": "張捷",
-   "price": "NT$300",
-   "url": "https://www.books.com.tw/products/0011059912",
-   "image": "https://im1.book.com.tw/image/getImage?i=https://www.books.com.tw/img/001/105/99/0011059912.jpg&v=6a7158c9k&w=150&h=150"
+   "title": "一直盈 股市必勝法：30年王牌分析師第一次系統化親授，8堂股市操作大法×42篇獨門祕訣×3階段進出場節奏，人人都可滿載而歸！",
+   "author": "鍾國忠",
+   "price": "NT$355",
+   "url": "https://www.books.com.tw/products/0011061916",
+   "image": "https://im1.book.com.tw/image/getImage?i=https://www.books.com.tw/img/001/106/19/0011061916.jpg&v=6a8d58bek&w=150&h=150"
   },
   {
    "rank": 11,
@@ -91,11 +91,11 @@
   },
   {
    "rank": 12,
-   "title": "一直盈 股市必勝法：30年王牌分析師第一次系統化親授，8堂股市操作大法×42篇獨門祕訣×3階段進出場節奏，人人都可滿載而歸！",
-   "author": "鍾國忠",
-   "price": "NT$355",
-   "url": "https://www.books.com.tw/products/0011061916",
-   "image": "https://im1.book.com.tw/image/getImage?i=https://www.books.com.tw/img/001/106/19/0011061916.jpg&v=6a8d58bek&w=150&h=150"
+   "title": "產業隊長張捷的30個思維練習：從故事裡，看見投資的底層邏輯",
+   "author": "張捷",
+   "price": "NT$300",
+   "url": "https://www.books.com.tw/products/0011059912",
+   "image": "https://im1.book.com.tw/image/getImage?i=https://www.books.com.tw/img/001/105/99/0011059912.jpg&v=6a7158c9k&w=150&h=150"
   },
   {
    "rank": 13,
@@ -115,14 +115,6 @@
   },
   {
    "rank": 15,
-   "title": "解憂雜貨店【50萬冊紀念愛藏版】：感動全球1,400 萬人的奇蹟之書，東野圭吾最令人感動落淚的作品！",
-   "author": "東野圭吾",
-   "price": "NT$276",
-   "url": "https://www.books.com.tw/products/0011055713",
-   "image": "https://im2.book.com.tw/image/getImage?i=https://www.books.com.tw/img/001/105/57/0011055713.jpg&v=6a8e64b2k&w=150&h=150"
-  },
-  {
-   "rank": 16,
    "title": "長期買進：財金教授周冠男的42堂自制力投資課",
    "author": "周冠男",
    "price": "NT$355",
@@ -130,7 +122,7 @@
    "image": "https://im1.book.com.tw/image/getImage?i=https://www.books.com.tw/img/001/099/60/0010996040.jpg&v=669a4059k&w=150&h=150"
   },
   {
-   "rank": 17,
+   "rank": 16,
    "title": "在世界地圖上找投資機會 ： AI時代邊旅行邊致富的全球投資筆記",
    "author": "詹惠珠",
    "price": "NT$276",
@@ -138,15 +130,15 @@
    "image": "https://im2.book.com.tw/image/getImage?i=https://www.books.com.tw/img/001/106/04/0011060431.jpg&v=6a7ad446k&w=150&h=150"
   },
   {
-   "rank": 18,
-   "title": "專屬訂製．鉤針花樣典藏集300：打造專屬鉤織作品的靈感圖庫",
-   "author": "日本VOGUE社",
-   "price": "NT$458",
-   "url": "https://www.books.com.tw/products/0011060036",
-   "image": "https://im1.book.com.tw/image/getImage?i=https://www.books.com.tw/img/001/106/00/0011060036.jpg&v=6a72ecd4k&w=150&h=150"
+   "rank": 17,
+   "title": "解憂雜貨店【50萬冊紀念愛藏版】：感動全球1,400 萬人的奇蹟之書，東野圭吾最令人感動落淚的作品！",
+   "author": "東野圭吾",
+   "price": "NT$276",
+   "url": "https://www.books.com.tw/products/0011055713",
+   "image": "https://im2.book.com.tw/image/getImage?i=https://www.books.com.tw/img/001/105/57/0011055713.jpg&v=6a8e64b2k&w=150&h=150"
   },
   {
-   "rank": 19,
+   "rank": 18,
    "title": "安達與島村 (13) 首刷特裝版",
    "author": "入間人間,のん",
    "price": "NT$300",
@@ -154,12 +146,20 @@
    "image": "https://im1.book.com.tw/image/getImage?i=https://www.books.com.tw/img/001/105/83/0011058338.jpg&v=6a5d82dek&w=150&h=150"
   },
   {
+   "rank": 19,
+   "title": "專屬訂製．鉤針花樣典藏集300：打造專屬鉤織作品的靈感圖庫",
+   "author": "日本VOGUE社",
+   "price": "NT$458",
+   "url": "https://www.books.com.tw/products/0011060036",
+   "image": "https://im1.book.com.tw/image/getImage?i=https://www.books.com.tw/img/001/106/00/0011060036.jpg&v=6a72ecd4k&w=150&h=150"
+  },
+  {
    "rank": 20,
-   "title": "大家的日本語 初級Ⅰ 改訂版",
-   "author": "スリーエーネットワーク",
-   "price": "NT$408",
-   "url": "https://www.books.com.tw/products/0010692529",
-   "image": "https://im2.book.com.tw/image/getImage?i=https://www.books.com.tw/img/001/069/25/0010692529.jpg&v=6113b4bck&w=150&h=150"
+   "title": "金剛經白話講座：放下的人生修行",
+   "author": "王思迅",
+   "price": "NT$474",
+   "url": "https://www.books.com.tw/products/0011027110",
+   "image": "https://im1.book.com.tw/image/getImage?i=https://www.books.com.tw/img/001/102/71/0011027110.jpg&v=68777fcdk&w=150&h=150"
   }
  ]
 }
