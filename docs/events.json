@@ -662,18 +662,6 @@
    "featured": false
   },
   {
-   "id": "aa57c744dcdf",
-   "title": "大坑舞火龍 2026",
-   "category": "休閒",
-   "start": "2026-09-24",
-   "end": "2026-09-26",
-   "venue": "大坑 浣紗街",
-   "url": "https://timable.com/zh/event/%E5%A4%A7%E5%9D%91%E8%88%9E%E7%81%AB%E9%BE%8D2026",
-   "source": "Timable",
-   "image": "https://static.timable.com/image_5c3a5c82-a83e-4ff7-baf9-8cb60101516c-480x480.webp",
-   "featured": false
-  },
-  {
    "id": "1a411ba9f93a",
    "title": "「最後的使者 渚薰展」@《EVANGELION》系列30th紀念",
    "category": "休閒",
@@ -1810,18 +1798,6 @@
    "featured": false
   },
   {
-   "id": "20eda7d45f2e",
-   "title": "清潔香港 人人都「德」！週末限定活動",
-   "category": "休閒",
-   "start": "2026-09-27",
-   "end": "2026-09-27",
-   "venue": "衞生教育展覽及資料中心",
-   "url": "https://timable.com/zh/event/%E6%B8%85%E6%BD%94%E9%A6%99%E6%B8%AF%E4%BA%BA%E4%BA%BA%E9%83%BD-%E5%BE%B7--%E9%80%B1%E6%9C%AB%E9%99%90%E5%AE%9A%E6%B4%BB%E5%8B%95",
-   "source": "Timable",
-   "image": "https://static.timable.com/image_935ade0f-81f9-4c05-9872-b553dd10a5c1-480x600.webp",
-   "featured": false
-  },
-  {
    "id": "41123cf98fd3",
    "title": "漢樂軒情繫知音",
    "category": "表演藝術",
@@ -2251,6 +2227,18 @@
    "url": "https://www.hkrep.com/tc/Season-Programme/Main-Stage-Productions/Modern-Wuxia-To-Turn-To-Be.html",
    "source": "康文署",
    "image": "",
+   "featured": false
+  },
+  {
+   "id": "d9c06136ba15",
+   "title": "\"i-dle LYNKPOP : THE VR CONCERT THE ENCOUNTER\" 沉浸式VR體驗展 香港站",
+   "category": "休閒",
+   "start": "2026-10-01",
+   "end": "2027-01-03",
+   "venue": "The ONE",
+   "url": "https://timable.com/zh/event/i-dleLYNKPOP-THEVRCONCERTTHEENCOUNTER%E6%B2%89%E6%B5%B8%E5%BC%8FVR%E9%AB%94%E9%A9%97%E5%B1%95%E9%A6%99%E6%B8%AF%E7%AB%99",
+   "source": "Timable",
+   "image": "https://static.timable.com/image_3c547817-c597-4975-ac38-fe43e51be987-480x600.webp",
    "featured": false
   },
   {
