@@ -578,18 +578,6 @@
    "featured": false
   },
   {
-   "id": "895a1d13cb8d",
-   "title": "\"Moonlight Dreamers\" Lake House x FF FAM 中秋打卡裝置",
-   "category": "休閒",
-   "start": "2026-09-18",
-   "end": "2026-09-27",
-   "venue": "Lake House",
-   "url": "https://timable.com/zh/event/MoonlightDreamers-LakeHousexFFFAM%E4%B8%AD%E7%A7%8B%E6%89%93%E5%8D%A1%E8%A3%9D%E7%BD%AE",
-   "source": "Timable",
-   "image": "https://static.timable.com/image_e2fec0ef-b9bc-409d-b052-2ca71bf17418-480x715.webp",
-   "featured": false
-  },
-  {
    "id": "d7b6c284c4b6",
    "title": "WestK Picnic Fest 西九野餐節",
    "category": "休閒",
@@ -686,18 +674,6 @@
    "featured": false
   },
   {
-   "id": "f28ab017bef2",
-   "title": "back number \"Grateful Yesterdays\" 亞洲巡迴演唱會 2026 香港站",
-   "category": "演唱會",
-   "start": "2026-09-26",
-   "end": "2026-09-27",
-   "venue": "亞洲國際博覽館 10號館",
-   "url": "https://timable.com/zh/event/backnumber-GratefulYesterdays-%E4%BA%9E%E6%B4%B2%E5%B7%A1%E8%BF%B4%E6%BC%94%E5%94%B1%E6%9C%832026%E9%A6%99%E6%B8%AF%E7%AB%99",
-   "source": "Timable",
-   "image": "https://static.timable.com/image_a097fb02-4f17-4a82-9da3-7bc8ae48b5c0-466x466.webp",
-   "featured": false
-  },
-  {
    "id": "a1ccb3eeebd6",
    "title": "《宋韻揚波 洪逸飛揚 折子戲專場》",
    "category": "表演藝術",
@@ -707,6 +683,18 @@
    "url": "https://www.lcsd.gov.hk/tc/ticket/index.html",
    "source": "康文署",
    "image": "",
+   "featured": false
+  },
+  {
+   "id": "cc3dff34b74b",
+   "title": "「超記憶」展覽",
+   "category": "展覽",
+   "start": "2026-09-26",
+   "end": "2026-10-01",
+   "venue": "不二藝術空間 閣樓",
+   "url": "https://timable.com/zh/event/%E8%B6%85%E8%A8%98%E6%86%B6-%E5%B1%95%E8%A6%BD",
+   "source": "Timable",
+   "image": "https://static.timable.com/image_a4ad9558-edaf-4384-9017-da0c31c86bd3-480x640.webp",
    "featured": false
   },
   {
@@ -1763,18 +1751,6 @@
    "url": "https://www.lcsd.gov.hk/clpss/tc/search/culture/DetailForm.do?id=185935",
    "source": "康文署",
    "image": "",
-   "featured": false
-  },
-  {
-   "id": "c6d405b0adb5",
-   "title": "「最緊要 6ix 玩」東薈城名店倉CLUB CG 六周年慶典",
-   "category": "休閒",
-   "start": "2026-09-28",
-   "end": "2026-10-25",
-   "venue": "東薈城名店倉",
-   "url": "https://timable.com/zh/event/%E3%80%8C%E6%9C%80%E7%B7%8A%E8%A6%81%206ix%20%E7%8E%A9%E3%80%8D%E6%9D%B1%E8%96%88%E5%9F%8E%E5%90%8D%E5%BA%97%E5%80%89CLUB%20CG%20%E5%85%AD%E5%91%A8%E5%B9%B4%E6%85%B6%E5%85%B8",
-   "source": "Timable",
-   "image": "https://static.timable.com/image_ee2cf298-2dc0-410a-a56a-af333215d28b-480x270.webp",
    "featured": false
   },
   {
