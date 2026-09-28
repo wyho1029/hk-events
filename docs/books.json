@@ -59,19 +59,19 @@
   },
   {
    "rank": 8,
-   "title": "Rewire-神經可塑性：用神經科學突破行為模式迴圈，終結焦慮、恐慌和憂鬱，實現最佳的心理健康",
-   "author": "妮可．維諾拉",
-   "price": "NT$331",
-   "url": "https://www.books.com.tw/products/0010990062",
-   "image": "https://im1.book.com.tw/image/getImage?i=https://www.books.com.tw/img/001/099/00/0010990062.jpg&v=664ec6fck&w=150&h=150"
-  },
-  {
-   "rank": 9,
    "title": "我是如此幸運",
    "author": "克里斯欽．華森",
    "price": "NT$355",
    "url": "https://www.books.com.tw/products/0011061173",
    "image": "https://im2.book.com.tw/image/getImage?i=https://www.books.com.tw/img/001/106/11/0011061173.jpg&v=6a841407k&w=150&h=150"
+  },
+  {
+   "rank": 9,
+   "title": "Rewire-神經可塑性：用神經科學突破行為模式迴圈，終結焦慮、恐慌和憂鬱，實現最佳的心理健康",
+   "author": "妮可．維諾拉",
+   "price": "NT$331",
+   "url": "https://www.books.com.tw/products/0010990062",
+   "image": "https://im1.book.com.tw/image/getImage?i=https://www.books.com.tw/img/001/099/00/0010990062.jpg&v=664ec6fck&w=150&h=150"
   },
   {
    "rank": 10,
@@ -107,22 +107,6 @@
   },
   {
    "rank": 14,
-   "title": "致富心態（全球暢銷千萬增訂版）：關於財富、貪婪與幸福的20堂理財課",
-   "author": "摩根．豪瑟",
-   "price": "NT$379",
-   "url": "https://www.books.com.tw/products/0011043967",
-   "image": "https://im2.book.com.tw/image/getImage?i=https://www.books.com.tw/img/001/104/39/0011043967.jpg&v=696f6989k&w=150&h=150"
-  },
-  {
-   "rank": 15,
-   "title": "在世界地圖上找投資機會 ： AI時代邊旅行邊致富的全球投資筆記",
-   "author": "詹惠珠",
-   "price": "NT$276",
-   "url": "https://www.books.com.tw/products/0011060431",
-   "image": "https://im2.book.com.tw/image/getImage?i=https://www.books.com.tw/img/001/106/04/0011060431.jpg&v=6a7ad446k&w=150&h=150"
-  },
-  {
-   "rank": 16,
    "title": "安達與島村 (13) 首刷特裝版",
    "author": "入間人間,のん",
    "price": "NT$300",
@@ -130,20 +114,36 @@
    "image": "https://im1.book.com.tw/image/getImage?i=https://www.books.com.tw/img/001/105/83/0011058338.jpg&v=6a5d82dek&w=150&h=150"
   },
   {
-   "rank": 17,
-   "title": "解憂雜貨店【50萬冊紀念愛藏版】：感動全球1,400 萬人的奇蹟之書，東野圭吾最令人感動落淚的作品！",
-   "author": "東野圭吾",
+   "rank": 15,
+   "title": "致富心態（全球暢銷千萬增訂版）：關於財富、貪婪與幸福的20堂理財課",
+   "author": "摩根．豪瑟",
+   "price": "NT$379",
+   "url": "https://www.books.com.tw/products/0011043967",
+   "image": "https://im2.book.com.tw/image/getImage?i=https://www.books.com.tw/img/001/104/39/0011043967.jpg&v=696f6989k&w=150&h=150"
+  },
+  {
+   "rank": 16,
+   "title": "在世界地圖上找投資機會 ： AI時代邊旅行邊致富的全球投資筆記",
+   "author": "詹惠珠",
    "price": "NT$276",
-   "url": "https://www.books.com.tw/products/0011055713",
-   "image": "https://im2.book.com.tw/image/getImage?i=https://www.books.com.tw/img/001/105/57/0011055713.jpg&v=6a8e64b2k&w=150&h=150"
+   "url": "https://www.books.com.tw/products/0011060431",
+   "image": "https://im2.book.com.tw/image/getImage?i=https://www.books.com.tw/img/001/106/04/0011060431.jpg&v=6a7ad446k&w=150&h=150"
+  },
+  {
+   "rank": 17,
+   "title": "投資10年就退休：給台灣人的退休現金流全指南──用對提領策略，讓你少工作好幾年！",
+   "author": "陳逸朴（小資YP）",
+   "price": "NT$379",
+   "url": "https://www.books.com.tw/products/0011063198",
+   "image": "https://im1.book.com.tw/image/getImage?i=https://www.books.com.tw/img/001/106/31/0011063198.jpg&v=6ab382f5k&w=150&h=150"
   },
   {
    "rank": 18,
-   "title": "大家的日本語 初級Ⅰ 改訂版",
-   "author": "スリーエーネットワーク",
-   "price": "NT$408",
-   "url": "https://www.books.com.tw/products/0010692529",
-   "image": "https://im2.book.com.tw/image/getImage?i=https://www.books.com.tw/img/001/069/25/0010692529.jpg&v=6113b4bck&w=150&h=150"
+   "title": "平民股神蘇松泙4：不蝕本投資漲停股長勝戰法",
+   "author": "蘇松泙,陳淑泰",
+   "price": "NT$300",
+   "url": "https://www.books.com.tw/products/0011062878",
+   "image": "https://im1.book.com.tw/image/getImage?i=https://www.books.com.tw/img/001/106/28/0011062878.jpg&v=6aa8e033k&w=150&h=150"
   },
   {
    "rank": 19,
@@ -155,11 +155,11 @@
   },
   {
    "rank": 20,
-   "title": "平民股神蘇松泙4：不蝕本投資漲停股長勝戰法",
-   "author": "蘇松泙,陳淑泰",
-   "price": "NT$300",
-   "url": "https://www.books.com.tw/products/0011062878",
-   "image": "https://im1.book.com.tw/image/getImage?i=https://www.books.com.tw/img/001/106/28/0011062878.jpg&v=6aa8e033k&w=150&h=150"
+   "title": "大家的日本語 初級Ⅰ 改訂版",
+   "author": "スリーエーネットワーク",
+   "price": "NT$408",
+   "url": "https://www.books.com.tw/products/0010692529",
+   "image": "https://im2.book.com.tw/image/getImage?i=https://www.books.com.tw/img/001/069/25/0010692529.jpg&v=6113b4bck&w=150&h=150"
   }
  ]
 }
