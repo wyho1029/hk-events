@@ -6226,18 +6226,6 @@
    "featured": false
   },
   {
-   "id": "2c8d5afe8454",
-   "title": "香港街舞公開賽2026",
-   "category": "休閒",
-   "start": "2026-11-21",
-   "end": "2026-11-22",
-   "venue": "香港兆基創意書院 多媒體劇場",
-   "url": "https://timable.com/zh/event/Battler%E6%AF%94%E8%B3%BD%E5%A0%B1%E5%90%8D-%E9%A6%99%E6%B8%AF%E8%A1%97%E8%88%9E%E5%85%AC%E9%96%8B%E8%B3%BD2026--%E6%97%A9%E9%B3%A5%E5%84%AA%E6%83%A0",
-   "source": "Timable",
-   "image": "https://static.timable.com/image_12683890-cf90-4fc9-b5d9-96c5bcea82c8-480x640.webp",
-   "featured": false
-  },
-  {
    "id": "c5db0e1c2549",
    "title": "2026 樂．誼國際音樂節 – 合家歡音樂會《中西樂器大比拼》",
    "category": "表演藝術",
@@ -6535,6 +6523,18 @@
    "url": "https://www.lcsd.gov.hk/CE/CulturalService/Programme/tc/music/programs_1949.html",
    "source": "康文署",
    "image": "",
+   "featured": false
+  },
+  {
+   "id": "84a5c0e73a71",
+   "title": "溫室雜草《MixCheck》專輯發片場 香港站",
+   "category": "休閒",
+   "start": "2026-12-11",
+   "end": "2026-12-11",
+   "venue": "PORTAL",
+   "url": "https://timable.com/zh/event/%E6%BA%AB%E5%AE%A4%E9%9B%9C%E8%8D%89-MixCheck-%E5%B0%88%E8%BC%AF%E7%99%BC%E7%89%87%E5%A0%B4%E9%A6%99%E6%B8%AF%E7%AB%99%E6%BC%94%E5%94%B1%E6%9C%83",
+   "source": "Timable",
+   "image": "https://static.timable.com/image_1dbfc4da-7d9d-4456-9df8-be8d851f0904-480x480.webp",
    "featured": false
   },
   {
