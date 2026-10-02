@@ -27,6 +27,14 @@
   },
   {
    "rank": 4,
+   "title": "少年綠皮書─我們的島嶼旅行",
+   "author": "劉克襄",
+   "price": "NT$158",
+   "url": "https://www.books.com.tw/products/0010226718",
+   "image": "https://im1.book.com.tw/image/getImage?i=https://www.books.com.tw/img/001/022/67/0010226718.jpg&v=4d55110dk&w=150&h=150"
+  },
+  {
+   "rank": 5,
    "title": "隨他們去：全球熱銷突破1000萬冊現象級巨作！改變千萬人命運的心理技巧【博客來獨家版．附內在覺醒影響力躍昇卡】",
    "author": "梅爾．羅賓斯",
    "price": "NT$355",
@@ -34,7 +42,7 @@
    "image": "https://im1.book.com.tw/image/getImage?i=https://www.books.com.tw/img/001/105/53/0011055312.jpg&v=6a3b438ek&w=150&h=150"
   },
   {
-   "rank": 5,
+   "rank": 6,
    "title": "花錢的藝術：打造富足人生的金錢心理學【博客來獨家附贈財富透析．互動金句透卡】",
    "author": "摩根．豪瑟",
    "price": "NT$379",
@@ -42,7 +50,7 @@
    "image": "https://im2.book.com.tw/image/getImage?i=https://www.books.com.tw/img/001/105/75/0011057581.jpg&v=6a5605d9k&w=150&h=150"
   },
   {
-   "rank": 6,
+   "rank": 7,
    "title": "臺灣漫遊錄",
    "author": "楊双子",
    "price": "NT$300",
@@ -50,20 +58,12 @@
    "image": "https://im2.book.com.tw/image/getImage?i=https://www.books.com.tw/img/001/085/23/0010852315.jpg&v=674451dfk&w=150&h=150"
   },
   {
-   "rank": 7,
+   "rank": 8,
    "title": "昨年（昨年映像經典版）：讓安‧海瑟薇一口氣讀到天黑的小說！年度話題神作，席捲歐美文壇！",
    "author": "卡蘿．克萊兒．柏克",
    "price": "NT$410",
    "url": "https://www.books.com.tw/products/0011061243",
    "image": "https://im2.book.com.tw/image/getImage?i=https://www.books.com.tw/img/001/106/12/0011061243.jpg&v=6a8425b1k&w=150&h=150"
-  },
-  {
-   "rank": 8,
-   "title": "少年綠皮書─我們的島嶼旅行",
-   "author": "劉克襄",
-   "price": "NT$158",
-   "url": "https://www.books.com.tw/products/0010226718",
-   "image": "https://im1.book.com.tw/image/getImage?i=https://www.books.com.tw/img/001/022/67/0010226718.jpg&v=4d55110dk&w=150&h=150"
   },
   {
    "rank": 9,
@@ -83,19 +83,19 @@
   },
   {
    "rank": 11,
-   "title": "Rewire-神經可塑性：用神經科學突破行為模式迴圈，終結焦慮、恐慌和憂鬱，實現最佳的心理健康",
-   "author": "妮可．維諾拉",
-   "price": "NT$331",
-   "url": "https://www.books.com.tw/products/0010990062",
-   "image": "https://im1.book.com.tw/image/getImage?i=https://www.books.com.tw/img/001/099/00/0010990062.jpg&v=664ec6fck&w=150&h=150"
-  },
-  {
-   "rank": 12,
    "title": "一直盈 股市必勝法：30年王牌分析師第一次系統化親授，8堂股市操作大法×42篇獨門祕訣×3階段進出場節奏，人人都可滿載而歸！",
    "author": "鍾國忠",
    "price": "NT$355",
    "url": "https://www.books.com.tw/products/0011061916",
    "image": "https://im1.book.com.tw/image/getImage?i=https://www.books.com.tw/img/001/106/19/0011061916.jpg&v=6a8d58bek&w=150&h=150"
+  },
+  {
+   "rank": 12,
+   "title": "Rewire-神經可塑性：用神經科學突破行為模式迴圈，終結焦慮、恐慌和憂鬱，實現最佳的心理健康",
+   "author": "妮可．維諾拉",
+   "price": "NT$331",
+   "url": "https://www.books.com.tw/products/0010990062",
+   "image": "https://im1.book.com.tw/image/getImage?i=https://www.books.com.tw/img/001/099/00/0010990062.jpg&v=664ec6fck&w=150&h=150"
   },
   {
    "rank": 13,
@@ -107,14 +107,6 @@
   },
   {
    "rank": 14,
-   "title": "我的黑道姑姑：教我的99件事",
-   "author": "黃山料",
-   "price": "NT$331",
-   "url": "https://www.books.com.tw/products/0011051787",
-   "image": "https://im2.book.com.tw/image/getImage?i=https://www.books.com.tw/img/001/105/17/0011051787.jpg&v=69f900fbk&w=150&h=150"
-  },
-  {
-   "rank": 15,
    "title": "投資10年就退休：給台灣人的退休現金流全指南──用對提領策略，讓你少工作好幾年！",
    "author": "陳逸朴（小資YP）",
    "price": "NT$379",
@@ -122,20 +114,28 @@
    "image": "https://im1.book.com.tw/image/getImage?i=https://www.books.com.tw/img/001/106/31/0011063198.jpg&v=6ab382f5k&w=150&h=150"
   },
   {
-   "rank": 16,
-   "title": "在世界地圖上找投資機會 ： AI時代邊旅行邊致富的全球投資筆記",
-   "author": "詹惠珠",
-   "price": "NT$276",
-   "url": "https://www.books.com.tw/products/0011060431",
-   "image": "https://im2.book.com.tw/image/getImage?i=https://www.books.com.tw/img/001/106/04/0011060431.jpg&v=6a7ad446k&w=150&h=150"
+   "rank": 15,
+   "title": "我的黑道姑姑：教我的99件事",
+   "author": "黃山料",
+   "price": "NT$331",
+   "url": "https://www.books.com.tw/products/0011051787",
+   "image": "https://im2.book.com.tw/image/getImage?i=https://www.books.com.tw/img/001/105/17/0011051787.jpg&v=69f900fbk&w=150&h=150"
   },
   {
-   "rank": 17,
+   "rank": 16,
    "title": "安達與島村 (13) 首刷特裝版",
    "author": "入間人間,のん",
    "price": "NT$342",
    "url": "https://www.books.com.tw/products/0011058338",
    "image": "https://im1.book.com.tw/image/getImage?i=https://www.books.com.tw/img/001/105/83/0011058338.jpg&v=6a5d82dek&w=150&h=150"
+  },
+  {
+   "rank": 17,
+   "title": "平民股神蘇松泙4：不蝕本投資漲停股長勝戰法",
+   "author": "蘇松泙,陳淑泰",
+   "price": "NT$300",
+   "url": "https://www.books.com.tw/products/0011062878",
+   "image": "https://im1.book.com.tw/image/getImage?i=https://www.books.com.tw/img/001/106/28/0011062878.jpg&v=6aa8e033k&w=150&h=150"
   },
   {
    "rank": 18,
@@ -147,19 +147,19 @@
   },
   {
    "rank": 19,
-   "title": "平民股神蘇松泙4：不蝕本投資漲停股長勝戰法",
-   "author": "蘇松泙,陳淑泰",
-   "price": "NT$300",
-   "url": "https://www.books.com.tw/products/0011062878",
-   "image": "https://im1.book.com.tw/image/getImage?i=https://www.books.com.tw/img/001/106/28/0011062878.jpg&v=6aa8e033k&w=150&h=150"
-  },
-  {
-   "rank": 20,
    "title": "致富心態（全球暢銷千萬增訂版）：關於財富、貪婪與幸福的20堂理財課",
    "author": "摩根．豪瑟",
    "price": "NT$379",
    "url": "https://www.books.com.tw/products/0011043967",
    "image": "https://im2.book.com.tw/image/getImage?i=https://www.books.com.tw/img/001/104/39/0011043967.jpg&v=696f6989k&w=150&h=150"
+  },
+  {
+   "rank": 20,
+   "title": "馬斯克寶典：從顛覆矽谷到打造太空帝國，讀懂全球首富20年極限思維【繁中版限定收錄：給讀者的手寫寄語印簽",
+   "author": "艾瑞克．喬根森（Eric Jorgenson）",
+   "price": "NT$410",
+   "url": "https://www.books.com.tw/products/0011054455",
+   "image": "https://im2.book.com.tw/image/getImage?i=https://www.books.com.tw/img/001/105/44/0011054455.jpg&v=6a4e05d5k&w=150&h=150"
   }
  ]
 }
