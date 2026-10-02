@@ -1702,18 +1702,6 @@
    "featured": false
   },
   {
-   "id": "4dd3f5d8821d",
-   "title": "楊冰《樂園》個展",
-   "category": "展覽",
-   "start": "2026-10-03",
-   "end": "2026-12-15",
-   "venue": "維多利亞畫廊",
-   "url": "https://timable.com/zh/event/%E6%A5%8A%E5%86%B0-%E6%A8%82%E5%9C%92-%E5%80%8B%E5%B1%95",
-   "source": "Timable",
-   "image": "https://static.timable.com/image_383438e1-38be-4766-86eb-19dab5ed8614-300x424.webp",
-   "featured": false
-  },
-  {
    "id": "1a37e273874b",
    "title": "流行金曲欣賞會",
    "category": "表演藝術",
@@ -2251,6 +2239,18 @@
    "url": "https://www.cpo.gov.hk/zh-hk/event/tc-sd-2627/",
    "source": "康文署",
    "image": "",
+   "featured": false
+  },
+  {
+   "id": "1a0975b46b40",
+   "title": "Aden Chak \"CAN’T BREAK ME DOWN LIVE 2026\" 演唱會",
+   "category": "演唱會",
+   "start": "2026-10-07",
+   "end": "2026-10-07",
+   "venue": "啟德體育園運動健康中心4樓WC-401號舖",
+   "url": "https://timable.com/zh/event/AdenChak-CAN-TBREAKMEDOWNLIVE2026-%E6%BC%94%E5%94%B1%E6%9C%83",
+   "source": "Timable",
+   "image": "https://static.timable.com/image_b944555e-88a4-4cd7-af49-c99107161b8e-480x600.webp",
    "featured": false
   },
   {
