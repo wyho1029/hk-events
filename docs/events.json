@@ -1866,18 +1866,6 @@
    "featured": false
   },
   {
-   "id": "fad314f7a5ac",
-   "title": "Shall We Talk 陪我講「心靈補給站」快閃活動＠馬鞍山新港城中心",
-   "category": "休閒",
-   "start": "2026-10-09",
-   "end": "2026-10-11",
-   "venue": "新港城中心 L2 天幕廣場",
-   "url": "https://timable.com/zh/event/ShallWeTalk%E9%99%AA%E6%88%91%E8%AC%9B-%E5%BF%83%E9%9D%88%E8%A3%9C%E7%B5%A6%E7%AB%99-%E5%BF%AB%E9%96%83%E6%B4%BB%E5%8B%95-%E9%A6%AC%E9%9E%8D%E5%B1%B1%E6%96%B0%E6%B8%AF%E5%9F%8E%E4%B8%AD%E5%BF%83",
-   "source": "Timable",
-   "image": "https://static.timable.com/image_c6ca736d-cbd6-410c-aa6c-3f8516110056-480x320.webp",
-   "featured": false
-  },
-  {
    "id": "61f1f40d1bb9",
    "title": "「墨舞凝香」書畫展2026",
    "category": "展覽",
@@ -2034,6 +2022,18 @@
    "featured": false
   },
   {
+   "id": "bddaa02f6dbb",
+   "title": "《Toys Assemble 玩具集結》@黃埔天地",
+   "category": "休閒",
+   "start": "2026-10-10",
+   "end": "2026-11-01",
+   "venue": "黃埔天地 時尚坊",
+   "url": "https://timable.com/zh/event/%E9%BB%83%E5%9F%94%E5%A4%A9%E5%9C%B0-ToysAssemble%E7%8E%A9%E5%85%B7%E9%9B%86%E7%B5%90-",
+   "source": "Timable",
+   "image": "https://static.timable.com/image_196a1e30-e5a3-4b09-a4af-30bdebf08b95-480x720.webp",
+   "featured": false
+  },
+  {
    "id": "c0e0dca3532e",
    "title": "《咒術迴戰》音樂會",
    "category": "表演藝術",
@@ -2103,18 +2103,6 @@
    "url": "https://www.lcsd.gov.hk/clpss/tc/search/culture/DetailForm.do?id=188333",
    "source": "康文署",
    "image": "",
-   "featured": false
-  },
-  {
-   "id": "c7eb9f4bcd3b",
-   "title": "夜間黑膠市集 @Contrast咖啡店",
-   "category": "市集",
-   "start": "2026-10-10",
-   "end": "2026-10-11",
-   "venue": "CONTRAST",
-   "url": "https://timable.com/zh/event/%E5%A4%9C%E9%96%93%E9%BB%91%E8%86%A0%E5%B8%82%E9%9B%86-Contrast%E5%92%96%E5%95%A1%E5%BA%97",
-   "source": "Timable",
-   "image": "https://static.timable.com/image_20a4ce2c-b946-4d61-aa13-dfca7bec2a57-480x480.webp",
    "featured": false
   },
   {
@@ -3390,6 +3378,18 @@
    "featured": false
   },
   {
+   "id": "d03022794d6e",
+   "title": "《企鵝波波の軟綿綿大擁抱》嘉年華市集 @啟德AIRSIDE",
+   "category": "市集",
+   "start": "2026-10-16",
+   "end": "2026-10-19",
+   "venue": "AIRSIDE",
+   "url": "https://timable.com/zh/event/%E4%BC%81%E9%B5%9D%E6%B3%A2%E6%B3%A2-%E8%BB%9F%E7%B6%BF%E7%B6%BF%E5%A4%A7%E6%93%81%E6%8A%B1-%E5%98%89%E5%B9%B4%E8%8F%AF%E5%B8%82%E9%9B%86-%E5%95%9F%E5%BE%B7AIRSIDE",
+   "source": "Timable",
+   "image": "https://static.timable.com/image_2a086d37-6aee-4c26-91df-dcab2a00951d-480x600.webp",
+   "featured": false
+  },
+  {
    "id": "52d6a2030c82",
    "title": "《名曲粵韻獻知音》粵劇折子戲",
    "category": "表演藝術",
@@ -3591,6 +3591,18 @@
    "url": "https://www.lcsd.gov.hk/clpss/tc/search/culture/DetailForm.do?id=187099",
    "source": "康文署",
    "image": "",
+   "featured": false
+  },
+  {
+   "id": "0059c47eb333",
+   "title": "香港摩登別墅1930 - 1980年代 展覽@Halfway Gallery",
+   "category": "展覽",
+   "start": "2026-10-16",
+   "end": "2026-10-25",
+   "venue": "上環",
+   "url": "https://timable.com/zh/event/%E9%A6%99%E6%B8%AF%E6%91%A9%E7%99%BB%E5%88%A5%E5%A2%851930-1980%E5%B9%B4%E4%BB%A3%E5%B1%95%E8%A6%BD-HalfwayGallery",
+   "source": "Timable",
+   "image": "https://static.timable.com/image_7545ec2e-1fc2-4434-9f74-cc2a7e8c9c12-480x640.webp",
    "featured": false
   },
   {
@@ -3855,6 +3867,18 @@
    "url": "https://zh.ccohk.com/events/2026-2027/the-bonn-man",
    "source": "康文署",
    "image": "",
+   "featured": false
+  },
+  {
+   "id": "8182232b9c77",
+   "title": "萬聖狂歡祭．中環",
+   "category": "休閒",
+   "start": "2026-10-17",
+   "end": "2026-11-01",
+   "venue": "皇后像廣場",
+   "url": "https://timable.com/zh/event/%E8%90%AC%E8%81%96%E7%8B%82%E6%AD%A1%E7%A5%AD-%E4%B8%AD%E7%92%B0",
+   "source": "Timable",
+   "image": "https://static.timable.com/image_763e5db1-a2c7-4639-b639-a8657e428a33-480x270.webp",
    "featured": false
   },
   {
@@ -4563,6 +4587,18 @@
    "url": "https://www.lcsd.gov.hk/clpss/tc/search/culture/DetailForm.do?id=187062",
    "source": "康文署",
    "image": "",
+   "featured": false
+  },
+  {
+   "id": "58d82cbee607",
+   "title": "陳嘉慧 x 朱杏桃 x 許穎彤 x 關芷欣 x 葉曉雯「Pause It 暫停練習場」展覽@賽馬會創意藝術中心",
+   "category": "體育",
+   "start": "2026-10-22",
+   "end": "2026-10-27",
+   "venue": "賽馬會創意藝術中心",
+   "url": "https://timable.com/zh/event/PauseIt%E6%9A%AB%E5%81%9C%E7%B7%B4%E7%BF%92%E5%A0%B4-%E5%B1%95%E8%A6%BD",
+   "source": "Timable",
+   "image": "https://static.timable.com/image_523a83d3-3176-45c7-a24f-25367395a900-480x640.webp",
    "featured": false
   },
   {
@@ -6471,18 +6507,6 @@
    "url": "https://www.lcsd.gov.hk/clpss/tc/search/culture/DetailForm.do?id=188330",
    "source": "康文署",
    "image": "",
-   "featured": false
-  },
-  {
-   "id": "734fb88da6ed",
-   "title": "「百寵夜行 Meowloween」喵星祭典@大埔超級城",
-   "category": "休閒",
-   "start": "2026-10-31",
-   "end": "2026-10-31",
-   "venue": "大埔超級城",
-   "url": "https://timable.com/zh/event/%E5%A4%A7%E5%9F%94%E8%B6%85%E7%B4%9A%E5%9F%8E-%E7%99%BE%E5%AF%B5%E5%A4%9C%E8%A1%8CMeowloween-%E5%96%B5%E6%98%9F%E7%A5%AD%E5%85%B8",
-   "source": "Timable",
-   "image": "https://static.timable.com/image_a6e675ab-7cd2-4208-b5ca-e7f93afbd672-480x679.webp",
    "featured": false
   },
   {
@@ -10206,6 +10230,18 @@
    "featured": false
   },
   {
+   "id": "c8527b37dcc3",
+   "title": "屯門公眾騎術學校開放日 2026",
+   "category": "休閒",
+   "start": "2026-11-15",
+   "end": "2026-11-15",
+   "venue": "屯門公眾騎術學校",
+   "url": "https://timable.com/zh/event/%E5%B1%AF%E9%96%80%E5%85%AC%E7%9C%BE%E9%A8%8E%E8%A1%93%E5%AD%B8%E6%A0%A1%E9%96%8B%E6%94%BE%E6%97%A52026",
+   "source": "Timable",
+   "image": "https://static.timable.com/image_6d6e9921-44af-4c7a-99a4-205c8fa93d3f-480x600.webp",
+   "featured": false
+  },
+  {
    "id": "2a386ce61045",
    "title": "我們的承傳與創新 粵劇《情醉王大儒》",
    "category": "表演藝術",
@@ -11694,18 +11730,6 @@
    "featured": false
   },
   {
-   "id": "a36c5bc8f549",
-   "title": "尹光 x 陳美齡 x 余安安 x 夏韶聲 x 黎瑞恩 x 農夫 x JW 王灝兒《黎彼得 杯酒當歌致敬音樂會》",
-   "category": "表演藝術",
-   "start": "2026-12-05",
-   "end": "2026-12-06",
-   "venue": "香港演藝學院 歌劇院",
-   "url": "https://timable.com/zh/event/%E5%B0%B9%E5%85%89x%E9%99%B3%E7%BE%8E%E9%BD%A1x%E4%BD%99%E5%AE%89%E5%AE%89x%E5%A4%8F%E9%9F%B6%E8%81%B2x%E9%BB%8E%E7%91%9E%E6%81%A9x%E8%BE%B2%E5%A4%ABxJW%E7%8E%8B%E7%81%9D%E5%85%92-%E9%BB%8E%E5%BD%BC%E5%BE%97%E6%9D%AF%E9%85%92%E7%95%B6%E6%AD%8C%E8%87%B4%E6%95%AC%E9%9F%B3%E6%A8%82%E6%9C%83-",
-   "source": "Timable",
-   "image": "https://static.timable.com/image_6490240f-e6de-432e-b640-8e5ceb4b1204-480x600.webp",
-   "featured": false
-  },
-  {
    "id": "b43bae10a664",
    "title": "第七十八屆香港學校朗誦節 (2026)",
    "category": "表演藝術",
@@ -11751,18 +11775,6 @@
    "url": "https://www.lcsd.gov.hk/tc/ticket/index.html",
    "source": "康文署",
    "image": "",
-   "featured": false
-  },
-  {
-   "id": "43d64197892e",
-   "title": "MIRROR \"12AS1\" 演唱會 2026 香港站",
-   "category": "演唱會",
-   "start": "2026-12-11",
-   "end": "2026-12-20",
-   "venue": "亞洲國際博覽館 ARENA",
-   "url": "https://timable.com/zh/event/MIRROR%E9%A6%99%E6%B8%AF%E6%BC%94%E5%94%B1%E6%9C%832026",
-   "source": "Timable",
-   "image": "https://static.timable.com/image_7f5e3e1f-9b22-4009-b500-41fda484fd52-480x600.webp",
    "featured": false
   },
   {
@@ -11847,18 +11859,6 @@
    "url": "https://www.lcsd.gov.hk/CE/CulturalService/Programme/en/dance/programs_2011.html",
    "source": "康文署",
    "image": "",
-   "featured": false
-  },
-  {
-   "id": "30b2c1978091",
-   "title": "陳婉榆「JAZZ X COMEDY焦頭爛額年終派對」 音樂棟篤笑演出",
-   "category": "休閒",
-   "start": "2026-12-19",
-   "end": "2026-12-19",
-   "venue": "新蒲崗區",
-   "url": "https://timable.com/zh/event/%E9%99%B3%E5%A9%89%E6%A6%86-JAZZXCOMEDY-%E7%84%A6%E9%A0%AD%E7%88%9B%E9%A1%8D%E5%B9%B4%E7%B5%82%E6%B4%BE%E5%B0%8D%E9%9F%B3%E6%A8%82%E6%A3%9F%E7%AF%A4%E7%AC%91%E6%BC%94%E5%87%BA",
-   "source": "Timable",
-   "image": "https://static.timable.com/image_7e7ae412-ef2d-4c1e-a57a-87f297460388-480x600.webp",
    "featured": false
   },
   {
@@ -12066,6 +12066,18 @@
    "featured": false
   },
   {
+   "id": "2210c21eff12",
+   "title": "容祖兒 \"Aura\" 巡迴演唱會 2027 香港站 @啟德主場館",
+   "category": "演唱會",
+   "start": "2027-01-22",
+   "end": "2027-01-23",
+   "venue": "啟德體育園 主場館",
+   "url": "https://timable.com/zh/event/%E5%AE%B9%E7%A5%96%E5%85%92%E5%B7%A1%E8%BF%B4%E6%BC%94%E5%94%B1%E6%9C%83%202026%20%E9%A6%99%E6%B8%AF%E7%AB%99%20%40%E5%95%9F%E5%BE%B7%E4%B8%BB%E5%A0%B4%E9%A4%A8",
+   "source": "Timable",
+   "image": "https://static.timable.com/image_3cde14f2-c94c-496c-8db3-4cd13ddbb0ee-480x600.webp",
+   "featured": false
+  },
+  {
    "id": "bb019cccc1c5",
    "title": "Pokémon RUN 30 香港",
    "category": "休閒",
@@ -12111,18 +12123,6 @@
    "url": "https://www.lcsd.gov.hk/tc/ticket/index.html",
    "source": "康文署",
    "image": "",
-   "featured": false
-  },
-  {
-   "id": "95d33161f7ae",
-   "title": "Jason Cheny \"Compound Interest Tour\" 棟篤笑巡演 2027 香港站",
-   "category": "休閒",
-   "start": "2027-05-25",
-   "end": "2027-05-25",
-   "venue": "TIDES",
-   "url": "https://timable.com/zh/event/JasonCheny-CompoundInterestTour-%E6%A3%9F%E7%AF%A4%E7%AC%91%E5%B7%A1%E6%BC%942027%E9%A6%99%E6%B8%AF%E7%AB%99",
-   "source": "Timable",
-   "image": "https://static.timable.com/image_f3557b1f-ae31-457b-b308-3af4c0ae9c78-480x600.webp",
    "featured": false
   },
   {
