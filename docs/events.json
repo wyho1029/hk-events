@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-06",
+ "updated": "2026-10-07",
  "events": [
   {
    "id": "9d7c947e675d",
@@ -426,7 +426,7 @@
    "title": "2026-27年度「十八有藝──大埔社區演藝計劃」《擊響大埔》敲擊樂創藝計劃──擊樂工作坊(6-12歲兒童及家長)",
    "category": "表演藝術",
    "start": "2026-07-18",
-   "end": "2026-11-28",
+   "end": "2026-12-20",
    "venue": "大埔區內場地",
    "url": "https://www.facebook.com/toolboxpercussion",
    "source": "康文署",
@@ -438,7 +438,19 @@
    "title": "2026-27年度「十八有藝──大埔社區演藝計劃」《擊響大埔》敲擊樂創藝計劃──擊樂工作坊(青少年及成人)",
    "category": "表演藝術",
    "start": "2026-07-18",
-   "end": "2026-11-28",
+   "end": "2026-12-20",
+   "venue": "大埔區內場地",
+   "url": "https://www.facebook.com/toolboxpercussion",
+   "source": "康文署",
+   "image": "",
+   "featured": false
+  },
+  {
+   "id": "fef976c9236f",
+   "title": "2026-27年度「十八有藝──大埔社區演藝計劃」《擊響大埔》敲擊樂創藝計劃──巡迴音樂會",
+   "category": "表演藝術",
+   "start": "2026-07-19",
+   "end": "2026-11-22",
    "venue": "大埔區內場地",
    "url": "https://www.facebook.com/toolboxpercussion",
    "source": "康文署",
@@ -686,18 +698,6 @@
    "featured": false
   },
   {
-   "id": "a1974fa24d49",
-   "title": "香港青苗粵劇團 粵劇《珍珠衫》",
-   "category": "表演藝術",
-   "start": "2026-10-05",
-   "end": "2026-10-06",
-   "venue": "高山劇場 (劇院)",
-   "url": "https://www.facebook.com/cantoneseoperanews",
-   "source": "康文署",
-   "image": "",
-   "featured": false
-  },
-  {
    "id": "534d9b301ba0",
    "title": "Blue Lock 藍色監獄",
    "category": "電影",
@@ -765,30 +765,6 @@
    "image": "https://wmoov.com/assets/poster/e818a9fe5275b7b3a4fc325145723cda.jpg",
    "rating": "6.6",
    "shows": 186,
-   "featured": false
-  },
-  {
-   "id": "113af2708b26",
-   "title": "中國內地電影展 2026",
-   "category": "電影活動",
-   "start": "2026-10-06",
-   "end": "2026-10-06",
-   "venue": "香港大會堂 (劇院)",
-   "url": "https://www.lcsd.gov.hk/fp/tc/listing.html?id=96",
-   "source": "康文署",
-   "image": "",
-   "featured": false
-  },
-  {
-   "id": "957d0c58b5c9",
-   "title": "中國內地電影展 2026：《浪浪山小妖怪》",
-   "category": "電影活動",
-   "start": "2026-10-06",
-   "end": "2026-10-06",
-   "venue": "香港大會堂 (劇院)",
-   "url": "https://www.lcsd.gov.hk/fp/tc/listing.html?id=96",
-   "source": "康文署",
-   "image": "",
    "featured": false
   },
   {
@@ -876,18 +852,6 @@
    "featured": false
   },
   {
-   "id": "589b8ac3b3f3",
-   "title": "力聚唱家班演唱會",
-   "category": "演唱會",
-   "start": "2026-10-06",
-   "end": "2026-10-06",
-   "venue": "北區大會堂 (演奏廳)",
-   "url": "https://www.lcsd.gov.hk/clpss/tc/search/culture/DetailForm.do?id=186974",
-   "source": "康文署",
-   "image": "",
-   "featured": false
-  },
-  {
    "id": "a855f1f13aee",
    "title": "功夫女足",
    "category": "電影",
@@ -927,18 +891,6 @@
    "image": "https://wmoov.com/assets/poster/221c818b7d6b8dd97e89305e9bc32eaf.jpg",
    "rating": "",
    "shows": 1,
-   "featured": false
-  },
-  {
-   "id": "3cc18bab3842",
-   "title": "名曲競唱送萬家",
-   "category": "休閒",
-   "start": "2026-10-06",
-   "end": "2026-10-06",
-   "venue": "屯門大會堂 (演奏廳)",
-   "url": "https://www.lcsd.gov.hk/tc/ticket/index.html",
-   "source": "康文署",
-   "image": "",
    "featured": false
   },
   {
@@ -1222,18 +1174,6 @@
    "featured": false
   },
   {
-   "id": "2f06b095b7f0",
-   "title": "歲月留聲愛永恆演唱會",
-   "category": "演唱會",
-   "start": "2026-10-06",
-   "end": "2026-10-06",
-   "venue": "元朗劇院 (演藝廳)",
-   "url": "https://www.lcsd.gov.hk/clpss/tc/search/culture/DetailForm.do?id=187072",
-   "source": "康文署",
-   "image": "",
-   "featured": false
-  },
-  {
    "id": "3c3abbee4c59",
    "title": "油麻地戲院場地伙伴計劃- 優越新秀粵劇傳承計劃 2026-27 粵劇演出《白龍關》",
    "category": "表演藝術",
@@ -1498,18 +1438,6 @@
    "featured": false
   },
   {
-   "id": "6dd8896f44ab",
-   "title": "金曲樂逍遙",
-   "category": "表演藝術",
-   "start": "2026-10-06",
-   "end": "2026-10-06",
-   "venue": "大埔文娛中心 (演藝廳)",
-   "url": "https://www.lcsd.gov.hk/clpss/tc/search/culture/DetailForm.do?id=186985",
-   "source": "康文署",
-   "image": "",
-   "featured": false
-  },
-  {
    "id": "34d40e1863b7",
    "title": "阮玲玉",
    "category": "電影",
@@ -1538,18 +1466,6 @@
    "featured": false
   },
   {
-   "id": "a22fb3722671",
-   "title": "雅荔粵韻會知音 梁偉權師生演唱會",
-   "category": "表演藝術",
-   "start": "2026-10-06",
-   "end": "2026-10-06",
-   "venue": "沙田大會堂 (文娛廳)",
-   "url": "https://www.lcsd.gov.hk/clpss/tc/search/culture/DetailForm.do?id=186964",
-   "source": "康文署",
-   "image": "",
-   "featured": false
-  },
-  {
    "id": "4f9396664eb9",
    "title": "電影多啦A夢：新・大雄之海底鬼岩城",
    "category": "電影",
@@ -1561,18 +1477,6 @@
    "image": "https://wmoov.com/assets/poster/5cf9e11191c48adbc489d1fc9c79e548.jpg",
    "rating": "6.2",
    "shows": 1,
-   "featured": false
-  },
-  {
-   "id": "3febe5df81e6",
-   "title": "飛躍演奏香港 — 湯瑪斯大提琴獨奏會：相約再會",
-   "category": "表演藝術",
-   "start": "2026-10-06",
-   "end": "2026-10-06",
-   "venue": "香港大會堂 (音樂廳)",
-   "url": "https://www.pphk.org/zh-hant/event/camille-thomas-rendez-vous/",
-   "source": "康文署",
-   "image": "",
    "featured": false
   },
   {
@@ -1896,7 +1800,7 @@
    "start": "2026-10-09",
    "end": "2026-10-09",
    "venue": "屯門大會堂 (演奏廳)",
-   "url": "https://www.lcsd.gov.hk/clpss/tc/search/culture/DetailForm.do?id=187083",
+   "url": "https://www.lcsd.gov.hk/tc/ticket/index.html",
    "source": "康文署",
    "image": "",
    "featured": false
@@ -2019,18 +1923,6 @@
    "url": "https://timable.com/zh/event/NCT127-NEOCITY-THEREDLINE-%E7%AC%AC%E4%BA%94%E6%AC%A1%E4%B8%96%E7%95%8C%E5%B7%A1%E8%BF%B4%E6%BC%94%E5%94%B1%E6%9C%83",
    "source": "Timable",
    "image": "https://static.timable.com/image_17c50eb6-4095-4468-8c85-4614503fd787-480x681.webp",
-   "featured": false
-  },
-  {
-   "id": "bddaa02f6dbb",
-   "title": "《Toys Assemble 玩具集結》@黃埔天地",
-   "category": "休閒",
-   "start": "2026-10-10",
-   "end": "2026-11-01",
-   "venue": "黃埔天地 時尚坊",
-   "url": "https://timable.com/zh/event/%E9%BB%83%E5%9F%94%E5%A4%A9%E5%9C%B0-ToysAssemble%E7%8E%A9%E5%85%B7%E9%9B%86%E7%B5%90-",
-   "source": "Timable",
-   "image": "https://static.timable.com/image_196a1e30-e5a3-4b09-a4af-30bdebf08b95-480x720.webp",
    "featured": false
   },
   {
@@ -2581,6 +2473,18 @@
    "end": "2026-10-12",
    "venue": "高山劇場 (劇院)",
    "url": "https://www.lcsd.gov.hk/clpss/tc/search/culture/DetailForm.do?id=187000",
+   "source": "康文署",
+   "image": "",
+   "featured": false
+  },
+  {
+   "id": "55a628263ac6",
+   "title": "韓國戲劇節2026 : 劇本朗讀《Kyrie》",
+   "category": "表演藝術",
+   "start": "2026-10-12",
+   "end": "2026-10-12",
+   "venue": "西灣河文娛中心 (文娛廳)",
+   "url": "https://www.lcsd.gov.hk/tc/ticket/index.html",
    "source": "康文署",
    "image": "",
    "featured": false
@@ -3186,6 +3090,18 @@
    "featured": false
   },
   {
+   "id": "d354ce58aa11",
+   "title": "呂元祥建築師事務所五十周年展覽「港匠築跡」",
+   "category": "展覽",
+   "start": "2026-10-15",
+   "end": "2026-10-19",
+   "venue": "香港藝術中心 包氏畫廊",
+   "url": "https://timable.com/zh/event/%E5%91%82%E5%85%83%E7%A5%A5%E5%BB%BA%E7%AF%89%E5%B8%AB%E4%BA%8B%E5%8B%99%E6%89%80%E4%BA%94%E5%8D%81%E5%91%A8%E5%B9%B4%E5%B1%95%E8%A6%BD-%E6%B8%AF%E5%8C%A0%E7%AF%89%E8%B7%A1-",
+   "source": "Timable",
+   "image": "https://static.timable.com/image_eeed7080-a15f-4323-8e44-76579477c3f2-480x600.webp",
+   "featured": false
+  },
+  {
    "id": "d5e84852fab8",
    "title": "唐小燕地水南音師生演唱會",
    "category": "演唱會",
@@ -3228,7 +3144,7 @@
    "start": "2026-10-15",
    "end": "2026-10-15",
    "venue": "屯門大會堂 (演奏廳)",
-   "url": "https://www.lcsd.gov.hk/clpss/tc/search/culture/DetailForm.do?id=187087",
+   "url": "https://www.lcsd.gov.hk/tc/ticket/index.html",
    "source": "康文署",
    "image": "",
    "featured": false
@@ -3375,18 +3291,6 @@
    "url": "https://www.lcsd.gov.hk/clpss/tc/search/culture/DetailForm.do?id=187043",
    "source": "康文署",
    "image": "",
-   "featured": false
-  },
-  {
-   "id": "d03022794d6e",
-   "title": "《企鵝波波の軟綿綿大擁抱》嘉年華市集 @啟德AIRSIDE",
-   "category": "市集",
-   "start": "2026-10-16",
-   "end": "2026-10-19",
-   "venue": "AIRSIDE",
-   "url": "https://timable.com/zh/event/%E4%BC%81%E9%B5%9D%E6%B3%A2%E6%B3%A2-%E8%BB%9F%E7%B6%BF%E7%B6%BF%E5%A4%A7%E6%93%81%E6%8A%B1-%E5%98%89%E5%B9%B4%E8%8F%AF%E5%B8%82%E9%9B%86-%E5%95%9F%E5%BE%B7AIRSIDE",
-   "source": "Timable",
-   "image": "https://static.timable.com/image_2a086d37-6aee-4c26-91df-dcab2a00951d-480x600.webp",
    "featured": false
   },
   {
@@ -3594,18 +3498,6 @@
    "featured": false
   },
   {
-   "id": "0059c47eb333",
-   "title": "香港摩登別墅1930 - 1980年代 展覽@Halfway Gallery",
-   "category": "展覽",
-   "start": "2026-10-16",
-   "end": "2026-10-25",
-   "venue": "上環",
-   "url": "https://timable.com/zh/event/%E9%A6%99%E6%B8%AF%E6%91%A9%E7%99%BB%E5%88%A5%E5%A2%851930-1980%E5%B9%B4%E4%BB%A3%E5%B1%95%E8%A6%BD-HalfwayGallery",
-   "source": "Timable",
-   "image": "https://static.timable.com/image_7545ec2e-1fc2-4434-9f74-cc2a7e8c9c12-480x640.webp",
-   "featured": false
-  },
-  {
    "id": "e7d4d92b1286",
    "title": "魚之樂 ─ 墨韻生輝",
    "category": "休閒",
@@ -3699,6 +3591,18 @@
    "url": "https://www.lcsd.gov.hk/clpss/tc/search/culture/DetailForm.do?id=188466",
    "source": "康文署",
    "image": "",
+   "featured": false
+  },
+  {
+   "id": "7860298d3890",
+   "title": "GO WELL FEST 人寵身心健康嘉年華",
+   "category": "休閒",
+   "start": "2026-10-17",
+   "end": "2026-10-19",
+   "venue": "西沙GO PARK",
+   "url": "https://timable.com/zh/event/GOWELLFEST%E4%BA%BA%E5%AF%B5%E8%BA%AB%E5%BF%83%E5%81%A5%E5%BA%B7%E5%98%89%E5%B9%B4%E8%8F%AF",
+   "source": "Timable",
+   "image": "https://static.timable.com/image_ff89be05-1701-482a-8631-f85224d550cd-480x853.webp",
    "featured": false
   },
   {
@@ -3867,18 +3771,6 @@
    "url": "https://zh.ccohk.com/events/2026-2027/the-bonn-man",
    "source": "康文署",
    "image": "",
-   "featured": false
-  },
-  {
-   "id": "8182232b9c77",
-   "title": "萬聖狂歡祭．中環",
-   "category": "休閒",
-   "start": "2026-10-17",
-   "end": "2026-11-01",
-   "venue": "皇后像廣場",
-   "url": "https://timable.com/zh/event/%E8%90%AC%E8%81%96%E7%8B%82%E6%AD%A1%E7%A5%AD-%E4%B8%AD%E7%92%B0",
-   "source": "Timable",
-   "image": "https://static.timable.com/image_763e5db1-a2c7-4639-b639-a8657e428a33-480x270.webp",
    "featured": false
   },
   {
@@ -4470,6 +4362,30 @@
    "featured": false
   },
   {
+   "id": "417d0cc5e32a",
+   "title": "智•型•新體驗系列 - 自助服務 / e閱讀 / 數碼館藏 (成人組)",
+   "category": "休閒",
+   "start": "2026-10-21",
+   "end": "2026-10-21",
+   "venue": "深水埗公共圖書館",
+   "url": "http://www.hkpl.gov.hk/tc/extension-activities/all-events/search?lib_id=220778",
+   "source": "康文署",
+   "image": "",
+   "featured": false
+  },
+  {
+   "id": "4c9a3c473265",
+   "title": "智‧型‧新體驗系列 - 自助服務 / e閱讀 / 數碼館藏 (兒童組)",
+   "category": "親子",
+   "start": "2026-10-21",
+   "end": "2026-10-21",
+   "venue": "南葵涌公共圖書館",
+   "url": "http://www.hkpl.gov.hk/tc/extension-activities/all-events/search?lib_id=1002",
+   "source": "康文署",
+   "image": "",
+   "featured": false
+  },
+  {
    "id": "1803b7404859",
    "title": "金曲旋律友您友我演唱會",
    "category": "演唱會",
@@ -4590,18 +4506,6 @@
    "featured": false
   },
   {
-   "id": "58d82cbee607",
-   "title": "陳嘉慧 x 朱杏桃 x 許穎彤 x 關芷欣 x 葉曉雯「Pause It 暫停練習場」展覽@賽馬會創意藝術中心",
-   "category": "體育",
-   "start": "2026-10-22",
-   "end": "2026-10-27",
-   "venue": "賽馬會創意藝術中心",
-   "url": "https://timable.com/zh/event/PauseIt%E6%9A%AB%E5%81%9C%E7%B7%B4%E7%BF%92%E5%A0%B4-%E5%B1%95%E8%A6%BD",
-   "source": "Timable",
-   "image": "https://static.timable.com/image_523a83d3-3176-45c7-a24f-25367395a900-480x640.webp",
-   "featured": false
-  },
-  {
    "id": "00cdb207c230",
    "title": "香港文化中心場地伙伴計劃：勞力士榮譽呈獻：費雷茲歌劇盛會",
    "category": "表演藝術",
@@ -4680,7 +4584,7 @@
    "start": "2026-10-23",
    "end": "2026-10-23",
    "venue": "東九文化中心 (劇院)",
-   "url": "https://art-mate.net/tc/doc/98812",
+   "url": "https://www.urbtix.hk/event-detail/15560/",
    "source": "康文署",
    "image": "",
    "featured": false
@@ -4980,7 +4884,7 @@
    "start": "2026-10-24",
    "end": "2026-10-25",
    "venue": "東九文化中心 (形館)",
-   "url": "https://art-mate.net/tc/doc/98880",
+   "url": "https://www.urbtix.hk/event-detail/15565/",
    "source": "康文署",
    "image": "",
    "featured": false
@@ -5041,6 +4945,18 @@
    "end": "2026-10-24",
    "venue": "東涌公共圖書館",
    "url": "http://www.hkpl.gov.hk/tc/extension-activities/all-events/search?lib_id=996",
+   "source": "康文署",
+   "image": "",
+   "featured": false
+  },
+  {
+   "id": "5f76c66784a3",
+   "title": "飛躍演舞台音樂會",
+   "category": "表演藝術",
+   "start": "2026-10-24",
+   "end": "2026-10-24",
+   "venue": "屯門大會堂 (演奏廳)",
+   "url": "https://www.lcsd.gov.hk/clpss/tc/search/culture/DetailForm.do?id=189270",
    "source": "康文署",
    "image": "",
    "featured": false
@@ -5778,6 +5694,18 @@
    "featured": false
   },
   {
+   "id": "2d441a027aaf",
+   "title": "城市當代舞蹈節 2026 : 《HOTPOT 東亞舞蹈平台 II》",
+   "category": "表演藝術",
+   "start": "2026-10-27",
+   "end": "2026-10-27",
+   "venue": "東九文化中心 (形館)",
+   "url": "https://www.urbtix.hk/event-detail/15567/",
+   "source": "康文署",
+   "image": "",
+   "featured": false
+  },
+  {
    "id": "9163b69f89f2",
    "title": "文化協會歌舞匯演",
    "category": "表演藝術",
@@ -6001,6 +5929,30 @@
    "end": "2026-10-29",
    "venue": "大埔文娛中心 (大堂展覽場地)",
    "url": "https://www.ccpo.gov.hk/tc/",
+   "source": "康文署",
+   "image": "",
+   "featured": false
+  },
+  {
+   "id": "d77951c6509f",
+   "title": "城市當代舞蹈節 2026 : 《HOTPOT 東亞舞蹈平台 V》",
+   "category": "表演藝術",
+   "start": "2026-10-29",
+   "end": "2026-10-29",
+   "venue": "東九文化中心 (形館)",
+   "url": "https://www.urbtix.hk/event-detail/15577/",
+   "source": "康文署",
+   "image": "",
+   "featured": false
+  },
+  {
+   "id": "72571075d2c1",
+   "title": "城市當代舞蹈節 2026 :《HOTPOT 東亞舞蹈平台 IV》",
+   "category": "表演藝術",
+   "start": "2026-10-29",
+   "end": "2026-10-29",
+   "venue": "東九文化中心 (樂館)",
+   "url": "https://www.urbtix.hk/event-detail/15576/",
    "source": "康文署",
    "image": "",
    "featured": false
@@ -6576,7 +6528,7 @@
    "start": "2026-10-31",
    "end": "2026-10-31",
    "venue": "東九文化中心 (劇院)",
-   "url": "https://art-mate.net/tc/doc/94124",
+   "url": "https://www.urbtix.hk/event-detail/15344/",
    "source": "康文署",
    "image": "",
    "featured": false
@@ -6584,6 +6536,18 @@
   {
    "id": "a5671e19549a",
    "title": "修書印記—保存和修復之旅",
+   "category": "休閒",
+   "start": "2026-10-31",
+   "end": "2026-10-31",
+   "venue": "香港中央圖書館",
+   "url": "http://www.hkpl.gov.hk/tc/extension-activities/all-events/search?lib_id=77",
+   "source": "康文署",
+   "image": "",
+   "featured": false
+  },
+  {
+   "id": "77dc1dadc37e",
+   "title": "優質閱讀文化",
    "category": "休閒",
    "start": "2026-10-31",
    "end": "2026-10-31",
@@ -8670,6 +8634,18 @@
    "featured": false
   },
   {
+   "id": "1c5b8f46ea1f",
+   "title": "走讀文學，香港文學行腳",
+   "category": "休閒",
+   "start": "2026-10-31",
+   "end": "2026-10-31",
+   "venue": "香港中央圖書館",
+   "url": "http://www.hkpl.gov.hk/tc/extension-activities/all-events/search?lib_id=77",
+   "source": "康文署",
+   "image": "",
+   "featured": false
+  },
+  {
    "id": "b963e6d00826",
    "title": "雄龍婷粵萃二十",
    "category": "休閒",
@@ -10230,18 +10206,6 @@
    "featured": false
   },
   {
-   "id": "c8527b37dcc3",
-   "title": "屯門公眾騎術學校開放日 2026",
-   "category": "休閒",
-   "start": "2026-11-15",
-   "end": "2026-11-15",
-   "venue": "屯門公眾騎術學校",
-   "url": "https://timable.com/zh/event/%E5%B1%AF%E9%96%80%E5%85%AC%E7%9C%BE%E9%A8%8E%E8%A1%93%E5%AD%B8%E6%A0%A1%E9%96%8B%E6%94%BE%E6%97%A52026",
-   "source": "Timable",
-   "image": "https://static.timable.com/image_6d6e9921-44af-4c7a-99a4-205c8fa93d3f-480x600.webp",
-   "featured": false
-  },
-  {
    "id": "2a386ce61045",
    "title": "我們的承傳與創新 粵劇《情醉王大儒》",
    "category": "表演藝術",
@@ -10806,6 +10770,18 @@
    "featured": false
   },
   {
+   "id": "512a66d4adce",
+   "title": "《販馬記》*,《媚香留情》#",
+   "category": "休閒",
+   "start": "2026-11-21",
+   "end": "2026-11-21",
+   "venue": "沙田大會堂 (演奏廳)",
+   "url": "https://www.tinma.hk/",
+   "source": "康文署",
+   "image": "",
+   "featured": false
+  },
+  {
    "id": "34c38cad0293",
    "title": "「粵」睇越開心粵劇欣賞會",
    "category": "表演藝術",
@@ -10890,6 +10866,18 @@
    "featured": false
   },
   {
+   "id": "e6bad7a5e079",
+   "title": "與王維舞2026",
+   "category": "休閒",
+   "start": "2026-11-21",
+   "end": "2026-11-21",
+   "venue": "大埔文娛中心 (黑盒劇場)",
+   "url": "https://aiwa-orientaldance.com/dancewithJulio2026",
+   "source": "康文署",
+   "image": "",
+   "featured": false
+  },
+  {
    "id": "99253e2b61bb",
    "title": "荃灣大會堂場地伙伴計劃：《北歐四季》",
    "category": "休閒",
@@ -10897,6 +10885,18 @@
    "end": "2026-11-21",
    "venue": "荃灣大會堂 (演奏廳)",
    "url": "https://zh.ccohk.com/events/2026-2027/nordic-seasons",
+   "source": "康文署",
+   "image": "",
+   "featured": false
+  },
+  {
+   "id": "24d5633ec439",
+   "title": "雅樂琴心曲緣聚",
+   "category": "表演藝術",
+   "start": "2026-11-21",
+   "end": "2026-11-21",
+   "venue": "大埔文娛中心 (演藝廳)",
+   "url": "https://www.lcsd.gov.hk/clpss/tc/search/culture/DetailForm.do?id=188519",
    "source": "康文署",
    "image": "",
    "featured": false
@@ -11166,13 +11166,25 @@
    "featured": false
   },
   {
-   "id": "837f11455cd5",
-   "title": "波神快樂牛一show show",
-   "category": "休閒",
+   "id": "8bca2df722c5",
+   "title": "波比歌皇甜華妹之 Birthday 孖寶 Suki &君君生日演唱會",
+   "category": "演唱會",
    "start": "2026-11-25",
    "end": "2026-11-25",
    "venue": "屯門大會堂 (演奏廳)",
-   "url": "https://www.lcsd.gov.hk/clpss/tc/search/culture/DetailForm.do?id=188554",
+   "url": "https://www.lcsd.gov.hk/tc/ticket/index.html",
+   "source": "康文署",
+   "image": "",
+   "featured": false
+  },
+  {
+   "id": "67c120e55c7e",
+   "title": "波比歌皇甜華妹之亮彩與你友情常在演唱會",
+   "category": "演唱會",
+   "start": "2026-11-25",
+   "end": "2026-11-25",
+   "venue": "屯門大會堂 (演奏廳)",
+   "url": "https://www.lcsd.gov.hk/tc/ticket/index.html",
    "source": "康文署",
    "image": "",
    "featured": false
@@ -11778,6 +11790,30 @@
    "featured": false
   },
   {
+   "id": "43d64197892e",
+   "title": "MIRROR \"12AS1\" 演唱會 2026 香港站",
+   "category": "演唱會",
+   "start": "2026-12-11",
+   "end": "2026-12-20",
+   "venue": "亞洲國際博覽館 ARENA",
+   "url": "https://timable.com/zh/event/MIRROR%E9%A6%99%E6%B8%AF%E6%BC%94%E5%94%B1%E6%9C%832026",
+   "source": "Timable",
+   "image": "https://static.timable.com/image_7f5e3e1f-9b22-4009-b500-41fda484fd52-480x600.webp",
+   "featured": false
+  },
+  {
+   "id": "2c5da83fe4d8",
+   "title": "「冬日開懷集」系列：厘米概念《小蟻大暴走》",
+   "category": "休閒",
+   "start": "2026-12-11",
+   "end": "2026-12-13",
+   "venue": "香港文化中心 (劇場)",
+   "url": "https://cmconcept.hk/",
+   "source": "康文署",
+   "image": "",
+   "featured": false
+  },
+  {
    "id": "6e543b789eb7",
    "title": "「東九開箱2026」階段式試驗創作：《沿指示前行》",
    "category": "休閒",
@@ -11790,6 +11826,18 @@
    "featured": false
   },
   {
+   "id": "dd58a3631b2c",
+   "title": "moreru \"Live in Hong Kong\" 巡迴演唱會 2026 香港站",
+   "category": "演唱會",
+   "start": "2026-12-12",
+   "end": "2026-12-12",
+   "venue": "MOM Livehouse",
+   "url": "https://timable.com/zh/event/moreru-LiveinHongKong-%E5%B7%A1%E8%BF%B4%E6%BC%94%E5%94%B1%E6%9C%832026%E9%A6%99%E6%B8%AF%E7%AB%99",
+   "source": "Timable",
+   "image": "https://static.timable.com/image_2135d3dc-1775-4b4a-bf22-d4d3e29cb606-480x640.webp",
+   "featured": false
+  },
+  {
    "id": "5c93d485c9c1",
    "title": "2026社區文化大使: 東方琴韻藝術團「聽見非遺」華夏正聲 非遺音樂匯萃",
    "category": "表演藝術",
@@ -11799,6 +11847,18 @@
    "url": "https://www.facebook.com/RhythmicEast/",
    "source": "康文署",
    "image": "",
+   "featured": false
+  },
+  {
+   "id": "16497c0035e2",
+   "title": "「生態保衛賽 2026」慈善跑",
+   "category": "休閒",
+   "start": "2026-12-13",
+   "end": "2026-12-27",
+   "venue": "香港海洋公園",
+   "url": "https://timable.com/zh/event/%E7%94%9F%E6%85%8B%E4%BF%9D%E8%A1%9B%E8%B3%BD2026-%E6%85%88%E5%96%84%E8%B7%91",
+   "source": "Timable",
+   "image": "https://static.timable.com/image_7fb0a773-dce5-4a66-b7b2-1fdf9a7242a0-480x600.webp",
    "featured": false
   },
   {
@@ -12066,18 +12126,6 @@
    "featured": false
   },
   {
-   "id": "2210c21eff12",
-   "title": "容祖兒 \"Aura\" 巡迴演唱會 2027 香港站 @啟德主場館",
-   "category": "演唱會",
-   "start": "2027-01-22",
-   "end": "2027-01-23",
-   "venue": "啟德體育園 主場館",
-   "url": "https://timable.com/zh/event/%E5%AE%B9%E7%A5%96%E5%85%92%E5%B7%A1%E8%BF%B4%E6%BC%94%E5%94%B1%E6%9C%83%202026%20%E9%A6%99%E6%B8%AF%E7%AB%99%20%40%E5%95%9F%E5%BE%B7%E4%B8%BB%E5%A0%B4%E9%A4%A8",
-   "source": "Timable",
-   "image": "https://static.timable.com/image_3cde14f2-c94c-496c-8db3-4cd13ddbb0ee-480x600.webp",
-   "featured": false
-  },
-  {
    "id": "bb019cccc1c5",
    "title": "Pokémon RUN 30 香港",
    "category": "休閒",
@@ -12111,6 +12159,18 @@
    "url": "https://timable.com/zh/event/BTS-ARIRANG-%E4%B8%96%E7%95%8C%E5%B7%A1%E8%BF%B4%E6%BC%94%E5%94%B1%E6%9C%832027%E9%A6%99%E6%B8%AF%E7%AB%99",
    "source": "Timable",
    "image": "https://static.timable.com/image_ce0a1ebc-f5d5-4676-a692-156c3b8b4b9f-400x400.webp",
+   "featured": false
+  },
+  {
+   "id": "f6509e3c3e07",
+   "title": "beabadoobee \"The Powerlines Tour\" 巡迴演唱會 2027 香港站",
+   "category": "演唱會",
+   "start": "2027-03-26",
+   "end": "2027-03-27",
+   "venue": "TIDES",
+   "url": "https://timable.com/zh/event/beabadoobee-ThePowerlinesTour-%E5%B7%A1%E8%BF%B4%E6%BC%94%E5%94%B1%E6%9C%832027%E9%A6%99%E6%B8%AF%E7%AB%99",
+   "source": "Timable",
+   "image": "https://static.timable.com/image_b7b5a5d8-64b9-4cfa-80c2-caaa0a4e2dfd-480x600.webp",
    "featured": false
   },
   {
