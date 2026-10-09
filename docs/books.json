@@ -3,19 +3,19 @@
  "books": [
   {
    "rank": 1,
-   "title": "我是如此幸運",
-   "author": "克里斯欽．華森",
-   "price": "NT$355",
-   "url": "https://www.books.com.tw/products/0011061173",
-   "image": "https://im2.book.com.tw/image/getImage?i=https://www.books.com.tw/img/001/106/11/0011061173.jpg&v=6a841407k&w=150&h=150"
-  },
-  {
-   "rank": 2,
    "title": "少年綠皮書─我們的島嶼旅行",
    "author": "劉克襄",
    "price": "200元",
    "url": "https://www.books.com.tw/products/0010226718",
    "image": "https://im1.book.com.tw/image/getImage?i=https://www.books.com.tw/img/001/022/67/0010226718.jpg&v=4d55110dk&w=150&h=150"
+  },
+  {
+   "rank": 2,
+   "title": "我是如此幸運",
+   "author": "克里斯欽．華森",
+   "price": "NT$355",
+   "url": "https://www.books.com.tw/products/0011061173",
+   "image": "https://im2.book.com.tw/image/getImage?i=https://www.books.com.tw/img/001/106/11/0011061173.jpg&v=6a841407k&w=150&h=150"
   },
   {
    "rank": 3,
@@ -75,19 +75,19 @@
   },
   {
    "rank": 10,
-   "title": "一直盈 股市必勝法：30年王牌分析師第一次系統化親授，8堂股市操作大法×42篇獨門祕訣×3階段進出場節奏，人人都可滿載而歸！",
-   "author": "鍾國忠",
-   "price": "NT$355",
-   "url": "https://www.books.com.tw/products/0011061916",
-   "image": "https://im1.book.com.tw/image/getImage?i=https://www.books.com.tw/img/001/106/19/0011061916.jpg&v=6a8d58bek&w=150&h=150"
-  },
-  {
-   "rank": 11,
    "title": "投資10年就退休：給台灣人的退休現金流全指南──用對提領策略，讓你少工作好幾年！",
    "author": "陳逸朴（小資YP）",
    "price": "NT$379",
    "url": "https://www.books.com.tw/products/0011063198",
    "image": "https://im1.book.com.tw/image/getImage?i=https://www.books.com.tw/img/001/106/31/0011063198.jpg&v=6ab382f5k&w=150&h=150"
+  },
+  {
+   "rank": 11,
+   "title": "一直盈 股市必勝法：30年王牌分析師第一次系統化親授，8堂股市操作大法×42篇獨門祕訣×3階段進出場節奏，人人都可滿載而歸！",
+   "author": "鍾國忠",
+   "price": "NT$355",
+   "url": "https://www.books.com.tw/products/0011061916",
+   "image": "https://im1.book.com.tw/image/getImage?i=https://www.books.com.tw/img/001/106/19/0011061916.jpg&v=6a8d58bek&w=150&h=150"
   },
   {
    "rank": 12,
@@ -115,14 +115,6 @@
   },
   {
    "rank": 15,
-   "title": "我的黑道姑姑：教我的99件事",
-   "author": "黃山料",
-   "price": "NT$331",
-   "url": "https://www.books.com.tw/products/0011051787",
-   "image": "https://im2.book.com.tw/image/getImage?i=https://www.books.com.tw/img/001/105/17/0011051787.jpg&v=69f900fbk&w=150&h=150"
-  },
-  {
-   "rank": 16,
    "title": "演算法：馬斯克演算法5步驟，推動特斯拉與SpaceX爆發式成長的祕密",
    "author": "喬恩．麥克尼爾",
    "price": "NT$316",
@@ -130,23 +122,15 @@
    "image": "https://im1.book.com.tw/image/getImage?i=https://www.books.com.tw/img/001/105/55/0011055506.jpg&v=6a320ac1k&w=150&h=150"
   },
   {
+   "rank": 16,
+   "title": "我的黑道姑姑：教我的99件事",
+   "author": "黃山料",
+   "price": "NT$331",
+   "url": "https://www.books.com.tw/products/0011051787",
+   "image": "https://im2.book.com.tw/image/getImage?i=https://www.books.com.tw/img/001/105/17/0011051787.jpg&v=69f900fbk&w=150&h=150"
+  },
+  {
    "rank": 17,
-   "title": "安達與島村 (13) 首刷特裝版",
-   "author": "入間人間,のん",
-   "price": "NT$342",
-   "url": "https://www.books.com.tw/products/0011058338",
-   "image": "https://im1.book.com.tw/image/getImage?i=https://www.books.com.tw/img/001/105/83/0011058338.jpg&v=6a5d82dek&w=150&h=150"
-  },
-  {
-   "rank": 18,
-   "title": "馬斯克寶典：從顛覆矽谷到打造太空帝國，讀懂全球首富20年極限思維【繁中版限定收錄：給讀者的手寫寄語印簽",
-   "author": "艾瑞克．喬根森（Eric Jorgenson）",
-   "price": "NT$410",
-   "url": "https://www.books.com.tw/products/0011054455",
-   "image": "https://im2.book.com.tw/image/getImage?i=https://www.books.com.tw/img/001/105/44/0011054455.jpg&v=6a4e05d5k&w=150&h=150"
-  },
-  {
-   "rank": 19,
    "title": "富養自己",
    "author": "卉恩",
    "price": "NT$316",
@@ -154,12 +138,28 @@
    "image": "https://im2.book.com.tw/image/getImage?i=https://www.books.com.tw/img/001/106/29/0011062995.jpg&v=6a9fa4e8k&w=150&h=150"
   },
   {
-   "rank": 20,
+   "rank": 18,
+   "title": "安達與島村 (13) 首刷特裝版",
+   "author": "入間人間,のん",
+   "price": "NT$342",
+   "url": "https://www.books.com.tw/products/0011058338",
+   "image": "https://im1.book.com.tw/image/getImage?i=https://www.books.com.tw/img/001/105/83/0011058338.jpg&v=6a5d82dek&w=150&h=150"
+  },
+  {
+   "rank": 19,
    "title": "人妻教師與班上女高中生陷入愛戀 (2)",
    "author": "入間人間",
    "price": "NT$197",
    "url": "https://www.books.com.tw/products/0011061787",
    "image": "https://im2.book.com.tw/image/getImage?i=https://www.books.com.tw/img/001/106/17/0011061787.jpg&v=6aab51e5k&w=150&h=150"
+  },
+  {
+   "rank": 20,
+   "title": "馬斯克寶典：從顛覆矽谷到打造太空帝國，讀懂全球首富20年極限思維【繁中版限定收錄：給讀者的手寫寄語印簽",
+   "author": "艾瑞克．喬根森（Eric Jorgenson）",
+   "price": "NT$410",
+   "url": "https://www.books.com.tw/products/0011054455",
+   "image": "https://im2.book.com.tw/image/getImage?i=https://www.books.com.tw/img/001/105/44/0011054455.jpg&v=6a4e05d5k&w=150&h=150"
   }
  ]
 }
