@@ -2484,18 +2484,6 @@
    "featured": false
   },
   {
-   "id": "543e4404bf18",
-   "title": "「童年烘焙店」展覽",
-   "category": "展覽",
-   "start": "2026-10-16",
-   "end": "2026-10-18",
-   "venue": "不二藝術空間 閣樓",
-   "url": "https://timable.com/zh/event/%E7%AB%A5%E5%B9%B4%E7%83%98%E7%84%99%E5%BA%97-%E5%B1%95%E8%A6%BD",
-   "source": "Timable",
-   "image": "https://static.timable.com/image_41ee7f6a-014a-4998-8d5b-3b504ea77ab3-480x640.webp",
-   "featured": false
-  },
-  {
    "id": "f25e7ad0386b",
    "title": "德國電影精選 – 判決之下",
    "category": "電影活動",
@@ -2781,6 +2769,18 @@
    "url": "https://www.facebook.com/09movein",
    "source": "康文署",
    "image": "",
+   "featured": false
+  },
+  {
+   "id": "13169ced2e6c",
+   "title": "LI Ning 李寧 \"No Ground\" 展覽",
+   "category": "展覽",
+   "start": "2026-10-17",
+   "end": "2026-11-21",
+   "venue": "安全口 Gallery Exit",
+   "url": "https://timable.com/zh/event/LINing%E6%9D%8E%E5%AF%A7-NoGround-%E5%B1%95%E8%A6%BD",
+   "source": "Timable",
+   "image": "https://static.timable.com/image_36354dcf-9d42-48b4-ab0a-df91aba3bff0-480x601.webp",
    "featured": false
   },
   {
@@ -3165,18 +3165,6 @@
    "url": "https://www.lcsd.gov.hk/clpss/tc/search/culture/DetailForm.do?id=186953",
    "source": "康文署",
    "image": "",
-   "featured": false
-  },
-  {
-   "id": "9a2c275b7f72",
-   "title": "OPEN by HE.R - Halloween in Central 音樂開幕祭",
-   "category": "休閒",
-   "start": "2026-10-18",
-   "end": "2026-10-18",
-   "venue": "中環遮打道",
-   "url": "https://timable.com/zh/event/ANDHIMxCharmeine-OPENbyHE-R-HalloweeninCentral-%E9%9F%B3%E6%A8%82%E9%96%8B%E5%B9%95%E7%A5%AD",
-   "source": "Timable",
-   "image": "https://static.timable.com/image_069ea654-e2b8-4574-bd0f-f6050b2790c5-480x600.webp",
    "featured": false
   },
   {
@@ -4185,6 +4173,18 @@
    "url": "https://www.lcsd.gov.hk/clpss/tc/search/culture/DetailForm.do?id=186958",
    "source": "康文署",
    "image": "",
+   "featured": false
+  },
+  {
+   "id": "07aa66106a62",
+   "title": "\"records\" 展覽",
+   "category": "展覽",
+   "start": "2026-10-24",
+   "end": "2026-12-19",
+   "venue": "GOLD",
+   "url": "https://timable.com/zh/event/records-%E5%B1%95%E8%A6%BD",
+   "source": "Timable",
+   "image": "https://static.timable.com/image_ecbdff8a-e28e-4cb6-be51-fe0c4b74ea33-480x720.webp",
    "featured": false
   },
   {
@@ -5877,18 +5877,6 @@
    "url": "http://www.hkpl.gov.hk/tc/extension-activities/all-events/search?lib_id=1022",
    "source": "康文署",
    "image": "",
-   "featured": false
-  },
-  {
-   "id": "4dc4ead92120",
-   "title": "沉浸式劇場《靈魂修補師》@東蒲",
-   "category": "表演藝術",
-   "start": "2026-10-30",
-   "end": "2026-10-31",
-   "venue": "東蒲 綜合會堂",
-   "url": "https://timable.com/zh/event/%E6%B2%89%E6%B5%B8%E5%BC%8F%E5%8A%87%E5%A0%B4-%E9%9D%88%E9%AD%82%E4%BF%AE%E8%A3%9C%E5%B8%AB--%E6%9D%B1%E8%92%B2",
-   "source": "Timable",
-   "image": "https://static.timable.com/image_ccf11d2f-9b39-4871-8d13-af921c70255f-480x600.webp",
    "featured": false
   },
   {
@@ -8484,6 +8472,18 @@
    "featured": false
   },
   {
+   "id": "02588f79b268",
+   "title": "\"Breakthrough Journey\" 劇場",
+   "category": "表演藝術",
+   "start": "2026-11-01",
+   "end": "2026-11-01",
+   "venue": "西九文化區 戲曲中心 香港友好協進會 演講廳",
+   "url": "https://timable.com/zh/event/BreakthroughJourney-%E5%8A%87%E5%A0%B4",
+   "source": "Timable",
+   "image": "https://static.timable.com/image_33f3ca0d-20bd-4767-9062-9a95c53c2a1c-480x600.webp",
+   "featured": false
+  },
+  {
    "id": "edc7e50c2489",
    "title": "2026 樂・誼國際音樂節 – 新銳音樂家演奏會《室樂隨想》",
    "category": "表演藝術",
@@ -9864,6 +9864,18 @@
    "featured": false
   },
   {
+   "id": "5e731a2cda15",
+   "title": "香港首個大型成人展 MEGA FANS EXPO 2026",
+   "category": "休閒",
+   "start": "2026-11-13",
+   "end": "2026-11-15",
+   "venue": "富豪機場酒店",
+   "url": "https://timable.com/zh/event/%E9%A6%99%E6%B8%AF%E9%A6%96%E5%80%8B%E5%A4%A7%E5%9E%8B%E6%88%90%E4%BA%BA%E5%B1%95MEGAFANSEXPO2026",
+   "source": "Timable",
+   "image": "https://static.timable.com/image_68ae4d6b-aa2d-4a2c-a56d-7da40380990e-480x600.webp",
+   "featured": false
+  },
+  {
    "id": "bbd4736a067f",
    "title": "2026社區文化大使: 香港非洲藝術文化協會「節拍部落」互動鼓舞巡演",
    "category": "休閒",
@@ -9880,11 +9892,11 @@
    "title": "JANICE VIDAL 衛蘭 \"OUT OF FRAME\" 世界巡迴演唱會 2026 香港站",
    "category": "演唱會",
    "start": "2026-11-14",
-   "end": "2026-11-17",
+   "end": "2026-11-18",
    "venue": "香港體育館 (紅館)",
    "url": "https://timable.com/zh/event/JANICEVIDAL%E8%A1%9B%E8%98%AD-OUTOFFRAME-%E4%B8%96%E7%95%8C%E5%B7%A1%E8%BF%B4%E6%BC%94%E5%94%B1%E6%9C%83-%E9%A6%99%E6%B8%AF%E7%AB%99",
    "source": "Timable",
-   "image": "https://static.timable.com/image_45c19605-4ed6-457e-8f10-609721e883f6-480x480.webp",
+   "image": "https://static.timable.com/image_8f5352ba-3225-4801-bb2e-97ecc2af4fd6-480x600.webp",
    "featured": false
   },
   {
@@ -10692,18 +10704,6 @@
    "featured": false
   },
   {
-   "id": "cc5b81378648",
-   "title": "蟻民 ngaiman \"伊頓混亂 Eton Mess\" EP Release Night 音樂會",
-   "category": "表演藝術",
-   "start": "2026-11-20",
-   "end": "2026-11-20",
-   "venue": "MOM Livehouse",
-   "url": "https://timable.com/zh/event/%E8%9F%BB%E6%B0%91ngaiman-%E4%BC%8A%E9%A0%93%E6%B7%B7%E4%BA%82EtonMess-EPReleaseNight%E9%9F%B3%E6%A8%82%E6%9C%83",
-   "source": "Timable",
-   "image": "https://static.timable.com/image_8e225404-44c7-4144-a8c1-628d4687ff4d-480x360.webp",
-   "featured": false
-  },
-  {
    "id": "f3af1c6e484d",
    "title": "阮德鏘從藝四十年《大鬧廣昌隆》",
    "category": "休閒",
@@ -10785,18 +10785,6 @@
    "url": "https://www.urbtix.hk/event-detail/15656/",
    "source": "康文署",
    "image": "",
-   "featured": false
-  },
-  {
-   "id": "d38d2a3ccdc6",
-   "title": "大型舞蹈詩《緣起敦煌》第十度公演@香港舞蹈總會",
-   "category": "表演藝術",
-   "start": "2026-11-21",
-   "end": "2026-11-22",
-   "venue": "東九文化中心 劇院",
-   "url": "https://timable.com/zh/event/%E5%A4%A7%E5%9E%8B%E8%88%9E%E8%B9%88%E8%A9%A9-%E7%B7%A3%E8%B5%B7%E6%95%A6%E7%85%8C-%E7%AC%AC%E5%8D%81%E5%BA%A6%E5%85%AC%E6%BC%94",
-   "source": "Timable",
-   "image": "https://static.timable.com/image_ba8c3fcf-cca8-48dd-a30a-8c1362daf223-480x647.webp",
    "featured": false
   },
   {
@@ -11436,6 +11424,18 @@
    "featured": false
   },
   {
+   "id": "0d802ac4ea3a",
+   "title": "陳芷盈 \"Angel by Your Side\" 演唱會 2026",
+   "category": "演唱會",
+   "start": "2026-11-27",
+   "end": "2026-11-27",
+   "venue": "麥花臣場館",
+   "url": "https://timable.com/zh/event/%E9%99%B3%E8%8A%B7%E7%9B%88-AngelbyYourSide-%E6%BC%94%E5%94%B1%E6%9C%832026",
+   "source": "Timable",
+   "image": "https://static.timable.com/image_9c5bf343-95fe-4ae7-a8d4-43978acaed86-480x614.webp",
+   "featured": false
+  },
+  {
    "id": "77474f221d1b",
    "title": "2026 樂・誼國際音樂節 – 閉幕音樂會《相相之約》曼托瓦室樂團",
    "category": "表演藝術",
@@ -11748,18 +11748,6 @@
    "featured": false
   },
   {
-   "id": "451a8d1a9163",
-   "title": "\"BADtime Story\" 劇場",
-   "category": "表演藝術",
-   "start": "2026-12-03",
-   "end": "2026-12-06",
-   "venue": "賽馬會創意藝術中心 黑盒劇場",
-   "url": "https://timable.com/zh/event/BADtimeStory-%E5%8A%87%E5%A0%B4",
-   "source": "Timable",
-   "image": "https://static.timable.com/image_af6c98c9-5ef1-45e3-9a12-51b63f352a13-480x679.webp",
-   "featured": false
-  },
-  {
    "id": "93e8379e9acc",
    "title": "French Kiwi Juice \"FKJ – Tyber Tour\" 巡迴演唱會 2026 香港站",
    "category": "演唱會",
@@ -11920,11 +11908,11 @@
    "title": "MIRROR \"12AS1\" 演唱會 2026 香港站",
    "category": "演唱會",
    "start": "2026-12-11",
-   "end": "2026-12-20",
+   "end": "2026-12-25",
    "venue": "亞洲國際博覽館 ARENA",
    "url": "https://timable.com/zh/event/MIRROR%E9%A6%99%E6%B8%AF%E6%BC%94%E5%94%B1%E6%9C%832026",
    "source": "Timable",
-   "image": "https://static.timable.com/image_7f5e3e1f-9b22-4009-b500-41fda484fd52-480x600.webp",
+   "image": "https://static.timable.com/image_9eae0544-e350-4607-a971-c452249c7a7d-480x599.webp",
    "featured": false
   },
   {
@@ -12045,6 +12033,18 @@
    "url": "https://www.lcsd.gov.hk/CE/CulturalService/Programme/en/dance/programs_2011.html",
    "source": "康文署",
    "image": "",
+   "featured": false
+  },
+  {
+   "id": "97197c1286c3",
+   "title": "普世平安星光夜音樂會2026",
+   "category": "表演藝術",
+   "start": "2026-12-19",
+   "end": "2026-12-20",
+   "venue": "AXA x WONDERLAND",
+   "url": "https://timable.com/zh/event/%E6%99%AE%E4%B8%96%E5%B9%B3%E5%AE%89%E6%98%9F%E5%85%89%E5%A4%9C%E9%9F%B3%E6%A8%82%E6%9C%832026",
+   "source": "Timable",
+   "image": "https://static.timable.com/image_505b0d20-42dd-4657-9c5d-7684c0809c38-480x640.webp",
    "featured": false
   },
   {
