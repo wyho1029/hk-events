@@ -2014,6 +2014,18 @@
    "featured": false
   },
   {
+   "id": "2ebae0c1fed2",
+   "title": "Freaky Halloween Party 怪誕狂歡哈囉喂《怪誕城之夜》主題期間限定店 @香港時代廣場",
+   "category": "休閒",
+   "start": "2026-10-15",
+   "end": "2026-11-04",
+   "venue": "時代廣場 地庫一樓",
+   "url": "https://timable.com/zh/event/FreakyHalloweenParty%E6%80%AA%E8%AA%95%E7%8B%82%E6%AD%A1%E5%93%88%E5%9B%89%E5%96%82-%E9%98%BFJack-%E5%8F%B2%E8%BF%AA%E4%BB%94-%E4%B8%89%E7%9C%BC%E4%BB%94-%E6%80%AA%E8%AA%95%E5%9F%8E%E4%B9%8B%E5%A4%9C-%E4%B8%BB%E9%A1%8C%E6%9C%9F%E9%96%93%E9%99%90%E5%AE%9A%E5%BA%97-%E9%A6%99%E6%B8%AF%E6%99%82%E4%BB%A3%E5%BB%A3%E5%A0%B4",
+   "source": "Timable",
+   "image": "https://static.timable.com/image_86d1920a-5888-45e6-8bf2-52a256e66d0b-480x276.webp",
+   "featured": false
+  },
+  {
    "id": "c4bdf7ab3a77",
    "title": "《康馨粵曲會知音》粵劇折子戲及粵曲演唱會",
    "category": "表演藝術",
@@ -2287,18 +2299,6 @@
    "url": "https://timable.com/zh/event/PMQCoffeeAgenda%E5%92%96%E5%95%A1%E7%95%8C%E5%B9%B4%E5%BA%A6%E7%9B%9B%E5%85%B82026",
    "source": "Timable",
    "image": "https://static.timable.com/image_8197a313-ef97-4611-ace8-c6101c0a4304-480x320.webp",
-   "featured": false
-  },
-  {
-   "id": "872674f9dd67",
-   "title": "GMMTV 香港快閃店 2026 @如心廣場",
-   "category": "休閒",
-   "start": "2026-10-16",
-   "end": "2026-10-20",
-   "venue": "如心廣場一期",
-   "url": "https://timable.com/zh/event/GMMTV%E9%A6%99%E6%B8%AF%E5%BF%AB%E9%96%83%E5%BA%972026-%E5%A6%82%E5%BF%83%E5%BB%A3%E5%A0%B4%E4%B8%80%E6%9C%9F",
-   "source": "Timable",
-   "image": "https://static.timable.com/image_69cedc10-e203-4aa8-8d98-b0228dade123-480x640.webp",
    "featured": false
   },
   {
@@ -3262,18 +3262,6 @@
    "featured": false
   },
   {
-   "id": "5339ef528349",
-   "title": "張紋嘉 x 學生演出《我。們。之間的距離》廣東歌音樂劇場",
-   "category": "表演藝術",
-   "start": "2026-10-19",
-   "end": "2026-10-19",
-   "venue": "時代廣場 Times Square",
-   "url": "https://timable.com/zh/event/%E5%BC%B5%E7%B4%8B%E5%98%89x%E5%AD%B8%E7%94%9F%E6%BC%94%E5%87%BA-%E6%88%91-%E5%80%91-%E4%B9%8B%E9%96%93%E7%9A%84%E8%B7%9D%E9%9B%A2-%E5%BB%A3%E6%9D%B1%E6%AD%8C%E9%9F%B3%E6%A8%82%E5%8A%87%E5%A0%B4",
-   "source": "Timable",
-   "image": "https://static.timable.com/image_39e76791-19b5-45d1-a3b6-5fe96eb7a791-480x600.webp",
-   "featured": false
-  },
-  {
    "id": "85a6b3ba4166",
    "title": "強勢登場金曲好聲音",
    "category": "表演藝術",
@@ -4138,6 +4126,18 @@
    "featured": false
   },
   {
+   "id": "eb3edc35bfc7",
+   "title": "Vee x DIINTERNET \"Room 00's\" 巡迴演唱會 2026 香港站",
+   "category": "演唱會",
+   "start": "2026-10-24",
+   "end": "2026-10-24",
+   "venue": "Immerse Bar",
+   "url": "https://timable.com/zh/event/VeexDIINTERNET-Room00-s-%E5%B7%A1%E8%BF%B4%E6%BC%94%E5%94%B1%E6%9C%832026%E9%A6%99%E6%B8%AF%E7%AB%99",
+   "source": "Timable",
+   "image": "https://static.timable.com/image_4397790f-27ec-4fb2-89e0-20aad8ee1e73-480x601.webp",
+   "featured": false
+  },
+  {
    "id": "25abe01f9c48",
    "title": "《何占豪大師薪傳講座音樂會》",
    "category": "表演藝術",
@@ -4507,18 +4507,6 @@
    "url": "https://www.lcsd.gov.hk/clpss/tc/search/culture/DetailForm.do?id=187017",
    "source": "康文署",
    "image": "",
-   "featured": false
-  },
-  {
-   "id": "df68b449391c",
-   "title": "《走入唐樓追場夢 · 戲說油麻地》劇場",
-   "category": "表演藝術",
-   "start": "2026-10-25",
-   "end": "2026-11-01",
-   "venue": "紅磚屋",
-   "url": "https://timable.com/zh/event/%E8%B5%B0%E5%85%A5%E5%94%90%E6%A8%93%E8%BF%BD%E5%A0%B4%E5%A4%A2-%E6%88%B2%E8%AA%AA%E6%B2%B9%E9%BA%BB%E5%9C%B0-%E5%8A%87%E5%A0%B4",
-   "source": "Timable",
-   "image": "https://static.timable.com/image_60f36bf4-f98f-4799-8378-65cfda7e9fad-300x437.webp",
    "featured": false
   },
   {
@@ -8290,18 +8278,6 @@
    "featured": false
   },
   {
-   "id": "d3ce830367db",
-   "title": "萬聖萌貓搗蛋派對 @奧海城",
-   "category": "休閒",
-   "start": "2026-10-31",
-   "end": "2026-10-31",
-   "venue": "奧海城",
-   "url": "https://timable.com/zh/event/%E8%90%AC%E8%81%96%E8%90%8C%E8%B2%93%E6%90%97%E8%9B%8B%E6%B4%BE%E5%B0%8D-%E5%A5%A7%E6%B5%B7%E5%9F%8E",
-   "source": "Timable",
-   "image": "https://static.timable.com/image_ce2189ee-9685-43f8-a59d-88e351d862c5-480x600.webp",
-   "featured": false
-  },
-  {
    "id": "d932770e7225",
    "title": "藝術在社區：香港知專設計學院設計才華展現2026",
    "category": "休閒",
@@ -9043,6 +9019,18 @@
    "url": "https://www.lcsd.gov.hk/clpss/tc/search/culture/DetailForm.do?id=188397",
    "source": "康文署",
    "image": "",
+   "featured": false
+  },
+  {
+   "id": "2c4214b37d04",
+   "title": "聖誕「喵」想成真」＠MOSTown新港城中心",
+   "category": "休閒",
+   "start": "2026-11-07",
+   "end": "2027-01-03",
+   "venue": "新港城中心 L2 天幕廣場",
+   "url": "https://timable.com/zh/event/%E8%81%96%E8%AA%95-%E5%96%B5-%E6%83%B3%E6%88%90%E7%9C%9F--MOSTown%E6%96%B0%E6%B8%AF%E5%9F%8E%E4%B8%AD%E5%BF%83",
+   "source": "Timable",
+   "image": "https://static.timable.com/image_49fd579e-f707-48be-ada2-bd73a9d681b1-480x270.webp",
    "featured": false
   },
   {
@@ -11230,6 +11218,18 @@
    "featured": false
   },
   {
+   "id": "dfcbb5133595",
+   "title": "\"Pinocchio The Panto\" 舞台劇 @Hong Kong Players 劇團",
+   "category": "休閒",
+   "start": "2026-11-27",
+   "end": "2026-12-06",
+   "venue": "香港藝術中心 壽臣劇院",
+   "url": "https://timable.com/zh/event/PinocchioThePanto-%E8%88%9E%E5%8F%B0%E5%8A%87-HongKongPlayers%E5%8A%87%E5%9C%98",
+   "source": "Timable",
+   "image": "https://static.timable.com/image_172a94b3-b591-46cb-9922-daa7c9ee112a-480x360.webp",
+   "featured": false
+  },
+  {
    "id": "9b192814fb5d",
    "title": "Dr. Kong 呈獻：女王教室特別版",
    "category": "休閒",
@@ -11563,6 +11563,18 @@
    "url": "https://www.lcsd.gov.hk/clpss/tc/search/culture/DetailForm.do?id=188593",
    "source": "康文署",
    "image": "",
+   "featured": false
+  },
+  {
+   "id": "4a4405b94c40",
+   "title": "羅曼四重奏「奇妙音樂茶會」親子音樂會",
+   "category": "表演藝術",
+   "start": "2026-11-29",
+   "end": "2026-11-29",
+   "venue": "屯門大會堂 文娛廳",
+   "url": "https://timable.com/zh/event/%E7%BE%85%E6%9B%BC%E5%9B%9B%E9%87%8D%E5%A5%8F-AMagicalTeaParty%E5%A5%87%E5%A6%99%E9%9F%B3%E6%A8%82%E8%8C%B6%E6%9C%83-%E8%A6%AA%E5%AD%90%E9%9F%B3%E6%A8%82%E6%9C%83",
+   "source": "Timable",
+   "image": "https://static.timable.com/image_49b971c4-66c2-4df6-b9bf-94bb18b7fa66-480x600.webp",
    "featured": false
   },
   {
@@ -12126,7 +12138,7 @@
    "venue": "啟德體育園 主場館",
    "url": "https://timable.com/zh/event/%E5%AE%B9%E7%A5%96%E5%85%92%E5%B7%A1%E8%BF%B4%E6%BC%94%E5%94%B1%E6%9C%83%202026%20%E9%A6%99%E6%B8%AF%E7%AB%99%20%40%E5%95%9F%E5%BE%B7%E4%B8%BB%E5%A0%B4%E9%A4%A8",
    "source": "Timable",
-   "image": "https://static.timable.com/image_3cde14f2-c94c-496c-8db3-4cd13ddbb0ee-480x600.webp",
+   "image": "https://static.timable.com/image_d6c0df38-244d-4a5f-9255-e697bf59fec7-480x640.webp",
    "featured": false
   },
   {
@@ -12175,18 +12187,6 @@
    "url": "https://www.lcsd.gov.hk/tc/ticket/index.html",
    "source": "康文署",
    "image": "",
-   "featured": false
-  },
-  {
-   "id": "3b7d7e4e5ea1",
-   "title": "NCT WISH \"Face our Wish\" 巡迴演唱會 2027 香港站",
-   "category": "演唱會",
-   "start": "2027-04-30",
-   "end": "2027-04-30",
-   "venue": "亞洲國際博覽館 ARENA",
-   "url": "https://timable.com/zh/event/NCTWISH-FaceourWish-%E5%B7%A1%E8%BF%B4%E6%BC%94%E5%94%B1%E6%9C%832027%E9%A6%99%E6%B8%AF%E7%AB%99",
-   "source": "Timable",
-   "image": "https://static.timable.com/image_9eaec5b5-6366-485f-a5f0-c3b455aaf432-480x640.webp",
    "featured": false
   },
   {
