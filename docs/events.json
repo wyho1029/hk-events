@@ -5626,18 +5626,6 @@
    "featured": false
   },
   {
-   "id": "4b881cee130e",
-   "title": "側田《再一起 COME TOGETHER》演唱會 2026 香港站",
-   "category": "演唱會",
-   "start": "2026-10-30",
-   "end": "2026-10-31",
-   "venue": "安盛 x 竹翠公園",
-   "url": "https://timable.com/zh/event/%E5%81%B4%E7%94%B0-%E5%86%8D%E4%B8%80%E8%B5%B7COMETOGETHER-%E6%BC%94%E5%94%B1%E6%9C%83%E9%A6%99%E6%B8%AF%E7%AB%99",
-   "source": "Timable",
-   "image": "https://static.timable.com/image_e8409120-e03d-46e7-adae-077f5143d6d3-480x667.webp",
-   "featured": false
-  },
-  {
    "id": "8b2cb58fd346",
    "title": "兒童書籍介紹 － 傳奇人生",
    "category": "親子",
@@ -12139,6 +12127,18 @@
    "url": "https://timable.com/zh/event/%E5%AE%B9%E7%A5%96%E5%85%92%E5%B7%A1%E8%BF%B4%E6%BC%94%E5%94%B1%E6%9C%83%202026%20%E9%A6%99%E6%B8%AF%E7%AB%99%20%40%E5%95%9F%E5%BE%B7%E4%B8%BB%E5%A0%B4%E9%A4%A8",
    "source": "Timable",
    "image": "https://static.timable.com/image_d6c0df38-244d-4a5f-9255-e697bf59fec7-480x640.webp",
+   "featured": false
+  },
+  {
+   "id": "229de21166cb",
+   "title": "Gareth.T 湯令山 紅館演唱會 2027",
+   "category": "演唱會",
+   "start": "2027-01-20",
+   "end": "2027-01-23",
+   "venue": "香港體育館 (紅館)",
+   "url": "https://timable.com/zh/event/Gareth-T%E6%B9%AF%E4%BB%A4%E5%B1%B1%E7%B4%85%E9%A4%A8%E6%BC%94%E5%94%B1%E6%9C%832027",
+   "source": "Timable",
+   "image": "https://static.timable.com/image_47c1223d-ceb5-4f80-a742-62cd2224baab-480x600.webp",
    "featured": false
   },
   {
