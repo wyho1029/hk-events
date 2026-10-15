@@ -1908,30 +1908,6 @@
    "featured": false
   },
   {
-   "id": "9b18483dd45c",
-   "title": "CIRCLE「肆·行無忌」 4周年音樂會",
-   "category": "表演藝術",
-   "start": "2026-10-16",
-   "end": "2026-10-17",
-   "venue": "Social Room",
-   "url": "https://timable.com/zh/event/CIRCLE-%E8%82%86-%E8%A1%8C%E7%84%A1%E5%BF%8C-4%E5%91%A8%E5%B9%B4%E9%9F%B3%E6%A8%82%E6%9C%83",
-   "source": "Timable",
-   "image": "https://static.timable.com/image_679ce5f1-0bfa-4c26-acdd-66dd16b9e580-480x600.webp",
-   "featured": false
-  },
-  {
-   "id": "be9b27da983e",
-   "title": "Coffee Agenda 咖啡界年度盛典 2026 @PMQ",
-   "category": "休閒",
-   "start": "2026-10-16",
-   "end": "2026-10-19",
-   "venue": "PMQ 元創方",
-   "url": "https://timable.com/zh/event/PMQCoffeeAgenda%E5%92%96%E5%95%A1%E7%95%8C%E5%B9%B4%E5%BA%A6%E7%9B%9B%E5%85%B82026",
-   "source": "Timable",
-   "image": "https://static.timable.com/image_8197a313-ef97-4611-ace8-c6101c0a4304-480x320.webp",
-   "featured": false
-  },
-  {
    "id": "8b2d04983136",
    "title": "Haya Art & Creative 6周年師生展 藝術夢工廠",
    "category": "休閒",
@@ -1941,6 +1917,18 @@
    "url": "https://www.lcsd.gov.hk/clpss/tc/search/culture/DetailForm.do?id=187043",
    "source": "康文署",
    "image": "",
+   "featured": false
+  },
+  {
+   "id": "be9b27da983e",
+   "title": "PMQ Coffee Agenda 2026",
+   "category": "休閒",
+   "start": "2026-10-16",
+   "end": "2026-10-19",
+   "venue": "PMQ 元創方",
+   "url": "https://timable.com/zh/event/PMQ%20Coffee%20Agenda%202026",
+   "source": "Timable",
+   "image": "https://static.timable.com/image_8197a313-ef97-4611-ace8-c6101c0a4304-480x320.webp",
    "featured": false
   },
   {
@@ -2469,6 +2457,18 @@
    "url": "https://zh.ccohk.com/events/2026-2027/the-bonn-man",
    "source": "康文署",
    "image": "",
+   "featured": false
+  },
+  {
+   "id": "f49203516183",
+   "title": "蘭桂坊怪物巡禮夜 2026",
+   "category": "休閒",
+   "start": "2026-10-17",
+   "end": "2026-10-31",
+   "venue": "蘭桂坊",
+   "url": "https://timable.com/zh/event/%E8%98%AD%E6%A1%82%E5%9D%8A%E6%80%AA%E7%89%A9%E5%B7%A1%E7%A6%AE%E5%A4%9C2026",
+   "source": "Timable",
+   "image": "https://static.timable.com/image_75618e0b-ef8d-46c3-8bee-f410fb5c2025-480x320.webp",
    "featured": false
   },
   {
@@ -7128,6 +7128,18 @@
    "featured": false
   },
   {
+   "id": "108f09192558",
+   "title": "屯門沙灘節 2026",
+   "category": "休閒",
+   "start": "2026-10-31",
+   "end": "2026-10-31",
+   "venue": "屯門黃金泳灘及新咖啡灣泳灘",
+   "url": "https://timable.com/zh/event/%E5%B1%AF%E9%96%80%E6%B2%99%E7%81%98%E7%AF%802026",
+   "source": "Timable",
+   "image": "https://static.timable.com/image_8e9819a2-f18d-4a0c-865b-c86d6f677828-480x211.webp",
+   "featured": false
+  },
+  {
    "id": "1d575cfe3584",
    "title": "廠出傳奇—香港工業回眸",
    "category": "休閒",
@@ -8760,6 +8772,18 @@
    "featured": false
   },
   {
+   "id": "eaa1aaf42232",
+   "title": "wiggle wiggle Magic Academy@MCP新都城中心",
+   "category": "休閒",
+   "start": "2026-11-07",
+   "end": "2027-01-03",
+   "venue": "MCP新都城中心 2期 L1天幕廣場",
+   "url": "https://timable.com/zh/event/wigglewiggleMagicAcademy-MCP%E6%96%B0%E9%83%BD%E5%9F%8E%E4%B8%AD%E5%BF%83",
+   "source": "Timable",
+   "image": "https://static.timable.com/image_f1d12884-8e17-4914-b769-eb4246237d3e-480x270.webp",
+   "featured": false
+  },
+  {
    "id": "7597520e859a",
    "title": "《巨債》",
    "category": "休閒",
@@ -9633,18 +9657,6 @@
    "url": "https://timable.com/zh/event/JANICEVIDAL%E8%A1%9B%E8%98%AD-OUTOFFRAME-%E4%B8%96%E7%95%8C%E5%B7%A1%E8%BF%B4%E6%BC%94%E5%94%B1%E6%9C%83-%E9%A6%99%E6%B8%AF%E7%AB%99",
    "source": "Timable",
    "image": "https://static.timable.com/image_8f5352ba-3225-4801-bb2e-97ecc2af4fd6-480x600.webp",
-   "featured": false
-  },
-  {
-   "id": "2f4f45cae0e7",
-   "title": "《世界音樂嘉年華》音樂會@青年少年管弦樂團",
-   "category": "表演藝術",
-   "start": "2026-11-14",
-   "end": "2026-11-14",
-   "venue": "香港大會堂 音樂廳",
-   "url": "https://timable.com/zh/event/%E4%B8%96%E7%95%8C%E9%9F%B3%E6%A8%82%E5%98%89%E5%B9%B4%E8%8F%AF-%E9%9F%B3%E6%A8%82%E6%9C%83-%E9%9D%92%E5%B9%B4%E5%B0%91%E5%B9%B4%E7%AE%A1%E5%BC%A6%E6%A8%82%E5%9C%98",
-   "source": "Timable",
-   "image": "https://static.timable.com/image_93763db9-9600-4f8f-b1b4-c6f423bcaa15-480x644.webp",
    "featured": false
   },
   {
@@ -11220,18 +11232,6 @@
    "featured": false
   },
   {
-   "id": "57729e4fb031",
-   "title": "《萬曆十五年》大歷史話劇@進念．二十面體",
-   "category": "表演藝術",
-   "start": "2026-11-27",
-   "end": "2026-12-04",
-   "venue": "上環文娛中心",
-   "url": "https://timable.com/zh/event/%E8%90%AC%E6%9B%86%E5%8D%81%E4%BA%94%E5%B9%B4-%E5%A4%A7%E6%AD%B7%E5%8F%B2%E8%A9%B1%E5%8A%87-%E9%80%B2%E5%BF%B5-%E4%BA%8C%E5%8D%81%E9%9D%A2%E9%AB%94",
-   "source": "Timable",
-   "image": "https://static.timable.com/image_04cd90b7-61e3-445e-882c-839fa31f0f3c-480x600.webp",
-   "featured": false
-  },
-  {
    "id": "1a7039cbf98a",
    "title": "優里YUURI 香港演唱會 2026",
    "category": "演唱會",
@@ -11529,18 +11529,6 @@
    "url": "https://www.lcsd.gov.hk/clpss/tc/search/culture/DetailForm.do?id=188573",
    "source": "康文署",
    "image": "",
-   "featured": false
-  },
-  {
-   "id": "c044b4a8940c",
-   "title": "阮繼昌《拜將臺》原創粵劇15周年跨界版 @桃花源粵劇工作舍",
-   "category": "表演藝術",
-   "start": "2026-11-28",
-   "end": "2026-12-12",
-   "venue": "東九文化中心 劇場",
-   "url": "https://timable.com/zh/event/%E9%98%AE%E7%B9%BC%E6%98%8C-%E6%8B%9C%E5%B0%87%E8%87%BA-%E5%8E%9F%E5%89%B5%E7%B2%B5%E5%8A%8715%E5%91%A8%E5%B9%B4%E8%B7%A8%E7%95%8C%E7%89%88-%E6%A1%83%E8%8A%B1%E6%BA%90%E7%B2%B5%E5%8A%87%E5%B7%A5%E4%BD%9C%E8%88%8D",
-   "source": "Timable",
-   "image": "https://static.timable.com/image_730251dc-c752-49da-82f7-9746b4400569-480x600.webp",
    "featured": false
   },
   {
@@ -12069,6 +12057,18 @@
    "url": "https://www.hkphil.org/tc/concert/festive-cadenza-once-in-a-christmas-dream-with-joyce-cheung",
    "source": "康文署",
    "image": "",
+   "featured": false
+  },
+  {
+   "id": "c88d50ce46e3",
+   "title": "\"WISHMAS MARKET in AQUABEAT\"聖誕市集",
+   "category": "市集",
+   "start": "2026-12-24",
+   "end": "2026-12-27",
+   "venue": "AquaBeat 02",
+   "url": "https://timable.com/zh/event/WISHMASMARKETinAQUABEAT-%E8%81%96%E8%AA%95%E5%B8%82%E9%9B%86",
+   "source": "Timable",
+   "image": "https://static.timable.com/image_5067aabb-830a-416a-a988-cb74ef6dbab2-480x618.webp",
    "featured": false
   },
   {
