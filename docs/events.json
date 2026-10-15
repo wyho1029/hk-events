@@ -3156,6 +3156,18 @@
    "featured": false
   },
   {
+   "id": "a4178954f35f",
+   "title": "粵劇演出系列@蓋鳴暉 x 鳴芝聲劇團",
+   "category": "表演藝術",
+   "start": "2026-10-21",
+   "end": "2026-10-25",
+   "venue": "沙田大會堂 演奏廳",
+   "url": "https://timable.com/zh/event/%E7%B2%B5%E5%8A%87%E6%BC%94%E5%87%BA%E7%B3%BB%E5%88%97-%E8%93%8B%E9%B3%B4%E6%9A%89x%E9%B3%B4%E8%8A%9D%E8%81%B2%E5%8A%87%E5%9C%98",
+   "source": "Timable",
+   "image": "https://static.timable.com/image_bc9544e3-ca20-49d9-b06f-1e4699f22737-480x640.webp",
+   "featured": false
+  },
+  {
    "id": "1803b7404859",
    "title": "金曲旋律友您友我演唱會",
    "category": "演唱會",
@@ -3768,18 +3780,6 @@
    "featured": false
   },
   {
-   "id": "eb3edc35bfc7",
-   "title": "Vee x DIINTERNET \"Room 00's\" 巡迴演唱會 2026 香港站",
-   "category": "演唱會",
-   "start": "2026-10-24",
-   "end": "2026-10-24",
-   "venue": "Immerse Bar",
-   "url": "https://timable.com/zh/event/VeexDIINTERNET-Room00-s-%E5%B7%A1%E8%BF%B4%E6%BC%94%E5%94%B1%E6%9C%832026%E9%A6%99%E6%B8%AF%E7%AB%99",
-   "source": "Timable",
-   "image": "https://static.timable.com/image_4397790f-27ec-4fb2-89e0-20aad8ee1e73-480x601.webp",
-   "featured": false
-  },
-  {
    "id": "25abe01f9c48",
    "title": "《何占豪大師薪傳講座音樂會》",
    "category": "表演藝術",
@@ -4005,18 +4005,6 @@
    "url": "http://www.hkpl.gov.hk/tc/extension-activities/all-events/search?lib_id=996",
    "source": "康文署",
    "image": "",
-   "featured": false
-  },
-  {
-   "id": "222943f1d8f6",
-   "title": "糖妹《因為寂寞》演唱會 香港站",
-   "category": "演唱會",
-   "start": "2026-10-24",
-   "end": "2026-10-25",
-   "venue": "P’Artiste",
-   "url": "https://timable.com/zh/event/%E7%B3%96%E5%A6%B9Kandy-%E5%9B%A0%E7%82%BA%E5%AF%82%E5%AF%9E-%E9%9F%B3%E6%A8%82%E6%9C%83%E9%A6%99%E6%B8%AF%E7%AB%99",
-   "source": "Timable",
-   "image": "https://static.timable.com/image_edb9d6fe-f1c3-4051-880b-aa488bded48f-480x627.webp",
    "featured": false
   },
   {
@@ -11196,18 +11184,6 @@
    "featured": false
   },
   {
-   "id": "dfcbb5133595",
-   "title": "\"Pinocchio The Panto\" 舞台劇 @Hong Kong Players 劇團",
-   "category": "休閒",
-   "start": "2026-11-27",
-   "end": "2026-12-06",
-   "venue": "香港藝術中心 壽臣劇院",
-   "url": "https://timable.com/zh/event/PinocchioThePanto-%E8%88%9E%E5%8F%B0%E5%8A%87-HongKongPlayers%E5%8A%87%E5%9C%98",
-   "source": "Timable",
-   "image": "https://static.timable.com/image_172a94b3-b591-46cb-9922-daa7c9ee112a-480x360.webp",
-   "featured": false
-  },
-  {
    "id": "9b192814fb5d",
    "title": "Dr. Kong 呈獻：女王教室特別版",
    "category": "休閒",
@@ -11244,6 +11220,18 @@
    "featured": false
   },
   {
+   "id": "57729e4fb031",
+   "title": "《萬曆十五年》大歷史話劇@進念．二十面體",
+   "category": "表演藝術",
+   "start": "2026-11-27",
+   "end": "2026-12-04",
+   "venue": "上環文娛中心",
+   "url": "https://timable.com/zh/event/%E8%90%AC%E6%9B%86%E5%8D%81%E4%BA%94%E5%B9%B4-%E5%A4%A7%E6%AD%B7%E5%8F%B2%E8%A9%B1%E5%8A%87-%E9%80%B2%E5%BF%B5-%E4%BA%8C%E5%8D%81%E9%9D%A2%E9%AB%94",
+   "source": "Timable",
+   "image": "https://static.timable.com/image_04cd90b7-61e3-445e-882c-839fa31f0f3c-480x600.webp",
+   "featured": false
+  },
+  {
    "id": "1a7039cbf98a",
    "title": "優里YUURI 香港演唱會 2026",
    "category": "演唱會",
@@ -11273,7 +11261,7 @@
    "category": "演唱會",
    "start": "2026-11-27",
    "end": "2026-11-29",
-   "venue": "Hong Kong Coliseum",
+   "venue": "香港體育館 (紅館)",
    "url": "https://timable.com/zh/event/%E6%A2%81%E8%A9%A0%E7%90%AA%E7%B4%85%E9%A4%A8%E6%BC%94%E5%94%B1%E6%9C%832026",
    "source": "Timable",
    "image": "https://static.timable.com/image_b5d926bc-e1b2-46e0-8447-b26639a5ef84-480x720.webp",
@@ -11544,6 +11532,18 @@
    "featured": false
   },
   {
+   "id": "c044b4a8940c",
+   "title": "阮繼昌《拜將臺》原創粵劇15周年跨界版 @桃花源粵劇工作舍",
+   "category": "表演藝術",
+   "start": "2026-11-28",
+   "end": "2026-12-12",
+   "venue": "東九文化中心 劇場",
+   "url": "https://timable.com/zh/event/%E9%98%AE%E7%B9%BC%E6%98%8C-%E6%8B%9C%E5%B0%87%E8%87%BA-%E5%8E%9F%E5%89%B5%E7%B2%B5%E5%8A%8715%E5%91%A8%E5%B9%B4%E8%B7%A8%E7%95%8C%E7%89%88-%E6%A1%83%E8%8A%B1%E6%BA%90%E7%B2%B5%E5%8A%87%E5%B7%A5%E4%BD%9C%E8%88%8D",
+   "source": "Timable",
+   "image": "https://static.timable.com/image_730251dc-c752-49da-82f7-9746b4400569-480x600.webp",
+   "featured": false
+  },
+  {
    "id": "d1bc69ff6291",
    "title": "2026社區文化大使: 香港非洲藝術文化協會「節拍部落」互動鼓舞巡演",
    "category": "休閒",
@@ -11613,18 +11613,6 @@
    "url": "https://www.lcsd.gov.hk/clpss/tc/search/culture/DetailForm.do?id=189344",
    "source": "康文署",
    "image": "",
-   "featured": false
-  },
-  {
-   "id": "4a4405b94c40",
-   "title": "羅曼四重奏「奇妙音樂茶會」親子音樂會",
-   "category": "表演藝術",
-   "start": "2026-11-29",
-   "end": "2026-11-29",
-   "venue": "屯門大會堂 文娛廳",
-   "url": "https://timable.com/zh/event/%E7%BE%85%E6%9B%BC%E5%9B%9B%E9%87%8D%E5%A5%8F-AMagicalTeaParty%E5%A5%87%E5%A6%99%E9%9F%B3%E6%A8%82%E8%8C%B6%E6%9C%83-%E8%A6%AA%E5%AD%90%E9%9F%B3%E6%A8%82%E6%9C%83",
-   "source": "Timable",
-   "image": "https://static.timable.com/image_49b971c4-66c2-4df6-b9bf-94bb18b7fa66-480x600.webp",
    "featured": false
   },
   {
@@ -11889,6 +11877,18 @@
    "url": "https://www.ekcc.hk/zh-hk/events/2026/Dont-stop-catch-up-walk-on.html",
    "source": "康文署",
    "image": "",
+   "featured": false
+  },
+  {
+   "id": "d16c512d309f",
+   "title": "樂善堂 x Usagyuuun!!! 萬人行 2026",
+   "category": "休閒",
+   "start": "2026-12-12",
+   "end": "2026-12-12",
+   "venue": "將軍澳海濱公園",
+   "url": "https://timable.com/zh/event/%E6%A8%82%E5%96%84%E5%A0%82xUsagyuuun---%E8%90%AC%E4%BA%BA%E8%A1%8C2026",
+   "source": "Timable",
+   "image": "https://static.timable.com/image_c557aef9-116c-425a-b84e-6375745d9783-480x178.webp",
    "featured": false
   },
   {
