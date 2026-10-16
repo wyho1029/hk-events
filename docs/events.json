@@ -2240,18 +2240,6 @@
    "featured": false
   },
   {
-   "id": "f49203516183",
-   "title": "蘭桂坊怪物巡禮夜 2026",
-   "category": "休閒",
-   "start": "2026-10-17",
-   "end": "2026-10-31",
-   "venue": "蘭桂坊",
-   "url": "https://timable.com/zh/event/%E8%98%AD%E6%A1%82%E5%9D%8A%E6%80%AA%E7%89%A9%E5%B7%A1%E7%A6%AE%E5%A4%9C2026",
-   "source": "Timable",
-   "image": "https://static.timable.com/image_75618e0b-ef8d-46c3-8bee-f410fb5c2025-480x320.webp",
-   "featured": false
-  },
-  {
    "id": "597bae8f350c",
    "title": "西灣河文娛中心場地伙伴計劃 : 滴音樂系列音樂會 : Ari Hoenig三重奏—Tivon Pennicott及Ben Tiberio",
    "category": "表演藝術",
@@ -2933,6 +2921,18 @@
    "url": "http://www.hkpl.gov.hk/tc/extension-activities/all-events/search?lib_id=1002",
    "source": "康文署",
    "image": "",
+   "featured": false
+  },
+  {
+   "id": "a4178954f35f",
+   "title": "粵劇演出系列@蓋鳴暉 x 鳴芝聲劇團",
+   "category": "表演藝術",
+   "start": "2026-10-21",
+   "end": "2026-10-25",
+   "venue": "沙田大會堂 演奏廳",
+   "url": "https://timable.com/zh/event/%E7%B2%B5%E5%8A%87%E6%BC%94%E5%87%BA%E7%B3%BB%E5%88%97-%E8%93%8B%E9%B3%B4%E6%9A%89x%E9%B3%B4%E8%8A%9D%E8%81%B2%E5%8A%87%E5%9C%98",
+   "source": "Timable",
+   "image": "https://static.timable.com/image_bc9544e3-ca20-49d9-b06f-1e4699f22737-480x640.webp",
    "featured": false
   },
   {
