@@ -2936,18 +2936,6 @@
    "featured": false
   },
   {
-   "id": "a4178954f35f",
-   "title": "粵劇演出系列@蓋鳴暉 x 鳴芝聲劇團",
-   "category": "表演藝術",
-   "start": "2026-10-21",
-   "end": "2026-10-25",
-   "venue": "沙田大會堂 演奏廳",
-   "url": "https://timable.com/zh/event/%E7%B2%B5%E5%8A%87%E6%BC%94%E5%87%BA%E7%B3%BB%E5%88%97-%E8%93%8B%E9%B3%B4%E6%9A%89x%E9%B3%B4%E8%8A%9D%E8%81%B2%E5%8A%87%E5%9C%98",
-   "source": "Timable",
-   "image": "https://static.timable.com/image_bc9544e3-ca20-49d9-b06f-1e4699f22737-480x640.webp",
-   "featured": false
-  },
-  {
    "id": "1803b7404859",
    "title": "金曲旋律友您友我演唱會",
    "category": "演唱會",
@@ -12029,6 +12017,18 @@
    "url": "https://timable.com/zh/event/%E6%A8%82%E5%96%84%E5%A0%82xUsagyuuun---%E8%90%AC%E4%BA%BA%E8%A1%8C2026",
    "source": "Timable",
    "image": "https://static.timable.com/image_c557aef9-116c-425a-b84e-6375745d9783-480x178.webp",
+   "featured": false
+  },
+  {
+   "id": "adde03aec8ff",
+   "title": "陳奕迅 \"Recording Sessions with Mr. Eason Chan\" 現場錄音音樂會 2026",
+   "category": "表演藝術",
+   "start": "2026-12-12",
+   "end": "2027-02-20",
+   "venue": "香港演藝學院 歌劇院",
+   "url": "https://timable.com/zh/event/%E9%99%B3%E5%A5%95%E8%BF%85-%E6%96%B0%E5%89%B5%E8%88%89-%E9%80%A3%E9%96%8B26%E5%A0%B4%E4%B8%8D%E9%81%8E%E5%94%94%E4%BF%82%E6%BC%94%E5%94%B1%E6%9C%83-",
+   "source": "Timable",
+   "image": "https://static.timable.com/image_f923dd9a-ace1-473f-b36f-ebaf54b80ad6-480x640.webp",
    "featured": false
   },
   {
