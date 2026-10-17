@@ -530,18 +530,6 @@
    "featured": false
   },
   {
-   "id": "7e733bbe9d95",
-   "title": "「看雪花的鳥」 江俊雅個人展覽",
-   "category": "展覽",
-   "start": "2026-09-17",
-   "end": "2026-10-17",
-   "venue": "Contemporary By Angela Li 畫廊",
-   "url": "https://timable.com/zh/event/%E7%9C%8B%E9%9B%AA%E8%8A%B1%E7%9A%84%E9%B3%A5BirdWatchingSnowflakes-%E6%B1%9F%E4%BF%8A%E9%9B%85%E5%80%8B%E4%BA%BA%E5%B1%95%E8%A6%BD",
-   "source": "Timable",
-   "image": "https://static.timable.com/image_5317bd6c-389b-4635-8e7f-06e94402180c-480x600.webp",
-   "featured": false
-  },
-  {
    "id": "9b94a78e8b8f",
    "title": "亞藝無疆2026︰世界音樂沙龍系列：聲音導航 「亞藝無疆」",
    "category": "休閒",
@@ -695,18 +683,6 @@
    "url": "https://www.lcsd.gov.hk/fp/tc/listing.html?id=99",
    "source": "康文署",
    "image": "",
-   "featured": false
-  },
-  {
-   "id": "db4e8a3598e3",
-   "title": "龐學文「人體蛻變」個人展覽",
-   "category": "展覽",
-   "start": "2026-10-09",
-   "end": "2026-10-17",
-   "venue": "LIVIN ARTSPACE",
-   "url": "https://timable.com/zh/event/%E9%BE%90%E5%AD%B8%E6%96%87-%E4%BA%BA%E9%AB%94%E8%9B%BB%E8%AE%8A-%E5%B1%95%E8%A6%BD",
-   "source": "Timable",
-   "image": "https://static.timable.com/image_7669de9f-cf2f-45b5-a813-32dc0f6a80df-480x320.webp",
    "featured": false
   },
   {
@@ -2976,18 +2952,6 @@
    "featured": false
   },
   {
-   "id": "a4178954f35f",
-   "title": "粵劇演出系列@蓋鳴暉 x 鳴芝聲劇團",
-   "category": "表演藝術",
-   "start": "2026-10-21",
-   "end": "2026-10-25",
-   "venue": "沙田大會堂 演奏廳",
-   "url": "https://timable.com/zh/event/%E7%B2%B5%E5%8A%87%E6%BC%94%E5%87%BA%E7%B3%BB%E5%88%97-%E8%93%8B%E9%B3%B4%E6%9A%89x%E9%B3%B4%E8%8A%9D%E8%81%B2%E5%8A%87%E5%9C%98",
-   "source": "Timable",
-   "image": "https://static.timable.com/image_bc9544e3-ca20-49d9-b06f-1e4699f22737-480x640.webp",
-   "featured": false
-  },
-  {
    "id": "1803b7404859",
    "title": "金曲旋律友您友我演唱會",
    "category": "演唱會",
@@ -4785,6 +4749,18 @@
    "url": "http://www.hkpl.gov.hk/tc/extension-activities/all-events/search?lib_id=107337",
    "source": "康文署",
    "image": "",
+   "featured": false
+  },
+  {
+   "id": "38c8e7456576",
+   "title": "可持續‧新燃全城跨界藝術展",
+   "category": "展覽",
+   "start": "2026-10-28",
+   "end": "2026-11-08",
+   "venue": "The Bridge+ Living Art Space",
+   "url": "https://timable.com/zh/event/%E5%8F%AF%E6%8C%81%E7%BA%8C-%E6%96%B0%E7%87%83%E5%85%A8%E5%9F%8E%E8%B7%A8%E7%95%8C%E8%97%9D%E8%A1%93%E5%B1%95",
+   "source": "Timable",
+   "image": "https://static.timable.com/image_44cea9d6-97bb-4b55-ae31-b8d111236f99-480x600.webp",
    "featured": false
   },
   {
