@@ -26,18 +26,6 @@
    "featured": true
   },
   {
-   "id": "e5b8354e82ef",
-   "title": "琳瑯──紐約大都會藝術博物館世界珠寶珍藏",
-   "category": "大型盛事",
-   "start": "2026-04-15",
-   "end": "2026-10-19",
-   "venue": "香港故宮文化博物館",
-   "url": "https://www.hkpm.org.hk/tc/exhibition/treasures-of-global-jewellery-from-the-metropolitan-museum-of-art-the-body-transformed",
-   "source": "盛事之都",
-   "image": "https://www.brandhk.gov.hk/images/default-source/about-brandhk/1600x9000fa39407-b4ff-4b1a-b146-b539c71b5b0a.jpg",
-   "featured": true
-  },
-  {
    "id": "5c49bcdbce65",
    "title": "紫禁城看世界──中外文化交流與互鑒",
    "category": "大型盛事",
@@ -779,18 +767,6 @@
    "url": "https://www.cpo.gov.hk/zh-hk/event/tc-ed-2627/",
    "source": "康文署",
    "image": "",
-   "featured": false
-  },
-  {
-   "id": "be9b27da983e",
-   "title": "PMQ Coffee Agenda 2026",
-   "category": "休閒",
-   "start": "2026-10-16",
-   "end": "2026-10-19",
-   "venue": "PMQ 元創方",
-   "url": "https://timable.com/zh/event/PMQ%20Coffee%20Agenda%202026",
-   "source": "Timable",
-   "image": "https://static.timable.com/image_8197a313-ef97-4611-ace8-c6101c0a4304-480x320.webp",
    "featured": false
   },
   {
@@ -4197,18 +4173,6 @@
    "url": "https://www.asiaplus.gov.hk/2026/tc/assad-brothers",
    "source": "康文署",
    "image": "",
-   "featured": false
-  },
-  {
-   "id": "4b881cee130e",
-   "title": "側田《再一起 COME TOGETHER》演唱會 2026 香港站",
-   "category": "演唱會",
-   "start": "2026-10-30",
-   "end": "2026-10-31",
-   "venue": "安盛 x 竹翠公園",
-   "url": "https://timable.com/zh/event/%E5%81%B4%E7%94%B0-%E5%86%8D%E4%B8%80%E8%B5%B7COMETOGETHER-%E6%BC%94%E5%94%B1%E6%9C%83%E9%A6%99%E6%B8%AF%E7%AB%99",
-   "source": "Timable",
-   "image": "https://static.timable.com/image_e8409120-e03d-46e7-adae-077f5143d6d3-480x667.webp",
    "featured": false
   },
   {
@@ -11529,6 +11493,18 @@
    "url": "https://www.lcsd.gov.hk/tc/ticket/index.html",
    "source": "康文署",
    "image": "",
+   "featured": false
+  },
+  {
+   "id": "920d5ebcc9ed",
+   "title": "張與辰 x Richard Goodall「冬日交響」音樂會 2026",
+   "category": "表演藝術",
+   "start": "2026-12-26",
+   "end": "2026-12-26",
+   "venue": "香港文化中心 音樂廳",
+   "url": "https://timable.com/zh/event/%E5%BC%B5%E8%88%87%E8%BE%B0xRichardGoodallx%E9%A6%99%E6%B8%AF%E6%A5%AD%E9%A4%98%E7%AE%A1%E5%BC%A6%E6%A8%82%E5%9C%98%E9%9F%B3%E6%A8%82%E6%9C%832026",
+   "source": "Timable",
+   "image": "https://static.timable.com/image_45e3410a-d9c2-454e-a3e3-d3ad82329ef9-480x720.webp",
    "featured": false
   },
   {
