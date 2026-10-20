@@ -458,30 +458,6 @@
    "featured": false
   },
   {
-   "id": "7dc8ae90303a",
-   "title": "「縫隙求生:香港自生的城市景觀」展覽",
-   "category": "展覽",
-   "start": "2026-08-24",
-   "end": "2026-11-15",
-   "venue": "南豐紗廠 紗廠公園",
-   "url": "https://timable.com/zh/event/%E7%B8%AB%E9%9A%99%E6%B1%82%E7%94%9F-%E9%A6%99%E6%B8%AF%E8%87%AA%E7%94%9F%E7%9A%84%E5%9F%8E%E5%B8%82%E6%99%AF%E8%A7%80-%E5%B1%95%E8%A6%BD",
-   "source": "Timable",
-   "image": "https://static.timable.com/image_977ee18d-5a5c-4e92-8c11-b79afefd75d8-300x400.webp",
-   "featured": false
-  },
-  {
-   "id": "98b5e65a74b6",
-   "title": "「謐語」 賴韋霖 個展",
-   "category": "展覽",
-   "start": "2026-08-27",
-   "end": "2026-10-23",
-   "venue": "3812畫廊 (中環)",
-   "url": "https://timable.com/zh/event/TranquilState-%E8%B3%B4%E9%9F%8B%E9%9C%96%E5%80%8B%E5%B1%95",
-   "source": "Timable",
-   "image": "https://static.timable.com/image_b44ac00c-b6f7-406e-b1f2-35fa528c3a45-480x600.webp",
-   "featured": false
-  },
-  {
    "id": "ed07abb4a1dc",
    "title": "「藝探埃及: 超時空之旅」沉浸式數碼藝術體驗展 @數碼港商場",
    "category": "休閒",
@@ -566,6 +542,18 @@
    "featured": false
   },
   {
+   "id": "e402eb5ee38b",
+   "title": "Loching Lam “Soy Sola — I am alone & have a good soul” 藤編藝術個展",
+   "category": "展覽",
+   "start": "2026-10-01",
+   "end": "2026-11-01",
+   "venue": "Umami Culture Lab",
+   "url": "https://timable.com/zh/event/LochingLam-SoySola-Iamalone-haveagoodsoul-%E8%97%A4%E7%B7%A8%E8%97%9D%E8%A1%93%E5%80%8B%E5%B1%95",
+   "source": "Timable",
+   "image": "https://static.timable.com/image_adff6eb5-1b19-49dc-b3f1-c11c598a59b9-480x600.webp",
+   "featured": false
+  },
+  {
    "id": "96d1d492b74a",
    "title": "HalloWAI x 香港鬼怪百物語@圍方",
    "category": "休閒",
@@ -587,6 +575,18 @@
    "url": "https://timable.com/zh/event/THETOYrifyingSOUTHSIDE%E7%8E%A9%E6%87%BC%E7%AF%80",
    "source": "Timable",
    "image": "https://static.timable.com/image_fa0197c6-20f6-4c1b-a826-8013546c8657-480x241.webp",
+   "featured": false
+  },
+  {
+   "id": "c58679092f5a",
+   "title": "「外星萌友迷失萬聖夜」@青衣城",
+   "category": "休閒",
+   "start": "2026-10-02",
+   "end": "2026-11-01",
+   "venue": "青衣城",
+   "url": "https://timable.com/zh/event/%E9%9D%92%E8%A1%A3%E5%9F%8E-%E5%A4%96%E6%98%9F%E8%90%8C%E5%8F%8B%E8%BF%B7%E5%A4%B1%E8%90%AC%E8%81%96%E5%A4%9C-",
+   "source": "Timable",
+   "image": "https://static.timable.com/image_cd65df7f-68b1-469c-9eb6-586bc08453d5-480x320.webp",
    "featured": false
   },
   {
@@ -614,6 +614,18 @@
    "featured": false
   },
   {
+   "id": "03b0527e1f94",
+   "title": "「為何寫實 IV」群展@Touch Gallery",
+   "category": "休閒",
+   "start": "2026-10-06",
+   "end": "2026-10-28",
+   "venue": "Touch Gallery",
+   "url": "https://timable.com/zh/event/%E7%82%BA%E4%BD%95%E5%AF%AB%E5%AF%A6IV-%E7%BE%A4%E5%B1%95-TouchGallery",
+   "source": "Timable",
+   "image": "https://static.timable.com/image_877a4c6e-9843-4d09-924f-0045b9d5c632-480x640.webp",
+   "featured": false
+  },
+  {
    "id": "c7ee2d469f87",
    "title": "2026-27年度「十八有藝──南區社區演藝計劃」《用身體＿說故事》戲劇藝術培訓計劃──「步履成詩」工作坊及公開課堂分享會",
    "category": "表演藝術",
@@ -635,6 +647,18 @@
    "url": "https://www.lcsd.gov.hk/CE/CulturalService/Programme/tc/music/programs_1995.html",
    "source": "康文署",
    "image": "",
+   "featured": false
+  },
+  {
+   "id": "07baded5051e",
+   "title": "中環街市 x Stormies 傳統德國啤酒節 2026 (第四屆)",
+   "category": "休閒",
+   "start": "2026-10-08",
+   "end": "2026-10-31",
+   "venue": "中環街市",
+   "url": "https://timable.com/zh/event/%E7%AC%AC%E5%9B%9B%E5%B1%86-%E4%B8%AD%E7%92%B0%E8%A1%97%E5%B8%82xStormies%E5%82%B3%E7%B5%B1%E5%BE%B7%E5%9C%8B%E5%95%A4%E9%85%92%E7%AF%802026-",
+   "source": "Timable",
+   "image": "https://static.timable.com/image_5d7d37ae-07d2-4971-9cbb-cf03713deb9a-480x303.webp",
    "featured": false
   },
   {
@@ -698,6 +722,18 @@
    "featured": false
   },
   {
+   "id": "7239e7cbec1e",
+   "title": "Pokémon Dining Experience主題餐廳 @又一城",
+   "category": "休閒",
+   "start": "2026-10-10",
+   "end": "2027-01-04",
+   "venue": "又一城 BAKERY BY THE GRAND 及 BOUTIQUE BY THE GRAND",
+   "url": "https://timable.com/zh/event/PokemonDiningExperience%E4%B8%BB%E9%A1%8C%E9%A4%90%E9%A3%B2%E9%AB%94%E9%A9%97-%E5%8F%88%E4%B8%80%E5%9F%8E",
+   "source": "Timable",
+   "image": "https://static.timable.com/image_35c52aeb-ec5e-4e4c-81cf-20ddf4cd18c9-480x270.webp",
+   "featured": false
+  },
+  {
    "id": "e398a6bfced4",
    "title": "「奇蟲物語」Tales of the Crawlers 萬聖節活動 @南豐紗廠",
    "category": "休閒",
@@ -707,18 +743,6 @@
    "url": "https://timable.com/zh/event/%E5%8D%97%E8%B1%90%E7%B4%97%E5%BB%A0-%E5%A5%87%E8%9F%B2%E7%89%A9%E8%AA%9E-TalesoftheCrawlers%E8%90%AC%E8%81%96%E7%AF%80%E6%B4%BB%E5%8B%95",
    "source": "Timable",
    "image": "https://static.timable.com/image_fc7eaaad-2bfd-454d-a348-151734a59d60-480x314.webp",
-   "featured": false
-  },
-  {
-   "id": "abee017255cf",
-   "title": "北角匯海濱美食市集＠北角匯",
-   "category": "市集",
-   "start": "2026-10-10",
-   "end": "2027-01-03",
-   "venue": "北角",
-   "url": "https://timable.com/zh/event/%E6%B8%AF%E5%B3%B6%E6%9D%B1%E7%A7%8B%E6%97%A5%E7%BE%8E%E9%A3%9F%E7%9B%9B%E6%9C%83-%E5%8C%97%E8%A7%92%E5%8C%AF%E6%B5%B7%E6%BF%B1%E7%BE%8E%E9%A3%9F%E5%B8%82%E9%9B%86-%E5%8C%97%E8%A7%92%E5%8C%AF",
-   "source": "Timable",
-   "image": "https://static.timable.com/image_d96a0062-01c4-4d95-a45c-b6dad45d2051-480x320.webp",
    "featured": false
   },
   {
@@ -758,6 +782,18 @@
    "featured": false
   },
   {
+   "id": "d644dc802608",
+   "title": "Beer or Treat! 微醺萬聖嘉年華＠PopWalk 天晉滙",
+   "category": "休閒",
+   "start": "2026-10-15",
+   "end": "2026-11-08",
+   "venue": "PopWalk 天晉滙",
+   "url": "https://timable.com/zh/event/BeerorTreat-%E5%BE%AE%E9%86%BA%E8%90%AC%E8%81%96%E5%98%89%E5%B9%B4%E8%8F%AF-PopWalk%E5%A4%A9%E6%99%89%E6%BB%99",
+   "source": "Timable",
+   "image": "https://static.timable.com/image_2ee2f70a-55b6-4894-856e-bbb1865285b2-480x583.webp",
+   "featured": false
+  },
+  {
    "id": "44fe2a15d9b1",
    "title": "2026-27年度「十八有藝──東區社區演藝計劃」《鼓滿樂東區2.0》鼓藝培訓計劃──少年鼓樂團培訓班",
    "category": "表演藝術",
@@ -767,18 +803,6 @@
    "url": "https://www.cpo.gov.hk/zh-hk/event/tc-ed-2627/",
    "source": "康文署",
    "image": "",
-   "featured": false
-  },
-  {
-   "id": "d803bbd39493",
-   "title": "《捉鬼大戰》大型實境逃生遊戲",
-   "category": "休閒",
-   "start": "2026-10-16",
-   "end": "2026-11-01",
-   "venue": "AIRSIDE 地下 露天廣場",
-   "url": "https://timable.com/zh/event/%E6%8D%89%E9%AC%BC%E5%A4%A7%E6%88%B0-%E5%A4%A7%E5%9E%8B%E5%AF%A6%E5%A2%83%E9%80%83%E7%94%9F%E9%81%8A%E6%88%B2",
-   "source": "Timable",
-   "image": "https://static.timable.com/image_2cb9b88e-f8e9-4c91-9601-a48c5b3e561d-283x425.webp",
    "featured": false
   },
   {
@@ -806,18 +830,6 @@
    "featured": false
   },
   {
-   "id": "2b6982116402",
-   "title": "M+ 「神話與怪獸:亞洲的奇幻異境」展覽",
-   "category": "展覽",
-   "start": "2026-10-17",
-   "end": "2027-04-04",
-   "venue": "M+ 博物館",
-   "url": "https://timable.com/zh/event/M--%E7%A5%9E%E8%A9%B1%E8%88%87%E6%80%AA%E7%8D%B8-%E4%BA%9E%E6%B4%B2%E7%9A%84%E5%A5%87%E5%B9%BB%E7%95%B0%E5%A2%83-%E5%B1%95%E8%A6%BD",
-   "source": "Timable",
-   "image": "https://static.timable.com/image_2dc17390-9df0-4bf9-880a-cd42ecdff4d2-480x640.webp",
-   "featured": false
-  },
-  {
    "id": "5c1414626947",
    "title": "「旺角有落！朗豪坊萬聖節街頭派對」＠朗豪坊",
    "category": "休閒",
@@ -827,6 +839,18 @@
    "url": "https://timable.com/zh/event/%E6%97%BA%E8%A7%92%E6%9C%89%E8%90%BD-%E6%9C%97%E8%B1%AA%E5%9D%8A%E8%90%AC%E8%81%96%E7%AF%80%E8%A1%97%E9%A0%AD%E6%B4%BE%E5%B0%8D--%E6%9C%97%E8%B1%AA%E5%9D%8A",
    "source": "Timable",
    "image": "https://static.timable.com/image_ce215cd6-f683-4a1d-abe3-e1bbf6c3b9f0-470x265.webp",
+   "featured": false
+  },
+  {
+   "id": "502a11ae7d0f",
+   "title": "「神話與怪獸：亞洲的奇幻異境」展覽",
+   "category": "展覽",
+   "start": "2026-10-17",
+   "end": "2027-04-04",
+   "venue": "M+博物館 西展廳",
+   "url": "https://timable.com/zh/event/%E7%A5%9E%E8%A9%B1-%E6%80%AA%E7%8D%B8%E8%88%87%E6%BC%AB%E7%95%AB-%E4%BA%9E%E6%B4%B2%E7%9A%84%E5%A5%87%E5%B9%BB%E7%95%B0%E5%A2%83-%E5%B1%95%E8%A6%BD",
+   "source": "Timable",
+   "image": "https://static.timable.com/image_401514a0-bb57-4bbf-8fcf-5fc032f40567-480x640.webp",
    "featured": false
   },
   {
@@ -863,6 +887,18 @@
    "url": "https://www.lcsd.gov.hk/clpss/tc/search/culture/DetailForm.do?id=188320",
    "source": "康文署",
    "image": "",
+   "featured": false
+  },
+  {
+   "id": "8182232b9c77",
+   "title": "萬聖狂歡祭．中環",
+   "category": "休閒",
+   "start": "2026-10-17",
+   "end": "2026-11-01",
+   "venue": "皇后像廣場",
+   "url": "https://timable.com/zh/event/%E8%90%AC%E8%81%96%E7%8B%82%E6%AD%A1%E7%A5%AD-%E4%B8%AD%E7%92%B0",
+   "source": "Timable",
+   "image": "https://static.timable.com/image_763e5db1-a2c7-4639-b639-a8657e428a33-480x270.webp",
    "featured": false
   },
   {
@@ -1971,6 +2007,18 @@
    "url": "https://hksl.org/zh-hant/concert/reinhold-friedrich-a-brass-celebration/",
    "source": "康文署",
    "image": "",
+   "featured": false
+  },
+  {
+   "id": "a74c27a2c54c",
+   "title": "Xiao Lu \"Against the Wind\" 展覽",
+   "category": "展覽",
+   "start": "2026-10-22",
+   "end": "2027-01-16",
+   "venue": "10 Chancery Lane Gallery",
+   "url": "https://timable.com/zh/event/XiaoLu-AgainsttheWind-%E5%B1%95%E8%A6%BD",
+   "source": "Timable",
+   "image": "https://static.timable.com/image_d0b659ba-b09c-411e-830d-7e7fde3dc7e5-480x629.webp",
    "featured": false
   },
   {
@@ -4551,18 +4599,6 @@
    "url": "https://www.facebook.com/1table2chairs",
    "source": "康文署",
    "image": "",
-   "featured": false
-  },
-  {
-   "id": "94d071c96488",
-   "title": "Coffee Takeover 香港站@Korea Square 2026 Festival",
-   "category": "休閒",
-   "start": "2026-10-31",
-   "end": "2026-11-01",
-   "venue": "PMQ 元創方 地面廣場 (Courtyard & Marketplace)",
-   "url": "https://timable.com/zh/event/CoffeeTakeover%E9%A6%99%E6%B8%AF%E7%AB%99-KoreaSquare2026Festival",
-   "source": "Timable",
-   "image": "https://static.timable.com/image_55b11d2d-3535-495c-af74-fed5b0ab4edc-480x360.webp",
    "featured": false
   },
   {
@@ -9030,6 +9066,18 @@
    "featured": false
   },
   {
+   "id": "2eea50256fd1",
+   "title": "許志安 @國泰西九爵士音樂節",
+   "category": "表演藝術",
+   "start": "2026-11-14",
+   "end": "2026-11-14",
+   "venue": "西九文化區 戲曲中心 大劇院",
+   "url": "https://timable.com/zh/event/%E8%A8%B1%E5%BF%97%E5%AE%89-%E5%9C%8B%E6%B3%B0%E8%A5%BF%E4%B9%9D%E7%88%B5%E5%A3%AB%E9%9F%B3%E6%A8%82%E7%AF%80",
+   "source": "Timable",
+   "image": "https://static.timable.com/image_2eb63e2e-9269-4b1b-b1c9-a1313e314c1a-480x360.webp",
+   "featured": false
+  },
+  {
    "id": "acf72e8b7060",
    "title": "談情說愛",
    "category": "休閒",
@@ -9738,6 +9786,18 @@
    "featured": false
   },
   {
+   "id": "9c2013a4dd4f",
+   "title": "《Ruby》原創音樂劇 @一島劇場",
+   "category": "表演藝術",
+   "start": "2026-11-20",
+   "end": "2026-11-22",
+   "venue": "藝穗會 奶庫",
+   "url": "https://timable.com/zh/event/Ruby-%E5%8E%9F%E5%89%B5%E9%9F%B3%E6%A8%82%E5%8A%87-%E4%B8%80%E5%B3%B6%E5%8A%87%E5%A0%B4",
+   "source": "Timable",
+   "image": "https://static.timable.com/image_4e088498-1f4e-4b85-be63-9ebfd8b492fa-480x600.webp",
+   "featured": false
+  },
+  {
    "id": "038005fd7ab7",
    "title": "《守》：CONG四重奏與張海量的黃⼦峻",
    "category": "表演藝術",
@@ -9915,6 +9975,18 @@
    "url": "https://www.lcsd.gov.hk/clpss/tc/search/culture/DetailForm.do?id=188552",
    "source": "康文署",
    "image": "",
+   "featured": false
+  },
+  {
+   "id": "f48cee1f31db",
+   "title": "劉芯妤 Roselyn \"20Hz:Shine with Starlight\" 演唱會 香港站",
+   "category": "演唱會",
+   "start": "2026-11-21",
+   "end": "2026-11-21",
+   "venue": "東華三院東蒲胡李名靜體育館",
+   "url": "https://timable.com/zh/event/%E5%8A%89%E8%8A%AF%E5%A6%A4Roselyn-20Hz-ShinewithStarlight-%E6%BC%94%E5%94%B1%E6%9C%83%E9%A6%99%E6%B8%AF%E7%AB%99",
+   "source": "Timable",
+   "image": "https://static.timable.com/image_0949aec5-9564-46da-9a82-b84698e2a8df-480x640.webp",
    "featured": false
   },
   {
@@ -10614,18 +10686,6 @@
    "featured": false
   },
   {
-   "id": "cef780b9fc12",
-   "title": "\"SAKE EPIC CHAPTER 1 : PRESS START\" RPG 沉浸式清酒祭",
-   "category": "休閒",
-   "start": "2026-11-28",
-   "end": "2026-11-28",
-   "venue": "Vibes",
-   "url": "https://timable.com/zh/event/%E5%85%A8%E6%B8%AF%E9%A6%96%E5%80%8BRPG%E6%B2%89%E6%B5%B8%E5%BC%8F%E6%B8%85%E9%85%92%E7%A5%AD-SAKEEPICCHAPTER1-PRESSSTART-",
-   "source": "Timable",
-   "image": "https://static.timable.com/image_70ddf99c-efb5-4740-8f3a-4d3aa34a0846-480x679.webp",
-   "featured": false
-  },
-  {
    "id": "77474f221d1b",
    "title": "2026 樂・誼國際音樂節 – 閉幕音樂會《相相之約》曼托瓦室樂團",
    "category": "表演藝術",
@@ -10671,18 +10731,6 @@
    "url": "https://www.facebook.com/share/17hFjRZifv/",
    "source": "康文署",
    "image": "",
-   "featured": false
-  },
-  {
-   "id": "a2d4c5c68c0c",
-   "title": "Novel Fergus《你情我願》亞洲巡迴演唱會 香港站 2026",
-   "category": "演唱會",
-   "start": "2026-11-28",
-   "end": "2026-11-28",
-   "venue": "TIDES",
-   "url": "https://timable.com/zh/event/NovelFergus-%E4%BD%A0%E6%83%85%E6%88%91%E9%A1%98-%E4%BA%9E%E6%B4%B2%E5%B7%A1%E8%BF%B4%E6%BC%94%E5%94%B1%E6%9C%83%E9%A6%99%E6%B8%AF%E7%AB%992026",
-   "source": "Timable",
-   "image": "https://static.timable.com/image_0efe86e0-f711-4415-b524-2057919d900c-480x480.webp",
    "featured": false
   },
   {
@@ -11058,6 +11106,18 @@
    "featured": false
   },
   {
+   "id": "b7d7117d6d31",
+   "title": "RubberBand《沐光公園》音樂會 2026",
+   "category": "表演藝術",
+   "start": "2026-12-05",
+   "end": "2026-12-05",
+   "venue": "AXA x WONDERLAND",
+   "url": "https://timable.com/zh/event/RubberBand-%E6%B2%90%E5%85%89%E5%85%AC%E5%9C%92-%E9%9F%B3%E6%A8%82%E6%9C%832026",
+   "source": "Timable",
+   "image": "https://static.timable.com/image_b9519b9d-e292-4951-a099-6608a730dea3-480x640.webp",
+   "featured": false
+  },
+  {
    "id": "ead2e2376e43",
    "title": "Stray Kids \"RUN IT\" 世界巡迴演唱會 2026 香港站",
    "category": "演唱會",
@@ -11214,6 +11274,18 @@
    "featured": false
   },
   {
+   "id": "adde03aec8ff",
+   "title": "陳奕迅 \"Recording Sessions with Mr. Eason Chan\" 現場錄音音樂會 2026",
+   "category": "表演藝術",
+   "start": "2026-12-12",
+   "end": "2027-02-20",
+   "venue": "香港演藝學院 歌劇院",
+   "url": "https://timable.com/zh/event/%E9%99%B3%E5%A5%95%E8%BF%85-%E6%96%B0%E5%89%B5%E8%88%89-%E9%80%A3%E9%96%8B26%E5%A0%B4%E4%B8%8D%E9%81%8E%E5%94%94%E4%BF%82%E6%BC%94%E5%94%B1%E6%9C%83-",
+   "source": "Timable",
+   "image": "https://static.timable.com/image_f923dd9a-ace1-473f-b36f-ebaf54b80ad6-480x640.webp",
+   "featured": false
+  },
+  {
    "id": "5c93d485c9c1",
    "title": "2026社區文化大使: 東方琴韻藝術團「聽見非遺」華夏正聲 非遺音樂匯萃",
    "category": "表演藝術",
@@ -11247,18 +11319,6 @@
    "url": "https://www.oratorio.org.hk/web/zh/",
    "source": "康文署",
    "image": "",
-   "featured": false
-  },
-  {
-   "id": "6c7771b120e9",
-   "title": "Merry Balloon Hong Kong 2026",
-   "category": "休閒",
-   "start": "2026-12-18",
-   "end": "2026-12-27",
-   "venue": "啟德體育園",
-   "url": "https://timable.com/zh/event/MerryBalloonHongKong2026",
-   "source": "Timable",
-   "image": "https://static.timable.com/image_9c020c2b-2a3c-40e6-80b5-d825239fa7fa-480x320.webp",
    "featured": false
   },
   {
@@ -11379,6 +11439,18 @@
    "url": "https://cultural.cityline.com/tc/2026/gospeonypavilion70.html",
    "source": "康文署",
    "image": "",
+   "featured": false
+  },
+  {
+   "id": "c014e52606bb",
+   "title": "《童真仰望》音樂劇",
+   "category": "表演藝術",
+   "start": "2026-12-20",
+   "end": "2026-12-20",
+   "venue": "荃灣大會堂 演奏廳",
+   "url": "https://timable.com/zh/event/%E7%AB%A5%E7%9C%9F%E4%BB%B0%E6%9C%9B-%E9%9F%B3%E6%A8%82%E5%8A%87",
+   "source": "Timable",
+   "image": "https://static.timable.com/image_426397c8-c392-4e27-bb1e-8c9e0b2e7882-480x640.webp",
    "featured": false
   },
   {
@@ -11620,6 +11692,18 @@
    "source": "Timable",
    "image": "https://static.timable.com/image_bac8ebda-17f4-4dd8-8825-3c64d49e81f3-480x600.webp",
    "featured": false
+  },
+  {
+   "id": "88888bb13e9c",
+   "title": "渣打香港馬拉松 2027",
+   "category": "體育",
+   "start": "2027-01-17",
+   "end": "2027-01-17",
+   "venue": "尖沙咀彌敦道（馬拉松、半馬拉松）或東區走廊（10公里賽事）至維多利亞公園",
+   "url": "https://www.hkmarathon.com/zh-hant",
+   "source": "盛事之都",
+   "image": "",
+   "featured": true
   },
   {
    "id": "2210c21eff12",
