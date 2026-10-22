@@ -2294,18 +2294,6 @@
    "featured": false
   },
   {
-   "id": "e87101fc30c7",
-   "title": "Mathilde Agius \"Madame\" 攝影展覽",
-   "category": "電影活動",
-   "start": "2026-10-24",
-   "end": "2026-11-21",
-   "venue": "Tomorrow Maybe",
-   "url": "https://timable.com/zh/event/MathildeAgius-Madame-%E6%94%9D%E5%BD%B1%E5%B1%95%E8%A6%BD",
-   "source": "Timable",
-   "image": "https://static.timable.com/image_82a4c015-562a-4f6b-9d52-b3f0900643d6-480x600.webp",
-   "featured": false
-  },
-  {
    "id": "1a1f2ab2b91a",
    "title": "The Weeknd \"After Hours Til Dawn\" 亞洲巡迴演唱會 2026 香港站",
    "category": "演唱會",
@@ -7250,6 +7238,18 @@
    "featured": false
   },
   {
+   "id": "605aa421139b",
+   "title": "「2026清水灣冠軍盃 -女子雙打邀請賽」網球賽",
+   "category": "體育",
+   "start": "2026-11-01",
+   "end": "2026-11-01",
+   "venue": "維多利亞公園 網球主場",
+   "url": "https://timable.com/zh/event/2026%E6%B8%85%E6%B0%B4%E7%81%A3%E5%86%A0%E8%BB%8D%E7%9B%83-%E5%A5%B3%E5%AD%90%E9%9B%99%E6%89%93%E9%82%80%E8%AB%8B%E8%B3%BD-%E7%B6%B2%E7%90%83%E8%B3%BD",
+   "source": "Timable",
+   "image": "https://static.timable.com/image_29dc6722-bd1f-4ed8-9c8b-5924e3fd40a9-480x339.webp",
+   "featured": false
+  },
+  {
    "id": "557d8393efa4",
    "title": "中國內地電影展 2026：《落凡塵》",
    "category": "電影活動",
@@ -11599,7 +11599,7 @@
    "category": "休閒",
    "start": "2027-01-23",
    "end": "2027-01-24",
-   "venue": "Hong Kong Science Park",
+   "venue": "香港科學園",
    "url": "https://timable.com/zh/event/Pok-monRUN30%E9%A6%99%E6%B8%AF",
    "source": "Timable",
    "image": "https://static.timable.com/image_f4b8bef1-dd77-43f9-adf9-ff4585d41946-480x480.webp",
