@@ -5932,6 +5932,18 @@
    "featured": false
   },
   {
+   "id": "4e388dee98d8",
+   "title": "MV FEST@HKID",
+   "category": "休閒",
+   "start": "2026-11-05",
+   "end": "2027-01-15",
+   "venue": "香港知專設計學院",
+   "url": "https://timable.com/zh/event/MVFEST",
+   "source": "Timable",
+   "image": "https://static.timable.com/image_1deb3c16-f66c-4bb4-b2b7-00e22756d619-480x600.webp",
+   "featured": false
+  },
+  {
    "id": "aa6fadeced59",
    "title": "《樂在「耆」中粵劇匯》粵劇折子戲",
    "category": "表演藝術",
@@ -6001,18 +6013,6 @@
    "url": "https://www.lcsd.gov.hk/tc/ticket/index.html",
    "source": "康文署",
    "image": "",
-   "featured": false
-  },
-  {
-   "id": "04c772f4bd39",
-   "title": "Melo「那些短暫的存在 Those ephemerals last」個人刺繡展",
-   "category": "休閒",
-   "start": "2026-11-06",
-   "end": "2026-11-22",
-   "venue": "Umami Culture Lab",
-   "url": "https://timable.com/zh/event/Melo-%E9%82%A3%E4%BA%9B%E7%9F%AD%E6%9A%AB%E7%9A%84%E5%AD%98%E5%9C%A8Thoseephemeralslast-%E5%80%8B%E4%BA%BA%E5%88%BA%E7%B9%A1%E5%B1%95",
-   "source": "Timable",
-   "image": "https://static.timable.com/image_8235f4ce-45b9-4a76-8ddc-1c0e84fe1b51-480x599.webp",
    "featured": false
   },
   {
@@ -6892,18 +6892,6 @@
    "featured": false
   },
   {
-   "id": "b63c5eb59bd6",
-   "title": "《愛登士家庭》音樂劇@城大音樂劇2026",
-   "category": "表演藝術",
-   "start": "2026-11-13",
-   "end": "2026-11-15",
-   "venue": "香港城市大學",
-   "url": "https://timable.com/zh/event/%E6%84%9B%E7%99%BB%E5%A3%AB%E5%AE%B6%E5%BA%AD-%E9%9F%B3%E6%A8%82%E5%8A%87-%E5%9F%8E%E5%A4%A7%E9%9F%B3%E6%A8%82%E5%8A%872026",
-   "source": "Timable",
-   "image": "https://static.timable.com/image_f0dbddf0-8827-4eac-9b1b-6a3568295fe1-480x600.webp",
-   "featured": false
-  },
-  {
    "id": "e6f495c14546",
    "title": "《薛寶釵，這個人》",
    "category": "休閒",
@@ -7742,30 +7730,6 @@
    "source": "盛事之都",
    "image": "",
    "featured": true
-  },
-  {
-   "id": "b818fbadc880",
-   "title": "詹姆士．桑德斯《渺影殘香》話劇@ 香港演藝學院",
-   "category": "表演藝術",
-   "start": "2026-11-16",
-   "end": "2026-11-21",
-   "venue": "香港演藝學院 實驗劇場",
-   "url": "https://timable.com/zh/event/%E8%A9%B9%E5%A7%86%E5%A3%AB-%E6%A1%91%E5%BE%B7%E6%96%AF-%E6%B8%BA%E5%BD%B1%E6%AE%98%E9%A6%99-%E8%A9%B1%E5%8A%87-%E9%A6%99%E6%B8%AF%E6%BC%94%E8%97%9D%E5%AD%B8%E9%99%A2",
-   "source": "Timable",
-   "image": "https://static.timable.com/image_d2cf6120-1262-498f-b7fd-eda631f0f5b3-480x600.webp",
-   "featured": false
-  },
-  {
-   "id": "bfd033dc7669",
-   "title": "LÜCY 巡迴演唱會 2026 香港站",
-   "category": "演唱會",
-   "start": "2026-11-17",
-   "end": "2026-11-17",
-   "venue": "TIDES",
-   "url": "https://timable.com/zh/event/L-CY%E5%B7%A1%E8%BF%B4%E6%BC%94%E5%94%B1%E6%9C%832026%E9%A6%99%E6%B8%AF%E7%AB%99",
-   "source": "Timable",
-   "image": "https://static.timable.com/image_2395e4e9-d956-45be-9394-921fad0bb0fc-480x600.webp",
-   "featured": false
   },
   {
    "id": "d04b473c47e8",
@@ -8860,6 +8824,18 @@
    "featured": false
   },
   {
+   "id": "59847ae35e01",
+   "title": "Tokyohums Hong Kong Live 2026",
+   "category": "休閒",
+   "start": "2026-11-26",
+   "end": "2026-11-26",
+   "venue": "PORTAL",
+   "url": "https://timable.com/zh/event/DJKrushxSpinMasterA-1xMattForcexP-ChefxKay-TOKY-HUMSHongKonglive2026-%E6%B4%BE%E5%B0%8D",
+   "source": "Timable",
+   "image": "https://static.timable.com/image_fdbec696-6164-4c8d-bf5e-4f2d0f4871d5-480x600.webp",
+   "featured": false
+  },
+  {
    "id": "129edb1d0a1f",
    "title": "《長劇—夢斷香銷四十年》",
    "category": "休閒",
@@ -9796,18 +9772,6 @@
    "featured": false
   },
   {
-   "id": "9296251c60da",
-   "title": "冬日暖心好物市集＠大埔超級城",
-   "category": "市集",
-   "start": "2026-12-18",
-   "end": "2026-12-27",
-   "venue": "大埔超級城",
-   "url": "https://timable.com/zh/event/%E5%86%AC%E6%97%A5%E6%9A%96%E5%BF%83%E5%A5%BD%E7%89%A9%E5%B8%82%E9%9B%86-%E5%A4%A7%E5%9F%94%E8%B6%85%E7%B4%9A%E5%9F%8E",
-   "source": "Timable",
-   "image": "https://static.timable.com/image_5cb50314-59f2-4a8c-bd83-bc0276ae84dd-480x641.webp",
-   "featured": false
-  },
-  {
    "id": "d669b8bec465",
    "title": "推廣古箏藝術工作坊",
    "category": "休閒",
@@ -9853,6 +9817,18 @@
    "url": "https://www.instagram.com/sankofa.hk",
    "source": "康文署",
    "image": "",
+   "featured": false
+  },
+  {
+   "id": "d2bf36a2eb27",
+   "title": "Moon in June 香港下午場 演唱會 2026",
+   "category": "演唱會",
+   "start": "2026-12-19",
+   "end": "2026-12-19",
+   "venue": "MOM Livehouse",
+   "url": "https://timable.com/zh/event/MooninJune%E9%A6%99%E6%B8%AF%E4%B8%8B%E5%8D%88%E5%A0%B4%E6%BC%94%E5%94%B1%E6%9C%832026",
+   "source": "Timable",
+   "image": "https://static.timable.com/image_e5227ad3-775e-4e22-83e1-44d2c0789e22-480x647.webp",
    "featured": false
   },
   {
@@ -9913,6 +9889,18 @@
    "url": "https://cultural.cityline.com/tc/2026/gospeonypavilion70.html",
    "source": "康文署",
    "image": "",
+   "featured": false
+  },
+  {
+   "id": "a8cd5420849a",
+   "title": "張杰《1982 開往「未‧LIVE」》巡迴演唱會 香港站 2026",
+   "category": "演唱會",
+   "start": "2026-12-20",
+   "end": "2026-12-20",
+   "venue": "啟德主場館",
+   "url": "https://timable.com/zh/event/%E5%BC%B5%E6%9D%B0-1982%E9%96%8B%E5%BE%80-%E6%9C%AA-LIVE--%E5%B7%A1%E8%BF%B4%E6%BC%94%E5%94%B1%E6%9C%83%E9%A6%99%E6%B8%AF%E7%AB%992026",
+   "source": "Timable",
+   "image": "https://static.timable.com/image_142897fe-b9c0-4ddb-8c31-336294f506ef-480x640.webp",
    "featured": false
   },
   {
@@ -10021,18 +10009,6 @@
    "url": "https://www.hkphil.org/tc/concert/china-life-overseas-proudly-sponsors-new-year-celebration-amour-and-adieu",
    "source": "康文署",
    "image": "",
-   "featured": false
-  },
-  {
-   "id": "970d9eb4cb13",
-   "title": "2026 年度叱咤樂壇流行榜頒獎典禮",
-   "category": "休閒",
-   "start": "2026-12-31",
-   "end": "2026-12-31",
-   "venue": "亞洲國際博覽館 ARENA",
-   "url": "https://timable.com/zh/event/2026%E5%B9%B4%E5%BA%A6%E5%8F%B1%E5%92%A4%E6%A8%82%E5%A3%87%E6%B5%81%E8%A1%8C%E6%A6%9C%E9%A0%92%E7%8D%8E%E5%85%B8%E7%A6%AE",
-   "source": "Timable",
-   "image": "https://static.timable.com/image_5d491531-c763-489a-9e07-f87d74769a3f-480x480.webp",
    "featured": false
   },
   {
