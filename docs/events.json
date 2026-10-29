@@ -950,7 +950,7 @@
    "source": "wmoov",
    "image": "https://wmoov.com/assets/poster/a967ce23000afa3681a592eede58a70c.jpg",
    "rating": "8.5",
-   "shows": 8,
+   "shows": 6,
    "featured": false
   },
   {
@@ -964,7 +964,7 @@
    "source": "wmoov",
    "image": "https://wmoov.com/assets/poster/ccecd2f884d5018f2cacfa2ab5016b5f.jpg",
    "rating": "8.2",
-   "shows": 5,
+   "shows": 3,
    "featured": false
   },
   {
@@ -1040,7 +1040,7 @@
    "source": "wmoov",
    "image": "https://wmoov.com/assets/poster/3eae45b8084dc2a5e418f96212a22f2b.jpg",
    "rating": "6.3",
-   "shows": 20,
+   "shows": 19,
    "featured": false
   },
   {
@@ -1054,7 +1054,7 @@
    "source": "wmoov",
    "image": "https://wmoov.com/assets/poster/e7b06f970e6a34335365d8bba572089b.jpg",
    "rating": "",
-   "shows": 25,
+   "shows": 22,
    "featured": false
   },
   {
@@ -1068,7 +1068,7 @@
    "source": "wmoov",
    "image": "https://wmoov.com/assets/poster/e048b1d5dd8fd89f14b27e7fd9437ce8.jpg",
    "rating": "7.4",
-   "shows": 21,
+   "shows": 19,
    "featured": false
   },
   {
@@ -1082,7 +1082,7 @@
    "source": "wmoov",
    "image": "https://wmoov.com/assets/poster/5d7b0159f8a349f33b29bda9e25e30cf.jpg",
    "rating": "7",
-   "shows": 24,
+   "shows": 20,
    "featured": false
   },
   {
@@ -1108,7 +1108,7 @@
    "source": "wmoov",
    "image": "https://wmoov.com/assets/poster/c223fb88c91156412984fa0fbc9cbc4e.jpg",
    "rating": "9",
-   "shows": 260,
+   "shows": 257,
    "featured": false
   },
   {
@@ -1160,7 +1160,7 @@
    "source": "wmoov",
    "image": "https://wmoov.com/assets/poster/deabaea17af602310af9633d8dea4615.jpg",
    "rating": "8.7",
-   "shows": 10,
+   "shows": 8,
    "featured": false
   },
   {
@@ -1174,7 +1174,7 @@
    "source": "wmoov",
    "image": "https://wmoov.com/assets/poster/bcef17beee3194b660c14ccbe94e6f39.jpg",
    "rating": "8",
-   "shows": 139,
+   "shows": 133,
    "featured": false
   },
   {
@@ -1188,7 +1188,7 @@
    "source": "wmoov",
    "image": "https://wmoov.com/assets/poster/bd0ea41d999e042da14401743d8e8331.jpg",
    "rating": "",
-   "shows": 61,
+   "shows": 60,
    "featured": false
   },
   {
@@ -1216,7 +1216,7 @@
    "source": "wmoov",
    "image": "https://wmoov.com/assets/poster/5bb1c8ab3777cbf4ff5d60fad8b48107.jpg",
    "rating": "7.5",
-   "shows": 24,
+   "shows": 25,
    "featured": false
   },
   {
@@ -1258,7 +1258,7 @@
    "source": "wmoov",
    "image": "https://wmoov.com/assets/poster/86c72ba1c1b1c582b4336e9a4697e6cb.jpg",
    "rating": "7.4",
-   "shows": 264,
+   "shows": 257,
    "featured": false
   },
   {
@@ -1286,7 +1286,7 @@
    "source": "wmoov",
    "image": "https://wmoov.com/assets/poster/4a3b580a7fa3cef2f557ccf0b2169ccc.jpg",
    "rating": "7",
-   "shows": 30,
+   "shows": 25,
    "featured": false
   },
   {
@@ -1300,7 +1300,7 @@
    "source": "wmoov",
    "image": "https://wmoov.com/assets/poster/62c62bfca50bd9f65731c724936d0451.jpg",
    "rating": "",
-   "shows": 59,
+   "shows": 60,
    "featured": false
   },
   {
@@ -1315,20 +1315,6 @@
    "image": "https://wmoov.com/assets/poster/0121a0b079faf7c3fb43ddd35262b24f.jpg",
    "rating": "8",
    "shows": 7,
-   "featured": false
-  },
-  {
-   "id": "47d9422a3fab",
-   "title": "新世紀福音戰士新劇場版：序",
-   "category": "電影",
-   "start": "2026-10-29",
-   "end": "2026-11-28",
-   "venue": "",
-   "url": "https://wmoov.com/movie/details/5000",
-   "source": "wmoov",
-   "image": "https://wmoov.com/assets/poster/9f00528a85470bcd72fda022771a5324.jpg",
-   "rating": "7.4",
-   "shows": 4,
    "featured": false
   },
   {
@@ -1434,6 +1420,18 @@
    "featured": false
   },
   {
+   "id": "715cfeddd380",
+   "title": "東港城「超次元冬幻祭」三大主題玩樂活動＠東港城",
+   "category": "休閒",
+   "start": "2026-10-29",
+   "end": "2027-01-10",
+   "venue": "東港城",
+   "url": "https://timable.com/zh/event/%E6%9D%B1%E6%B8%AF%E5%9F%8E-%E8%B6%85%E6%AC%A1%E5%85%83%E5%86%AC%E5%B9%BB%E7%A5%AD--%E6%9D%B1%E6%B8%AF%E5%9F%8E",
+   "source": "Timable",
+   "image": "https://static.timable.com/image_b30557ce-08d5-4b33-88c0-b762346d0a0b-480x320.webp",
+   "featured": false
+  },
+  {
    "id": "d729de9c01a7",
    "title": "歡樂滿東華 × 忘憂墟2.0 萬聖節嘉年華",
    "category": "市集",
@@ -1456,7 +1454,7 @@
    "source": "wmoov",
    "image": "https://wmoov.com/assets/poster/530c5adb7a1824b0016d3a897247df1a.jpg",
    "rating": "8.3",
-   "shows": 21,
+   "shows": 19,
    "featured": false
   },
   {
@@ -1496,7 +1494,7 @@
    "source": "wmoov",
    "image": "https://wmoov.com/assets/poster/f6cf02d339ec6a52b7a3739c782fc8e6.jpg",
    "rating": "8",
-   "shows": 153,
+   "shows": 147,
    "featured": false
   },
   {
@@ -1522,7 +1520,7 @@
    "source": "wmoov",
    "image": "https://wmoov.com/assets/poster/0cb7914393ce2183a01bef51d643db01.jpg",
    "rating": "8.5",
-   "shows": 14,
+   "shows": 12,
    "featured": false
   },
   {
@@ -1548,7 +1546,7 @@
    "source": "wmoov",
    "image": "https://wmoov.com/assets/poster/662e6b85cacca3e2e45f3eab3097edbf.jpg",
    "rating": "7.8",
-   "shows": 41,
+   "shows": 39,
    "featured": false
   },
   {
@@ -1562,7 +1560,7 @@
    "source": "wmoov",
    "image": "https://wmoov.com/assets/poster/bbbc7798b5c4404eef445ab75bc2cf6e.jpg",
    "rating": "5.6",
-   "shows": 9,
+   "shows": 8,
    "featured": false
   },
   {
@@ -1588,7 +1586,7 @@
    "source": "wmoov",
    "image": "https://wmoov.com/assets/poster/3ced8ca6b5871a612ead2d3de04c97fa.jpg",
    "rating": "7.5",
-   "shows": 16,
+   "shows": 15,
    "featured": false
   },
   {
@@ -1680,7 +1678,7 @@
    "source": "wmoov",
    "image": "https://wmoov.com/assets/poster/c5606cca08b1095e28c299a732531390.jpg",
    "rating": "8.5",
-   "shows": 4,
+   "shows": 3,
    "featured": false
   },
   {
@@ -1694,7 +1692,7 @@
    "source": "wmoov",
    "image": "https://wmoov.com/assets/poster/5ebd6f2bf607e11d818ce86346984f38.jpg",
    "rating": "4.8",
-   "shows": 66,
+   "shows": 62,
    "featured": false
   },
   {
@@ -1708,7 +1706,7 @@
    "source": "wmoov",
    "image": "https://wmoov.com/assets/poster/860dc216b2ec279eb1726be0f6eb0204.jpg",
    "rating": "5.9",
-   "shows": 12,
+   "shows": 11,
    "featured": false
   },
   {
@@ -1764,7 +1762,7 @@
    "source": "wmoov",
    "image": "https://wmoov.com/assets/poster/49c22a53c1072c28d420a027f6ddf86d.jpg",
    "rating": "9.1",
-   "shows": 45,
+   "shows": 42,
    "featured": false
   },
   {
@@ -1844,7 +1842,7 @@
    "source": "wmoov",
    "image": "https://wmoov.com/assets/poster/6293956ab39c18f94353e568354da16f.jpg",
    "rating": "7.4",
-   "shows": 64,
+   "shows": 60,
    "featured": false
   },
   {
@@ -2361,6 +2359,18 @@
    "url": "https://www.facebook.com/1table2chairs",
    "source": "康文署",
    "image": "",
+   "featured": false
+  },
+  {
+   "id": "e076d291059b",
+   "title": "Cartier 卡地亞 \"Into The Wild\" 沉浸式體驗 @⻁豹別墅",
+   "category": "休閒",
+   "start": "2026-10-31",
+   "end": "2026-11-08",
+   "venue": "虎豹樂圃 (虎豹別墅)",
+   "url": "https://timable.com/zh/event/Cartier%E5%8D%A1%E5%9C%B0%E4%BA%9E-IntoTheWild-%E6%B2%89%E6%B5%B8%E5%BC%8F%E9%AB%94%E9%A9%97--%E8%B1%B9%E5%88%A5%E5%A2%85",
+   "source": "Timable",
+   "image": "https://static.timable.com/image_fff34bbd-2241-4baf-8243-f611032910c7-480x480.webp",
    "featured": false
   },
   {
@@ -5352,18 +5362,6 @@
    "featured": false
   },
   {
-   "id": "b59999338ff4",
-   "title": "齋藤將「霓城萌踪:齋藤將香港新作」展覽",
-   "category": "展覽",
-   "start": "2026-11-01",
-   "end": "2026-12-31",
-   "venue": "I.F. Gallery",
-   "url": "https://timable.com/zh/event/%E9%BD%8B%E8%97%A4%E5%B0%87-%E9%9C%93%E5%9F%8E%E8%90%8C%E8%B8%AA-%E9%BD%8B%E8%97%A4%E5%B0%87%E9%A6%99%E6%B8%AF%E6%96%B0%E4%BD%9C-%E5%B1%95%E8%A6%BD",
-   "source": "Timable",
-   "image": "https://static.timable.com/image_4d02aec1-74ec-4ee9-8c32-b868789f0a60-480x679.webp",
-   "featured": false
-  },
-  {
    "id": "3889f1673172",
    "title": "《折子戲專場》",
    "category": "表演藝術",
@@ -5625,18 +5623,6 @@
    "url": "https://www.asiaplus.gov.hk/2026/tc/taksu",
    "source": "康文署",
    "image": "",
-   "featured": false
-  },
-  {
-   "id": "d3bf8653f97f",
-   "title": "吳佳儒《目困目困》展覽",
-   "category": "展覽",
-   "start": "2026-11-05",
-   "end": "2027-01-02",
-   "venue": "爍樂畫廊",
-   "url": "https://timable.com/zh/event/%E5%90%B3%E4%BD%B3%E5%84%92-%E7%9B%AE%E5%9B%B0%E7%9B%AE%E5%9B%B0-%E5%B1%95%E8%A6%BD",
-   "source": "Timable",
-   "image": "https://static.timable.com/image_fb2c5b8d-29ce-445c-a737-9f485b3441c4-480x560.webp",
    "featured": false
   },
   {
@@ -9084,18 +9070,6 @@
    "featured": false
   },
   {
-   "id": "8ef53dd4ff54",
-   "title": "梁敏瑩 x 余思靈《將臨樂章: 長笛與管風琴之夜》音樂會",
-   "category": "表演藝術",
-   "start": "2026-11-29",
-   "end": "2026-11-29",
-   "venue": "香港聖公會彼得海員堂",
-   "url": "https://timable.com/zh/event/%E6%A2%81%E6%95%8F%E7%91%A9x%E4%BD%99%E6%80%9D%E9%9D%88-%E5%B0%87%E8%87%A8%E6%A8%82%E7%AB%A0-%E9%95%B7%E7%AC%9B%E8%88%87%E7%AE%A1%E9%A2%A8%E7%90%B4%E4%B9%8B%E5%A4%9C-%E9%9F%B3%E6%A8%82%E6%9C%83",
-   "source": "Timable",
-   "image": "https://static.timable.com/image_34464442-7c87-409b-add7-84175963283a-300x400.webp",
-   "featured": false
-  },
-  {
    "id": "6bb12e0e2382",
    "title": "梁詠琪 LOVE Gigi 愛自己世界巡迴演唱會 香港站",
    "category": "演唱會",
@@ -10017,6 +9991,18 @@
    "url": "https://www.lcsd.gov.hk/CE/CulturalService/Programme/tc/multi_arts/programs_1992.html",
    "source": "康文署",
    "image": "",
+   "featured": false
+  },
+  {
+   "id": "b4e34ad13cac",
+   "title": "Spileben (大熊和奏) \"Special Event in Hong Kong\" 演唱會2027",
+   "category": "演唱會",
+   "start": "2027-01-10",
+   "end": "2027-01-10",
+   "venue": "PORTAL",
+   "url": "https://timable.com/zh/event/Spileben-%E5%A4%A7%E7%86%8A%E5%92%8C%E5%A5%8F--SpecialEventinHongKong-%E6%BC%94%E5%94%B1%E6%9C%83",
+   "source": "Timable",
+   "image": "https://static.timable.com/image_0d1e903b-7015-4d8c-b748-8424cb605ade-480x640.webp",
    "featured": false
   },
   {
