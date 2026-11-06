@@ -51,19 +51,19 @@
   },
   {
    "rank": 7,
-   "title": "少年綠皮書─我們的島嶼旅行",
-   "author": "劉克襄",
-   "price": "200元",
-   "url": "https://www.books.com.tw/products/0010226718",
-   "image": "https://im1.book.com.tw/image/getImage?i=https://www.books.com.tw/img/001/022/67/0010226718.jpg&v=6acc3f60k&w=150&h=150"
-  },
-  {
-   "rank": 8,
    "title": "I人理財（限量附贈金句書籤）：不看盤、不盲從的財富階梯實戰法則",
    "author": "愛瑞克",
    "price": "NT$331",
    "url": "https://www.books.com.tw/products/0011065695",
    "image": "https://im2.book.com.tw/image/getImage?i=https://www.books.com.tw/img/001/106/56/0011065695.jpg&v=6ad09223k&w=150&h=150"
+  },
+  {
+   "rank": 8,
+   "title": "少年綠皮書─我們的島嶼旅行",
+   "author": "劉克襄",
+   "price": "200元",
+   "url": "https://www.books.com.tw/products/0010226718",
+   "image": "https://im1.book.com.tw/image/getImage?i=https://www.books.com.tw/img/001/022/67/0010226718.jpg&v=6acc3f60k&w=150&h=150"
   },
   {
    "rank": 9,
@@ -75,19 +75,19 @@
   },
   {
    "rank": 10,
-   "title": "花錢的藝術：打造富足人生的金錢心理學【博客來獨家附贈財富透析．互動金句透卡】",
-   "author": "摩根．豪瑟",
-   "price": "NT$379",
-   "url": "https://www.books.com.tw/products/0011057581",
-   "image": "https://im2.book.com.tw/image/getImage?i=https://www.books.com.tw/img/001/105/75/0011057581.jpg&v=6a5605d9k&w=150&h=150"
-  },
-  {
-   "rank": 11,
    "title": "金剛經白話講座：放下的人生修行",
    "author": "王思迅",
    "price": "NT$474",
    "url": "https://www.books.com.tw/products/0011027110",
    "image": "https://im1.book.com.tw/image/getImage?i=https://www.books.com.tw/img/001/102/71/0011027110.jpg&v=68777fcdk&w=150&h=150"
+  },
+  {
+   "rank": 11,
+   "title": "花錢的藝術：打造富足人生的金錢心理學【博客來獨家附贈財富透析．互動金句透卡】",
+   "author": "摩根．豪瑟",
+   "price": "NT$379",
+   "url": "https://www.books.com.tw/products/0011057581",
+   "image": "https://im2.book.com.tw/image/getImage?i=https://www.books.com.tw/img/001/105/75/0011057581.jpg&v=6a5605d9k&w=150&h=150"
   },
   {
    "rank": 12,
@@ -115,14 +115,6 @@
   },
   {
    "rank": 15,
-   "title": "僧侶與機器人（雨果獎、軌跡獎雙料得獎小說！在AI時代寫給疲憊現代人的未來寓言）",
-   "author": "貝琪．錢伯斯",
-   "price": "NT$347",
-   "url": "https://www.books.com.tw/products/0011063850",
-   "image": "https://im1.book.com.tw/image/getImage?i=https://www.books.com.tw/img/001/106/38/0011063850.jpg&v=6aab475ck&w=150&h=150"
-  },
-  {
-   "rank": 16,
    "title": "淺談（2026年諾貝爾文學獎得主安．卡森在台唯一譯作）",
    "author": "安．卡森",
    "price": "NT$213",
@@ -130,23 +122,7 @@
    "image": "https://im1.book.com.tw/image/getImage?i=https://www.books.com.tw/img/001/086/50/0010865018.jpg&v=6acdccc4k&w=150&h=150"
   },
   {
-   "rank": 17,
-   "title": "我的黑道姑姑：教我的99件事",
-   "author": "黃山料",
-   "price": "NT$331",
-   "url": "https://www.books.com.tw/products/0011051787",
-   "image": "https://im2.book.com.tw/image/getImage?i=https://www.books.com.tw/img/001/105/17/0011051787.jpg&v=69f900fbk&w=150&h=150"
-  },
-  {
-   "rank": 18,
-   "title": "林業及自然保育署2027年《非常之森》桌曆",
-   "author": "農業部林業及自然保育署",
-   "price": "NT$379",
-   "url": "https://www.books.com.tw/products/0011065235",
-   "image": "https://im2.book.com.tw/image/getImage?i=https://www.books.com.tw/img/001/106/52/0011065235.jpg&v=6ac734e9k&w=150&h=150"
-  },
-  {
-   "rank": 19,
+   "rank": 16,
    "title": "2027問神達人王崇禮金羊吉兆生肖運籤農民曆【隨書加贈：宗天上古祕法神符＋防小人盜賊祝融入侵靈符＋吉羊招財防漏錢母存摺套】",
    "author": "王崇禮",
    "price": "NT$394",
@@ -154,12 +130,36 @@
    "image": "https://im2.book.com.tw/image/getImage?i=https://www.books.com.tw/img/001/106/60/0011066013.jpg&v=6acf2248k&w=150&h=150"
   },
   {
+   "rank": 17,
+   "title": "僧侶與機器人（雨果獎、軌跡獎雙料得獎小說！在AI時代寫給疲憊現代人的未來寓言）",
+   "author": "貝琪．錢伯斯",
+   "price": "NT$347",
+   "url": "https://www.books.com.tw/products/0011063850",
+   "image": "https://im1.book.com.tw/image/getImage?i=https://www.books.com.tw/img/001/106/38/0011063850.jpg&v=6aab475ck&w=150&h=150"
+  },
+  {
+   "rank": 18,
+   "title": "我的黑道姑姑：教我的99件事",
+   "author": "黃山料",
+   "price": "NT$331",
+   "url": "https://www.books.com.tw/products/0011051787",
+   "image": "https://im2.book.com.tw/image/getImage?i=https://www.books.com.tw/img/001/105/17/0011051787.jpg&v=69f900fbk&w=150&h=150"
+  },
+  {
+   "rank": 19,
+   "title": "林業及自然保育署2027年《非常之森》桌曆",
+   "author": "農業部林業及自然保育署",
+   "price": "NT$379",
+   "url": "https://www.books.com.tw/products/0011065235",
+   "image": "https://im2.book.com.tw/image/getImage?i=https://www.books.com.tw/img/001/106/52/0011065235.jpg&v=6ac734e9k&w=150&h=150"
+  },
+  {
    "rank": 20,
-   "title": "2027年海洋保育月曆-海之刻度",
-   "author": "海洋委員會海洋保育署",
-   "price": "NT$297",
-   "url": "https://www.books.com.tw/products/0011066547",
-   "image": "https://im2.book.com.tw/image/getImage?i=https://www.books.com.tw/img/001/106/65/0011066547.jpg&v=6ad6d2dfk&w=150&h=150"
+   "title": "禹洙漢同名寫真= SUHAN WOO PHOTOGRAPHY",
+   "author": "禹洙漢",
+   "price": "NT$553",
+   "url": "https://www.books.com.tw/products/0011066810",
+   "image": "https://im1.book.com.tw/image/getImage?i=https://www.books.com.tw/img/001/106/68/0011066810.jpg&v=6ad989e8k&w=150&h=150"
   }
  ]
 }
