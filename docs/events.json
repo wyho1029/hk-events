@@ -832,20 +832,6 @@
    "featured": false
   },
   {
-   "id": "534d9b301ba0",
-   "title": "Blue Lock 藍色監獄",
-   "category": "電影",
-   "start": "2026-11-06",
-   "end": "2026-12-06",
-   "venue": "",
-   "url": "https://wmoov.com/movie/details/73474",
-   "source": "wmoov",
-   "image": "https://wmoov.com/assets/poster/2fddb16eb0093cba5eb4d2a9e32a6d9a.jpg",
-   "rating": "",
-   "shows": 1,
-   "featured": false
-  },
-  {
    "id": "552476cbf3d9",
    "title": "Look Back -驀然回首-",
    "category": "電影",
@@ -936,7 +922,7 @@
    "source": "wmoov",
    "image": "https://wmoov.com/assets/poster/e7b06f970e6a34335365d8bba572089b.jpg",
    "rating": "",
-   "shows": 11,
+   "shows": 9,
    "featured": false
   },
   {
@@ -950,7 +936,7 @@
    "source": "wmoov",
    "image": "https://wmoov.com/assets/poster/e048b1d5dd8fd89f14b27e7fd9437ce8.jpg",
    "rating": "7.4",
-   "shows": 9,
+   "shows": 8,
    "featured": false
   },
   {
@@ -964,7 +950,7 @@
    "source": "wmoov",
    "image": "https://wmoov.com/assets/poster/5d7b0159f8a349f33b29bda9e25e30cf.jpg",
    "rating": "7",
-   "shows": 12,
+   "shows": 10,
    "featured": false
   },
   {
@@ -978,7 +964,7 @@
    "source": "wmoov",
    "image": "https://wmoov.com/assets/poster/2dbfbd6bfdaf0026036e543b175b00b8.jpg",
    "rating": "",
-   "shows": 74,
+   "shows": 100,
    "featured": false
   },
   {
@@ -992,7 +978,7 @@
    "source": "wmoov",
    "image": "https://wmoov.com/assets/poster/7d9d2e2b3a3ace8405a90552b0ba4c73.jpg",
    "rating": "8",
-   "shows": 375,
+   "shows": 339,
    "featured": false
   },
   {
@@ -1006,7 +992,7 @@
    "source": "wmoov",
    "image": "https://wmoov.com/assets/poster/c223fb88c91156412984fa0fbc9cbc4e.jpg",
    "rating": "8.5",
-   "shows": 264,
+   "shows": 237,
    "featured": false
   },
   {
@@ -1034,7 +1020,7 @@
    "source": "wmoov",
    "image": "https://wmoov.com/assets/poster/deabaea17af602310af9633d8dea4615.jpg",
    "rating": "8.7",
-   "shows": 3,
+   "shows": 2,
    "featured": false
   },
   {
@@ -1048,7 +1034,7 @@
    "source": "wmoov",
    "image": "https://wmoov.com/assets/poster/bcef17beee3194b660c14ccbe94e6f39.jpg",
    "rating": "8",
-   "shows": 83,
+   "shows": 67,
    "featured": false
   },
   {
@@ -1062,7 +1048,7 @@
    "source": "wmoov",
    "image": "https://wmoov.com/assets/poster/0985dca7d2158b605b507bb633dccbbd.jpg",
    "rating": "",
-   "shows": 24,
+   "shows": 19,
    "featured": false
   },
   {
@@ -1090,7 +1076,7 @@
    "source": "wmoov",
    "image": "https://wmoov.com/assets/poster/5bb1c8ab3777cbf4ff5d60fad8b48107.jpg",
    "rating": "7.5",
-   "shows": 16,
+   "shows": 14,
    "featured": false
   },
   {
@@ -1104,7 +1090,7 @@
    "source": "wmoov",
    "image": "https://wmoov.com/assets/poster/8cb83f4fa36fa39ceff9d0c0fa40b28a.jpg",
    "rating": "7.3",
-   "shows": 3,
+   "shows": 2,
    "featured": false
   },
   {
@@ -1172,7 +1158,7 @@
    "source": "wmoov",
    "image": "https://wmoov.com/assets/poster/86c72ba1c1b1c582b4336e9a4697e6cb.jpg",
    "rating": "7.4",
-   "shows": 250,
+   "shows": 225,
    "featured": false
   },
   {
@@ -1186,7 +1172,7 @@
    "source": "wmoov",
    "image": "https://wmoov.com/assets/poster/4a3b580a7fa3cef2f557ccf0b2169ccc.jpg",
    "rating": "7",
-   "shows": 9,
+   "shows": 6,
    "featured": false
   },
   {
@@ -1200,7 +1186,7 @@
    "source": "wmoov",
    "image": "https://wmoov.com/assets/poster/62c62bfca50bd9f65731c724936d0451.jpg",
    "rating": "",
-   "shows": 36,
+   "shows": 27,
    "featured": false
   },
   {
@@ -1214,7 +1200,7 @@
    "source": "wmoov",
    "image": "https://wmoov.com/assets/poster/875b0033906096d5feed7a4d4f671f18.jpg",
    "rating": "8.5",
-   "shows": 9,
+   "shows": 7,
    "featured": false
   },
   {
@@ -1242,7 +1228,7 @@
    "source": "wmoov",
    "image": "https://wmoov.com/assets/poster/530c5adb7a1824b0016d3a897247df1a.jpg",
    "rating": "8.3",
-   "shows": 12,
+   "shows": 10,
    "featured": false
   },
   {
@@ -1270,7 +1256,7 @@
    "source": "wmoov",
    "image": "https://wmoov.com/assets/poster/f6cf02d339ec6a52b7a3739c782fc8e6.jpg",
    "rating": "8",
-   "shows": 113,
+   "shows": 102,
    "featured": false
   },
   {
@@ -1324,7 +1310,7 @@
    "source": "wmoov",
    "image": "https://wmoov.com/assets/poster/662e6b85cacca3e2e45f3eab3097edbf.jpg",
    "rating": "7.8",
-   "shows": 18,
+   "shows": 17,
    "featured": false
   },
   {
@@ -1352,7 +1338,7 @@
    "source": "wmoov",
    "image": "https://wmoov.com/assets/poster/bbbc7798b5c4404eef445ab75bc2cf6e.jpg",
    "rating": "5.6",
-   "shows": 5,
+   "shows": 4,
    "featured": false
   },
   {
@@ -1366,7 +1352,7 @@
    "source": "wmoov",
    "image": "https://wmoov.com/assets/poster/2b4d987f63ab238545ea42e86624e5ab.jpg",
    "rating": "",
-   "shows": 47,
+   "shows": 43,
    "featured": false
   },
   {
@@ -1380,7 +1366,7 @@
    "source": "wmoov",
    "image": "https://wmoov.com/assets/poster/3ced8ca6b5871a612ead2d3de04c97fa.jpg",
    "rating": "7.5",
-   "shows": 8,
+   "shows": 7,
    "featured": false
   },
   {
@@ -1422,7 +1408,7 @@
    "source": "wmoov",
    "image": "https://wmoov.com/assets/poster/a47b4fe30c6ad7c249274c6e26f333fe.jpg",
    "rating": "",
-   "shows": 51,
+   "shows": 45,
    "featured": false
   },
   {
@@ -1438,20 +1424,6 @@
    "featured": false
   },
   {
-   "id": "d6b35bd3cd67",
-   "title": "蜘蛛俠：英雄重生",
-   "category": "電影",
-   "start": "2026-11-06",
-   "end": "2026-12-06",
-   "venue": "",
-   "url": "https://wmoov.com/movie/details/71382",
-   "source": "wmoov",
-   "image": "https://wmoov.com/assets/poster/c5606cca08b1095e28c299a732531390.jpg",
-   "rating": "8.5",
-   "shows": 3,
-   "featured": false
-  },
-  {
    "id": "9a68ca09512d",
    "title": "街霸",
    "category": "電影",
@@ -1462,7 +1434,7 @@
    "source": "wmoov",
    "image": "https://wmoov.com/assets/poster/5ebd6f2bf607e11d818ce86346984f38.jpg",
    "rating": "4.8",
-   "shows": 12,
+   "shows": 11,
    "featured": false
   },
   {
@@ -1532,7 +1504,7 @@
    "source": "wmoov",
    "image": "https://wmoov.com/assets/poster/49c22a53c1072c28d420a027f6ddf86d.jpg",
    "rating": "9.1",
-   "shows": 33,
+   "shows": 31,
    "featured": false
   },
   {
@@ -1666,7 +1638,7 @@
    "source": "wmoov",
    "image": "https://wmoov.com/assets/poster/6293956ab39c18f94353e568354da16f.jpg",
    "rating": "7.3",
-   "shows": 18,
+   "shows": 14,
    "featured": false
   },
   {
@@ -5520,6 +5492,18 @@
    "source": "康文署",
    "image": "",
    "featured": false
+  },
+  {
+   "id": "fb0c6fcbb9a9",
+   "title": "香港壁球公開賽 2026",
+   "category": "大型盛事",
+   "start": "2026-11-30",
+   "end": "2026-12-06",
+   "venue": "香港壁球中心、香港足球會及愛丁堡廣場",
+   "url": "https://www.hksquash.org.hk/",
+   "source": "盛事之都",
+   "image": "",
+   "featured": true
   },
   {
    "id": "787fe386ca99",
