@@ -614,18 +614,6 @@
    "featured": false
   },
   {
-   "id": "1219e1d89c26",
-   "title": "梁祖堯 X 王菀之 X 谷祖琳 X 盧鎮業《寫不得你》舞台劇",
-   "category": "休閒",
-   "start": "2026-10-23",
-   "end": "2026-11-08",
-   "venue": "香港演藝學院 歌劇院",
-   "url": "https://timable.com/zh/event/%E6%A2%81%E7%A5%96%E5%A0%AFX%E7%8E%8B%E8%8F%80%E4%B9%8BX%E8%B0%B7%E7%A5%96%E7%90%B3X%E7%9B%A7%E9%8E%AE%E6%A5%AD-%E5%AF%AB%E4%B8%8D%E5%BE%97%E4%BD%A0%E8%88%9E%E5%8F%B0%E5%8A%87",
-   "source": "Timable",
-   "image": "https://static.timable.com/image_c312d8cd-faf6-46f0-b152-7b9328e76d3f-480x640.webp",
-   "featured": false
-  },
-  {
    "id": "07aa66106a62",
    "title": "\"records\" 展覽",
    "category": "展覽",
@@ -710,18 +698,6 @@
    "featured": false
   },
   {
-   "id": "e076d291059b",
-   "title": "Cartier 卡地亞 \"Into The Wild\" 沉浸式體驗 @⻁豹別墅",
-   "category": "休閒",
-   "start": "2026-10-31",
-   "end": "2026-11-08",
-   "venue": "虎豹樂圃 (虎豹別墅)",
-   "url": "https://timable.com/zh/event/Cartier%E5%8D%A1%E5%9C%B0%E4%BA%9E-IntoTheWild-%E6%B2%89%E6%B5%B8%E5%BC%8F%E9%AB%94%E9%A9%97--%E8%B1%B9%E5%88%A5%E5%A2%85",
-   "source": "Timable",
-   "image": "https://static.timable.com/image_fff34bbd-2241-4baf-8243-f611032910c7-480x480.webp",
-   "featured": false
-  },
-  {
    "id": "649a760f58e3",
    "title": "TETEUM 暖萌聖誕 眼鏡「熊」出沒注意@置富Malls",
    "category": "休閒",
@@ -744,18 +720,6 @@
    "source": "康文署",
    "image": "",
    "featured": false
-  },
-  {
-   "id": "54fea2ba8c52",
-   "title": "香港網球公開賽2026 (WTA 250)",
-   "category": "體育",
-   "start": "2026-10-31",
-   "end": "2026-11-08",
-   "venue": "維多利亞公園網球主場",
-   "url": "https://www.hktennisopen.hk/zh/",
-   "source": "盛事之都",
-   "image": "",
-   "featured": true
   },
   {
    "id": "fef928576539",
@@ -914,45 +878,17 @@
    "featured": false
   },
   {
-   "id": "901e9c1e8175",
-   "title": "BRUNELLO：築夢人生",
+   "id": "552476cbf3d9",
+   "title": "Look Back -驀然回首-",
    "category": "電影",
    "start": "2026-11-08",
    "end": "2026-12-08",
    "venue": "",
-   "url": "https://wmoov.com/movie/details/74064",
+   "url": "https://wmoov.com/movie/details/65013",
    "source": "wmoov",
-   "image": "https://wmoov.com/assets/poster/b592ea809c07696132745f4e6a50a2f9.jpg",
-   "rating": "",
-   "shows": 3,
-   "featured": false
-  },
-  {
-   "id": "534d9b301ba0",
-   "title": "Blue Lock 藍色監獄",
-   "category": "電影",
-   "start": "2026-11-08",
-   "end": "2026-12-08",
-   "venue": "",
-   "url": "https://wmoov.com/movie/details/73474",
-   "source": "wmoov",
-   "image": "https://wmoov.com/assets/poster/2fddb16eb0093cba5eb4d2a9e32a6d9a.jpg",
-   "rating": "",
-   "shows": 2,
-   "featured": false
-  },
-  {
-   "id": "0cd2f21af542",
-   "title": "EXO PLANET #6 - EXhOrizon [dot] in CINEMAS",
-   "category": "電影",
-   "start": "2026-11-08",
-   "end": "2026-12-08",
-   "venue": "",
-   "url": "https://wmoov.com/movie/details/73989",
-   "source": "wmoov",
-   "image": "https://wmoov.com/assets/poster/bdf153c9986e60069f31bd79d0e8d876.jpg",
-   "rating": "",
-   "shows": 16,
+   "image": "https://wmoov.com/assets/poster/a967ce23000afa3681a592eede58a70c.jpg",
+   "rating": "8.5",
+   "shows": 1,
    "featured": false
   },
   {
@@ -966,7 +902,7 @@
    "source": "wmoov",
    "image": "https://wmoov.com/assets/poster/ccecd2f884d5018f2cacfa2ab5016b5f.jpg",
    "rating": "8.2",
-   "shows": 2,
+   "shows": 4,
    "featured": false
   },
   {
@@ -979,34 +915,6 @@
    "url": "https://www.operacg.org/",
    "source": "康文署",
    "image": "",
-   "featured": false
-  },
-  {
-   "id": "9522669265b1",
-   "title": "SB19 Wakas at Simula: The Trilogy Concert Finale In Cinemas",
-   "category": "電影",
-   "start": "2026-11-08",
-   "end": "2026-12-08",
-   "venue": "",
-   "url": "https://wmoov.com/movie/details/74063",
-   "source": "wmoov",
-   "image": "https://wmoov.com/assets/poster/4dd9c00083dcf6640418bf48d0d9f0ea.jpg",
-   "rating": "",
-   "shows": 1,
-   "featured": false
-  },
-  {
-   "id": "f0c8c1163b2d",
-   "title": "YORUSHIKA LIVE 「盗作」",
-   "category": "電影",
-   "start": "2026-11-08",
-   "end": "2026-12-08",
-   "venue": "",
-   "url": "https://wmoov.com/movie/details/73812",
-   "source": "wmoov",
-   "image": "https://wmoov.com/assets/poster/02ab31a6cf479d068756950fd562da85.jpg",
-   "rating": "",
-   "shows": 1,
    "featured": false
   },
   {
@@ -1056,7 +964,7 @@
    "source": "wmoov",
    "image": "https://wmoov.com/assets/poster/e818a9fe5275b7b3a4fc325145723cda.jpg",
    "rating": "6.6",
-   "shows": 3,
+   "shows": 4,
    "featured": false
   },
   {
@@ -1082,7 +990,7 @@
    "source": "wmoov",
    "image": "https://wmoov.com/assets/poster/3eae45b8084dc2a5e418f96212a22f2b.jpg",
    "rating": "6.3",
-   "shows": 4,
+   "shows": 6,
    "featured": false
   },
   {
@@ -1096,7 +1004,7 @@
    "source": "wmoov",
    "image": "https://wmoov.com/assets/poster/e7b06f970e6a34335365d8bba572089b.jpg",
    "rating": "",
-   "shows": 6,
+   "shows": 8,
    "featured": false
   },
   {
@@ -1124,7 +1032,7 @@
    "source": "wmoov",
    "image": "https://wmoov.com/assets/poster/5d7b0159f8a349f33b29bda9e25e30cf.jpg",
    "rating": "7",
-   "shows": 16,
+   "shows": 11,
    "featured": false
   },
   {
@@ -1138,7 +1046,7 @@
    "source": "wmoov",
    "image": "https://wmoov.com/assets/poster/2dbfbd6bfdaf0026036e543b175b00b8.jpg",
    "rating": "",
-   "shows": 91,
+   "shows": 110,
    "featured": false
   },
   {
@@ -1164,7 +1072,7 @@
    "source": "wmoov",
    "image": "https://wmoov.com/assets/poster/7d9d2e2b3a3ace8405a90552b0ba4c73.jpg",
    "rating": "7.8",
-   "shows": 292,
+   "shows": 306,
    "featured": false
   },
   {
@@ -1177,8 +1085,8 @@
    "url": "https://wmoov.com/movie/details/72803",
    "source": "wmoov",
    "image": "https://wmoov.com/assets/poster/c223fb88c91156412984fa0fbc9cbc4e.jpg",
-   "rating": "8.5",
-   "shows": 234,
+   "rating": "8",
+   "shows": 242,
    "featured": false
   },
   {
@@ -1192,7 +1100,21 @@
    "source": "wmoov",
    "image": "https://wmoov.com/assets/poster/c5786b23d87b1a7b10c4436a8252c8a0.jpg",
    "rating": "",
-   "shows": 5,
+   "shows": 6,
+   "featured": false
+  },
+  {
+   "id": "be4566719c2b",
+   "title": "夜王",
+   "category": "電影",
+   "start": "2026-11-08",
+   "end": "2026-12-08",
+   "venue": "",
+   "url": "https://wmoov.com/movie/details/71625",
+   "source": "wmoov",
+   "image": "https://wmoov.com/assets/poster/8ab854d7612f223a86b34782c8d15da4.jpg",
+   "rating": "",
+   "shows": 1,
    "featured": false
   },
   {
@@ -1206,7 +1128,7 @@
    "source": "wmoov",
    "image": "https://wmoov.com/assets/poster/deabaea17af602310af9633d8dea4615.jpg",
    "rating": "8.7",
-   "shows": 4,
+   "shows": 3,
    "featured": false
   },
   {
@@ -1220,7 +1142,7 @@
    "source": "wmoov",
    "image": "https://wmoov.com/assets/poster/bcef17beee3194b660c14ccbe94e6f39.jpg",
    "rating": "8",
-   "shows": 76,
+   "shows": 81,
    "featured": false
   },
   {
@@ -1234,21 +1156,21 @@
    "source": "wmoov",
    "image": "https://wmoov.com/assets/poster/0985dca7d2158b605b507bb633dccbbd.jpg",
    "rating": "",
-   "shows": 23,
+   "shows": 27,
    "featured": false
   },
   {
-   "id": "1099dd3635dd",
-   "title": "寂寂毛聞",
+   "id": "c56b3926a6f3",
+   "title": "寒戰1994",
    "category": "電影",
    "start": "2026-11-08",
    "end": "2026-12-08",
    "venue": "",
-   "url": "https://wmoov.com/movie/details/71803",
+   "url": "https://wmoov.com/movie/details/68322",
    "source": "wmoov",
-   "image": "https://wmoov.com/assets/poster/c5fe8f4000f674f399c0112cf573a4a1.jpg",
-   "rating": "",
-   "shows": 2,
+   "image": "https://wmoov.com/assets/poster/47f89d52d1f0a64bb38b6026169ae9ef.jpg",
+   "rating": "7",
+   "shows": 1,
    "featured": false
   },
   {
@@ -1262,7 +1184,7 @@
    "source": "wmoov",
    "image": "https://wmoov.com/assets/poster/5bb1c8ab3777cbf4ff5d60fad8b48107.jpg",
    "rating": "7.5",
-   "shows": 12,
+   "shows": 17,
    "featured": false
   },
   {
@@ -1276,6 +1198,20 @@
    "source": "wmoov",
    "image": "https://wmoov.com/assets/poster/8cb83f4fa36fa39ceff9d0c0fa40b28a.jpg",
    "rating": "7.3",
+   "shows": 3,
+   "featured": false
+  },
+  {
+   "id": "c017c7106203",
+   "title": "快要到達家了",
+   "category": "電影",
+   "start": "2026-11-08",
+   "end": "2026-12-08",
+   "venue": "",
+   "url": "https://wmoov.com/movie/details/74083",
+   "source": "wmoov",
+   "image": "https://wmoov.com/assets/poster/ba9bf514ba51fa29d57091dd334c4ed4.jpg",
+   "rating": "",
    "shows": 1,
    "featured": false
   },
@@ -1330,7 +1266,7 @@
    "source": "wmoov",
    "image": "https://wmoov.com/assets/poster/86c72ba1c1b1c582b4336e9a4697e6cb.jpg",
    "rating": "7.4",
-   "shows": 229,
+   "shows": 235,
    "featured": false
   },
   {
@@ -1344,7 +1280,7 @@
    "source": "wmoov",
    "image": "https://wmoov.com/assets/poster/4a3b580a7fa3cef2f557ccf0b2169ccc.jpg",
    "rating": "7",
-   "shows": 10,
+   "shows": 12,
    "featured": false
   },
   {
@@ -1358,7 +1294,7 @@
    "source": "wmoov",
    "image": "https://wmoov.com/assets/poster/62c62bfca50bd9f65731c724936d0451.jpg",
    "rating": "",
-   "shows": 20,
+   "shows": 23,
    "featured": false
   },
   {
@@ -1372,7 +1308,7 @@
    "source": "wmoov",
    "image": "https://wmoov.com/assets/poster/875b0033906096d5feed7a4d4f671f18.jpg",
    "rating": "8.5",
-   "shows": 5,
+   "shows": 8,
    "featured": false
   },
   {
@@ -1386,7 +1322,7 @@
    "source": "wmoov",
    "image": "https://wmoov.com/assets/poster/def6f82d3e68d32e886edd3b2d7311c5.jpg",
    "rating": "8.5",
-   "shows": 4,
+   "shows": 6,
    "featured": false
   },
   {
@@ -1400,7 +1336,7 @@
    "source": "wmoov",
    "image": "https://wmoov.com/assets/poster/530c5adb7a1824b0016d3a897247df1a.jpg",
    "rating": "8.3",
-   "shows": 3,
+   "shows": 9,
    "featured": false
   },
   {
@@ -1426,7 +1362,7 @@
    "source": "wmoov",
    "image": "https://wmoov.com/assets/poster/3bdec9ea08c238b5559ec4943337c8ff.jpg",
    "rating": "9.9",
-   "shows": 8,
+   "shows": 10,
    "featured": false
   },
   {
@@ -1452,7 +1388,7 @@
    "source": "wmoov",
    "image": "https://wmoov.com/assets/poster/f6cf02d339ec6a52b7a3739c782fc8e6.jpg",
    "rating": "8.5",
-   "shows": 102,
+   "shows": 113,
    "featured": false
   },
   {
@@ -1526,7 +1462,7 @@
    "source": "wmoov",
    "image": "https://wmoov.com/assets/poster/0cb7914393ce2183a01bef51d643db01.jpg",
    "rating": "8.4",
-   "shows": 3,
+   "shows": 5,
    "featured": false
   },
   {
@@ -1544,20 +1480,6 @@
    "featured": false
   },
   {
-   "id": "2c2235688417",
-   "title": "盜音天才",
-   "category": "電影",
-   "start": "2026-11-08",
-   "end": "2026-12-08",
-   "venue": "",
-   "url": "https://wmoov.com/movie/details/74121",
-   "source": "wmoov",
-   "image": "https://wmoov.com/assets/poster/d35319f804a62523c32a3d3225498029.jpg",
-   "rating": "",
-   "shows": 1,
-   "featured": false
-  },
-  {
    "id": "c1e178eb234e",
    "title": "社交清算",
    "category": "電影",
@@ -1568,7 +1490,7 @@
    "source": "wmoov",
    "image": "https://wmoov.com/assets/poster/bbbc7798b5c4404eef445ab75bc2cf6e.jpg",
    "rating": "5.6",
-   "shows": 2,
+   "shows": 5,
    "featured": false
   },
   {
@@ -1582,7 +1504,7 @@
    "source": "wmoov",
    "image": "https://wmoov.com/assets/poster/2b4d987f63ab238545ea42e86624e5ab.jpg",
    "rating": "",
-   "shows": 53,
+   "shows": 51,
    "featured": false
   },
   {
@@ -1596,21 +1518,7 @@
    "source": "wmoov",
    "image": "https://wmoov.com/assets/poster/3ced8ca6b5871a612ead2d3de04c97fa.jpg",
    "rating": "7.5",
-   "shows": 1,
-   "featured": false
-  },
-  {
-   "id": "4b11a03cd9dc",
-   "title": "第四幕",
-   "category": "電影",
-   "start": "2026-11-08",
-   "end": "2026-12-08",
-   "venue": "",
-   "url": "https://wmoov.com/movie/details/72456",
-   "source": "wmoov",
-   "image": "https://wmoov.com/assets/poster/75b63854034bdfabc747e08057e35f5f.jpg",
-   "rating": "",
-   "shows": 2,
+   "shows": 6,
    "featured": false
   },
   {
@@ -1672,7 +1580,21 @@
    "source": "wmoov",
    "image": "https://wmoov.com/assets/poster/1f9f45cb34cafe3c28685d26944cb3d7.jpg",
    "rating": "8.7",
-   "shows": 3,
+   "shows": 2,
+   "featured": false
+  },
+  {
+   "id": "85c70684851f",
+   "title": "總統的生日蛋糕",
+   "category": "電影",
+   "start": "2026-11-08",
+   "end": "2026-12-08",
+   "venue": "",
+   "url": "https://wmoov.com/movie/details/72350",
+   "source": "wmoov",
+   "image": "https://wmoov.com/assets/poster/4d640ebfcbd2795a49ddfd79f2ef970c.jpg",
+   "rating": "9.5",
+   "shows": 1,
    "featured": false
   },
   {
@@ -1698,7 +1620,7 @@
    "source": "wmoov",
    "image": "https://wmoov.com/assets/poster/a47b4fe30c6ad7c249274c6e26f333fe.jpg",
    "rating": "",
-   "shows": 41,
+   "shows": 53,
    "featured": false
   },
   {
@@ -1716,6 +1638,20 @@
    "featured": false
   },
   {
+   "id": "d6b35bd3cd67",
+   "title": "蜘蛛俠：英雄重生",
+   "category": "電影",
+   "start": "2026-11-08",
+   "end": "2026-12-08",
+   "venue": "",
+   "url": "https://wmoov.com/movie/details/71382",
+   "source": "wmoov",
+   "image": "https://wmoov.com/assets/poster/c5606cca08b1095e28c299a732531390.jpg",
+   "rating": "8.5",
+   "shows": 2,
+   "featured": false
+  },
+  {
    "id": "9a68ca09512d",
    "title": "街霸",
    "category": "電影",
@@ -1726,7 +1662,7 @@
    "source": "wmoov",
    "image": "https://wmoov.com/assets/poster/5ebd6f2bf607e11d818ce86346984f38.jpg",
    "rating": "4.8",
-   "shows": 15,
+   "shows": 8,
    "featured": false
   },
   {
@@ -1740,7 +1676,7 @@
    "source": "wmoov",
    "image": "https://wmoov.com/assets/poster/860dc216b2ec279eb1726be0f6eb0204.jpg",
    "rating": "5.9",
-   "shows": 2,
+   "shows": 3,
    "featured": false
   },
   {
@@ -1754,6 +1690,34 @@
    "source": "wmoov",
    "image": "https://wmoov.com/assets/poster/a89b2d6e1d2e21a46daa591dbea432b6.jpg",
    "rating": "",
+   "shows": 5,
+   "featured": false
+  },
+  {
+   "id": "01b4103dfa65",
+   "title": "誤闖遺忘島",
+   "category": "電影",
+   "start": "2026-11-08",
+   "end": "2026-12-08",
+   "venue": "",
+   "url": "https://wmoov.com/movie/details/71503",
+   "source": "wmoov",
+   "image": "https://wmoov.com/assets/poster/6a992c8f804cb79c68916b2ace7eef16.jpg",
+   "rating": "9.1",
+   "shows": 1,
+   "featured": false
+  },
+  {
+   "id": "ea27670cf1ea",
+   "title": "論盡大導",
+   "category": "電影",
+   "start": "2026-11-08",
+   "end": "2026-12-08",
+   "venue": "",
+   "url": "https://wmoov.com/movie/details/73155",
+   "source": "wmoov",
+   "image": "https://wmoov.com/assets/poster/1cbd71def6f1e2f17015b4c32a2bb85a.jpg",
+   "rating": "7.7",
    "shows": 1,
    "featured": false
   },
@@ -1780,7 +1744,7 @@
    "source": "wmoov",
    "image": "https://wmoov.com/assets/poster/49c22a53c1072c28d420a027f6ddf86d.jpg",
    "rating": "9.6",
-   "shows": 57,
+   "shows": 36,
    "featured": false
   },
   {
@@ -1794,7 +1758,7 @@
    "source": "wmoov",
    "image": "https://wmoov.com/assets/poster/61ba8e1c08dd7d03d2d8070c6092f2f4.jpg",
    "rating": "5.5",
-   "shows": 5,
+   "shows": 6,
    "featured": false
   },
   {
@@ -1822,7 +1786,7 @@
    "source": "wmoov",
    "image": "https://wmoov.com/assets/poster/0923391519f69414b5120a2ae29ac565.jpg",
    "rating": "",
-   "shows": 75,
+   "shows": 85,
    "featured": false
   },
   {
@@ -1836,7 +1800,7 @@
    "source": "wmoov",
    "image": "https://wmoov.com/assets/poster/486de8c287c261ff67f7f3ddab030f15.jpg",
    "rating": "",
-   "shows": 12,
+   "shows": 11,
    "featured": false
   },
   {
@@ -1866,6 +1830,20 @@
    "featured": false
   },
   {
+   "id": "83e69054ad4a",
+   "title": "魔方小姐",
+   "category": "電影",
+   "start": "2026-11-08",
+   "end": "2026-12-08",
+   "venue": "",
+   "url": "https://wmoov.com/movie/details/72349",
+   "source": "wmoov",
+   "image": "https://wmoov.com/assets/poster/0bbfd734908d98f2016039ad8926a651.jpg",
+   "rating": "8.7",
+   "shows": 1,
+   "featured": false
+  },
+  {
    "id": "6c0b4e31f896",
    "title": "鯨獄逃生",
    "category": "電影",
@@ -1876,7 +1854,7 @@
    "source": "wmoov",
    "image": "https://wmoov.com/assets/poster/6293956ab39c18f94353e568354da16f.jpg",
    "rating": "7.3",
-   "shows": 15,
+   "shows": 24,
    "featured": false
   },
   {
@@ -1913,18 +1891,6 @@
    "url": "https://www.lcsd.gov.hk/tc/ticket/index.html",
    "source": "康文署",
    "image": "",
-   "featured": false
-  },
-  {
-   "id": "1e0b5ed88a5c",
-   "title": "MINAMOTO × HIDDEN STAND 期間限定店",
-   "category": "休閒",
-   "start": "2026-11-09",
-   "end": "2026-11-09",
-   "venue": "MINAMOTO COFFEE",
-   "url": "https://timable.com/zh/event/MINAMOTO-HIDDENSTAND%E6%9C%9F%E9%96%93%E9%99%90%E5%AE%9A%E5%BA%97",
-   "source": "Timable",
-   "image": "https://static.timable.com/image_b7986b30-1d5f-43cf-914c-cc0bdf73cf58-480x480.webp",
    "featured": false
   },
   {
@@ -5897,6 +5863,18 @@
    "url": "https://www.facebook.com/share/17hFjRZifv/",
    "source": "康文署",
    "image": "",
+   "featured": false
+  },
+  {
+   "id": "877bb4def761",
+   "title": "Lantau Live 2026",
+   "category": "休閒",
+   "start": "2026-11-28",
+   "end": "2026-11-29",
+   "venue": "The Hideout",
+   "url": "https://timable.com/zh/event/LantauLive2026",
+   "source": "Timable",
+   "image": "https://static.timable.com/image_24f70199-3441-4fc5-b2e1-60d4d2c0ed7e-480x600.webp",
    "featured": false
   },
   {
