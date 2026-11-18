@@ -962,18 +962,6 @@
    "featured": false
   },
   {
-   "id": "3c7811a6faa7",
-   "title": "JANICE VIDAL 衛蘭 \"OUT OF FRAME\" 世界巡迴演唱會 2026 香港站",
-   "category": "演唱會",
-   "start": "2026-11-14",
-   "end": "2026-11-18",
-   "venue": "香港體育館 (紅館)",
-   "url": "https://timable.com/zh/event/JANICEVIDAL%E8%A1%9B%E8%98%AD-OUTOFFRAME-%E4%B8%96%E7%95%8C%E5%B7%A1%E8%BF%B4%E6%BC%94%E5%94%B1%E6%9C%83-%E9%A6%99%E6%B8%AF%E7%AB%99",
-   "source": "Timable",
-   "image": "https://static.timable.com/image_8f5352ba-3225-4801-bb2e-97ecc2af4fd6-480x600.webp",
-   "featured": false
-  },
-  {
    "id": "4487f1483422",
    "title": "TOYZEROPLUS MEWKY 奇幻聖誕裁縫店 2026 @iSQUARE",
    "category": "休閒",
@@ -1017,18 +1005,6 @@
    "end": "2027-01-17",
    "venue": "觀塘區內場地",
    "url": "https://www.cpo.gov.hk/zh-hk/event/tc-kt-2627/",
-   "source": "康文署",
-   "image": "",
-   "featured": false
-  },
-  {
-   "id": "580e476c682a",
-   "title": "Janice Vidal 衛蘭 OUT OF FRAME世界巡迴演唱會 - 香港站",
-   "category": "演唱會",
-   "start": "2026-11-15",
-   "end": "2026-11-18",
-   "venue": "香港體育館 (表演場)",
-   "url": "https://www.lcsd.gov.hk/tc/hkc/whatsnew.html",
    "source": "康文署",
    "image": "",
    "featured": false
@@ -1106,42 +1082,6 @@
    "featured": false
   },
   {
-   "id": "8d09cb11efc4",
-   "title": "油麻地戲院場地伙伴計劃- 優越新秀粵劇傳承計劃 2026-27 粵劇演出《紅了櫻桃碎了心》",
-   "category": "表演藝術",
-   "start": "2026-11-17",
-   "end": "2026-11-18",
-   "venue": "高山劇場 (新翼演藝廳)",
-   "url": "https://www.hkbarwoymt.com/tc",
-   "source": "康文署",
-   "image": "",
-   "featured": false
-  },
-  {
-   "id": "7262c845efb4",
-   "title": "香港文化中心場地伙伴計劃：貝托祺的布魯赫納四",
-   "category": "休閒",
-   "start": "2026-11-17",
-   "end": "2026-11-18",
-   "venue": "香港文化中心 (音樂廳)",
-   "url": "https://www.hkphil.org/tc/concert/tarmo-peltokoski-conducts-bruckner-4",
-   "source": "康文署",
-   "image": "",
-   "featured": false
-  },
-  {
-   "id": "90efd2eeade5",
-   "title": "A&R金曲會知音",
-   "category": "表演藝術",
-   "start": "2026-11-18",
-   "end": "2026-11-18",
-   "venue": "大埔文娛中心 (演藝廳)",
-   "url": "https://www.lcsd.gov.hk/clpss/tc/search/culture/DetailForm.do?id=188517",
-   "source": "康文署",
-   "image": "",
-   "featured": false
-  },
-  {
    "id": "901e9c1e8175",
    "title": "BRUNELLO：築夢人生",
    "category": "電影",
@@ -1152,55 +1092,45 @@
    "source": "wmoov",
    "image": "https://wmoov.com/assets/poster/b592ea809c07696132745f4e6a50a2f9.jpg",
    "rating": "",
-   "shows": 9,
+   "shows": 4,
    "featured": false
   },
   {
-   "id": "068e8319a1f9",
-   "title": "Bobby Sir 65才開心生日演唱會",
-   "category": "演唱會",
+   "id": "4a7fa53200fc",
+   "title": "Look Back 驀然回首",
+   "category": "電影",
    "start": "2026-11-18",
-   "end": "2026-11-18",
-   "venue": "荃灣大會堂 (文娛廳)",
-   "url": "https://www.lcsd.gov.hk/clpss/tc/search/culture/DetailForm.do?id=188599",
-   "source": "康文署",
-   "image": "",
+   "end": "2026-12-18",
+   "venue": "",
+   "url": "https://wmoov.com/movie/details/72252",
+   "source": "wmoov",
+   "image": "https://wmoov.com/assets/poster/ccecd2f884d5018f2cacfa2ab5016b5f.jpg",
+   "rating": "8.2",
+   "shows": 1,
    "featured": false
   },
   {
-   "id": "7f4cb2ca6f33",
-   "title": "wave to earth \"the pieces tour\" 世界巡迴演唱會 2026 香港站",
-   "category": "演唱會",
-   "start": "2026-11-18",
-   "end": "2026-11-18",
-   "venue": "亞洲國際博覽館 10號展館",
-   "url": "https://timable.com/zh/event/wavetoearth-thepiecestour-%E4%B8%96%E7%95%8C%E5%B7%A1%E8%BF%B4%E6%BC%94%E5%94%B1%E6%9C%832026%E9%A6%99%E6%B8%AF%E7%AB%99",
-   "source": "Timable",
-   "image": "https://static.timable.com/image_7d9b34ac-82bb-448f-acbf-1de29c2d1f49-466x466.webp",
-   "featured": false
-  },
-  {
-   "id": "189b19d93f6b",
-   "title": "《李毅，鄧曼麗—中外經典藝術歌曲歌劇片段音樂會》",
-   "category": "表演藝術",
-   "start": "2026-11-18",
-   "end": "2026-11-18",
-   "venue": "東九文化中心 (劇場)",
-   "url": "https://www.urbtix.hk/event-detail/15869/",
-   "source": "康文署",
-   "image": "",
-   "featured": false
-  },
-  {
-   "id": "a035596289cb",
-   "title": "「友智識」長者數碼共融工作坊 (「友智識」長者數碼共融數碼培訓課程)",
+   "id": "6c7771b120e9",
+   "title": "Merry Balloon Hong Kong 2026",
    "category": "休閒",
    "start": "2026-11-18",
-   "end": "2026-11-18",
-   "venue": "北葵涌公共圖書館",
-   "url": "http://www.hkpl.gov.hk/tc/extension-activities/all-events/search?lib_id=1001",
-   "source": "康文署",
-   "image": "",
+   "end": "2026-12-27",
+   "venue": "希慎廣場 Hysan Place",
+   "url": "https://timable.com/zh/event/MerryBalloonHongKong2026",
+   "source": "Timable",
+   "image": "https://static.timable.com/image_a610c35d-7fc5-420a-a9a4-cb7ecdce0501-480x875.webp",
+   "featured": false
+  },
+  {
+   "id": "d224e1c37da1",
+   "title": "「似水流年」林偉而 個人展覽",
+   "category": "展覽",
+   "start": "2026-11-18",
+   "end": "2026-12-05",
+   "venue": "Touch Ceramics",
+   "url": "https://timable.com/zh/event/%E4%BC%BC%E6%B0%B4%E6%B5%81%E5%B9%B4-%E6%9E%97%E5%81%89%E8%80%8C%E5%80%8B%E4%BA%BA%E5%B1%95%E8%A6%BD",
+   "source": "Timable",
+   "image": "https://static.timable.com/image_d9e8127a-500c-4fb1-ab80-fc59ccac4f3e-480x635.webp",
    "featured": false
   },
   {
@@ -1228,30 +1158,16 @@
    "featured": false
   },
   {
-   "id": "72c202a1fd33",
-   "title": "不存在的罪人",
+   "id": "f4ee4e28bf90",
+   "title": "傷心公園",
    "category": "電影",
    "start": "2026-11-18",
    "end": "2026-12-18",
    "venue": "",
-   "url": "https://wmoov.com/movie/details/71859",
+   "url": "https://wmoov.com/movie/details/74199",
    "source": "wmoov",
-   "image": "https://wmoov.com/assets/poster/e818a9fe5275b7b3a4fc325145723cda.jpg",
-   "rating": "6.6",
-   "shows": 1,
-   "featured": false
-  },
-  {
-   "id": "43eaa77e4202",
-   "title": "偵戰",
-   "category": "電影",
-   "start": "2026-11-18",
-   "end": "2026-12-18",
-   "venue": "",
-   "url": "https://wmoov.com/movie/details/73655",
-   "source": "wmoov",
-   "image": "https://wmoov.com/assets/poster/3eae45b8084dc2a5e418f96212a22f2b.jpg",
-   "rating": "6.3",
+   "image": "https://wmoov.com/assets/poster/592627e846efad3e5846fe502bbb4647.jpg",
+   "rating": "",
    "shows": 1,
    "featured": false
   },
@@ -1294,7 +1210,7 @@
    "source": "wmoov",
    "image": "https://wmoov.com/assets/poster/5d7b0159f8a349f33b29bda9e25e30cf.jpg",
    "rating": "7",
-   "shows": 11,
+   "shows": 10,
    "featured": false
   },
   {
@@ -1308,7 +1224,21 @@
    "source": "wmoov",
    "image": "https://wmoov.com/assets/poster/2dbfbd6bfdaf0026036e543b175b00b8.jpg",
    "rating": "",
-   "shows": 51,
+   "shows": 38,
+   "featured": false
+  },
+  {
+   "id": "03857791fa1f",
+   "title": "告別的年代",
+   "category": "電影",
+   "start": "2026-11-18",
+   "end": "2026-12-18",
+   "venue": "",
+   "url": "https://wmoov.com/movie/details/73229",
+   "source": "wmoov",
+   "image": "https://wmoov.com/assets/poster/bc32fa1467800bd9fdf024b1d4914521.jpg",
+   "rating": "",
+   "shows": 41,
    "featured": false
   },
   {
@@ -1322,7 +1252,7 @@
    "source": "wmoov",
    "image": "https://wmoov.com/assets/poster/7d9d2e2b3a3ace8405a90552b0ba4c73.jpg",
    "rating": "7.7",
-   "shows": 217,
+   "shows": 150,
    "featured": false
   },
   {
@@ -1336,7 +1266,7 @@
    "source": "wmoov",
    "image": "https://wmoov.com/assets/poster/c223fb88c91156412984fa0fbc9cbc4e.jpg",
    "rating": "7.8",
-   "shows": 141,
+   "shows": 103,
    "featured": false
   },
   {
@@ -1350,20 +1280,6 @@
    "source": "wmoov",
    "image": "https://wmoov.com/assets/poster/c5786b23d87b1a7b10c4436a8252c8a0.jpg",
    "rating": "7.9",
-   "shows": 2,
-   "featured": false
-  },
-  {
-   "id": "be4566719c2b",
-   "title": "夜王",
-   "category": "電影",
-   "start": "2026-11-18",
-   "end": "2026-12-18",
-   "venue": "",
-   "url": "https://wmoov.com/movie/details/71625",
-   "source": "wmoov",
-   "image": "https://wmoov.com/assets/poster/8ab854d7612f223a86b34782c8d15da4.jpg",
-   "rating": "",
    "shows": 1,
    "featured": false
   },
@@ -1392,7 +1308,7 @@
    "source": "wmoov",
    "image": "https://wmoov.com/assets/poster/bcef17beee3194b660c14ccbe94e6f39.jpg",
    "rating": "8",
-   "shows": 27,
+   "shows": 17,
    "featured": false
   },
   {
@@ -1406,62 +1322,34 @@
    "source": "wmoov",
    "image": "https://wmoov.com/assets/poster/0985dca7d2158b605b507bb633dccbbd.jpg",
    "rating": "7.2",
-   "shows": 12,
+   "shows": 9,
    "featured": false
   },
   {
-   "id": "c56b3926a6f3",
-   "title": "寒戰1994",
-   "category": "電影",
-   "start": "2026-11-18",
-   "end": "2026-12-18",
-   "venue": "",
-   "url": "https://wmoov.com/movie/details/68322",
-   "source": "wmoov",
-   "image": "https://wmoov.com/assets/poster/47f89d52d1f0a64bb38b6026169ae9ef.jpg",
-   "rating": "7",
-   "shows": 1,
-   "featured": false
-  },
-  {
-   "id": "f30be052fa71",
+   "id": "50a34133fab1",
    "title": "實境誘捕",
    "category": "電影",
    "start": "2026-11-18",
    "end": "2026-12-18",
    "venue": "",
-   "url": "https://wmoov.com/movie/details/73365",
+   "url": "https://wmoov.com/movie/details/73738",
    "source": "wmoov",
    "image": "https://wmoov.com/assets/poster/5bb1c8ab3777cbf4ff5d60fad8b48107.jpg",
-   "rating": "7.5",
-   "shows": 3,
-   "featured": false
-  },
-  {
-   "id": "c75bfe862882",
-   "title": "怎麼可能我家的祖先是你家的鬼",
-   "category": "電影",
-   "start": "2026-11-18",
-   "end": "2026-12-18",
-   "venue": "",
-   "url": "https://wmoov.com/movie/details/73310",
-   "source": "wmoov",
-   "image": "https://wmoov.com/assets/poster/7ddbb22c2cdb14cc9951998a4c6bef28.jpg",
-   "rating": "5.3",
+   "rating": "",
    "shows": 1,
    "featured": false
   },
   {
-   "id": "4e1214c8561d",
-   "title": "怒潮",
+   "id": "54765baedd0e",
+   "title": "復仇者聯盟4：終局之戰 加碼重映",
    "category": "電影",
    "start": "2026-11-18",
    "end": "2026-12-18",
    "venue": "",
-   "url": "https://wmoov.com/movie/details/63402",
+   "url": "https://wmoov.com/movie/details/73228",
    "source": "wmoov",
-   "image": "https://wmoov.com/assets/poster/8089062dafb709d839defc61c5078754.jpg",
-   "rating": "9.5",
+   "image": "https://wmoov.com/assets/poster/8cb83f4fa36fa39ceff9d0c0fa40b28a.jpg",
+   "rating": "7.3",
    "shows": 1,
    "featured": false
   },
@@ -1490,7 +1378,21 @@
    "source": "wmoov",
    "image": "https://wmoov.com/assets/poster/eb845106f553f8adfdb7442a178bf0ee.jpg",
    "rating": "7.7",
-   "shows": 25,
+   "shows": 5,
+   "featured": false
+  },
+  {
+   "id": "a7ceeae4bc93",
+   "title": "我們不是陌生人",
+   "category": "電影",
+   "start": "2026-11-18",
+   "end": "2026-12-18",
+   "venue": "",
+   "url": "https://wmoov.com/movie/details/74198",
+   "source": "wmoov",
+   "image": "https://wmoov.com/assets/poster/bef3c6949db4c888ed547bdddd4b0ca4.jpg",
+   "rating": "7.2",
+   "shows": 6,
    "featured": false
   },
   {
@@ -1504,19 +1406,7 @@
    "source": "wmoov",
    "image": "https://wmoov.com/assets/poster/86c72ba1c1b1c582b4336e9a4697e6cb.jpg",
    "rating": "7.4",
-   "shows": 136,
-   "featured": false
-  },
-  {
-   "id": "bcb7b0396917",
-   "title": "戲劇名曲欣賞會",
-   "category": "表演藝術",
-   "start": "2026-11-18",
-   "end": "2026-11-18",
-   "venue": "屯門大會堂 (文娛廳)",
-   "url": "https://www.lcsd.gov.hk/clpss/tc/search/culture/DetailForm.do?id=188565",
-   "source": "康文署",
-   "image": "",
+   "shows": 109,
    "featured": false
   },
   {
@@ -1530,21 +1420,7 @@
    "source": "wmoov",
    "image": "https://wmoov.com/assets/poster/feb46bd39db947f4ec7919875777dfc7.jpg",
    "rating": "6.4",
-   "shows": 131,
-   "featured": false
-  },
-  {
-   "id": "693aa442d346",
-   "title": "拾荒法師",
-   "category": "電影",
-   "start": "2026-11-18",
-   "end": "2026-12-18",
-   "venue": "",
-   "url": "https://wmoov.com/movie/details/72247",
-   "source": "wmoov",
-   "image": "https://wmoov.com/assets/poster/4a3b580a7fa3cef2f557ccf0b2169ccc.jpg",
-   "rating": "7",
-   "shows": 1,
+   "shows": 50,
    "featured": false
   },
   {
@@ -1558,7 +1434,7 @@
    "source": "wmoov",
    "image": "https://wmoov.com/assets/poster/62c62bfca50bd9f65731c724936d0451.jpg",
    "rating": "",
-   "shows": 8,
+   "shows": 6,
    "featured": false
   },
   {
@@ -1572,7 +1448,7 @@
    "source": "wmoov",
    "image": "https://wmoov.com/assets/poster/875b0033906096d5feed7a4d4f671f18.jpg",
    "rating": "8.5",
-   "shows": 1,
+   "shows": 2,
    "featured": false
   },
   {
@@ -1586,151 +1462,21 @@
    "source": "wmoov",
    "image": "https://wmoov.com/assets/poster/def6f82d3e68d32e886edd3b2d7311c5.jpg",
    "rating": "8.5",
-   "shows": 6,
+   "shows": 4,
    "featured": false
   },
   {
-   "id": "6431b7fb48ce",
-   "title": "智•型•新體驗系列 - 自助服務 / e 閱讀 / 數碼館藏 (兒童組)",
-   "category": "親子",
+   "id": "31ffce51a1ef",
+   "title": "未來戰士續集",
+   "category": "電影",
    "start": "2026-11-18",
-   "end": "2026-11-18",
-   "venue": "電氣道公共圖書館",
-   "url": "http://www.hkpl.gov.hk/tc/extension-activities/all-events/search?lib_id=985",
-   "source": "康文署",
-   "image": "",
-   "featured": false
-  },
-  {
-   "id": "69b8f31c9d91",
-   "title": "智‧型‧新體驗系列 - 自助服務 / e閱讀 / 數碼館藏 (兒童組)",
-   "category": "親子",
-   "start": "2026-11-18",
-   "end": "2026-11-18",
-   "venue": "南葵涌公共圖書館",
-   "url": "http://www.hkpl.gov.hk/tc/extension-activities/all-events/search?lib_id=1002",
-   "source": "康文署",
-   "image": "",
-   "featured": false
-  },
-  {
-   "id": "c2109fbad2e7",
-   "title": "智・型・新體驗系列 - e個鐘e閱讀 (成人組)",
-   "category": "休閒",
-   "start": "2026-11-18",
-   "end": "2026-11-18",
-   "venue": "大埔公共圖書館",
-   "url": "http://www.hkpl.gov.hk/tc/extension-activities/all-events/search?lib_id=1026",
-   "source": "康文署",
-   "image": "",
-   "featured": false
-  },
-  {
-   "id": "82ddfc5569a8",
-   "title": "智・型・新體驗系列 - 自助服務 / e閱讀 / 數碼館藏 (兒童組)",
-   "category": "親子",
-   "start": "2026-11-18",
-   "end": "2026-11-18",
-   "venue": "圓洲角公共圖書館",
-   "url": "http://www.hkpl.gov.hk/tc/extension-activities/all-events/search?lib_id=107337",
-   "source": "康文署",
-   "image": "",
-   "featured": false
-  },
-  {
-   "id": "f3de6e186785",
-   "title": "智・型・新體驗系列 - 自助服務 / e閱讀 / 數碼館藏 (兒童組)",
-   "category": "親子",
-   "start": "2026-11-18",
-   "end": "2026-11-18",
-   "venue": "鯉魚門公共圖書館",
-   "url": "http://www.hkpl.gov.hk/tc/extension-activities/all-events/search?lib_id=1005",
-   "source": "康文署",
-   "image": "",
-   "featured": false
-  },
-  {
-   "id": "74719809c8eb",
-   "title": "智・型・新體驗系列 - 自助服務 / e閱讀 / 數碼館藏 (兒童組)",
-   "category": "親子",
-   "start": "2026-11-18",
-   "end": "2026-11-18",
-   "venue": "樂富公共圖書館",
-   "url": "http://www.hkpl.gov.hk/tc/extension-activities/all-events/search?lib_id=9480",
-   "source": "康文署",
-   "image": "",
-   "featured": false
-  },
-  {
-   "id": "2309bdaad420",
-   "title": "智・型・新體驗系列 - 自助服務 / e閱讀 / 數碼館藏 (成人組)",
-   "category": "休閒",
-   "start": "2026-11-18",
-   "end": "2026-11-18",
-   "venue": "將軍澳公共圖書館",
-   "url": "http://www.hkpl.gov.hk/tc/extension-activities/all-events/search?lib_id=1014",
-   "source": "康文署",
-   "image": "",
-   "featured": false
-  },
-  {
-   "id": "fc2d5d9b4379",
-   "title": "智・型・新體驗系列 - 自助服務 / e閱讀 / 數碼館藏 (成人組)",
-   "category": "休閒",
-   "start": "2026-11-18",
-   "end": "2026-11-18",
-   "venue": "深水埗公共圖書館",
-   "url": "http://www.hkpl.gov.hk/tc/extension-activities/all-events/search?lib_id=220778",
-   "source": "康文署",
-   "image": "",
-   "featured": false
-  },
-  {
-   "id": "cf7e6b9d299d",
-   "title": "智・型・新體驗系列 - 輕鬆使用自助服務",
-   "category": "休閒",
-   "start": "2026-11-18",
-   "end": "2026-11-18",
-   "venue": "香港中央圖書館",
-   "url": "http://www.hkpl.gov.hk/tc/extension-activities/all-events/search?lib_id=77",
-   "source": "康文署",
-   "image": "",
-   "featured": false
-  },
-  {
-   "id": "e59d0abb44d5",
-   "title": "智・型・新體驗系列 - 輕鬆使用自助服務 (兒童組)",
-   "category": "親子",
-   "start": "2026-11-18",
-   "end": "2026-11-18",
-   "venue": "尖沙咀公共圖書館",
-   "url": "http://www.hkpl.gov.hk/tc/extension-activities/all-events/search?lib_id=1041",
-   "source": "康文署",
-   "image": "",
-   "featured": false
-  },
-  {
-   "id": "b47d6fd39091",
-   "title": "智・型・新體驗系列 - 輕鬆使用自助服務 (兒童組)",
-   "category": "親子",
-   "start": "2026-11-18",
-   "end": "2026-11-18",
-   "venue": "石圍角公共圖書館",
-   "url": "http://www.hkpl.gov.hk/tc/extension-activities/all-events/search?lib_id=1027",
-   "source": "康文署",
-   "image": "",
-   "featured": false
-  },
-  {
-   "id": "ccb16a21667d",
-   "title": "智・型・新體驗系列 - 輕鬆使用自助服務 / e個鐘e閱讀 (兒童組)",
-   "category": "親子",
-   "start": "2026-11-18",
-   "end": "2026-11-18",
-   "venue": "鴨脷洲公共圖書館",
-   "url": "http://www.hkpl.gov.hk/tc/extension-activities/all-events/search?lib_id=1023",
-   "source": "康文署",
-   "image": "",
+   "end": "2026-12-18",
+   "venue": "",
+   "url": "https://wmoov.com/movie/details/13744",
+   "source": "wmoov",
+   "image": "https://wmoov.com/assets/poster/7f8d3fc620fffcbad0428947223055e0.jpg",
+   "rating": "9",
+   "shows": 111,
    "featured": false
   },
   {
@@ -1758,7 +1504,35 @@
    "source": "wmoov",
    "image": "https://wmoov.com/assets/poster/3bdec9ea08c238b5559ec4943337c8ff.jpg",
    "rating": "9.9",
-   "shows": 8,
+   "shows": 5,
+   "featured": false
+  },
+  {
+   "id": "91dc700d1fd8",
+   "title": "每天再愛你一次",
+   "category": "電影",
+   "start": "2026-11-18",
+   "end": "2026-12-18",
+   "venue": "",
+   "url": "https://wmoov.com/movie/details/74197",
+   "source": "wmoov",
+   "image": "https://wmoov.com/assets/poster/b64841eede7fd8d9a9f3013fe9f88f08.jpg",
+   "rating": "",
+   "shows": 82,
+   "featured": false
+  },
+  {
+   "id": "d5ade4dc3364",
+   "title": "水漾的女人",
+   "category": "電影",
+   "start": "2026-11-18",
+   "end": "2026-12-18",
+   "venue": "",
+   "url": "https://wmoov.com/movie/details/52432",
+   "source": "wmoov",
+   "image": "https://wmoov.com/assets/poster/c3434c34c3121bcef329529212a558ac.jpg",
+   "rating": "6.6",
+   "shows": 1,
    "featured": false
   },
   {
@@ -1772,33 +1546,21 @@
    "source": "wmoov",
    "image": "https://wmoov.com/assets/poster/f6cf02d339ec6a52b7a3739c782fc8e6.jpg",
    "rating": "8.6",
-   "shows": 37,
+   "shows": 30,
    "featured": false
   },
   {
-   "id": "da7dca698f70",
-   "title": "浪人劇場20周年盛演《一劍蜀山》劇場電影",
-   "category": "電影活動",
-   "start": "2026-11-18",
-   "end": "2026-11-18",
-   "venue": "香港文化中心 (劇場)",
-   "url": "https://www.lcsd.gov.hk/tc/ticket/index.html",
-   "source": "康文署",
-   "image": "",
-   "featured": false
-  },
-  {
-   "id": "d6a0e8956b46",
-   "title": "狂野雄心",
+   "id": "a931777ad695",
+   "title": "理智與感情",
    "category": "電影",
    "start": "2026-11-18",
    "end": "2026-12-18",
    "venue": "",
-   "url": "https://wmoov.com/movie/details/72311",
+   "url": "https://wmoov.com/movie/details/74086",
    "source": "wmoov",
-   "image": "https://wmoov.com/assets/poster/0cb7914393ce2183a01bef51d643db01.jpg",
-   "rating": "8.4",
-   "shows": 1,
+   "image": "https://wmoov.com/assets/poster/bd88c6e8873b7ea1c2b375f40de57ee8.jpg",
+   "rating": "",
+   "shows": 57,
    "featured": false
   },
   {
@@ -1812,7 +1574,7 @@
    "source": "wmoov",
    "image": "https://wmoov.com/assets/poster/662e6b85cacca3e2e45f3eab3097edbf.jpg",
    "rating": "7.8",
-   "shows": 7,
+   "shows": 8,
    "featured": false
   },
   {
@@ -1826,7 +1588,7 @@
    "source": "wmoov",
    "image": "https://wmoov.com/assets/poster/2b4d987f63ab238545ea42e86624e5ab.jpg",
    "rating": "8.2",
-   "shows": 38,
+   "shows": 33,
    "featured": false
   },
   {
@@ -1840,7 +1602,7 @@
    "source": "wmoov",
    "image": "https://wmoov.com/assets/poster/3ced8ca6b5871a612ead2d3de04c97fa.jpg",
    "rating": "7.5",
-   "shows": 3,
+   "shows": 4,
    "featured": false
   },
   {
@@ -1854,19 +1616,7 @@
    "source": "wmoov",
    "image": "https://wmoov.com/assets/poster/0447ff727ad7a88db717b744f770e574.jpg",
    "rating": "8",
-   "shows": 177,
-   "featured": false
-  },
-  {
-   "id": "653cd6d9b524",
-   "title": "粵劇《獅吼記》",
-   "category": "表演藝術",
-   "start": "2026-11-18",
-   "end": "2026-11-18",
-   "venue": "高山劇場 (劇院)",
-   "url": "https://www.lcsd.gov.hk/clpss/tc/search/culture/DetailForm.do?id=188383",
-   "source": "康文署",
-   "image": "",
+   "shows": 123,
    "featured": false
   },
   {
@@ -1880,7 +1630,7 @@
    "source": "wmoov",
    "image": "https://wmoov.com/assets/poster/1f9f45cb34cafe3c28685d26944cb3d7.jpg",
    "rating": "8.7",
-   "shows": 5,
+   "shows": 3,
    "featured": false
   },
   {
@@ -1894,7 +1644,7 @@
    "source": "wmoov",
    "image": "https://wmoov.com/assets/poster/05d503547134e6c86512bca511e14e3f.jpg",
    "rating": "9",
-   "shows": 56,
+   "shows": 47,
    "featured": false
   },
   {
@@ -1908,20 +1658,20 @@
    "source": "wmoov",
    "image": "https://wmoov.com/assets/poster/a47b4fe30c6ad7c249274c6e26f333fe.jpg",
    "rating": "",
-   "shows": 20,
+   "shows": 8,
    "featured": false
   },
   {
-   "id": "0edeec55c667",
-   "title": "藍宇",
+   "id": "2cbcb65c7b26",
+   "title": "街霸",
    "category": "電影",
    "start": "2026-11-18",
    "end": "2026-12-18",
    "venue": "",
-   "url": "https://wmoov.com/movie/details/9330",
+   "url": "https://wmoov.com/movie/details/73909",
    "source": "wmoov",
-   "image": "https://wmoov.com/assets/poster/1175474152dd74da945ccb3790d9bb41.jpg",
-   "rating": "7.7",
+   "image": "https://wmoov.com/assets/poster/5ebd6f2bf607e11d818ce86346984f38.jpg",
+   "rating": "",
    "shows": 1,
    "featured": false
   },
@@ -1936,7 +1686,7 @@
    "source": "wmoov",
    "image": "https://wmoov.com/assets/poster/860dc216b2ec279eb1726be0f6eb0204.jpg",
    "rating": "5.9",
-   "shows": 2,
+   "shows": 1,
    "featured": false
   },
   {
@@ -1950,35 +1700,7 @@
    "source": "wmoov",
    "image": "https://wmoov.com/assets/poster/4fea0928cd2c4fbff14609da6d92f52a.jpg",
    "rating": "7",
-   "shows": 123,
-   "featured": false
-  },
-  {
-   "id": "6340b8a0f9b5",
-   "title": "見習冇限耆",
-   "category": "電影",
-   "start": "2026-11-18",
-   "end": "2026-12-18",
-   "venue": "",
-   "url": "https://wmoov.com/movie/details/73656",
-   "source": "wmoov",
-   "image": "https://wmoov.com/assets/poster/a89b2d6e1d2e21a46daa591dbea432b6.jpg",
-   "rating": "",
-   "shows": 1,
-   "featured": false
-  },
-  {
-   "id": "ea27670cf1ea",
-   "title": "論盡大導",
-   "category": "電影",
-   "start": "2026-11-18",
-   "end": "2026-12-18",
-   "venue": "",
-   "url": "https://wmoov.com/movie/details/73155",
-   "source": "wmoov",
-   "image": "https://wmoov.com/assets/poster/1cbd71def6f1e2f17015b4c32a2bb85a.jpg",
-   "rating": "7.7",
-   "shows": 1,
+   "shows": 37,
    "featured": false
   },
   {
@@ -1992,7 +1714,7 @@
    "source": "wmoov",
    "image": "https://wmoov.com/assets/poster/49c22a53c1072c28d420a027f6ddf86d.jpg",
    "rating": "9.6",
-   "shows": 16,
+   "shows": 10,
    "featured": false
   },
   {
@@ -2006,21 +1728,7 @@
    "source": "wmoov",
    "image": "https://wmoov.com/assets/poster/61ba8e1c08dd7d03d2d8070c6092f2f4.jpg",
    "rating": "7",
-   "shows": 6,
-   "featured": false
-  },
-  {
-   "id": "618313444cd7",
-   "title": "重生",
-   "category": "電影",
-   "start": "2026-11-18",
-   "end": "2026-12-18",
-   "venue": "",
-   "url": "https://wmoov.com/movie/details/65692",
-   "source": "wmoov",
-   "image": "https://wmoov.com/assets/poster/dc806c7de13d3d5b5728ddc5ddf8cc13.jpg",
-   "rating": "5.8",
-   "shows": 1,
+   "shows": 4,
    "featured": false
   },
   {
@@ -2034,21 +1742,21 @@
    "source": "wmoov",
    "image": "https://wmoov.com/assets/poster/0923391519f69414b5120a2ae29ac565.jpg",
    "rating": "",
-   "shows": 28,
+   "shows": 20,
    "featured": false
   },
   {
-   "id": "c585df696862",
-   "title": "鋼之鍊金術師 - 森巴拉的征服者",
+   "id": "1489de8d6ec8",
+   "title": "鋼之鍊金術師 - 嘆息之丘的聖星",
    "category": "電影",
    "start": "2026-11-18",
    "end": "2026-12-18",
    "venue": "",
-   "url": "https://wmoov.com/movie/details/73177",
+   "url": "https://wmoov.com/movie/details/16705",
    "source": "wmoov",
-   "image": "https://wmoov.com/assets/poster/21610c3dd1c93df96e70c9b0d787fe99.jpg",
-   "rating": "7.3",
-   "shows": 6,
+   "image": "https://wmoov.com/assets/poster/9c791dad86b06dc11dcb7bab66708058.jpg",
+   "rating": "7.4",
+   "shows": 4,
    "featured": false
   },
   {
@@ -2062,19 +1770,7 @@
    "source": "wmoov",
    "image": "https://wmoov.com/assets/poster/486de8c287c261ff67f7f3ddab030f15.jpg",
    "rating": "8.4",
-   "shows": 8,
-   "featured": false
-  },
-  {
-   "id": "133db8b08036",
-   "title": "開心金曲夜",
-   "category": "表演藝術",
-   "start": "2026-11-18",
-   "end": "2026-11-18",
-   "venue": "大埔文娛中心 (黑盒劇場)",
-   "url": "https://www.lcsd.gov.hk/clpss/tc/search/culture/DetailForm.do?id=188523",
-   "source": "康文署",
-   "image": "",
+   "shows": 4,
    "featured": false
   },
   {
@@ -2092,43 +1788,45 @@
    "featured": false
   },
   {
-   "id": "52b379826e10",
-   "title": "香港大會堂場地伙伴計劃：Panasonic呈獻《午間室樂音樂會》",
-   "category": "表演藝術",
-   "start": "2026-11-18",
-   "end": "2026-11-18",
-   "venue": "香港大會堂 (音樂廳)",
-   "url": "https://hksl.org/zh-hant/concert/good-music-this-lunch-18-nov/",
-   "source": "康文署",
-   "image": "",
-   "featured": false
-  },
-  {
-   "id": "83e69054ad4a",
-   "title": "魔方小姐",
+   "id": "8dce076b7e72",
+   "title": "隱蹟之書：重寫自我",
    "category": "電影",
    "start": "2026-11-18",
    "end": "2026-12-18",
    "venue": "",
-   "url": "https://wmoov.com/movie/details/72349",
+   "url": "https://wmoov.com/movie/details/72202",
    "source": "wmoov",
-   "image": "https://wmoov.com/assets/poster/0bbfd734908d98f2016039ad8926a651.jpg",
-   "rating": "8.7",
-   "shows": 3,
+   "image": "https://wmoov.com/assets/poster/af4c2237eb5b623a0dd25f1af1bf6fba.jpg",
+   "rating": "8.2",
+   "shows": 1,
    "featured": false
   },
   {
-   "id": "6c0b4e31f896",
-   "title": "鯨獄逃生",
+   "id": "89b64fa348c6",
+   "title": "電影 名偵探光之美少女電影！不可思議庭園與2人的秘密",
    "category": "電影",
    "start": "2026-11-18",
    "end": "2026-12-18",
    "venue": "",
-   "url": "https://wmoov.com/movie/details/72264",
+   "url": "https://wmoov.com/movie/details/73723",
    "source": "wmoov",
-   "image": "https://wmoov.com/assets/poster/6293956ab39c18f94353e568354da16f.jpg",
-   "rating": "7.3",
-   "shows": 3,
+   "image": "https://wmoov.com/assets/poster/7101ce7e4ec6267e86eee36f7a4a1967.jpg",
+   "rating": "",
+   "shows": 51,
+   "featured": false
+  },
+  {
+   "id": "4af7096a6ee2",
+   "title": "飢餓遊戲前傳：黎明反擊",
+   "category": "電影",
+   "start": "2026-11-18",
+   "end": "2026-12-18",
+   "venue": "",
+   "url": "https://wmoov.com/movie/details/73295",
+   "source": "wmoov",
+   "image": "https://wmoov.com/assets/poster/308eb349c8d5aace60bc30a3076cf2fa.jpg",
+   "rating": "",
+   "shows": 263,
    "featured": false
   },
   {
@@ -2192,6 +1890,18 @@
    "featured": false
   },
   {
+   "id": "219fbc4a0376",
+   "title": "兒童及青少年閱讀計劃 「月月讀書樂」月會 - 綠意地球 (高小組)",
+   "category": "親子",
+   "start": "2026-11-19",
+   "end": "2026-11-19",
+   "venue": "東涌公共圖書館",
+   "url": "http://www.hkpl.gov.hk/tc/extension-activities/all-events/search?lib_id=996",
+   "source": "康文署",
+   "image": "",
+   "featured": false
+  },
+  {
    "id": "7b0fce4f30c7",
    "title": "慶祝國慶77週年綜合藝術表演",
    "category": "休閒",
@@ -2199,6 +1909,30 @@
    "end": "2026-11-19",
    "venue": "荃灣大會堂 (文娛廳)",
    "url": "https://www.lcsd.gov.hk/clpss/tc/search/culture/DetailForm.do?id=188600",
+   "source": "康文署",
+   "image": "",
+   "featured": false
+  },
+  {
+   "id": "6e8a668975e8",
+   "title": "智・型・新體驗系列 - e 個鐘 e 閱讀: 借閱電子書和雜誌",
+   "category": "休閒",
+   "start": "2026-11-19",
+   "end": "2026-11-19",
+   "venue": "香港中央圖書館",
+   "url": "http://www.hkpl.gov.hk/tc/extension-activities/all-events/search?lib_id=77",
+   "source": "康文署",
+   "image": "",
+   "featured": false
+  },
+  {
+   "id": "f107afafcd32",
+   "title": "智・型・新體驗系列 - 自助服務 / e閱讀 / 數碼館藏 (成人組)",
+   "category": "休閒",
+   "start": "2026-11-19",
+   "end": "2026-11-19",
+   "venue": "馬鞍山公共圖書館",
+   "url": "http://www.hkpl.gov.hk/tc/extension-activities/all-events/search?lib_id=1016",
    "source": "康文署",
    "image": "",
    "featured": false
@@ -2271,6 +2005,18 @@
    "end": "2026-11-19",
    "venue": "香港中央圖書館 (地下演講廳)",
    "url": "https://www.lcsd.gov.hk/clpss/tc/search/culture/DetailForm.do?id=189372",
+   "source": "康文署",
+   "image": "",
+   "featured": false
+  },
+  {
+   "id": "017f8d547b46",
+   "title": "腦退化症專題講座",
+   "category": "休閒",
+   "start": "2026-11-19",
+   "end": "2026-11-19",
+   "venue": "鰂魚涌公共圖書館",
+   "url": "http://www.hkpl.gov.hk/tc/extension-activities/all-events/search?lib_id=987",
    "source": "康文署",
    "image": "",
    "featured": false
@@ -2702,7 +2448,7 @@
    "start": "2026-11-20",
    "end": "2026-11-22",
    "venue": "牛池灣文娛中心 (文娛廳)",
-   "url": "https://www.lcsd.gov.hk/tc/ticket/index.html",
+   "url": "https://fr.hkfyg.org.hk",
    "source": "康文署",
    "image": "",
    "featured": false
@@ -4520,6 +4266,18 @@
    "featured": false
   },
   {
+   "id": "0b579fb2a939",
+   "title": "\"Arcana\" Konstantin Bessmertny 君⼠坦丁 展覽",
+   "category": "展覽",
+   "start": "2026-11-28",
+   "end": "2026-12-25",
+   "venue": "安全口畫廊 3-F",
+   "url": "https://timable.com/zh/event/-Arcana-KonstantinBESSMERTNY%E5%90%9B-%E5%9D%A6%E4%B8%81%E5%B1%95%E8%A6%BD",
+   "source": "Timable",
+   "image": "https://static.timable.com/image_411a988d-1d24-4235-952d-338e2447eb1c-480x599.webp",
+   "featured": false
+  },
+  {
    "id": "77474f221d1b",
    "title": "2026 樂・誼國際音樂節 – 閉幕音樂會《相相之約》曼托瓦室樂團",
    "category": "表演藝術",
@@ -4697,18 +4455,6 @@
    "url": "https://www.lcsd.gov.hk/tc/ticket/index.html",
    "source": "康文署",
    "image": "",
-   "featured": false
-  },
-  {
-   "id": "0b428f9e19a8",
-   "title": "「房與家之間 Between A House and A Home」展覽",
-   "category": "展覽",
-   "start": "2026-11-28",
-   "end": "2027-01-02",
-   "venue": "漢雅精舍",
-   "url": "https://timable.com/zh/event/%E6%88%BF%E8%88%87%E5%AE%B6%E4%B9%8B%E9%96%93BetweenAHouseandAHome-%E5%B1%95%E8%A6%BD",
-   "source": "Timable",
-   "image": "https://static.timable.com/image_bc374b05-96bd-4ca4-86a7-3746c89a52c3-480x640.webp",
    "featured": false
   },
   {
@@ -8708,6 +8454,18 @@
    "featured": false
   },
   {
+   "id": "25619146332e",
+   "title": "《笑林木人巷》棟篤笑",
+   "category": "休閒",
+   "start": "2026-12-05",
+   "end": "2026-12-05",
+   "venue": "魔法幻影俱樂部 ",
+   "url": "https://timable.com/zh/event/%E7%AC%91%E6%9E%97%E6%9C%A8%E4%BA%BA%E5%B7%B7-%E6%A3%9F%E7%AF%A4%E7%AC%91",
+   "source": "Timable",
+   "image": "https://static.timable.com/image_8da63c1b-4b12-48b8-805a-ad16067e273a-480x636.webp",
+   "featured": false
+  },
+  {
    "id": "62794eceba0e",
    "title": "《香港比舞2026》",
    "category": "休閒",
@@ -8981,18 +8739,6 @@
    "url": "https://www.facebook.com/share/17hFjRZifv/",
    "source": "康文署",
    "image": "",
-   "featured": false
-  },
-  {
-   "id": "aa929f22783a",
-   "title": "Mike 曾比特 \"Rerouting\" 新碟分享會",
-   "category": "休閒",
-   "start": "2026-12-06",
-   "end": "2026-12-06",
-   "venue": "英皇戲院 Times Square House 5",
-   "url": "https://timable.com/zh/event/Mike%E6%9B%BE%E6%AF%94%E7%89%B9-Rerouting-%E6%96%B0%E7%A2%9F%E5%88%86%E4%BA%AB%E6%9C%83",
-   "source": "Timable",
-   "image": "https://static.timable.com/image_e039757b-7e52-47c7-a66b-6edbfceef285-480x600.webp",
    "featured": false
   },
   {
@@ -9464,18 +9210,6 @@
    "featured": false
   },
   {
-   "id": "cbe2b1a17961",
-   "title": "PSYCHIC FEVER \"DIFFERENT\" MEET&GREET AND LISTENING PARTY 香港站",
-   "category": "休閒",
-   "start": "2026-12-11",
-   "end": "2026-12-11",
-   "venue": "TIDES",
-   "url": "https://timable.com/zh/event/PSYCHICFEVER-DIFFERENT-MEET-GREETANDLISTENINGPARTY%E9%A6%99%E6%B8%AF%E7%AB%99",
-   "source": "Timable",
-   "image": "https://static.timable.com/image_7eaad1b5-99bb-40d0-bf32-933106706a30-480x600.webp",
-   "featured": false
-  },
-  {
    "id": "d7c512b656f9",
    "title": "Powermusic第十七屆流行歌曲觀摩會(Part 2)",
    "category": "休閒",
@@ -9485,18 +9219,6 @@
    "url": "https://www.lcsd.gov.hk/clpss/tc/search/culture/DetailForm.do?id=189604",
    "source": "康文署",
    "image": "",
-   "featured": false
-  },
-  {
-   "id": "f2c88d9e80ab",
-   "title": "《波希米亞生涯》普契尼 歌劇",
-   "category": "表演藝術",
-   "start": "2026-12-11",
-   "end": "2026-12-13",
-   "venue": "香港大會堂 音樂廳",
-   "url": "https://timable.com/zh/event/-%E6%B3%A2%E5%B8%8C%E7%B1%B3%E4%BA%9E%E7%94%9F%E6%B6%AF-%E6%99%AE%E5%A5%91%E5%B0%BC%E6%AD%8C%E5%8A%87",
-   "source": "Timable",
-   "image": "https://static.timable.com/image_52e21496-1101-4054-b744-abdb300de455-480x355.webp",
    "featured": false
   },
   {
@@ -9593,18 +9315,6 @@
    "url": "https://www.musicavivahk.org/zh/productions/labohemebypuccini/",
    "source": "康文署",
    "image": "",
-   "featured": false
-  },
-  {
-   "id": "7f4058b62aaf",
-   "title": "活版印藝市集 @國際活版節 2026",
-   "category": "市集",
-   "start": "2026-12-11",
-   "end": "2026-12-13",
-   "venue": "PMQ元創方 地面廣場",
-   "url": "https://timable.com/zh/event/%E6%B4%BB%E7%89%88%E5%8D%B0%E8%97%9D%E5%B8%82%E9%9B%86-%E5%9C%8B%E9%9A%9B%E6%B4%BB%E7%89%88%E7%AF%802026",
-   "source": "Timable",
-   "image": "https://static.timable.com/image_ac4e3619-aa3d-47d1-8a35-7c22169ad843-480x480.webp",
    "featured": false
   },
   {
@@ -10184,18 +9894,6 @@
    "featured": false
   },
   {
-   "id": "6c7771b120e9",
-   "title": "Merry Balloon Hong Kong 2026",
-   "category": "休閒",
-   "start": "2026-12-18",
-   "end": "2026-12-27",
-   "venue": "啟德體育園 東營 ⁣",
-   "url": "https://timable.com/zh/event/MerryBalloonHongKong2026",
-   "source": "Timable",
-   "image": "https://static.timable.com/image_9c020c2b-2a3c-40e6-80b5-d825239fa7fa-480x320.webp",
-   "featured": false
-  },
-  {
    "id": "87732f144efc",
    "title": "「香港地」巨型充氣嘉年華 2026",
    "category": "休閒",
@@ -10748,6 +10446,18 @@
    "featured": false
   },
   {
+   "id": "442da6bb3f77",
+   "title": "「香港字言」城市文字收藏與記錄展覽",
+   "category": "展覽",
+   "start": "2026-12-22",
+   "end": "2026-12-26",
+   "venue": "藝穗會",
+   "url": "https://timable.com/zh/event/%E9%A6%99%E6%B8%AF%E5%AD%97%E8%A8%80-%E5%9F%8E%E5%B8%82%E6%96%87%E5%AD%97%E6%94%B6%E8%97%8F%E8%88%87%E8%A8%98%E9%8C%84%E5%B1%95%E8%A6%BD",
+   "source": "Timable",
+   "image": "https://static.timable.com/image_5768dcef-9eb7-4a4e-83f1-9de0c8a0afa2-480x640.webp",
+   "featured": false
+  },
+  {
    "id": "ccef417c2d26",
    "title": "張貝芝 x 廖國敏《節慶華彩:張貝芝的夢幻聖誕樂章》音樂會",
    "category": "表演藝術",
@@ -10875,6 +10585,18 @@
    "end": "2026-12-24",
    "venue": "沙田大會堂 (演奏廳)",
    "url": "https://www.lcsd.gov.hk/clpss/tc/search/culture/DetailForm.do?id=189583",
+   "source": "康文署",
+   "image": "",
+   "featured": false
+  },
+  {
+   "id": "ad5cbd532efd",
+   "title": "上環文娛中心場地伙伴計劃︰「上進文旅劇場系列」進念中華文化玩 + 學《食乜冬冬》節氣飲食工作坊",
+   "category": "表演藝術",
+   "start": "2026-12-24",
+   "end": "2026-12-27",
+   "venue": "上環文娛中心 (演講廳)",
+   "url": "https://zuniseason.org.hk/programme/eat-what-dung-dung-2026/",
    "source": "康文署",
    "image": "",
    "featured": false
@@ -11600,6 +11322,18 @@
    "featured": false
   },
   {
+   "id": "6e48f0227206",
+   "title": "牛池灣文娛中心場地伙伴計劃:《芳延》",
+   "category": "休閒",
+   "start": "2027-01-08",
+   "end": "2027-01-10",
+   "venue": "牛池灣文娛中心 (文娛廳)",
+   "url": "https://www.esidehk.com",
+   "source": "康文署",
+   "image": "",
+   "featured": false
+  },
+  {
    "id": "69003468af4f",
    "title": "「冬日開懷集」系列: 鬼馬劇團《搗蛋四人組》（巴西）",
    "category": "休閒",
@@ -11607,6 +11341,18 @@
    "end": "2027-01-10",
    "venue": "屯門大會堂 (文娛廳)",
    "url": "https://www.lcsd.gov.hk/CE/CulturalService/Programme/tc/multi_arts/programs_1992.html",
+   "source": "康文署",
+   "image": "",
+   "featured": false
+  },
+  {
+   "id": "8d4be9b62e34",
+   "title": "無伴奏合唱示範講座系列：《聲．味俱全》",
+   "category": "表演藝術",
+   "start": "2027-01-13",
+   "end": "2027-01-27",
+   "venue": "香港太空館 (演講廳)",
+   "url": "https://www.lcsd.gov.hk/CE/CulturalService/Programme/tc/music/programs_2029.html",
    "source": "康文署",
    "image": "",
    "featured": false
@@ -11643,6 +11389,42 @@
    "end": "2027-01-15",
    "venue": "香港文化中心 (音樂廳)",
    "url": "https://www.hkphil.org/tc/concert/tarmo-peltokoski-conducts-bruckner-7",
+   "source": "康文署",
+   "image": "",
+   "featured": false
+  },
+  {
+   "id": "5f88ef67e10f",
+   "title": "HVOB 亞洲巡迴演唱會 2027 香港站",
+   "category": "演唱會",
+   "start": "2027-01-15",
+   "end": "2027-01-15",
+   "venue": "PORTAL",
+   "url": "https://timable.com/zh/event/HVOB%E4%BA%9E%E6%B4%B2%E5%B7%A1%E8%BF%B4%E6%BC%94%E5%94%B1%E6%9C%832027%E9%A6%99%E6%B8%AF%E7%AB%99",
+   "source": "Timable",
+   "image": "https://static.timable.com/image_aab9d467-463a-4dbb-9d7c-a4f842ab7b9f-480x593.webp",
+   "featured": false
+  },
+  {
+   "id": "7b4d8890c401",
+   "title": "「記憶之舟 Inherited Tides」梁儉豐 當代舞劇場",
+   "category": "表演藝術",
+   "start": "2027-01-15",
+   "end": "2027-01-17",
+   "venue": "香港文化中心 劇場",
+   "url": "https://timable.com/zh/event/%E8%A8%98%E6%86%B6%E4%B9%8B%E8%88%9FInheritedTides-%E6%A2%81%E5%84%89%E8%B1%90%E7%95%B6%E4%BB%A3%E8%88%9E%E5%8A%87%E5%A0%B4",
+   "source": "Timable",
+   "image": "https://static.timable.com/image_d09d79fa-13a4-41ff-933b-2928d4a07065-480x600.webp",
+   "featured": false
+  },
+  {
+   "id": "0b2512eb2076",
+   "title": "香港文化中心場地伙伴計劃：滙豐保險承諾呈獻大型舞劇《武道》——李小龍的有法與無限",
+   "category": "表演藝術",
+   "start": "2027-01-15",
+   "end": "2027-01-17",
+   "venue": "香港文化中心 (大劇院)",
+   "url": "https://www.hkdance.com/zh-hant/performance/KungFuArtistry",
    "source": "康文署",
    "image": "",
    "featured": false
@@ -11804,6 +11586,18 @@
    "featured": false
   },
   {
+   "id": "9711766275de",
+   "title": "張家輝 《大娛樂騷》紅館演唱會 2027",
+   "category": "演唱會",
+   "start": "2027-02-06",
+   "end": "2027-02-08",
+   "venue": "香港體育館 (紅館)",
+   "url": "https://timable.com/zh/event/%E5%BC%B5%E5%AE%B6%E8%BC%9D%E7%B4%85%E9%A4%A8%E6%BC%94%E5%94%B1%E6%9C%832027",
+   "source": "Timable",
+   "image": "https://static.timable.com/image_4a5ebb36-b4a0-4594-8a2e-7c495541b08e-480x595.webp",
+   "featured": false
+  },
+  {
    "id": "81d234fae7d7",
    "title": "香港文化中心場地伙伴計劃：賽馬會齊奏音樂夢計劃： 賽馬會音樂巨匠系列： 指揮大師杜達美： 西蒙．玻利瓦爾交響樂團的貝多芬費黛里奧",
    "category": "體育",
@@ -11837,18 +11631,6 @@
    "url": "https://timable.com/zh/event/BTS-ARIRANG-%E4%B8%96%E7%95%8C%E5%B7%A1%E8%BF%B4%E6%BC%94%E5%94%B1%E6%9C%832027%E9%A6%99%E6%B8%AF%E7%AB%99",
    "source": "Timable",
    "image": "https://static.timable.com/image_ce0a1ebc-f5d5-4676-a692-156c3b8b4b9f-400x400.webp",
-   "featured": false
-  },
-  {
-   "id": "7996166a5f2e",
-   "title": "TAEYEON \"F.L.Y.\" 巡迴演唱會 香港站 2027",
-   "category": "演唱會",
-   "start": "2027-03-27",
-   "end": "2027-03-28",
-   "venue": "香港體育館 (紅館)",
-   "url": "https://timable.com/zh/event/TAEYEON-F-L-Y--%E5%B7%A1%E8%BF%B4%E6%BC%94%E5%94%B1%E6%9C%83%E9%A6%99%E6%B8%AF%E7%AB%992027",
-   "source": "Timable",
-   "image": "https://static.timable.com/image_a4bac310-a815-4a37-a3ef-6b6dccb75534-480x640.webp",
    "featured": false
   },
   {
