@@ -487,7 +487,7 @@
    "category": "市集",
    "start": "2026-10-10",
    "end": "2027-01-03",
-   "venue": "North Point",
+   "venue": "北角",
    "url": "https://timable.com/zh/event/%E6%B8%AF%E5%B3%B6%E6%9D%B1%E7%A7%8B%E6%97%A5%E7%BE%8E%E9%A3%9F%E7%9B%9B%E6%9C%83-%E5%8C%97%E8%A7%92%E5%8C%AF%E6%B5%B7%E6%BF%B1%E7%BE%8E%E9%A3%9F%E5%B8%82%E9%9B%86-%E5%8C%97%E8%A7%92%E5%8C%AF",
    "source": "Timable",
    "image": "https://static.timable.com/image_d96a0062-01c4-4d95-a45c-b6dad45d2051-480x320.webp",
@@ -790,7 +790,7 @@
    "venue": "AIRSIDE",
    "url": "https://timable.com/zh/event/Pixar40%E9%80%B1%E5%B9%B4%E7%89%B9%E5%B1%95-Pixar-AIRSIDE%E8%81%96%E8%AA%95%E5%A5%87%E8%B6%A3%E4%B9%8B%E6%97%85--AIRSIDE",
    "source": "Timable",
-   "image": "https://static.timable.com/image_f4e4f87a-f029-4c96-9b32-ecae8c50a98e-480x270.webp",
+   "image": "https://static.timable.com/image_8d5137dc-8687-4c00-933d-b61f94db342b-480x480.webp",
    "featured": false
   },
   {
@@ -914,6 +914,30 @@
    "featured": false
   },
   {
+   "id": "4e50287bf6fa",
+   "title": "\"Le Petit Prince X Zu and Pi: The Rose Tale\" 聖誕裝飾 ＠黃埔天地",
+   "category": "休閒",
+   "start": "2026-11-17",
+   "end": "2027-01-03",
+   "venue": "黃埔天地",
+   "url": "https://timable.com/zh/event/StevenChoix%E5%B0%8F%E7%8E%8B%E5%AD%90-LePetitPrinceXZuandPi-TheRoseTale--%E9%BB%83%E5%9F%94%E5%A4%A9%E5%9C%B0",
+   "source": "Timable",
+   "image": "https://static.timable.com/image_97c129ec-bd19-4b8e-a044-8be6ffb8ff58-480x303.webp",
+   "featured": false
+  },
+  {
+   "id": "81e96e53abde",
+   "title": "POPJOY CUPA 冬日士多啤梨毛毛星球之旅 @海之戀商場",
+   "category": "休閒",
+   "start": "2026-11-17",
+   "end": "2027-01-04",
+   "venue": "荃灣海之戀商場",
+   "url": "https://timable.com/zh/event/POPJOYCUPA%E5%86%AC%E6%97%A5%E5%A3%AB%E5%A4%9A%E5%95%A4%E6%A2%A8%E6%AF%9B%E6%AF%9B%E6%98%9F%E7%90%83%E4%B9%8B%E6%97%85-%E6%B5%B7%E4%B9%8B%E6%88%80%E5%95%86%E5%A0%B4",
+   "source": "Timable",
+   "image": "https://static.timable.com/image_2c39bcfb-c7aa-4a69-8614-d98607a5b149-480x216.webp",
+   "featured": false
+  },
+  {
    "id": "18f55e335dc4",
    "title": "水墨之間 當代創意水墨畫會年展 2026",
    "category": "休閒",
@@ -926,6 +950,18 @@
    "featured": false
   },
   {
+   "id": "ec022ced7728",
+   "title": "萌羊抱抱過聖誕 2026 @KCC",
+   "category": "休閒",
+   "start": "2026-11-17",
+   "end": "2027-01-03",
+   "venue": "life@KCC",
+   "url": "https://timable.com/zh/event/%E8%90%8C%E7%BE%8A%E6%8A%B1%E6%8A%B1%E9%81%8E%E8%81%96%E8%AA%952026-KCC",
+   "source": "Timable",
+   "image": "https://static.timable.com/image_73604a68-f853-41fe-9eb6-f32dbbbddbe1-480x271.webp",
+   "featured": false
+  },
+  {
    "id": "6c7771b120e9",
    "title": "Merry Balloon Hong Kong 2026",
    "category": "休閒",
@@ -934,7 +970,7 @@
    "venue": "希慎廣場 Hysan Place",
    "url": "https://timable.com/zh/event/MerryBalloonHongKong2026",
    "source": "Timable",
-   "image": "https://static.timable.com/image_a610c35d-7fc5-420a-a9a4-cb7ecdce0501-480x875.webp",
+   "image": "https://static.timable.com/image_91ca4236-63bd-436c-8211-dfdc4bb9af82-480x480.webp",
    "featured": false
   },
   {
@@ -982,7 +1018,7 @@
    "venue": "海港城 海運大廈",
    "url": "https://timable.com/zh/event/60%E5%91%A8%E5%B9%B4%E6%85%B6%E5%85%B8%E9%89%85%E7%8D%BBChristmasTogetherness2026-%E6%B5%B7%E6%B8%AF%E5%9F%8E",
    "source": "Timable",
-   "image": "https://static.timable.com/image_b6177c7c-0797-48f7-851e-aed9b853945f-480x480.webp",
+   "image": "https://static.timable.com/image_ebedda61-0c49-4c81-a583-74768758f4b7-480x480.webp",
    "featured": false
   },
   {
@@ -1166,6 +1202,18 @@
    "featured": false
   },
   {
+   "id": "b439fe89651b",
+   "title": "聖誕築夢小鎮 2026 ＠裕民坊",
+   "category": "休閒",
+   "start": "2026-11-21",
+   "end": "2027-01-03",
+   "venue": "裕民坊",
+   "url": "https://timable.com/zh/event/%E8%81%96%E8%AA%95%E7%AF%89%E5%A4%A2%E5%B0%8F%E9%8E%AE2026-%E8%A3%95%E6%B0%91%E5%9D%8A",
+   "source": "Timable",
+   "image": "https://static.timable.com/image_e5e71471-2192-4ad8-b2e4-82087ad7d093-480x339.webp",
+   "featured": false
+  },
+  {
    "id": "a3b5ba7d7572",
    "title": "2026-27年度「十八有藝──東區社區演藝計劃」《鼓滿樂東區2.0》鼓藝培訓計劃──社區互動音樂會／展演",
    "category": "表演藝術",
@@ -1224,7 +1272,7 @@
    "source": "wmoov",
    "image": "https://wmoov.com/assets/poster/b592ea809c07696132745f4e6a50a2f9.jpg",
    "rating": "",
-   "shows": 5,
+   "shows": 3,
    "featured": false
   },
   {
@@ -1300,7 +1348,7 @@
    "source": "wmoov",
    "image": "https://wmoov.com/assets/poster/e7b06f970e6a34335365d8bba572089b.jpg",
    "rating": "",
-   "shows": 4,
+   "shows": 2,
    "featured": false
   },
   {
@@ -1314,7 +1362,7 @@
    "source": "wmoov",
    "image": "https://wmoov.com/assets/poster/5d7b0159f8a349f33b29bda9e25e30cf.jpg",
    "rating": "7",
-   "shows": 7,
+   "shows": 5,
    "featured": false
   },
   {
@@ -1342,7 +1390,7 @@
    "source": "wmoov",
    "image": "https://wmoov.com/assets/poster/2dbfbd6bfdaf0026036e543b175b00b8.jpg",
    "rating": "",
-   "shows": 37,
+   "shows": 35,
    "featured": false
   },
   {
@@ -1356,7 +1404,7 @@
    "source": "wmoov",
    "image": "https://wmoov.com/assets/poster/cd6fd694f6d4a429cd035367b4b35643.jpg",
    "rating": "6.6",
-   "shows": 37,
+   "shows": 32,
    "featured": false
   },
   {
@@ -1370,7 +1418,7 @@
    "source": "wmoov",
    "image": "https://wmoov.com/assets/poster/7d9d2e2b3a3ace8405a90552b0ba4c73.jpg",
    "rating": "7.7",
-   "shows": 128,
+   "shows": 116,
    "featured": false
   },
   {
@@ -1384,7 +1432,7 @@
    "source": "wmoov",
    "image": "https://wmoov.com/assets/poster/c223fb88c91156412984fa0fbc9cbc4e.jpg",
    "rating": "7.8",
-   "shows": 97,
+   "shows": 90,
    "featured": false
   },
   {
@@ -1440,7 +1488,7 @@
    "source": "wmoov",
    "image": "https://wmoov.com/assets/poster/bcef17beee3194b660c14ccbe94e6f39.jpg",
    "rating": "8",
-   "shows": 14,
+   "shows": 12,
    "featured": false
   },
   {
@@ -1454,7 +1502,7 @@
    "source": "wmoov",
    "image": "https://wmoov.com/assets/poster/0985dca7d2158b605b507bb633dccbbd.jpg",
    "rating": "7.2",
-   "shows": 9,
+   "shows": 7,
    "featured": false
   },
   {
@@ -1468,20 +1516,6 @@
    "source": "wmoov",
    "image": "https://wmoov.com/assets/poster/47f89d52d1f0a64bb38b6026169ae9ef.jpg",
    "rating": "7",
-   "shows": 1,
-   "featured": false
-  },
-  {
-   "id": "50a34133fab1",
-   "title": "實境誘捕",
-   "category": "電影",
-   "start": "2026-11-23",
-   "end": "2026-12-23",
-   "venue": "",
-   "url": "https://wmoov.com/movie/details/73738",
-   "source": "wmoov",
-   "image": "https://wmoov.com/assets/poster/5bb1c8ab3777cbf4ff5d60fad8b48107.jpg",
-   "rating": "",
    "shows": 1,
    "featured": false
   },
@@ -1550,7 +1584,7 @@
    "source": "wmoov",
    "image": "https://wmoov.com/assets/poster/86c72ba1c1b1c582b4336e9a4697e6cb.jpg",
    "rating": "7.4",
-   "shows": 98,
+   "shows": 90,
    "featured": false
   },
   {
@@ -1564,7 +1598,7 @@
    "source": "wmoov",
    "image": "https://wmoov.com/assets/poster/feb46bd39db947f4ec7919875777dfc7.jpg",
    "rating": "6.4",
-   "shows": 40,
+   "shows": 31,
    "featured": false
   },
   {
@@ -1605,20 +1639,6 @@
    "url": "https://www.lcsd.gov.hk/tc/ticket/index.html",
    "source": "康文署",
    "image": "",
-   "featured": false
-  },
-  {
-   "id": "ac129ee26142",
-   "title": "新世紀福音戰士新劇場版：終",
-   "category": "電影",
-   "start": "2026-11-23",
-   "end": "2026-12-23",
-   "venue": "",
-   "url": "https://wmoov.com/movie/details/57029",
-   "source": "wmoov",
-   "image": "https://wmoov.com/assets/poster/875b0033906096d5feed7a4d4f671f18.jpg",
-   "rating": "8.5",
-   "shows": 2,
    "featured": false
   },
   {
@@ -1694,7 +1714,7 @@
    "source": "wmoov",
    "image": "https://wmoov.com/assets/poster/7f8d3fc620fffcbad0428947223055e0.jpg",
    "rating": "9",
-   "shows": 99,
+   "shows": 91,
    "featured": false
   },
   {
@@ -1736,7 +1756,7 @@
    "source": "wmoov",
    "image": "https://wmoov.com/assets/poster/26c7bea217dafb87e56834fd0f4d6875.jpg",
    "rating": "7.5",
-   "shows": 76,
+   "shows": 75,
    "featured": false
   },
   {
@@ -1750,7 +1770,7 @@
    "source": "wmoov",
    "image": "https://wmoov.com/assets/poster/f6cf02d339ec6a52b7a3739c782fc8e6.jpg",
    "rating": "8.6",
-   "shows": 30,
+   "shows": 29,
    "featured": false
   },
   {
@@ -1778,7 +1798,7 @@
    "source": "wmoov",
    "image": "https://wmoov.com/assets/poster/bd88c6e8873b7ea1c2b375f40de57ee8.jpg",
    "rating": "",
-   "shows": 49,
+   "shows": 48,
    "featured": false
   },
   {
@@ -1806,7 +1826,7 @@
    "source": "wmoov",
    "image": "https://wmoov.com/assets/poster/662e6b85cacca3e2e45f3eab3097edbf.jpg",
    "rating": "7.8",
-   "shows": 7,
+   "shows": 6,
    "featured": false
   },
   {
@@ -1834,7 +1854,7 @@
    "source": "wmoov",
    "image": "https://wmoov.com/assets/poster/2b4d987f63ab238545ea42e86624e5ab.jpg",
    "rating": "8.2",
-   "shows": 30,
+   "shows": 28,
    "featured": false
   },
   {
@@ -1874,7 +1894,7 @@
    "source": "wmoov",
    "image": "https://wmoov.com/assets/poster/0447ff727ad7a88db717b744f770e574.jpg",
    "rating": "8",
-   "shows": 122,
+   "shows": 114,
    "featured": false
   },
   {
@@ -1952,7 +1972,7 @@
    "source": "wmoov",
    "image": "https://wmoov.com/assets/poster/a47b4fe30c6ad7c249274c6e26f333fe.jpg",
    "rating": "",
-   "shows": 12,
+   "shows": 9,
    "featured": false
   },
   {
@@ -1980,7 +2000,7 @@
    "source": "wmoov",
    "image": "https://wmoov.com/assets/poster/4fea0928cd2c4fbff14609da6d92f52a.jpg",
    "rating": "7",
-   "shows": 27,
+   "shows": 21,
    "featured": false
   },
   {
@@ -2054,20 +2074,6 @@
    "featured": false
   },
   {
-   "id": "41ebd4ff6bc6",
-   "title": "阿飛正傳",
-   "category": "電影",
-   "start": "2026-11-23",
-   "end": "2026-12-23",
-   "venue": "",
-   "url": "https://wmoov.com/movie/details/14026",
-   "source": "wmoov",
-   "image": "https://wmoov.com/assets/poster/9c25d7ccd8a530ce23dced8362fe1b11.jpg",
-   "rating": "7.9",
-   "shows": 1,
-   "featured": false
-  },
-  {
    "id": "89b64fa348c6",
    "title": "電影 名偵探光之美少女電影！不可思議庭園與2人的秘密",
    "category": "電影",
@@ -2078,7 +2084,7 @@
    "source": "wmoov",
    "image": "https://wmoov.com/assets/poster/7101ce7e4ec6267e86eee36f7a4a1967.jpg",
    "rating": "",
-   "shows": 55,
+   "shows": 48,
    "featured": false
   },
   {
@@ -2092,7 +2098,7 @@
    "source": "wmoov",
    "image": "https://wmoov.com/assets/poster/308eb349c8d5aace60bc30a3076cf2fa.jpg",
    "rating": "7.9",
-   "shows": 260,
+   "shows": 240,
    "featured": false
   },
   {
@@ -2275,6 +2281,18 @@
    "url": "https://www.lcsd.gov.hk/tc/ticket/index.html",
    "source": "康文署",
    "image": "",
+   "featured": false
+  },
+  {
+   "id": "fd1f285e1df3",
+   "title": "迪士尼樂園 Step Into Christmas Magic 聖誕企劃 2026 @SOGO",
+   "category": "休閒",
+   "start": "2026-11-24",
+   "end": "2027-01-03",
+   "venue": "SOGO崇光 啟德店",
+   "url": "https://timable.com/zh/event/%E8%BF%AA%E5%A3%AB%E5%B0%BC%E6%A8%82%E5%9C%92StepIntoChristmasMagic%E8%81%96%E8%AA%95%E4%BC%81%E5%8A%832026-SOGO",
+   "source": "Timable",
+   "image": "https://static.timable.com/image_9cc269e2-4e66-40b5-8203-b6561fdd29a9-480x302.webp",
    "featured": false
   },
   {
@@ -7354,6 +7372,18 @@
    "featured": false
   },
   {
+   "id": "2ae9bc92a54f",
+   "title": "「MTO33 動物森林聖誕夜」紙品文具市集",
+   "category": "市集",
+   "start": "2026-12-05",
+   "end": "2026-12-06",
+   "venue": "D2 Place ONE 2樓",
+   "url": "https://timable.com/zh/event/MTO33%E5%8B%95%E7%89%A9%E6%A3%AE%E6%9E%97%E8%81%96%E8%AA%95%E5%A4%9C-%E7%B4%99%E5%93%81%E6%96%87%E5%85%B7%E5%B8%82%E9%9B%86",
+   "source": "Timable",
+   "image": "https://static.timable.com/image_44f0310b-910f-4828-a701-1cb54a86229b-480x600.webp",
+   "featured": false
+  },
+  {
    "id": "d9f799e2e682",
    "title": "「東九開箱 2026」 fuse*《靈魂》（意大利）",
    "category": "休閒",
@@ -8119,18 +8149,6 @@
    "url": "https://www.lcsd.gov.hk/clpss/tc/search/culture/DetailForm.do?id=189604",
    "source": "康文署",
    "image": "",
-   "featured": false
-  },
-  {
-   "id": "dc39edf459db",
-   "title": "《胡桃夾子》芭蕾舞劇場",
-   "category": "表演藝術",
-   "start": "2026-12-11",
-   "end": "2026-12-27",
-   "venue": "香港文化中心 大劇院",
-   "url": "https://timable.com/zh/event/%E8%83%A1%E6%A1%83%E5%A4%BE%E5%AD%90-%E5%8A%87%E5%A0%B4",
-   "source": "Timable",
-   "image": "https://static.timable.com/image_bc32585f-f0fb-4262-9070-755a25edebc3-480x192.webp",
    "featured": false
   },
   {
@@ -8983,6 +9001,18 @@
    "url": "https://www.lcsd.gov.hk/clpss/tc/search/culture/DetailForm.do?id=189468",
    "source": "康文署",
    "image": "",
+   "featured": false
+  },
+  {
+   "id": "d9df7dda7f22",
+   "title": "「LIFE MART 聖誕手作發現號」聖誕市集 2026",
+   "category": "市集",
+   "start": "2026-12-19",
+   "end": "2026-12-20",
+   "venue": "賽馬會創意藝術中心 JCCAC L0 & L1 藝廊 & L2平台及中央庭園",
+   "url": "https://timable.com/zh/event/LIFEMART%E8%81%96%E8%AA%95%E6%89%8B%E4%BD%9C%E7%99%BC%E7%8F%BE%E8%99%9F-%E8%81%96%E8%AA%95%E5%B8%82%E9%9B%862026",
+   "source": "Timable",
+   "image": "https://static.timable.com/image_221a181c-9a36-45c4-9206-17df5d2b8dbc-480x599.webp",
    "featured": false
   },
   {
