@@ -1142,18 +1142,6 @@
    "featured": false
   },
   {
-   "id": "54a020314916",
-   "title": "張貝芝 x 涂毓麟 「迪士尼聖誕音樂Live！」 音樂會 2026",
-   "category": "表演藝術",
-   "start": "2026-11-21",
-   "end": "2026-12-06",
-   "venue": "香港迪士尼樂園度假區",
-   "url": "https://timable.com/zh/event/%E5%BC%B5%E8%B2%9D%E8%8A%9Dx%E6%B6%82%E6%AF%93%E9%BA%9F-%E8%BF%AA%E5%A3%AB%E5%B0%BC%E8%81%96%E8%AA%95%E9%9F%B3%E6%A8%82Live--%E9%9F%B3%E6%A8%82%E6%9C%83",
-   "source": "Timable",
-   "image": "https://static.timable.com/image_48235b9b-c85c-4ffa-bee9-ffcd3a60360a-480x320.webp",
-   "featured": false
-  },
-  {
    "id": "b19b0f0e2fdb",
    "title": "聖誕小鎮「壹」號車站 2026 ＠朗壹廣場",
    "category": "休閒",
@@ -1255,10 +1243,10 @@
    "category": "展覽",
    "start": "2026-11-24",
    "end": "2027-01-02",
-   "venue": "K11 Art Mall 露天廣場",
+   "venue": "K11 購物藝術館 露天廣場",
    "url": "https://timable.com/zh/event/%E8%94%A1%E5%8D%93%E5%A6%8D-MakeitGold-%E8%B2%BB%E5%88%97%E7%BE%85%E9%87%91%E8%8E%8E%E7%92%80%E7%92%A8%E9%87%91%E8%89%B2%E8%81%96%E8%AA%952026-K11ArtMall",
    "source": "Timable",
-   "image": "https://static.timable.com/image_8a38b3fe-3056-4323-8361-4fbfa475e4c5-480x270.webp",
+   "image": "https://static.timable.com/image_39bb81ad-bf06-4fdf-8d36-0bf925764de6-480x699.webp",
    "featured": false
   },
   {
@@ -1308,21 +1296,7 @@
    "source": "wmoov",
    "image": "https://wmoov.com/assets/poster/b592ea809c07696132745f4e6a50a2f9.jpg",
    "rating": "",
-   "shows": 5,
-   "featured": false
-  },
-  {
-   "id": "4a7fa53200fc",
-   "title": "Look Back 驀然回首",
-   "category": "電影",
-   "start": "2026-11-25",
-   "end": "2026-12-25",
-   "venue": "",
-   "url": "https://wmoov.com/movie/details/72252",
-   "source": "wmoov",
-   "image": "https://wmoov.com/assets/poster/ccecd2f884d5018f2cacfa2ab5016b5f.jpg",
-   "rating": "8.2",
-   "shows": 1,
+   "shows": 4,
    "featured": false
   },
   {
@@ -1434,7 +1408,7 @@
    "source": "wmoov",
    "image": "https://wmoov.com/assets/poster/e7b06f970e6a34335365d8bba572089b.jpg",
    "rating": "",
-   "shows": 4,
+   "shows": 2,
    "featured": false
   },
   {
@@ -1448,7 +1422,7 @@
    "source": "wmoov",
    "image": "https://wmoov.com/assets/poster/5d7b0159f8a349f33b29bda9e25e30cf.jpg",
    "rating": "7",
-   "shows": 7,
+   "shows": 5,
    "featured": false
   },
   {
@@ -1462,7 +1436,7 @@
    "source": "wmoov",
    "image": "https://wmoov.com/assets/poster/2dbfbd6bfdaf0026036e543b175b00b8.jpg",
    "rating": "",
-   "shows": 36,
+   "shows": 33,
    "featured": false
   },
   {
@@ -1476,7 +1450,7 @@
    "source": "wmoov",
    "image": "https://wmoov.com/assets/poster/cd6fd694f6d4a429cd035367b4b35643.jpg",
    "rating": "6.6",
-   "shows": 36,
+   "shows": 31,
    "featured": false
   },
   {
@@ -1490,7 +1464,7 @@
    "source": "wmoov",
    "image": "https://wmoov.com/assets/poster/7d9d2e2b3a3ace8405a90552b0ba4c73.jpg",
    "rating": "7.7",
-   "shows": 123,
+   "shows": 109,
    "featured": false
   },
   {
@@ -1504,7 +1478,7 @@
    "source": "wmoov",
    "image": "https://wmoov.com/assets/poster/c223fb88c91156412984fa0fbc9cbc4e.jpg",
    "rating": "7.8",
-   "shows": 100,
+   "shows": 93,
    "featured": false
   },
   {
@@ -1548,20 +1522,6 @@
    "featured": false
   },
   {
-   "id": "dee7be3daf19",
-   "title": "奧德賽",
-   "category": "電影",
-   "start": "2026-11-25",
-   "end": "2026-12-25",
-   "venue": "",
-   "url": "https://wmoov.com/movie/details/70142",
-   "source": "wmoov",
-   "image": "https://wmoov.com/assets/poster/deabaea17af602310af9633d8dea4615.jpg",
-   "rating": "8.7",
-   "shows": 1,
-   "featured": false
-  },
-  {
    "id": "6552f3bbf469",
    "title": "媽樣年華",
    "category": "電影",
@@ -1572,7 +1532,7 @@
    "source": "wmoov",
    "image": "https://wmoov.com/assets/poster/bcef17beee3194b660c14ccbe94e6f39.jpg",
    "rating": "8",
-   "shows": 15,
+   "shows": 12,
    "featured": false
   },
   {
@@ -1586,7 +1546,7 @@
    "source": "wmoov",
    "image": "https://wmoov.com/assets/poster/0985dca7d2158b605b507bb633dccbbd.jpg",
    "rating": "7.2",
-   "shows": 8,
+   "shows": 7,
    "featured": false
   },
   {
@@ -1614,7 +1574,7 @@
    "source": "wmoov",
    "image": "https://wmoov.com/assets/poster/5bb1c8ab3777cbf4ff5d60fad8b48107.jpg",
    "rating": "7.5",
-   "shows": 2,
+   "shows": 1,
    "featured": false
   },
   {
@@ -1688,7 +1648,7 @@
    "source": "wmoov",
    "image": "https://wmoov.com/assets/poster/a2c51f96afed72449bf7472559687d0c.jpg",
    "rating": "",
-   "shows": 24,
+   "shows": 22,
    "featured": false
   },
   {
@@ -1744,7 +1704,7 @@
    "source": "wmoov",
    "image": "https://wmoov.com/assets/poster/86c72ba1c1b1c582b4336e9a4697e6cb.jpg",
    "rating": "7.4",
-   "shows": 96,
+   "shows": 89,
    "featured": false
   },
   {
@@ -1758,7 +1718,7 @@
    "source": "wmoov",
    "image": "https://wmoov.com/assets/poster/feb46bd39db947f4ec7919875777dfc7.jpg",
    "rating": "6.4",
-   "shows": 35,
+   "shows": 27,
    "featured": false
   },
   {
@@ -1787,20 +1747,6 @@
    "image": "https://wmoov.com/assets/poster/62c62bfca50bd9f65731c724936d0451.jpg",
    "rating": "",
    "shows": 8,
-   "featured": false
-  },
-  {
-   "id": "ac129ee26142",
-   "title": "新世紀福音戰士新劇場版：終",
-   "category": "電影",
-   "start": "2026-11-25",
-   "end": "2026-12-25",
-   "venue": "",
-   "url": "https://wmoov.com/movie/details/57029",
-   "source": "wmoov",
-   "image": "https://wmoov.com/assets/poster/875b0033906096d5feed7a4d4f671f18.jpg",
-   "rating": "8.5",
-   "shows": 2,
    "featured": false
   },
   {
@@ -1912,7 +1858,7 @@
    "source": "wmoov",
    "image": "https://wmoov.com/assets/poster/7f8d3fc620fffcbad0428947223055e0.jpg",
    "rating": "9",
-   "shows": 96,
+   "shows": 88,
    "featured": false
   },
   {
@@ -1992,7 +1938,7 @@
    "source": "wmoov",
    "image": "https://wmoov.com/assets/poster/f6cf02d339ec6a52b7a3739c782fc8e6.jpg",
    "rating": "8.6",
-   "shows": 32,
+   "shows": 28,
    "featured": false
   },
   {
@@ -2032,7 +1978,7 @@
    "source": "wmoov",
    "image": "https://wmoov.com/assets/poster/bd88c6e8873b7ea1c2b375f40de57ee8.jpg",
    "rating": "",
-   "shows": 48,
+   "shows": 45,
    "featured": false
   },
   {
@@ -2060,7 +2006,7 @@
    "source": "wmoov",
    "image": "https://wmoov.com/assets/poster/2b4d987f63ab238545ea42e86624e5ab.jpg",
    "rating": "8.2",
-   "shows": 31,
+   "shows": 27,
    "featured": false
   },
   {
@@ -2100,7 +2046,7 @@
    "source": "wmoov",
    "image": "https://wmoov.com/assets/poster/0447ff727ad7a88db717b744f770e574.jpg",
    "rating": "8",
-   "shows": 118,
+   "shows": 107,
    "featured": false
   },
   {
@@ -2166,7 +2112,7 @@
    "source": "wmoov",
    "image": "https://wmoov.com/assets/poster/a47b4fe30c6ad7c249274c6e26f333fe.jpg",
    "rating": "",
-   "shows": 12,
+   "shows": 8,
    "featured": false
   },
   {
@@ -2194,7 +2140,7 @@
    "source": "wmoov",
    "image": "https://wmoov.com/assets/poster/4fea0928cd2c4fbff14609da6d92f52a.jpg",
    "rating": "7",
-   "shows": 25,
+   "shows": 19,
    "featured": false
   },
   {
@@ -2280,20 +2226,6 @@
    "featured": false
   },
   {
-   "id": "41ebd4ff6bc6",
-   "title": "阿飛正傳",
-   "category": "電影",
-   "start": "2026-11-25",
-   "end": "2026-12-25",
-   "venue": "",
-   "url": "https://wmoov.com/movie/details/14026",
-   "source": "wmoov",
-   "image": "https://wmoov.com/assets/poster/9c25d7ccd8a530ce23dced8362fe1b11.jpg",
-   "rating": "7.9",
-   "shows": 1,
-   "featured": false
-  },
-  {
    "id": "89b64fa348c6",
    "title": "電影 名偵探光之美少女電影！不可思議庭園與2人的秘密",
    "category": "電影",
@@ -2304,7 +2236,7 @@
    "source": "wmoov",
    "image": "https://wmoov.com/assets/poster/7101ce7e4ec6267e86eee36f7a4a1967.jpg",
    "rating": "",
-   "shows": 54,
+   "shows": 42,
    "featured": false
   },
   {
@@ -2318,7 +2250,7 @@
    "source": "wmoov",
    "image": "https://wmoov.com/assets/poster/308eb349c8d5aace60bc30a3076cf2fa.jpg",
    "rating": "7.9",
-   "shows": 252,
+   "shows": 223,
    "featured": false
   },
   {
@@ -2539,6 +2471,18 @@
    "url": "https://www.lcsd.gov.hk/tc/ticket/index.html",
    "source": "康文署",
    "image": "",
+   "featured": false
+  },
+  {
+   "id": "9d42af856dab",
+   "title": "「樹大根盤 靜水流深」公共人文學專題 展覽",
+   "category": "展覽",
+   "start": "2026-11-27",
+   "end": "2026-12-04",
+   "venue": "Thy Lab昊堂",
+   "url": "https://timable.com/zh/event/%E6%A8%B9%E5%A4%A7%E6%A0%B9%E7%9B%A4%E9%9D%9C%E6%B0%B4%E6%B5%81%E6%B7%B1-%E5%85%AC%E5%85%B1%E4%BA%BA%E6%96%87%E5%AD%B8%E5%B0%88%E9%A1%8C%E5%B1%95%E8%A6%BD",
+   "source": "Timable",
+   "image": "https://static.timable.com/image_82fff1cf-004f-4221-8dcf-92a18f573f4b-480x647.webp",
    "featured": false
   },
   {
@@ -6634,27 +6578,27 @@
    "featured": false
   },
   {
+   "id": "8f0feb819b1b",
+   "title": "CHANEL \"HOLIDAY POP-UP\" 特別活動",
+   "category": "休閒",
+   "start": "2026-12-01",
+   "end": "2026-12-17",
+   "venue": "歷山餐廳",
+   "url": "https://timable.com/zh/event/CHANEL-HOLIDAYPOP-UP-%E7%89%B9%E5%88%A5%E6%B4%BB%E5%8B%95",
+   "source": "Timable",
+   "image": "https://static.timable.com/image_027b1b0b-f6fd-41cc-8b64-d55cd7ef4957-480x464.webp",
+   "featured": false
+  },
+  {
    "id": "36b651978bdc",
    "title": "Khalid \"It's Always Summer Somewhere\" 亞洲巡迴演唱會 2026 香港站",
    "category": "演唱會",
    "start": "2026-12-01",
    "end": "2026-12-01",
-   "venue": "AsiaWorld-Expo",
+   "venue": "亞洲國際博覽館 Hall 10",
    "url": "https://timable.com/zh/event/Khalid-It-sAlwaysSummerSomewhere-%E4%BA%9E%E6%B4%B2%E5%B7%A1%E8%BF%B4%E6%BC%94%E5%94%B1%E6%9C%832026%E9%A6%99%E6%B8%AF%E7%AB%99",
    "source": "Timable",
-   "image": "https://static.timable.com/image_69fc294f-4352-43cb-8701-cd8aee5f0d97-480x600.webp",
-   "featured": false
-  },
-  {
-   "id": "39958146abd6",
-   "title": "「物色對話」展覽",
-   "category": "展覽",
-   "start": "2026-12-01",
-   "end": "2027-04-05",
-   "venue": "香港藝術館 2-F 專題廳",
-   "url": "https://timable.com/zh/event/%E7%89%A9%E8%89%B2%E5%B0%8D%E8%A9%B1-%E5%B1%95%E8%A6%BD",
-   "source": "Timable",
-   "image": "https://static.timable.com/image_ed306adc-9a66-42f0-bd8e-67f3b1a9cfd3-201x251.webp",
+   "image": "https://static.timable.com/image_e26f868d-3194-4c31-9497-ab06e6923bd9-480x307.webp",
    "featured": false
   },
   {
@@ -6958,18 +6902,6 @@
    "featured": false
   },
   {
-   "id": "e956808d27d7",
-   "title": "Harry Potter - Mahou Dokoro 哈利波特 期間限定店",
-   "category": "休閒",
-   "start": "2026-12-04",
-   "end": "2027-03-30",
-   "venue": "又一城 UG層",
-   "url": "https://timable.com/zh/event/HarryPotterMahouDokoro%E5%93%88%E5%88%A9%E6%B3%A2%E7%89%B9%E4%B8%BB%E9%A1%8C%E6%9C%9F%E9%96%93%E9%99%90%E5%AE%9A%E5%BA%97-%E5%8F%88%E4%B8%80%E5%9F%8E",
-   "source": "Timable",
-   "image": "https://static.timable.com/image_b71c5df5-ab64-4f90-b60d-1c3b1051dc1e-480x480.webp",
-   "featured": false
-  },
-  {
    "id": "01e1cd917904",
    "title": "《好聲音說故事演唱會》",
    "category": "演唱會",
@@ -7234,6 +7166,18 @@
    "featured": false
   },
   {
+   "id": "5f4d536c3315",
+   "title": "「土瓜灣 / 不變: 在抹除與組裝之間」展覽",
+   "category": "展覽",
+   "start": "2026-12-05",
+   "end": "2026-12-06",
+   "venue": "abettertomorrow",
+   "url": "https://timable.com/zh/event/%E5%9C%9F%E7%93%9C%E7%81%A3-%E4%B8%8D%E8%AE%8A-%E5%9C%A8%E6%8A%B9%E9%99%A4%E8%88%87%E7%B5%84%E8%A3%9D%E4%B9%8B%E9%96%93-%E5%B1%95%E8%A6%BD",
+   "source": "Timable",
+   "image": "https://static.timable.com/image_0f6ece8e-d13b-4620-aab5-4142a6d84669-480x409.webp",
+   "featured": false
+  },
+  {
    "id": "d9f799e2e682",
    "title": "「東九開箱 2026」 fuse*《靈魂》（意大利）",
    "category": "休閒",
@@ -7435,6 +7379,18 @@
    "url": "https://timable.com/zh/event/-ChristmasClassics-AsiarticCamerataxBaumhaus%E9%9F%B3%E6%A8%82%E6%9C%83",
    "source": "Timable",
    "image": "https://static.timable.com/image_1818fe1d-1680-4e19-9dc6-d5db41ce9e0c-480x679.webp",
+   "featured": false
+  },
+  {
+   "id": "b57414428231",
+   "title": "\"K-Musical Roadshow in Hong Kong\" 音樂劇巡禮",
+   "category": "表演藝術",
+   "start": "2026-12-06",
+   "end": "2026-12-06",
+   "venue": "香港理工大學 賽馬會綜藝館",
+   "url": "https://timable.com/zh/event/K-MusicalRoadshowinHongKong-%E9%9F%B3%E6%A8%82%E5%8A%87%E5%B7%A1%E7%A6%AE",
+   "source": "Timable",
+   "image": "https://static.timable.com/image_ed4ddadf-1d7f-41d3-b6f4-5c1406e8228e-300x422.webp",
    "featured": false
   },
   {
@@ -8194,18 +8150,6 @@
    "featured": false
   },
   {
-   "id": "9406f3d0a7ea",
-   "title": "「聖誕小精靈尋蹤之旅」市集 2026",
-   "category": "市集",
-   "start": "2026-12-12",
-   "end": "2026-12-20",
-   "venue": "淺水灣影灣園",
-   "url": "https://timable.com/zh/event/%E8%81%96%E8%AA%95%E5%B0%8F%E7%B2%BE%E9%9D%88%E5%B0%8B%E8%B9%A4%E4%B9%8B%E6%97%85-%E6%89%93%E5%8D%A1%E8%A3%9D%E7%BD%AE2026-%E6%B7%BA%E6%B0%B4%E7%81%A3%E5%BD%B1%E7%81%A3%E5%9C%92",
-   "source": "Timable",
-   "image": "https://static.timable.com/image_2d7bdf88-8fda-4682-adc2-a62ecdf8f641-480x720.webp",
-   "featured": false
-  },
-  {
    "id": "58a040e69c40",
    "title": "妖魅誌異:從白蛇到鬼滅的中樂之旅",
    "category": "表演藝術",
@@ -8698,6 +8642,18 @@
    "featured": false
   },
   {
+   "id": "f3847e081be3",
+   "title": "《過·渡》女人節・男人事 2026 劇場",
+   "category": "表演藝術",
+   "start": "2026-12-17",
+   "end": "2026-12-20",
+   "venue": "賽馬會創意藝術中心 黑盒劇場",
+   "url": "https://timable.com/zh/event/%E9%81%8E-%E6%B8%A1-%E5%A5%B3%E4%BA%BA%E7%AF%80-%E7%94%B7%E4%BA%BA%E4%BA%8B2026%E5%8A%87%E5%A0%B4",
+   "source": "Timable",
+   "image": "https://static.timable.com/image_406b9f74-222f-4dc6-9b6c-5f951569181a-393x590.webp",
+   "featured": false
+  },
+  {
    "id": "61bc2e1138ac",
    "title": "「聖誕跨年企劃: 抱緊暖烘烘 2026」@SOHO MARKET",
    "category": "休閒",
@@ -8875,6 +8831,18 @@
    "url": "https://www.instagram.com/sankofa.hk",
    "source": "康文署",
    "image": "",
+   "featured": false
+  },
+  {
+   "id": "7fad5143ad30",
+   "title": "KIRI T x GORDON FLANDERS x KACEY CHAN \"CHEERS TO 2026\" 音樂會",
+   "category": "表演藝術",
+   "start": "2026-12-19",
+   "end": "2026-12-19",
+   "venue": "K11 Musea 6/F Sculpture Park",
+   "url": "https://timable.com/zh/event/KIRITxGORDONFLANDERSxKACEYCHAN-CHEERSTO2026-%E9%9F%B3%E6%A8%82%E6%9C%83",
+   "source": "Timable",
+   "image": "https://static.timable.com/image_5ee53d6e-17a3-4008-bb6e-c13b3ed253bc-480x600.webp",
    "featured": false
   },
   {
@@ -10939,18 +10907,6 @@
    "url": "https://www.lcsd.gov.hk/tc/ticket/index.html",
    "source": "康文署",
    "image": "",
-   "featured": false
-  },
-  {
-   "id": "5aba4ae5885d",
-   "title": "曾韻 X 韋子健《圓號與鋼琴的童話歷險記》音樂會 @第55屆香港藝術節",
-   "category": "表演藝術",
-   "start": "2027-02-28",
-   "end": "2027-02-28",
-   "venue": "香港大會堂 音樂廳",
-   "url": "https://timable.com/zh/event/%E6%9B%BE%E9%9F%BBX%E9%9F%8B%E5%AD%90%E5%81%A5-%E5%9C%93%E8%99%9F%E8%88%87%E9%8B%BC%E7%90%B4%E7%9A%84%E7%AB%A5%E8%A9%B1%E6%AD%B7%E9%9A%AA%E8%A8%98-%E9%9F%B3%E6%A8%82%E6%9C%83-%E7%AC%AC55%E5%B1%86%E9%A6%99%E6%B8%AF%E8%97%9D%E8%A1%93%E7%AF%80",
-   "source": "Timable",
-   "image": "https://static.timable.com/image_ec02214c-2385-4f7d-af78-737bc41f9363-480x270.webp",
    "featured": false
   },
   {
